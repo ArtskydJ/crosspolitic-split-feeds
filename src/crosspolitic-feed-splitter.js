@@ -52,7 +52,7 @@ const main = async() => {
 			.replace(/<title>.+?<\/title>/, `<title>FLF - ${ title }</title>`)
 			.replace(/<atom:link href=".+?"/, `<atom:link href="https://artskydj.github.io/crosspolitic-split-feeds/rss/${ rss_name }"`)
 		const new_feed_items = bins[rss_name]
-		const new_feed = [ new_begin_channel, new_feed_items, end_channel ].join(``)
+		const new_feed = [ new_begin_channel, ...new_feed_items, end_channel ].join(``)
 		write_file(`../rss/${ rss_name }`, new_feed)
 	})
 }
