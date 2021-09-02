@@ -1,0 +1,14 @@
+{
+  "name": "crosspolitic-feed-splitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crosspolitic-feed-splitter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joseph Dykstra",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
