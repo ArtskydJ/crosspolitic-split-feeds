@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://crosspolitic.com/wp-content/plugins/seriously-simple-podcasting/templates/feed-stylesheet.xsl"?><rss version="2.0"
+	 xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	 xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	 xmlns:dc="http://purl.org/dc/elements/1.1/"
+	 xmlns:atom="http://www.w3.org/2005/Atom"
+	 xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	 xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	 xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	>
+	<channel>
+		<title>FLF - Waterbreak w/ The Waterboy</title>
+		<atom:link href="https://artskydj.github.io/crosspolitic-split-feeds/rss/waterbreak.rss" rel="self" type="application/rss+xml"/>
+		<link>https://crosspolitic.com/</link>
+		<description>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
+
+Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</description>
+		<lastBuildDate>Wed, 01 Sep 2021 21:03:09 +0000</lastBuildDate>
+		<language>en-US</language>
+		<copyright></copyright>
+		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
+		<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+					<itunes:type>serial</itunes:type>
+					<itunes:summary>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
+
+Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</itunes:summary>
+		<itunes:owner>
+			<itunes:name>CrossPolitic Studios</itunes:name>
+			<itunes:email>fightlaughfeast@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>clean</itunes:explicit>
+					<itunes:image href="http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png"></itunes:image>
+			<image>
+				<url>http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png</url>
+				<title>Fight Laugh Feast Network</title>
+				<link>https://crosspolitic.com/</link>
+			</image>
+					<itunes:category text="News">
+									<itunes:category text="Christianity"></itunes:category>
+							</itunes:category>
+							<itunes:category text="Religion &amp; Spirituality">
+									<itunes:category text="Christianity"></itunes:category>
+							</itunes:category>
+							<itunes:category text="Society &amp; Culture">
+									<itunes:category text="Philosophy"></itunes:category>
+							</itunes:category>
+						
+		
+<item>
+	<title>Waterbreak w/ The Waterboy &#038; John Branyan &#8211; &#8216;Mere Medical&#8217; Dr. Story Interview</title>
+	<link>https://crosspolitic.com/podcast/waterbreak-w-the-waterboy-john-branyan-mere-medical-dr-story-interview/</link>
+	<pubDate>Fri, 27 Aug 2021 01:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11824</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11824/waterbreak-w-the-waterboy-john-branyan-mere-medical-dr-story-interview.mp3" length="24681522"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/303522A5-0F4F-4BF4-8908-A0FE749D0E9B.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2021/06/303522A5-0F4F-4BF4-8908-A0FE749D0E9B.png</url>
+			<title>Waterbreak w/ The Waterboy &#038; John Branyan &#8211; &#8216;Mere Medical&#8217; Dr. Story Interview</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:51:24</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>Waterbreak w/ The Waterboy: Hangin’ Out with Steve Deace!!</title>
+	<link>https://crosspolitic.com/podcast/waterbreak-w-the-waterboy-hangin-out-with-steve-deace/</link>
+	<pubDate>Fri, 20 Aug 2021 01:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11798</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11798/waterbreak-w-the-waterboy-hangin-out-with-steve-deace.mp3" length="19399794"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/303522A5-0F4F-4BF4-8908-A0FE749D0E9B.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2021/06/303522A5-0F4F-4BF4-8908-A0FE749D0E9B.png</url>
+			<title>Waterbreak w/ The Waterboy: Hangin’ Out with Steve Deace!!</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:40:24</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>Waterbreak w/ The Waterboy: The Government&#8217;s Housing Boondoggle</title>
+	<link>https://crosspolitic.com/podcast/waterbreak-w-the-waterboy-the-governments-housing-boondoggle/</link>
+	<pubDate>Thu, 29 Jul 2021 23:54:19 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11696</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11696/waterbreak-w-the-waterboy-the-governments-housing-boondoggle.mp3" length="14111072"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/303522A5-0F4F-4BF4-8908-A0FE749D0E9B.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2021/06/303522A5-0F4F-4BF4-8908-A0FE749D0E9B.png</url>
+			<title>Waterbreak w/ The Waterboy: The Government&#8217;s Housing Boondoggle</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:29:23</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>Waterbreak w/Waterboy And Pastor Tim Stephens (Free Again)</title>
+	<link>https://crosspolitic.com/podcast/waterbreak-w-waterboy-and-pastor-tim-stephens-free-again/</link>
+	<pubDate>Fri, 23 Jul 2021 01:12:24 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11665</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11665/waterbreak-w-waterboy-and-pastor-tim-stephens-free-again.mp3" length="44060466"
+			   type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:45:53</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>Waterbreak w/ The Waterboy: Recap on PCA General Assembly w/ Scott Hedgcock</title>
+	<link>https://crosspolitic.com/podcast/waterbreak-w-the-waterboy-recap-on-pca-general-assembly-w-scott-hedgcock/</link>
+	<pubDate>Fri, 09 Jul 2021 01:50:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11626</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11626/waterbreak-w-the-waterboy-recap-on-pca-general-assembly-w-scott-hedgcock.mp3" length="17886752"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/303522A5-0F4F-4BF4-8908-A0FE749D0E9B.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2021/06/303522A5-0F4F-4BF4-8908-A0FE749D0E9B.png</url>
+			<title>Waterbreak w/ The Waterboy: Recap on PCA General Assembly w/ Scott Hedgcock</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:37:15</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>Waterbreak w/ The Waterboy: Pastor Trevor Stephens on his brother Tim&#8217;s Release from Jail</title>
+	<link>https://crosspolitic.com/podcast/waterbreak-w-the-waterboy-pastor-trevor-stephens-on-his-brother-tims-release-from-jail/</link>
+	<pubDate>Fri, 02 Jul 2021 00:40:58 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11601</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11601/waterbreak-w-the-waterboy-pastor-trevor-stephens-on-his-brother-tims-release-from-jail.mp3" length="20122592"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/303522A5-0F4F-4BF4-8908-A0FE749D0E9B.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2021/06/303522A5-0F4F-4BF4-8908-A0FE749D0E9B.png</url>
+			<title>Waterbreak w/ The Waterboy: Pastor Trevor Stephens on his brother Tim&#8217;s Release from Jail</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:41:55</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>Waterbreak w/ The Waterboy: Ousted China Missionary</title>
+	<link>https://crosspolitic.com/podcast/waterbreak-w-the-waterboy-ousted-china-missionary/</link>
+	<pubDate>Fri, 25 Jun 2021 00:44:18 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11556</guid>
+	<description><![CDATA[Link to the Website: http://tibetandina.com]]></description>
+	<itunes:subtitle><![CDATA[Link to the Website: http://tibetandina.com]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11556/waterbreak-w-the-waterboy-ousted-china-missionary.mp3" length="21229088"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/303522A5-0F4F-4BF4-8908-A0FE749D0E9B.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2021/06/303522A5-0F4F-4BF4-8908-A0FE749D0E9B.png</url>
+			<title>Waterbreak w/ The Waterboy: Ousted China Missionary</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:44:13</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>Waterbreak w/ The Waterboy: Alabama Gov. Candidate &#8211; Dean Odle</title>
+	<link>https://crosspolitic.com/podcast/waterbreak-w-the-waterboy-alabama-gov-candidate-dean-odle/</link>
+	<pubDate>Fri, 18 Jun 2021 00:29:58 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11525</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11525/waterbreak-w-the-waterboy-alabama-gov-candidate-dean-odle.mp3" length="17692722"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/303522A5-0F4F-4BF4-8908-A0FE749D0E9B.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2021/06/303522A5-0F4F-4BF4-8908-A0FE749D0E9B.png</url>
+			<title>Waterbreak w/ The Waterboy: Alabama Gov. Candidate &#8211; Dean Odle</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:36:50</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>Waterbreak w/ The Waterboy &#038; Bahnsen on the Japanification of the US Economy</title>
+	<link>https://crosspolitic.com/podcast/waterbreak-w-the-waterboy-bahnsen-on-the-japanification-of-the-us-economy/</link>
+	<pubDate>Fri, 11 Jun 2021 00:31:32 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11492</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11492/waterbreak-w-the-waterboy-bahnsen-on-the-japanification-of-the-us-economy.mp3" length="24584771"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/303522A5-0F4F-4BF4-8908-A0FE749D0E9B.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2021/06/303522A5-0F4F-4BF4-8908-A0FE749D0E9B.png</url>
+			<title>Waterbreak w/ The Waterboy &#038; Bahnsen on the Japanification of the US Economy</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:51:12</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>Waterbreak w/ The Waterboy: Breaking Free from Economic Chains</title>
+	<link>https://crosspolitic.com/podcast/waterbreak-w-the-waterboy-breaking-free-from-economic-chains/</link>
+	<pubDate>Fri, 04 Jun 2021 00:18:23 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11445</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11445/waterbreak-w-the-waterboy-breaking-free-from-economic-chains.mp3" length="13897858"
+			   type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:28:56</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>Waterbreak w/ The Waterboy: Pastor Tim Stephens &#8211; Fresh outta Jail!!</title>
+	<link>https://crosspolitic.com/podcast/waterbreak-w-the-waterboy-pastor-tim-stephens-fresh-outta-jail/</link>
+	<pubDate>Fri, 21 May 2021 00:38:41 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11407</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11407/waterbreak-w-the-waterboy-pastor-tim-stephens-fresh-outta-jail.mp3" length="19536416"
+			   type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:40:42</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>Waterbreak with The Waterboy w/ Pastor James Coates</title>
+	<link>https://crosspolitic.com/podcast/waterbreak-with-the-waterboy-w-pastor-james-coates/</link>
+	<pubDate>Fri, 12 Feb 2021 02:26:41 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10713</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/10713/waterbreak-with-the-waterboy-w-pastor-james-coates.mp3" length="23500567"
+			   type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:48:56</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item>
+	</channel>
+</rss>

@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://crosspolitic.com/wp-content/plugins/seriously-simple-podcasting/templates/feed-stylesheet.xsl"?><rss version="2.0"
+	 xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	 xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	 xmlns:dc="http://purl.org/dc/elements/1.1/"
+	 xmlns:atom="http://www.w3.org/2005/Atom"
+	 xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	 xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	 xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	>
+	<channel>
+		<title>FLF - MidWeek Fix</title>
+		<atom:link href="https://artskydj.github.io/crosspolitic-split-feeds/rss/midweekfix.rss" rel="self" type="application/rss+xml"/>
+		<link>https://crosspolitic.com/</link>
+		<description>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
+
+Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</description>
+		<lastBuildDate>Wed, 01 Sep 2021 21:03:09 +0000</lastBuildDate>
+		<language>en-US</language>
+		<copyright></copyright>
+		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
+		<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+					<itunes:type>serial</itunes:type>
+					<itunes:summary>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
+
+Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</itunes:summary>
+		<itunes:owner>
+			<itunes:name>CrossPolitic Studios</itunes:name>
+			<itunes:email>fightlaughfeast@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>clean</itunes:explicit>
+					<itunes:image href="http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png"></itunes:image>
+			<image>
+				<url>http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png</url>
+				<title>Fight Laugh Feast Network</title>
+				<link>https://crosspolitic.com/</link>
+			</image>
+					<itunes:category text="News">
+									<itunes:category text="Christianity"></itunes:category>
+							</itunes:category>
+							<itunes:category text="Religion &amp; Spirituality">
+									<itunes:category text="Christianity"></itunes:category>
+							</itunes:category>
+							<itunes:category text="Society &amp; Culture">
+									<itunes:category text="Philosophy"></itunes:category>
+							</itunes:category>
+						
+		
+<item>
+	<title>MidWeek Fix: Rick Warren or Johnny Mac</title>
+	<link>https://crosspolitic.com/podcast/midweek-fix-rick-warren-or-johnny-mac/</link>
+	<pubDate>Wed, 01 Sep 2021 17:08:19 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11844</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+								<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://crosspolitic.com/podcast-download/11844/midweek-fix-rick-warren-or-johnny-mac.mp3" length="13240736"
+			   type="audio/mpeg"></enclosure>
+			<itunes:summary><![CDATA[]]></itunes:summary>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/1A3C57A8-F872-4512-8AE9-96E4B383A1E3.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2021/06/1A3C57A8-F872-4512-8AE9-96E4B383A1E3.png</url>
+			<title>MidWeek Fix: Rick Warren or Johnny Mac</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:27:35</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>MidWeek Fix w/ ID Gubernatorial Candidate Janice McGeachin</title>
+	<link>https://crosspolitic.com/podcast/midweek-fix-w-id-gubernatorial-candidate-janice-mcgeachin/</link>
+	<pubDate>Thu, 26 Aug 2021 03:16:09 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11815</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11815/midweek-fix-w-id-gubernatorial-candidate-janice-mcgeachin.mp3" length="19901792"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/1A3C57A8-F872-4512-8AE9-96E4B383A1E3.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2021/06/1A3C57A8-F872-4512-8AE9-96E4B383A1E3.png</url>
+			<title>MidWeek Fix w/ ID Gubernatorial Candidate Janice McGeachin</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:41:27</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>MidWeek Fix: The Afghan Debacle w/ James Rayment &#038; Jeremy Stalnecker</title>
+	<link>https://crosspolitic.com/podcast/midweek-fix-the-afghan-debacle-w-james-rayment-jeremy-stalnecker/</link>
+	<pubDate>Wed, 18 Aug 2021 18:52:11 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11796</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11796/midweek-fix-the-afghan-debacle-w-james-rayment-jeremy-stalnecker.mp3" length="28192544"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/1A3C57A8-F872-4512-8AE9-96E4B383A1E3.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2021/06/1A3C57A8-F872-4512-8AE9-96E4B383A1E3.png</url>
+			<title>MidWeek Fix: The Afghan Debacle w/ James Rayment &#038; Jeremy Stalnecker</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:58:44</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>MidWeek Fix: ReAwaken America Tour w/ Clay Clark</title>
+	<link>https://crosspolitic.com/podcast/midweek-fix-reawaken-america-tour-w-clay-clark/</link>
+	<pubDate>Wed, 11 Aug 2021 18:33:58 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11774</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11774/midweek-fix-reawaken-america-tour-w-clay-clark.mp3" length="15893792"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/1A3C57A8-F872-4512-8AE9-96E4B383A1E3.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2021/06/1A3C57A8-F872-4512-8AE9-96E4B383A1E3.png</url>
+			<title>MidWeek Fix: ReAwaken America Tour w/ Clay Clark</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:33:06</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>MidWeek Fix: de Blasio NY Shutdown, Should Women Wrestle?, &#038; Business Sovereignty</title>
+	<link>https://crosspolitic.com/podcast/midweek-fix-de-blasio-ny-shutdown-should-women-wrestle-business-sovereignty/</link>
+	<pubDate>Wed, 04 Aug 2021 17:53:37 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11744</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11744/midweek-fix-de-blasio-ny-shutdown-should-women-wrestle-business-sovereignty.mp3" length="17878304"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/1A3C57A8-F872-4512-8AE9-96E4B383A1E3.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2021/06/1A3C57A8-F872-4512-8AE9-96E4B383A1E3.png</url>
+			<title>MidWeek Fix: de Blasio NY Shutdown, Should Women Wrestle?, &#038; Business Sovereignty</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:37:14</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>MidWeek Fix: Getting Handles on GA Voter Fraud w/ Garland Favorito of Voter GA</title>
+	<link>https://crosspolitic.com/podcast/midweek-fix-getting-handles-on-ga-voter-fraud-w-garland-favorito-of-voter-ga/</link>
+	<pubDate>Wed, 21 Jul 2021 17:50:38 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11655</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11655/midweek-fix-getting-handles-on-ga-voter-fraud-w-garland-favorito-of-voter-ga.mp3" length="14792672"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/1A3C57A8-F872-4512-8AE9-96E4B383A1E3.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2021/06/1A3C57A8-F872-4512-8AE9-96E4B383A1E3.png</url>
+			<title>MidWeek Fix: Getting Handles on GA Voter Fraud w/ Garland Favorito of Voter GA</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:30:49</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>MidWeek Fix: Voting, Civil Rights, &#038; Jim Crow</title>
+	<link>https://crosspolitic.com/podcast/midweek-fix-voting-civil-rights-jim-crow/</link>
+	<pubDate>Wed, 14 Jul 2021 17:45:36 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11635</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11635/midweek-fix-voting-civil-rights-jim-crow.mp3" length="12528416"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/1A3C57A8-F872-4512-8AE9-96E4B383A1E3.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2021/06/1A3C57A8-F872-4512-8AE9-96E4B383A1E3.png</url>
+			<title>MidWeek Fix: Voting, Civil Rights, &#038; Jim Crow</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:26:06</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>MidWeek Fix: Bill Ascol on The SBCs Abortion Stance</title>
+	<link>https://crosspolitic.com/podcast/midweek-fix-bill-ascol-on-the-sbcs-abortion-stance/</link>
+	<pubDate>Wed, 30 Jun 2021 19:05:42 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11594</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11594/midweek-fix-bill-ascol-on-the-sbcs-abortion-stance.mp3" length="15440672"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/1A3C57A8-F872-4512-8AE9-96E4B383A1E3.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2021/06/1A3C57A8-F872-4512-8AE9-96E4B383A1E3.png</url>
+			<title>MidWeek Fix: Bill Ascol on The SBCs Abortion Stance</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:32:10</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>MidWeek Fix: LIVE at the SBC w/ Choc Knox</title>
+	<link>https://crosspolitic.com/podcast/midweek-fix-live-at-the-sbc-w-choc-knox/</link>
+	<pubDate>Wed, 16 Jun 2021 18:21:38 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11515</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11515/midweek-fix-live-at-the-sbc-w-choc-knox.mp3" length="19317634"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/1A3C57A8-F872-4512-8AE9-96E4B383A1E3.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2021/06/1A3C57A8-F872-4512-8AE9-96E4B383A1E3.png</url>
+			<title>MidWeek Fix: LIVE at the SBC w/ Choc Knox</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:40:13</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>MidWeek Fix: Intro to Kuyper &#038; The FLF Network (Empire) w/ Jesse Sumpter</title>
+	<link>https://crosspolitic.com/podcast/midweek-fix-intro-to-kuyper-the-flf-network-empire-w-jesse-sumpter/</link>
+	<pubDate>Wed, 09 Jun 2021 18:44:40 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11477</guid>
+	<description><![CDATA[Get the Book from JesseSumpter.com]]></description>
+	<itunes:subtitle><![CDATA[Get the Book from JesseSumpter.com]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11477/midweek-fix-intro-to-kuyper-the-flf-network-empire-w-jesse-sumpter.mp3" length="21499808"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/1A3C57A8-F872-4512-8AE9-96E4B383A1E3.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2021/06/1A3C57A8-F872-4512-8AE9-96E4B383A1E3.png</url>
+			<title>MidWeek Fix: Intro to Kuyper &#038; The FLF Network (Empire) w/ Jesse Sumpter</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:44:47</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>MidWeek Fix: AG Candidate of ID &#8211; Art Macomber</title>
+	<link>https://crosspolitic.com/podcast/midweek-fix-ag-candidate-of-id-art-macomber/</link>
+	<pubDate>Wed, 02 Jun 2021 18:42:52 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11439</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11439/midweek-fix-ag-candidate-of-id-art-macomber.mp3" length="18203168"
+			   type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:37:55</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>MidWeek Fix: 60 Minutes Detransitioning, Free Ice Cream &#8211; Free Vaccine in Canada</title>
+	<link>https://crosspolitic.com/podcast/midweek-fix-60-minutes-detransitioning-free-ice-cream-free-vaccine-in-canada/</link>
+	<pubDate>Wed, 26 May 2021 18:58:34 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11422</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11422/midweek-fix-60-minutes-detransitioning-free-ice-cream-free-vaccine-in-canada.mp3" length="15716192"
+			   type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:32:44</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>MidWeek Fix: Roe v. Wade Rd. 2 &#8211; Time for Christian Pursuit of Tyrants</title>
+	<link>https://crosspolitic.com/podcast/midweek-fix-roe-v-wade-rd-2-time-for-christian-pursuit-of-tyrants/</link>
+	<pubDate>Wed, 19 May 2021 18:04:30 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11400</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11400/midweek-fix-roe-v-wade-rd-2-time-for-christian-pursuit-of-tyrants.mp3" length="16378976"
+			   type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:34:07</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>MidWeek Fix: No Chick-fil-A Sauce? Now That&#8217;s Too Far&#8230;</title>
+	<link>https://crosspolitic.com/podcast/midweek-fix-no-chick-fil-a-sauce-now-thats-too-far/</link>
+	<pubDate>Wed, 12 May 2021 18:10:55 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11379</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11379/midweek-fix-no-chick-fil-a-sauce-now-thats-too-far.mp3" length="11792672"
+			   type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:24:34</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>MidWeek Fix: Gumbo</title>
+	<link>https://crosspolitic.com/podcast/midweek-fix-gumbo/</link>
+	<pubDate>Wed, 05 May 2021 23:50:21 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11339</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11339/midweek-fix-gumbo.mp3" length="12937184"
+			   type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:26:57</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>MidWeek Fix: How to Eat Your Bible &#8211; Loving the Word of God w/ Nate Pickowicz</title>
+	<link>https://crosspolitic.com/podcast/midweek-fix-how-to-eat-your-bible-loving-the-word-of-god-w-nate-pickowicz/</link>
+	<pubDate>Wed, 10 Mar 2021 19:15:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10906</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/10906/midweek-fix-how-to-eat-your-bible-loving-the-word-of-god-w-nate-pickowicz.mp3" length="11226546"
+			   type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:23:22</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>MidWeek Fix: The Equality Act &#8211; Understanding What It Is w/ Joseph Backholm</title>
+	<link>https://crosspolitic.com/podcast/midweek-fix-the-equality-act-understanding-what-it-is-w-joseph-backholm/</link>
+	<pubDate>Wed, 03 Mar 2021 20:05:15 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10851</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/10851/midweek-fix-the-equality-act-understanding-what-it-is-w-joseph-backholm.mp3" length="14768672"
+			   type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:30:46</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>MidWeek Fix: Another Loss for Cuomo &#038; Feds Rewarding Incompetence</title>
+	<link>https://crosspolitic.com/podcast/midweek-fix-another-loss-for-cuomo-feds-rewarding-incompetence/</link>
+	<pubDate>Wed, 24 Feb 2021 19:26:59 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10812</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/10812/midweek-fix-another-loss-for-cuomo-feds-rewarding-incompetence.mp3" length="17491424"
+			   type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:36:26</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>MidWeek Fix: Bad Laws Hurt Good People &#8211; TX/Alberta</title>
+	<link>https://crosspolitic.com/podcast/midweek-fix-bad-laws-hurt-good-people-tx-alberta/</link>
+	<pubDate>Wed, 17 Feb 2021 23:26:55 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10758</guid>
+	<description><![CDATA[&#160; Click the link to get it out on Gab TV! https://tv.gab.com/channel/crosspolitic/view/midweek-fix-bad-laws-hurt-good-602d8e99ecacb8ee7ed64a72]]></description>
+	<itunes:subtitle><![CDATA[&#160; Click the link to get it out on Gab TV! https://tv.gab.com/channel/crosspolitic/view/midweek-fix-bad-laws-hurt-good-602d8e99ecacb8ee7ed64a72]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/10758/midweek-fix-bad-laws-hurt-good-people-tx-alberta.mp3" length="12671072"
+			   type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:26:23</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>MidWeek Fix: We&#8217;re Doing It LIVE!!!</title>
+	<link>https://crosspolitic.com/podcast/midweek-fix-were-doing-it-live/</link>
+	<pubDate>Wed, 03 Feb 2021 19:09:07 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10671</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/10671/midweek-fix-were-doing-it-live.mp3" length="11555936"
+			   type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:24:04</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item>
+	</channel>
+</rss>

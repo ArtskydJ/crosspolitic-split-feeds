@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://crosspolitic.com/wp-content/plugins/seriously-simple-podcasting/templates/feed-stylesheet.xsl"?><rss version="2.0"
+	 xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	 xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	 xmlns:dc="http://purl.org/dc/elements/1.1/"
+	 xmlns:atom="http://www.w3.org/2005/Atom"
+	 xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	 xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	 xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	>
+	<channel>
+		<title>FLF - AD Robles</title>
+		<atom:link href="https://artskydj.github.io/crosspolitic-split-feeds/rss/adrobles.rss" rel="self" type="application/rss+xml"/>
+		<link>https://crosspolitic.com/</link>
+		<description>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
+
+Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</description>
+		<lastBuildDate>Wed, 01 Sep 2021 21:03:09 +0000</lastBuildDate>
+		<language>en-US</language>
+		<copyright></copyright>
+		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
+		<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+					<itunes:type>serial</itunes:type>
+					<itunes:summary>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
+
+Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</itunes:summary>
+		<itunes:owner>
+			<itunes:name>CrossPolitic Studios</itunes:name>
+			<itunes:email>fightlaughfeast@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>clean</itunes:explicit>
+					<itunes:image href="http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png"></itunes:image>
+			<image>
+				<url>http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png</url>
+				<title>Fight Laugh Feast Network</title>
+				<link>https://crosspolitic.com/</link>
+			</image>
+					<itunes:category text="News">
+									<itunes:category text="Christianity"></itunes:category>
+							</itunes:category>
+							<itunes:category text="Religion &amp; Spirituality">
+									<itunes:category text="Christianity"></itunes:category>
+							</itunes:category>
+							<itunes:category text="Society &amp; Culture">
+									<itunes:category text="Philosophy"></itunes:category>
+							</itunes:category>
+						
+		
+<item>
+	<title>AD: Evangelical Harlots and Woke Capitalism</title>
+	<link>https://crosspolitic.com/podcast/ad-evangelical-harlots-and-woke-capitalism/</link>
+	<pubDate>Thu, 26 Aug 2021 17:07:32 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11821</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021,Knox Unplugged</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11821/ad-evangelical-harlots-and-woke-capitalism.mp3" length="50778950"
+			   type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:21:09</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>AD: LAwsuits Against The Woke Church?</title>
+	<link>https://crosspolitic.com/podcast/ad-lawsuits-against-the-woke-church/</link>
+	<pubDate>Fri, 23 Jul 2021 16:11:38 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11667</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>brand,Content,social media</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11667/ad-lawsuits-against-the-woke-church.mp3" length="73637138"
+			   type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:30:40</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>AD: Evangelical Pastors are Too Busy to do Their Job</title>
+	<link>https://crosspolitic.com/podcast/ad-evangelical-pastors-are-too-busy-to-do-their-job/</link>
+	<pubDate>Thu, 08 Jul 2021 17:14:48 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11624</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11624/ad-evangelical-pastors-are-too-busy-to-do-their-job.mp3" length="64181856"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2019/01/AD-1-e1548264215567.jpeg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2019/01/AD-1-e1548264215567.jpeg</url>
+			<title>AD: Evangelical Pastors are Too Busy to do Their Job</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:26:44</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>AD: Russell Moore &#8211; Ethnic Wizard</title>
+	<link>https://crosspolitic.com/podcast/ad-russell-moore-ethnic-wizard/</link>
+	<pubDate>Thu, 24 Jun 2021 19:18:46 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11555</guid>
+	<description><![CDATA[Coining my own term. Also get my book: adrobles.com]]></description>
+	<itunes:subtitle><![CDATA[Coining my own term. Also get my book: adrobles.com]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11555/ad-russell-moore-ethnic-wizard.mp3" length="79280631"
+			   type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:33:01</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>AD: Responding to Dave Ramsey Clip</title>
+	<link>https://crosspolitic.com/podcast/ad-responding-to-dave-ramsey-clip/</link>
+	<pubDate>Thu, 17 Jun 2021 18:59:55 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11524</guid>
+	<description><![CDATA[adrobles.com to get my book!]]></description>
+	<itunes:subtitle><![CDATA[adrobles.com to get my book!]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11524/ad-responding-to-dave-ramsey-clip.mp3" length="95276974"
+			   type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:39:41</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>AD: Curt Versus Voddie?</title>
+	<link>https://crosspolitic.com/podcast/ad-curt-versus-voddie/</link>
+	<pubDate>Fri, 04 Jun 2021 13:06:35 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11448</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11448/ad-curt-versus-voddie.mp3" length="66881872"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2019/01/AD-1-e1548264215567.jpeg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2019/01/AD-1-e1548264215567.jpeg</url>
+			<title>AD: Curt Versus Voddie?</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:27:52</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>AD: Committed to Fighting &#8211; Love Each Other</title>
+	<link>https://crosspolitic.com/podcast/ad-committed-to-fighting-love-each-other/</link>
+	<pubDate>Thu, 27 May 2021 21:03:48 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11426</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11426/ad-committed-to-fighting-love-each-other.mp3" length="47834427"
+			   type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:19:55</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>AD:  Equality of Opportunity is a Scam</title>
+	<link>https://crosspolitic.com/podcast/ad-equality-of-opportunity-is-a-scam/</link>
+	<pubDate>Thu, 13 May 2021 15:20:11 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11382</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11382/ad-equality-of-opportunity-is-a-scam.mp3" length="105758346"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2019/01/AD-1-e1548264215567.jpeg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2019/01/AD-1-e1548264215567.jpeg</url>
+			<title>AD:  Equality of Opportunity is a Scam</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:44:03</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>AD: Chemtrails Go Mainstream</title>
+	<link>https://crosspolitic.com/podcast/ad-chemtrails-go-mainstream/</link>
+	<pubDate>Thu, 15 Apr 2021 17:38:55 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11211</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11211/ad-chemtrails-go-mainstream.mp3" length="54832109"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2019/01/AD-1-e1548264215567.jpeg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2019/01/AD-1-e1548264215567.jpeg</url>
+			<title>AD: Chemtrails Go Mainstream</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:22:50</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item>
+	</channel>
+</rss>

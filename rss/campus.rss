@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://crosspolitic.com/wp-content/plugins/seriously-simple-podcasting/templates/feed-stylesheet.xsl"?><rss version="2.0"
+	 xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	 xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	 xmlns:dc="http://purl.org/dc/elements/1.1/"
+	 xmlns:atom="http://www.w3.org/2005/Atom"
+	 xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	 xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	 xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	>
+	<channel>
+		<title>FLF - Campus Preacher LIVE</title>
+		<atom:link href="https://artskydj.github.io/crosspolitic-split-feeds/rss/campus.rss" rel="self" type="application/rss+xml"/>
+		<link>https://crosspolitic.com/</link>
+		<description>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
+
+Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</description>
+		<lastBuildDate>Wed, 01 Sep 2021 21:03:09 +0000</lastBuildDate>
+		<language>en-US</language>
+		<copyright></copyright>
+		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
+		<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+					<itunes:type>serial</itunes:type>
+					<itunes:summary>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
+
+Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</itunes:summary>
+		<itunes:owner>
+			<itunes:name>CrossPolitic Studios</itunes:name>
+			<itunes:email>fightlaughfeast@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>clean</itunes:explicit>
+					<itunes:image href="http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png"></itunes:image>
+			<image>
+				<url>http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png</url>
+				<title>Fight Laugh Feast Network</title>
+				<link>https://crosspolitic.com/</link>
+			</image>
+					<itunes:category text="News">
+									<itunes:category text="Christianity"></itunes:category>
+							</itunes:category>
+							<itunes:category text="Religion &amp; Spirituality">
+									<itunes:category text="Christianity"></itunes:category>
+							</itunes:category>
+							<itunes:category text="Society &amp; Culture">
+									<itunes:category text="Philosophy"></itunes:category>
+							</itunes:category>
+						
+		
+<item>
+	<title>Campus Preacher LIVE: White Supremacy in Creationism?</title>
+	<link>https://crosspolitic.com/podcast/campus-preacher-live-white-supremacy-in-creationism/</link>
+	<pubDate>Tue, 20 Jul 2021 00:16:02 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11651</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021,Campus Preacher</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11651/campus-preacher-live-white-supremacy-in-creationism.mp3" length="17263712"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/19F36DFD-F991-4EE4-B65A-3636563D716A.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2021/06/19F36DFD-F991-4EE4-B65A-3636563D716A.png</url>
+			<title>Campus Preacher LIVE: White Supremacy in Creationism?</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:35:57</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>Campus Preacher LIVE: Responding to Keller &#8211; The Same Sex Issue</title>
+	<link>https://crosspolitic.com/podcast/campus-preacher-live-responding-to-keller-the-same-sex-issue/</link>
+	<pubDate>Wed, 07 Jul 2021 07:40:11 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11618</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021,Campus Preacher</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11618/campus-preacher-live-responding-to-keller-the-same-sex-issue.mp3" length="14481248"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/19F36DFD-F991-4EE4-B65A-3636563D716A.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2021/06/19F36DFD-F991-4EE4-B65A-3636563D716A.png</url>
+			<title>Campus Preacher LIVE: Responding to Keller &#8211; The Same Sex Issue</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:30:10</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>Campus Preacher LIVE: How Progressives attempt to steal The Imago Dei</title>
+	<link>https://crosspolitic.com/podcast/campus-preacher-live-how-progressives-attempt-to-steal-the-imago-dei/</link>
+	<pubDate>Mon, 28 Jun 2021 23:49:42 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11585</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11585/campus-preacher-live-how-progressives-attempt-to-steal-the-imago-dei.mp3" length="17231264"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/19F36DFD-F991-4EE4-B65A-3636563D716A.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2021/06/19F36DFD-F991-4EE4-B65A-3636563D716A.png</url>
+			<title>Campus Preacher LIVE: How Progressives attempt to steal The Imago Dei</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:35:53</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>Campus Preacher LIVE: The Inescapability of Discrimination</title>
+	<link>https://crosspolitic.com/podcast/campus-preacher-live-the-inescapability-of-discrimination/</link>
+	<pubDate>Tue, 22 Jun 2021 23:22:58 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11542</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021,Campus Preacher</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11542/campus-preacher-live-the-inescapability-of-discrimination.mp3" length="11287712"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/19F36DFD-F991-4EE4-B65A-3636563D716A.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2021/06/19F36DFD-F991-4EE4-B65A-3636563D716A.png</url>
+			<title>Campus Preacher LIVE: The Inescapability of Discrimination</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:23:30</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>Campus Preacher LIVE: What are we all about??</title>
+	<link>https://crosspolitic.com/podcast/campus-preacher-live-what-are-we-all-about/</link>
+	<pubDate>Mon, 14 Jun 2021 23:27:31 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11502</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11502/campus-preacher-live-what-are-we-all-about.mp3" length="7040002"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/19F36DFD-F991-4EE4-B65A-3636563D716A.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2021/06/19F36DFD-F991-4EE4-B65A-3636563D716A.png</url>
+			<title>Campus Preacher LIVE: What are we all about??</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:14:39</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>Campus Preacher LIVE: 50 Years of Christendom w/ Legend Bill Garaway</title>
+	<link>https://crosspolitic.com/podcast/campus-preacher-live-50-years-of-christendom-w-legend-bill-garaway/</link>
+	<pubDate>Tue, 08 Jun 2021 01:40:17 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11455</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11455/campus-preacher-live-50-years-of-christendom-w-legend-bill-garaway.mp3" length="52231712"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/19F36DFD-F991-4EE4-B65A-3636563D716A.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2021/06/19F36DFD-F991-4EE4-B65A-3636563D716A.png</url>
+			<title>Campus Preacher LIVE: 50 Years of Christendom w/ Legend Bill Garaway</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:48:48</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item>
+	</channel>
+</rss>

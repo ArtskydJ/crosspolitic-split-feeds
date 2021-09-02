@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://crosspolitic.com/wp-content/plugins/seriously-simple-podcasting/templates/feed-stylesheet.xsl"?><rss version="2.0"
+	 xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	 xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	 xmlns:dc="http://purl.org/dc/elements/1.1/"
+	 xmlns:atom="http://www.w3.org/2005/Atom"
+	 xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	 xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	 xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	>
+	<channel>
+		<title>FLF - The Theology Pugcast</title>
+		<atom:link href="https://artskydj.github.io/crosspolitic-split-feeds/rss/theologypugcast.rss" rel="self" type="application/rss+xml"/>
+		<link>https://crosspolitic.com/</link>
+		<description>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
+
+Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</description>
+		<lastBuildDate>Wed, 01 Sep 2021 21:03:09 +0000</lastBuildDate>
+		<language>en-US</language>
+		<copyright></copyright>
+		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
+		<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+					<itunes:type>serial</itunes:type>
+					<itunes:summary>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
+
+Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</itunes:summary>
+		<itunes:owner>
+			<itunes:name>CrossPolitic Studios</itunes:name>
+			<itunes:email>fightlaughfeast@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>clean</itunes:explicit>
+					<itunes:image href="http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png"></itunes:image>
+			<image>
+				<url>http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png</url>
+				<title>Fight Laugh Feast Network</title>
+				<link>https://crosspolitic.com/</link>
+			</image>
+					<itunes:category text="News">
+									<itunes:category text="Christianity"></itunes:category>
+							</itunes:category>
+							<itunes:category text="Religion &amp; Spirituality">
+									<itunes:category text="Christianity"></itunes:category>
+							</itunes:category>
+							<itunes:category text="Society &amp; Culture">
+									<itunes:category text="Philosophy"></itunes:category>
+							</itunes:category>
+						
+		
+<item>
+	<title>The Theology Pugcast: The Rise and Fall of Heroes</title>
+	<link>https://crosspolitic.com/podcast/the-theology-pugcast-the-rise-and-fall-of-heroes/</link>
+	<pubDate>Thu, 26 Aug 2021 11:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11792</guid>
+	<description><![CDATA[This week, the guys look at the idea of heroes. Back in Homer’s day, “hero” was almost synonymous with the heavily armed and armored warriors that were the subjects of the Iliad, and not just the big names like Odysseus, Achilles, or Ajax. They exemplified the warrior virtues: prowess, toughness, courage, loyalty, and honor, understood [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[This week, the guys look at the idea of heroes. Back in Homer’s day, “hero” was almost synonymous with the heavily armed and armored warriors that were the subjects of the Iliad, and not just the big names like Odysseus, Achilles, or Ajax. They exemplifi]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11792/the-theology-pugcast-the-rise-and-fall-of-heroes.mp3" length="87866740"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg</url>
+			<title>The Theology Pugcast: The Rise and Fall of Heroes</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:01:01</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>The Theology Pugcast: Darwinian Conservatism?</title>
+	<link>https://crosspolitic.com/podcast/the-theology-pugcast-darwinian-conservatism/</link>
+	<pubDate>Thu, 19 Aug 2021 22:18:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11760</guid>
+	<description><![CDATA[In today&#8217;s show Chris presents an article that was published by the Intercollegiate Studies Institute (ISI), entitled, Darwinian Conservatism Versus Metaphysical Conservatism. The article is something of a departure for ISI, but it addresses a significant debate within conservative circles&#8211;can Darwin&#8217;s evolutionary theories be used to support conservative social ethics, and conservative politics. The author, [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[In today&#8217;s show Chris presents an article that was published by the Intercollegiate Studies Institute (ISI), entitled, Darwinian Conservatism Versus Metaphysical Conservatism. The article is something of a departure for ISI, but it addresses a sign]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11760/the-theology-pugcast-darwinian-conservatism.mp3" length="89279622"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg</url>
+			<title>The Theology Pugcast: Darwinian Conservatism?</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:01:59</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>The Theology Pugcast: Meaning in History: Part Three</title>
+	<link>https://crosspolitic.com/podcast/the-theology-pugcast-meaning-in-history-part-three/</link>
+	<pubDate>Thu, 12 Aug 2021 09:10:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11759</guid>
+	<description><![CDATA[How emancipatory views of history draw upon yet distort Christian views of teleology in history. The guys discuss Hegel, Marx, Wokeness, liberation theology and more.]]></description>
+	<itunes:subtitle><![CDATA[How emancipatory views of history draw upon yet distort Christian views of teleology in history. The guys discuss Hegel, Marx, Wokeness, liberation theology and more.]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11759/the-theology-pugcast-meaning-in-history-part-three.mp3" length="87314608"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg</url>
+			<title>The Theology Pugcast: Meaning in History: Part Three</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:00:38</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>The Theology Pugcast: The Rise of Biblical Criticism</title>
+	<link>https://crosspolitic.com/podcast/the-theology-pugcast-the-rise-of-biblical-criticism/</link>
+	<pubDate>Thu, 05 Aug 2021 11:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11702</guid>
+	<description><![CDATA[The guys are back in the seventeenth century again, looking at the beginnings of challenges to biblical authority. Progressive thinkers of the day starting with the Jewish philosopher Spinoza attacked Mosaic authorship of the Pentateuch as a way of undermining orthodox Christianity: since Jesus referred to Moses as the human author of the Law, if [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[The guys are back in the seventeenth century again, looking at the beginnings of challenges to biblical authority. Progressive thinkers of the day starting with the Jewish philosopher Spinoza attacked Mosaic authorship of the Pentateuch as a way of under]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11702/the-theology-pugcast-the-rise-of-biblical-criticism.mp3" length="86758094"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg</url>
+			<title>The Theology Pugcast: The Rise of Biblical Criticism</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:00:14</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>The Theology Pugcast: Is Politics Everything?</title>
+	<link>https://crosspolitic.com/podcast/the-theology-pugcast-is-politics-everything/</link>
+	<pubDate>Thu, 29 Jul 2021 10:07:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11671</guid>
+	<description><![CDATA[You may have heard feminists say, “The personal is political”—but are they right? Is the relationship between a mother and her child really a political relationship—or is it something else? In today’s show the guys discuss what else relationships like this could be. The term that they use is “pre-political”. Along the way the guys [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[You may have heard feminists say, “The personal is political”—but are they right? Is the relationship between a mother and her child really a political relationship—or is it something else? In today’s show the guys discuss what else relationships like th]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11671/the-theology-pugcast-is-politics-everything.mp3" length="87492392"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg</url>
+			<title>The Theology Pugcast: Is Politics Everything?</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:00:45</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>The Theology Pugcast: Meaning in History: Part Two</title>
+	<link>https://crosspolitic.com/podcast/the-theology-pugcast-meaning-in-history-part-two/</link>
+	<pubDate>Thu, 22 Jul 2021 10:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11647</guid>
+	<description><![CDATA[In this episode Tom returns to the topic of Meaning in History (a three show aim) by looking at ways Modernity  rejected classical Christian understanding of history and meaning and developed alternatives which borrowed from Christianity while introducing radical alternative notions which still impact us today, often unwittingly. This show has the guys discussing Vico [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[In this episode Tom returns to the topic of Meaning in History (a three show aim) by looking at ways Modernity  rejected classical Christian understanding of history and meaning and developed alternatives which borrowed from Christianity while introducin]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11647/the-theology-pugcast-meaning-in-history-part-two.mp3" length="93927046"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg</url>
+			<title>The Theology Pugcast: Meaning in History: Part Two</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:05:13</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>The Theology Pugcast: Guilds, Craftsmanship, and Excellence</title>
+	<link>https://crosspolitic.com/podcast/the-theology-pugcast-guilds-craftsmanship-and-excellence/</link>
+	<pubDate>Thu, 15 Jul 2021 10:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11629</guid>
+	<description><![CDATA[Jumping off another suggested topic from our faithful listeners, the Pugsters talk about the medieval guild system. The guilds were a way to protect customers and, with export goods, the reputation of the city by guaranteeing the quality of products. They also guaranteed a level playing field for producers. Along with their economic role, the [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[Jumping off another suggested topic from our faithful listeners, the Pugsters talk about the medieval guild system. The guilds were a way to protect customers and, with export goods, the reputation of the city by guaranteeing the quality of products. The]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11629/the-theology-pugcast-guilds-craftsmanship-and-excellence.mp3" length="92300072"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/PugCast_1400x1400.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/PugCast_1400x1400.jpg</url>
+			<title>The Theology Pugcast: Guilds, Craftsmanship, and Excellence</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:04:05</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>The Theology Pugcast: Ideologies That Are Out to Get Your Family</title>
+	<link>https://crosspolitic.com/podcast/the-theology-pugcast-ideologies-that-are-out-to-get-your-family/</link>
+	<pubDate>Thu, 08 Jul 2021 20:34:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11608</guid>
+	<description><![CDATA[Today Chris introduces listeners to Political Scientist, Scott Yenor’s new book, The Recovery of Family Life: Exposing the Limits of Modern Ideologies. Just what is an ideology anyway? Is it merely a philosophy in different clothes? Listen in and find out why it isn’t.]]></description>
+	<itunes:subtitle><![CDATA[Today Chris introduces listeners to Political Scientist, Scott Yenor’s new book, The Recovery of Family Life: Exposing the Limits of Modern Ideologies. Just what is an ideology anyway? Is it merely a philosophy in different clothes? Listen in and find ou]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11608/the-theology-pugcast-ideologies-that-are-out-to-get-your-family.mp3" length="96343406"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg</url>
+			<title>The Theology Pugcast: Ideologies That Are Out to Get Your Family</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:06:54</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>The Theology Pugcast: Meaning in History</title>
+	<link>https://crosspolitic.com/podcast/the-theology-pugcast-meaning-in-history/</link>
+	<pubDate>Fri, 02 Jul 2021 01:58:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11566</guid>
+	<description><![CDATA[This week the guys discuss how many contemporary views of history assume or draw upon aspects of Christian historical understanding, inadvertently borrowing its teleological character, even when they undermine other essential aspects of it. Christian faith altered conceptions of history and brought to the fore a notion of history as being meaningful and being directed [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[This week the guys discuss how many contemporary views of history assume or draw upon aspects of Christian historical understanding, inadvertently borrowing its teleological character, even when they undermine other essential aspects of it. Christian fai]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11566/the-theology-pugcast-meaning-in-history.mp3" length="93316696"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg</url>
+			<title>The Theology Pugcast: Meaning in History</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:04:48</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>The Theology Pugcast: Aesthetics: The Good, The Bad, and The Ugly</title>
+	<link>https://crosspolitic.com/podcast/the-theology-pugcast-aesthetics-the-good-the-bad-and-the-ugly/</link>
+	<pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11532</guid>
+	<description><![CDATA[Working from the articles in the link, the Pugsters talk about aesthetics—the philosophical field focused on questions of beauty and taste. Rather than beauty being purely in the eye of the beholder, the guys agree that beauty is objective and rooted in the transcendence of God. And that means that there is a right and [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[Working from the articles in the link, the Pugsters talk about aesthetics—the philosophical field focused on questions of beauty and taste. Rather than beauty being purely in the eye of the beholder, the guys agree that beauty is objective and rooted in ]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11532/the-theology-pugcast-aesthetics-the-good-the-bad-and-the-ugly.mp3" length="90336936"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/PugCast_1400x1400.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/PugCast_1400x1400.jpg</url>
+			<title>The Theology Pugcast: Aesthetics: The Good, The Bad, and The Ugly</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:02:44</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>The Theology Pugcast: You&#8217;re Special, Just Like Everyone Else!</title>
+	<link>https://crosspolitic.com/podcast/the-theology-pugcast-youre-special-just-like-everyone-else/</link>
+	<pubDate>Thu, 17 Jun 2021 12:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11495</guid>
+	<description><![CDATA[In our time everyone is obligated to create an identity for himself. We&#8217;re supposed to &#8220;self-create&#8221;&#8211;making ourselves into works of art that are utterly original, you know, like snow flakes. So why is it that people increasingly think alike and are so fearful of disapproval? In today&#8217;s show the guys discuss the paradoxical relationship between [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[In our time everyone is obligated to create an identity for himself. We&#8217;re supposed to &#8220;self-create&#8221;&#8211;making ourselves into works of art that are utterly original, you know, like snow flakes. So why is it that people increasingly t]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11495/the-theology-pugcast-youre-special-just-like-everyone-else.mp3" length="94996607"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/PugCast_1400x1400.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/PugCast_1400x1400.jpg</url>
+			<title>The Theology Pugcast: You&#8217;re Special, Just Like Everyone Else!</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:05:58</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>The Theology Pugcast: Restoring the Transcendent Frame</title>
+	<link>https://crosspolitic.com/podcast/the-theology-pugcast-restoring-the-transcendent-frame/</link>
+	<pubDate>Fri, 11 Jun 2021 00:09:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11450</guid>
+	<description><![CDATA[In this episode, the guys engage with fresh insights the contemporary vision of reality, human nature and purposes as they are understood from a radically immanent, materialist frame. After noting how Christian themes are often ripped from their transcendent frame and redefined with an immanent one, the pugsters evaluate not only the problems and limits [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[In this episode, the guys engage with fresh insights the contemporary vision of reality, human nature and purposes as they are understood from a radically immanent, materialist frame. After noting how Christian themes are often ripped from their transcen]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11450/the-theology-pugcast-restoring-the-transcendent-frame.mp3" length="88420646"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg</url>
+			<title>The Theology Pugcast: Restoring the Transcendent Frame</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:01:24</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>The Theology Pugcast: Revelation, Reason, and Romanticism</title>
+	<link>https://crosspolitic.com/podcast/the-theology-pugcast-revelation-reason-and-romanticism/</link>
+	<pubDate>Thu, 03 Jun 2021 18:28:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11429</guid>
+	<description><![CDATA[The Pugsters return to a topic they’ve touched on before: the problems with the Enlightenment. Glenn starts off with a summary of changing ideas of authority, focusing on the transition from Reason and Revelation to Reason over Revelation to Reason without Revelation. That gets the guys into the Enlightenment, autonomous reason, and some of the [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[The Pugsters return to a topic they’ve touched on before: the problems with the Enlightenment. Glenn starts off with a summary of changing ideas of authority, focusing on the transition from Reason and Revelation to Reason over Revelation to Reason witho]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11429/the-theology-pugcast-revelation-reason-and-romanticism.mp3" length="97012842"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg</url>
+			<title>The Theology Pugcast: Revelation, Reason, and Romanticism</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:07:22</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>The Theology Pugcast: It&#8217;s a Mystery! Can Every Mystery be Solved?</title>
+	<link>https://crosspolitic.com/podcast/the-theology-pugcast-its-a-mystery-can-every-mystery-be-solved/</link>
+	<pubDate>Thu, 27 May 2021 12:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11406</guid>
+	<description><![CDATA[In today&#8217;s episode Chris introduces the subject of mystery and the ways modern people and ancient people used the term&#8211;surprise, surprise, they didn&#8217;t mean the same thing&#8211;at times, they even mean things that contradict each other.&#160; Chris also delves into the way in the modern outlook in general can mystify people and keep them from [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[In today&#8217;s episode Chris introduces the subject of mystery and the ways modern people and ancient people used the term&#8211;surprise, surprise, they didn&#8217;t mean the same thing&#8211;at times, they even mean things that contradict each other.]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11406/the-theology-pugcast-its-a-mystery-can-every-mystery-be-solved.mp3" length="96460509"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg</url>
+			<title>The Theology Pugcast: It&#8217;s a Mystery! Can Every Mystery be Solved?</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:06:59</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>The Theology Pugcast: Soul Sickness and Society: Plato and Christ: Part Two</title>
+	<link>https://crosspolitic.com/podcast/the-theology-pugcast-soul-sickness-and-society-plato-and-christ-part-two/</link>
+	<pubDate>Thu, 20 May 2021 10:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11378</guid>
+	<description><![CDATA[The guys finish unpacking the discussion of Plato from Ed Feser&#8217;s article Woke Ideology is a Psychological Disorder. After noting how Plato understands the sick society, where democracy as a social disorder leads to tyranny, the guys engage Plato&#8217;s insights, noting positives and yet critiquing the limits of Plato&#8217;s vision in light of the the [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[The guys finish unpacking the discussion of Plato from Ed Feser&#8217;s article Woke Ideology is a Psychological Disorder. After noting how Plato understands the sick society, where democracy as a social disorder leads to tyranny, the guys engage Plato&#]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11378/the-theology-pugcast-soul-sickness-and-society-plato-and-christ-part-two.mp3" length="88740385"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg</url>
+			<title>The Theology Pugcast: Soul Sickness and Society: Plato and Christ: Part Two</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:01:37</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>The Theology Pugcast: Soul Sickness and Society: Plato and Christ: Part One</title>
+	<link>https://crosspolitic.com/podcast/the-theology-pugcast-soul-sickness-and-society-part-one-plato-and-christ/</link>
+	<pubDate>Thu, 13 May 2021 11:12:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11358</guid>
+	<description><![CDATA[In today’s episode the guys unpack Plato&#8217;s understanding of human psychology and social order. They note his positive insights as well as limits as they set forth fuller Christian insights into the ways in which improper ordering of our desires tends toward destructive political orderings.]]></description>
+	<itunes:subtitle><![CDATA[In today’s episode the guys unpack Plato&#8217;s understanding of human psychology and social order. They note his positive insights as well as limits as they set forth fuller Christian insights into the ways in which improper ordering of our desires ten]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11358/the-theology-pugcast-soul-sickness-and-society-part-one-plato-and-christ.mp3" length="96194060"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg</url>
+			<title>The Theology Pugcast: Soul Sickness and Society: Plato and Christ: Part One</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:06:47</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>The Theology Pugcast: Warriors in the Garden: Martial Virtues and the Christian Man</title>
+	<link>https://crosspolitic.com/podcast/the-theology-pugcast-warriors-in-the-garden-martial-virtues-and-the-christian-man/</link>
+	<pubDate>Thu, 06 May 2021 11:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11320</guid>
+	<description><![CDATA[Today the Pugcast is joined by Nate Spearing, highly decorated combat veteran with 14 years and 12 deployments in Army Special Operations. Nathan has a broad range of experiences domestically and overseas and has spent his entire professional life walking out a theology of violence as a Christian in war. Nate was homeschooled, and today [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[Today the Pugcast is joined by Nate Spearing, highly decorated combat veteran with 14 years and 12 deployments in Army Special Operations. Nathan has a broad range of experiences domestically and overseas and has spent his entire professional life walkin]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11320/the-theology-pugcast-warriors-in-the-garden-martial-virtues-and-the-christian-man.mp3" length="72999622"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg</url>
+			<title>The Theology Pugcast: Warriors in the Garden: Martial Virtues and the Christian Man</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:00:49</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>The Theology Pugcast: Heiser’s Unseen Realm</title>
+	<link>https://crosspolitic.com/podcast/the-theology-pugcast-heisers-unseen-realm/</link>
+	<pubDate>Thu, 29 Apr 2021 12:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11276</guid>
+	<description><![CDATA[This week, the Pugsters look at some of the themes in Michael Heiser’s books dealing with the worldview of the biblical authors. Glenn leads the discussion, which revolves around two big ideas: the idea of a heavenly court, with angelic beings having authority over areas such as nations; and the account of the Nephilim in [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[This week, the Pugsters look at some of the themes in Michael Heiser’s books dealing with the worldview of the biblical authors. Glenn leads the discussion, which revolves around two big ideas: the idea of a heavenly court, with angelic beings having aut]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11276/the-theology-pugcast-heisers-unseen-realm.mp3" length="171321385"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg</url>
+			<title>The Theology Pugcast: Heiser’s Unseen Realm</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:11:22</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>The Theology Pugcast: The Hermeneutic of Suspicion</title>
+	<link>https://crosspolitic.com/podcast/the-theology-pugcast-the-hermeneutic-of-suspicion/</link>
+	<pubDate>Thu, 22 Apr 2021 12:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11217</guid>
+	<description><![CDATA[In today’s show Chris introduces a term coined by the French intellectual, Paul Ricouer—the hermeneutic of suspicion. In the 19th century, theorists including Marx, Nietzsche, and Freud promoted the idea that rationality was nothing more than rationalization. Beneath the surface of any argument was something selfish and irrational. They believed that interpretation should begin with [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[In today’s show Chris introduces a term coined by the French intellectual, Paul Ricouer—the hermeneutic of suspicion. In the 19th century, theorists including Marx, Nietzsche, and Freud promoted the idea that rationality was nothing more than rationaliza]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11217/the-theology-pugcast-the-hermeneutic-of-suspicion.mp3" length="139432592"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg</url>
+			<title>The Theology Pugcast: The Hermeneutic of Suspicion</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:58:05</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>The Theology Pugcast: The Return of the Metanarrative?!</title>
+	<link>https://crosspolitic.com/podcast/the-theology-pugcast-the-return-of-the-metanarrative/</link>
+	<pubDate>Thu, 15 Apr 2021 12:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11176</guid>
+	<description><![CDATA[Early postmodern promoters argued that the end of metanarratives like Christianity and the Enlightenment would lead to a peaceful plurality of group narratives, without the aim of any to dominate. This would lead to an end of oppressive worldviews with totalitarian aims. But mutations in postmodern thinking, those connected with Critical Theory, have taken a [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[Early postmodern promoters argued that the end of metanarratives like Christianity and the Enlightenment would lead to a peaceful plurality of group narratives, without the aim of any to dominate. This would lead to an end of oppressive worldviews with t]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11176/the-theology-pugcast-the-return-of-the-metanarrative.mp3" length="156084392"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg</url>
+			<title>The Theology Pugcast: The Return of the Metanarrative?!</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:05:02</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>The Theology Pugcast: The Irish Saints: Redeemed Paganism</title>
+	<link>https://crosspolitic.com/podcast/the-theology-pugcast-the-irish-saints-redeemed-paganism/</link>
+	<pubDate>Thu, 08 Apr 2021 12:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11053</guid>
+	<description><![CDATA[In an earlier episode, the Pugsters talked about Tolkien’s ideas of the value of pagan myth and the need to Christianize it. In this episode, Glenn picks up on that and applies it not to mythology but to culture, specifically, the religion of pre-Christian Ireland and what happened when it was Christianized. In pagan Ireland, [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[In an earlier episode, the Pugsters talked about Tolkien’s ideas of the value of pagan myth and the need to Christianize it. In this episode, Glenn picks up on that and applies it not to mythology but to culture, specifically, the religion of pre-Christi]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11053/the-theology-pugcast-the-irish-saints-redeemed-paganism.mp3" length="154347176"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg</url>
+			<title>The Theology Pugcast: The Irish Saints: Redeemed Paganism</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:04:18</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>The Theology Pugcast: Individualisms: Which Sort of Individual are You?</title>
+	<link>https://crosspolitic.com/podcast/the-theology-pugcast-individualisms-which-sort-of-individual-are-you/</link>
+	<pubDate>Thu, 01 Apr 2021 11:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11006</guid>
+	<description><![CDATA[In today&#8217;s show, Chris introduces an important study of individualism that was published back in 1985 by Robert Bellah and a team of sociologists, entitled: Habits of the Heart&#8211;Individualism and Commitment in American Life&#8221;. A best-seller at the time, the book is almost forgotten today, which is a shame since the world we live in [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[In today&#8217;s show, Chris introduces an important study of individualism that was published back in 1985 by Robert Bellah and a team of sociologists, entitled: Habits of the Heart&#8211;Individualism and Commitment in American Life&#8221;. A best-sell]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11006/the-theology-pugcast-individualisms-which-sort-of-individual-are-you.mp3" length="161519456"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/PugCast_1400x1400.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/PugCast_1400x1400.jpg</url>
+			<title>The Theology Pugcast: Individualisms: Which Sort of Individual are You?</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:07:17</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>The Theology Pugcast: Christianity’s Favorite Beverage?!</title>
+	<link>https://crosspolitic.com/podcast/the-theology-pugcast-christianitys-favorite-beverage/</link>
+	<pubDate>Thu, 25 Mar 2021 12:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10975</guid>
+	<description><![CDATA[Celebratory fun highlights this Pugcast. As the gang records on St Patrick’s day, Tom thought it would be great to share in the celebrations by highlighting some fun-filled facts from Stephen Mansfield’s book In Search for God and Guinness.  The book is far more than a story of the relation of Christianity and the Guinness [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[Celebratory fun highlights this Pugcast. As the gang records on St Patrick’s day, Tom thought it would be great to share in the celebrations by highlighting some fun-filled facts from Stephen Mansfield’s book In Search for God and Guinness.  The book is ]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/10975/the-theology-pugcast-christianitys-favorite-beverage.mp3" length="161290364"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg</url>
+			<title>The Theology Pugcast: Christianity’s Favorite Beverage?!</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:07:12</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>The Theology Pugcast: Sanctifying Myth</title>
+	<link>https://crosspolitic.com/podcast/the-theology-pugcast-sanctifying-myth/</link>
+	<pubDate>Thu, 18 Mar 2021 12:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10949</guid>
+	<description><![CDATA[Working off the introduction to Bradley Birzer’s J.R.R. Tolkien’s Sanctifying Myth, the Pugsters talk about Tolkien, Lewis, and Chesterton and their ideas about myth and faerie. Tolkien believed that just like pagan philosophers grasped truths that were most perfectly expressed in the Gospel, the stories of myth and faerie were bits of “splintered light” that [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[Working off the introduction to Bradley Birzer’s J.R.R. Tolkien’s Sanctifying Myth, the Pugsters talk about Tolkien, Lewis, and Chesterton and their ideas about myth and faerie. Tolkien believed that just like pagan philosophers grasped truths that were ]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/10949/the-theology-pugcast-sanctifying-myth.mp3" length="151210234"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg</url>
+			<title>The Theology Pugcast: Sanctifying Myth</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:03:00</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>The Theology Pugcast: Esoteric and Exoteric Teachings</title>
+	<link>https://crosspolitic.com/podcast/the-theology-pugcast-esoteric-and-exoteric-teachings/</link>
+	<pubDate>Thu, 11 Mar 2021 13:00:44 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10691</guid>
+	<description><![CDATA[Today the guys discuss the vexed topic of esoteric teaching and interpretation. Esoteric teaching is teaching intended to sort people into two groups&#8211;those who understand and those who do not. Why would anyone want to do that? Isn&#8217;t that elitist? Isn&#8217;t it undemocratic? Well, yes, it is those things&#8211;and Jesus undeniably spoke esoterically when he [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[Today the guys discuss the vexed topic of esoteric teaching and interpretation. Esoteric teaching is teaching intended to sort people into two groups&#8211;those who understand and those who do not. Why would anyone want to do that? Isn&#8217;t that elit]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/10691/the-theology-pugcast-esoteric-and-exoteric-teachings.mp3" length="153129872"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg</url>
+			<title>The Theology Pugcast: Esoteric and Exoteric Teachings</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:03:48</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>The Theology Pugcast: Why Have So Many In the World Gone Seemingly Mad?</title>
+	<link>https://crosspolitic.com/podcast/the-theology-pugcast-why-have-so-many-in-the-world-gone-seemingly-mad/</link>
+	<pubDate>Thu, 04 Mar 2021 13:00:29 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10680</guid>
+	<description><![CDATA[In this show, Tom addresses a listeners question with reflections from past shows as well as recent insights. Tom looks at various realities, forces, and trends that have led culture to the present moment of sweeping madness. Chris and Glenn penetrate the topic with perspicacity and wisdom. René Girard shows up in the conversation, adding [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[In this show, Tom addresses a listeners question with reflections from past shows as well as recent insights. Tom looks at various realities, forces, and trends that have led culture to the present moment of sweeping madness. Chris and Glenn penetrate th]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/10680/the-theology-pugcast-why-have-so-many-in-the-world-gone-seemingly-mad.mp3" length="149388176"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg</url>
+			<title>The Theology Pugcast: Why Have So Many In the World Gone Seemingly Mad?</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:02:14</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>The Theology Pugcast: Barometers and Worldview</title>
+	<link>https://crosspolitic.com/podcast/the-theology-pugcast-barometers-and-worldview/</link>
+	<pubDate>Thu, 25 Feb 2021 13:00:13 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10679</guid>
+	<description><![CDATA[Glenn introduces concepts from medieval epistemology (i.e. the branch of philosophy dealing with knowledge and truth) and how these got challenged in the sixteenth and seventeenth century, particularly through the recovery of the ideas of the ancient Greek skeptic Pyrrho. After a foray into Descartes, who tried to answer Pyrrho, we look at Blaise Pascal, [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[Glenn introduces concepts from medieval epistemology (i.e. the branch of philosophy dealing with knowledge and truth) and how these got challenged in the sixteenth and seventeenth century, particularly through the recovery of the ideas of the ancient Gre]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/10679/the-theology-pugcast-barometers-and-worldview.mp3" length="146793836"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg</url>
+			<title>The Theology Pugcast: Barometers and Worldview</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:01:09</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>The Theology Pugcast: Morgoth&#8217;s Ring!</title>
+	<link>https://crosspolitic.com/podcast/the-theology-pugcast-morgoths-ring/</link>
+	<pubDate>Thu, 18 Feb 2021 13:00:34 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10678</guid>
+	<description><![CDATA[Little by little, the notes and reflections of J. R. R. Tolkien have been published posthumously by his son, Christopher. Among the many volumes is the Tenth Volume in The History of Middle-Earth, entitled Morgoth&#8217;s Ring. The book contains many of Tolkien&#8217;s reflections on the nature of evil, mortality, and the eschatology of Middle-Earth. Among [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[Little by little, the notes and reflections of J. R. R. Tolkien have been published posthumously by his son, Christopher. Among the many volumes is the Tenth Volume in The History of Middle-Earth, entitled Morgoth&#8217;s Ring. The book contains many of ]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/10678/the-theology-pugcast-morgoths-ring.mp3" length="164311112"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg</url>
+			<title>The Theology Pugcast: Morgoth&#8217;s Ring!</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:08:27</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>The Theology Pugcast: Jonathan Edwards and War</title>
+	<link>https://crosspolitic.com/podcast/the-theology-pugcast-jonathan-edwards-and-war/</link>
+	<pubDate>Thu, 11 Feb 2021 13:00:48 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10673</guid>
+	<description><![CDATA[This week the Pugsters are joined by Jonathan Edwards scholar Dr. Christian Cuthbert to discuss his research at Yale on the preaching of Jonathan Edwards on the subject of warfare. In the 18th century the Connecticut River Valley was on the frontier. It wasn&#8217;t unusual for Native American warrior bands to attack colonial villages&#8211;add to [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[This week the Pugsters are joined by Jonathan Edwards scholar Dr. Christian Cuthbert to discuss his research at Yale on the preaching of Jonathan Edwards on the subject of warfare. In the 18th century the Connecticut River Valley was on the frontier. It ]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/10673/the-theology-pugcast-jonathan-edwards-and-war.mp3" length="157978208"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg</url>
+			<title>The Theology Pugcast: Jonathan Edwards and War</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:05:49</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>The Theology Pugcast: Contrasting Cultures: One Which Affirms and Celebrates Life, One That Centralizes Death</title>
+	<link>https://crosspolitic.com/podcast/the-theology-pugcast-contrasting-cultures-one-which-affirms-and-celebrates-life-one-that-centralizes-death/</link>
+	<pubDate>Thu, 04 Feb 2021 13:00:05 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10634</guid>
+	<description><![CDATA[Tom introduces two contrasting cultures by talking about the Gospel and its role in shaping a culture of life. He then draws off of Benjamin Wiker&#8217;s book &#8216;Architects of the Culture of Death&#8217;. The leads into one of the core figures discussed in the book, the philosopher Arthur Schopenhauer and his contribution to nihilism and [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[Tom introduces two contrasting cultures by talking about the Gospel and its role in shaping a culture of life. He then draws off of Benjamin Wiker&#8217;s book &#8216;Architects of the Culture of Death&#8217;. The leads into one of the core figures discu]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/10634/the-theology-pugcast-contrasting-cultures-one-which-affirms-and-celebrates-life-one-that-centralizes-death.mp3" length="149678408"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg</url>
+			<title>The Theology Pugcast: Contrasting Cultures: One Which Affirms and Celebrates Life, One That Centralizes Death</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:02:21</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item>
+	</channel>
+</rss>
