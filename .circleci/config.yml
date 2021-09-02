@@ -39,7 +39,7 @@ jobs:
 
       - add_ssh_keys:
           fingerprints:
-            - "c8:ab:69:e7:55:1b:ab:bc:c5:13:f1:48:61:66:20:ef"
+            - "b3:c9:00:4a:21:7f:4e:b0:d8:2f:d1:cd:52:0f:eb:3e"
       - run: git config user.email "josephdykstra@gmail.com"
       - run: git config user.name "ArtskydJ"
 
