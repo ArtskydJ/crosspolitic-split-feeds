@@ -152,6 +152,27 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:duration>01:07:21</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
 	
+</item><item>
+	<title>Reformgelical: AD ROBLES + Matt Williams</title>
+	<link>https://crosspolitic.com/podcast/reformgelical-ad-robles-matt-williams/</link>
+	<pubDate>Fri, 16 Jul 2021 07:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11639</guid>
+	<description><![CDATA[Join our show live on Youtube and twitter on our Reformgelical channels. Ed Litton, SBC moves, FBI and Denhollender and more stuff.]]></description>
+	<itunes:subtitle><![CDATA[Join our show live on Youtube and twitter on our Reformgelical channels. Ed Litton, SBC moves, FBI and Denhollender and more stuff.]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/11639/reformgelical-ad-robles-matt-williams.mp3" length="59215133"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/07/Correct-Pixel.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2021/07/Correct-Pixel.jpg</url>
+			<title>Reformgelical: AD ROBLES + Matt Williams</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:01:40</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
 </item>
 	</channel>
 </rss>
