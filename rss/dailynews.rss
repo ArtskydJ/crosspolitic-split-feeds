@@ -16,7 +16,7 @@
 		<description>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
 
 Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</description>
-		<lastBuildDate>Thu, 02 Sep 2021 21:56:46 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 03 Sep 2021 01:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<copyright></copyright>
 		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
@@ -79,10 +79,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<description><![CDATA[Daily News Brief for Wednesday September 1st, 2021 Folks we are just a week away from our Fight Laugh Feast Conference in Tennessee&#8230;just 8 days! So, if&#160; you cannot physically make it to the conference, we still have you covered! Join our club, and we will be living streaming all the talks in our club [&#8230;]]]></description>
 	<itunes:subtitle><![CDATA[Daily News Brief for Wednesday September 1st, 2021 Folks we are just a week away from our Fight Laugh Feast Conference in Tennessee&#8230;just 8 days! So, if&#160; you cannot physically make it to the conference, we still have you covered! Join our club,]]></itunes:subtitle>
 			<itunes:keywords>2021</itunes:keywords>
-								<content:encoded><![CDATA[Daily News Brief for Wednesday September 1st, 2021 Folks we are just a week away from our Fight Laugh Feast Conference in Tennessee&#8230;just 8 days! So, if&#160; you cannot physically make it to the conference, we still have you covered! Join our club, and we will be living streaming all the talks in our club [&#8230;]]]></content:encoded>
-		<enclosure url="https://crosspolitic.com/podcast-download/11841/daily-news-brief-for-wednesday-september-1-2021.mp3" length="7752258"
+							<enclosure url="https://crosspolitic.com/podcast-download/11841/daily-news-brief-for-wednesday-september-1-2021.mp3" length="7752258"
 			   type="audio/mpeg"></enclosure>
-			<itunes:summary><![CDATA[Daily News Brief for Wednesday September 1st, 2021 Folks we are just a week away from our Fight Laugh Feast Conference in Tennessee&#8230;just 8 days! So, if&#160; you cannot physically make it to the conference, we still have you covered! Join our club, and we will be living streaming all the talks in our club [&#8230;]]]></itunes:summary>
 				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/AC587412-DDAD-4BBA-A4CC-401E362B5895.png"></itunes:image>
 		<image>
 			<url>https://crosspolitic.com/wp-content/uploads/2021/06/AC587412-DDAD-4BBA-A4CC-401E362B5895.png</url>
@@ -2390,21 +2388,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:duration>00:14:24</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
 	
-</item><item>
-	<title>Daily News Brief for Monday, February 1, 2021</title>
-	<link>https://crosspolitic.com/podcast/daily-news-brief-for-monday-february-1-2021/</link>
-	<pubDate>Mon, 01 Feb 2021 21:42:05 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10647</guid>
-	<description><![CDATA[&#160; Good Monday this is the Chocolate Knox bring you your Daily News Brief for Monday February 1 2021 aka 2020 B Hey Happy Black History Month! Any news stories you want to share with us you can do that at news@crosspolitic.com That’s News@CrossPolitic.com www.Deftwire.com Army changes it&#8217;s Standards for women officers.  https://goodmorningamerica.com/style/story/us-army-standards-women-ponytails-nail-polish-breastfeeding-75516541 Cuomo Says [&#8230;]]]></description>
-	<itunes:subtitle><![CDATA[&#160; Good Monday this is the Chocolate Knox bring you your Daily News Brief for Monday February 1 2021 aka 2020 B Hey Happy Black History Month! Any news stories you want to share with us you can do that at news@crosspolitic.com That’s News@CrossPoliti]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
-							<enclosure url="https://crosspolitic.com/podcast-download/10647/daily-news-brief-for-monday-february-1-2021.mp3" length="10456386"
-			   type="audio/mpeg"></enclosure>
-			<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>00:21:46</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	</item>
+</item>
 	</channel>
 </rss>
