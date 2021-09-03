@@ -9,6 +9,7 @@ And here they are:
 - [Campus Preacher LIVE](https://artskydj.github.io/crosspolitic-split-feeds/rss/campus.rss)
 - [Daily News Brief](https://artskydj.github.io/crosspolitic-split-feeds/rss/dailynews.rss)
 - [DOANE!T](https://artskydj.github.io/crosspolitic-split-feeds/rss/darrendoane.rss)
+- [HtBT](https://artskydj.github.io/crosspolitic-split-feeds/rss/howtobuildatent.rss)
 - [Matt Williams](https://artskydj.github.io/crosspolitic-split-feeds/rss/mattwilliams.rss)
 - [MidWeek Fix](https://artskydj.github.io/crosspolitic-split-feeds/rss/midweekfix.rss)
 - [Reformgelical](https://artskydj.github.io/crosspolitic-split-feeds/rss/reformgelical.rss)

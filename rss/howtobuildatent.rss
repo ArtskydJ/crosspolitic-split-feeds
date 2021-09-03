@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://crosspolitic.com/wp-content/plugins/seriously-simple-podcasting/templates/feed-stylesheet.xsl"?><rss version="2.0"
+	 xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	 xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	 xmlns:dc="http://purl.org/dc/elements/1.1/"
+	 xmlns:atom="http://www.w3.org/2005/Atom"
+	 xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	 xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	 xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	>
+	<channel>
+		<title>FLF - HtBT</title>
+		<atom:link href="https://artskydj.github.io/crosspolitic-split-feeds/rss/howtobuildatent.rss" rel="self" type="application/rss+xml"/>
+		<link>https://crosspolitic.com/</link>
+		<description>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
+
+Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</description>
+		<lastBuildDate>Fri, 03 Sep 2021 01:00:00 +0000</lastBuildDate>
+		<language>en-US</language>
+		<copyright></copyright>
+		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
+		<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+					<itunes:type>serial</itunes:type>
+					<itunes:summary>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
+
+Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</itunes:summary>
+		<itunes:owner>
+			<itunes:name>CrossPolitic Studios</itunes:name>
+			<itunes:email>fightlaughfeast@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>clean</itunes:explicit>
+					<itunes:image href="http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png"></itunes:image>
+			<image>
+				<url>http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png</url>
+				<title>Fight Laugh Feast Network</title>
+				<link>https://crosspolitic.com/</link>
+			</image>
+					<itunes:category text="News">
+									<itunes:category text="Christianity"></itunes:category>
+							</itunes:category>
+							<itunes:category text="Religion &amp; Spirituality">
+									<itunes:category text="Christianity"></itunes:category>
+							</itunes:category>
+							<itunes:category text="Society &amp; Culture">
+									<itunes:category text="Philosophy"></itunes:category>
+							</itunes:category>
+						
+		
+<item>
+	<title>HTBT: This is what politics is and the business of politics &#8211; EP 596</title>
+	<link>https://crosspolitic.com/podcast/htbt-this-is-what-politics-is-and-the-business-of-politics-ep-596/</link>
+	<pubDate>Fri, 26 Feb 2021 08:00:21 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10821</guid>
+	<description><![CDATA[Look at what politics really means, and how it has always been in every area of your life, plus explaining the privatization of tyranny we have in the US. Show Marketing Powered By: Better Three Group Click Here to find out more or go to betterthreegroup.com GAB: @mattwilliams Telegram: @realmattwilliams]]></description>
+	<itunes:subtitle><![CDATA[Look at what politics really means, and how it has always been in every area of your life, plus explaining the privatization of tyranny we have in the US. Show Marketing Powered By: Better Three Group Click Here to find out more or go to betterthreegroup]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/10821/htbt-this-is-what-politics-is-and-the-business-of-politics-ep-596.mp3" length="35171548"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/HtBT-1400x.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/HtBT-1400x.png</url>
+			<title>HTBT: This is what politics is and the business of politics &#8211; EP 596</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:18:00</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>HTBT: The tech companies are now cancelling businesses not just people &#8211; EP 595</title>
+	<link>https://crosspolitic.com/podcast/htbt-the-tech-companies-are-now-cancelling-businesses-not-just-people-ep-595/</link>
+	<pubDate>Thu, 25 Feb 2021 08:00:15 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10816</guid>
+	<description><![CDATA[Salesforce is now cancelling businesses and we need strong dangerous Christian men to lead us.   Show Marketing Powered By: Better Three Group Click Here to find out more or go to betterthreegroup.com GAB: @mattwilliams Telegram: @realmattwilliams]]></description>
+	<itunes:subtitle><![CDATA[Salesforce is now cancelling businesses and we need strong dangerous Christian men to lead us.   Show Marketing Powered By: Better Three Group Click Here to find out more or go to betterthreegroup.com GAB: @mattwilliams Telegram: @realmattwilliams]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/10816/htbt-the-tech-companies-are-now-cancelling-businesses-not-just-people-ep-595.mp3" length="46711262"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/08/HtBT-Logo-02.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/08/HtBT-Logo-02.jpg</url>
+			<title>HTBT: The tech companies are now cancelling businesses not just people &#8211; EP 595</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:23:55</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>HTBT: The choice between two cliffs 1 Sam 14 &#8211; EP 594</title>
+	<link>https://crosspolitic.com/podcast/htbt-the-choice-between-two-cliffs-1-sam-14-ep-594/</link>
+	<pubDate>Wed, 24 Feb 2021 08:00:26 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10810</guid>
+	<description><![CDATA[My talk on 1 Sam 14 last night at the Historic First Baptist Church Beech Island, South Carolina.  Help support Voddie Baucham suffering from heart failure. https://www.gofundme.com/f/voddie-baucham Show Marketing Powered By: Better Three Group Click Here to find out more or go to betterthreegroup.com GAB: @mattwilliams Telegram: @realmattwilliams]]></description>
+	<itunes:subtitle><![CDATA[My talk on 1 Sam 14 last night at the Historic First Baptist Church Beech Island, South Carolina.  Help support Voddie Baucham suffering from heart failure. https://www.gofundme.com/f/voddie-baucham Show Marketing Powered By: Better Three Group Click Her]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/10810/htbt-the-choice-between-two-cliffs-1-sam-14-ep-594.mp3" length="71192589"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/08/HtBT-Logo-02.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/08/HtBT-Logo-02.jpg</url>
+			<title>HTBT: The choice between two cliffs 1 Sam 14 &#8211; EP 594</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:36:36</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>HTBT: We called the SCOTUS decision on the election and Biden wants to abolish ICE &#8211; EP 593</title>
+	<link>https://crosspolitic.com/podcast/htbt-john-kerry-says-we-only-have-9-years-left-again-ep-593/</link>
+	<pubDate>Tue, 23 Feb 2021 08:00:03 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10777</guid>
+	<description><![CDATA[We discuss the most outrageous reason SCOTUS dismissed these election cases and Joe Biden wants to abolish ICE just like they said they would.  Help support Voddie Baucham suffering from heart failure. https://www.gofundme.com/f/voddie-baucham Show Marketing Powered By: Better Three Group Click Here to find out more or go to betterthreegroup.com GAB: @mattwilliams Telegram: @realmattwilliams]]></description>
+	<itunes:subtitle><![CDATA[We discuss the most outrageous reason SCOTUS dismissed these election cases and Joe Biden wants to abolish ICE just like they said they would.  Help support Voddie Baucham suffering from heart failure. https://www.gofundme.com/f/voddie-baucham Show Marke]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/10777/htbt-john-kerry-says-we-only-have-9-years-left-again-ep-593.mp3" length="37959965"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/HtBT-Logo-1400x.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/HtBT-Logo-1400x.jpg</url>
+			<title>HTBT: We called the SCOTUS decision on the election and Biden wants to abolish ICE &#8211; EP 593</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:19:23</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>HTBT: John Kerry says we only have 9 years left&#8230; again &#8211; EP 592</title>
+	<link>https://crosspolitic.com/podcast/htbt-john-kerry-says-we-only-have-9-years-left-again-ep-592/</link>
+	<pubDate>Mon, 22 Feb 2021 08:00:10 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10769</guid>
+	<description><![CDATA[Today we are talking about stories that are all facades that we all now know are not real, including John Kerry, CNN/Cuomo scandal, and a rasmussen poll. Help support Voddie Baucham suffering from heart failure. https://www.gofundme.com/f/voddie-baucham Show Marketing Powered By: Better Three Group Click Here to find out more or go to betterthreegroup.com GAB: @mattwilliams [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[Today we are talking about stories that are all facades that we all now know are not real, including John Kerry, CNN/Cuomo scandal, and a rasmussen poll. Help support Voddie Baucham suffering from heart failure. https://www.gofundme.com/f/voddie-baucham ]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/10769/htbt-john-kerry-says-we-only-have-9-years-left-again-ep-592.mp3" length="39021012"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/HtBT-1400x.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/HtBT-1400x.png</url>
+			<title>HTBT: John Kerry says we only have 9 years left&#8230; again &#8211; EP 592</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:19:57</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>HTBT: Education needs to be part of the reformation  &#8211; EP 591</title>
+	<link>https://crosspolitic.com/podcast/htbt-education-needs-to-be-part-of-the-reformation-ep-591/</link>
+	<pubDate>Fri, 19 Feb 2021 08:00:11 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10766</guid>
+	<description><![CDATA[How foolish our &#8220;scientists&#8221; are at NASA and breaking down the facade of educational institutions. Help support Voddie Baucham suffering from heart failure. https://www.gofundme.com/f/voddie-baucham Show Marketing Powered By: Better Three Group Click Here to find out more or go to betterthreegroup.com GAB: @mattwilliams Telegram: @realmattwilliams]]></description>
+	<itunes:subtitle><![CDATA[How foolish our &#8220;scientists&#8221; are at NASA and breaking down the facade of educational institutions. Help support Voddie Baucham suffering from heart failure. https://www.gofundme.com/f/voddie-baucham Show Marketing Powered By: Better Three Gro]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/10766/htbt-education-needs-to-be-part-of-the-reformation-ep-591.mp3" length="44937182"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/HtBT-1400x.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/HtBT-1400x.png</url>
+			<title>HTBT: Education needs to be part of the reformation  &#8211; EP 591</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:22:57</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>HTBT: It&#8217;s time to prepare to step up and fill the ranks &#8211; EP 590</title>
+	<link>https://crosspolitic.com/podcast/htbt-its-time-to-prepare-to-step-up-and-fill-the-ranks-ep-590/</link>
+	<pubDate>Thu, 18 Feb 2021 08:00:33 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10761</guid>
+	<description><![CDATA[How the Chinese concentration camps, Canada arrest of Christian pastor, and Joe Biden are related plus part of fighting locally means getting our states off dependence on federal funding. Help support Voddie Baucham suffering from heart failure. https://www.gofundme.com/f/voddie-baucham Show Marketing Powered By: Better Three Group Click Here to find out more or go to betterthreegroup.com [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[How the Chinese concentration camps, Canada arrest of Christian pastor, and Joe Biden are related plus part of fighting locally means getting our states off dependence on federal funding. Help support Voddie Baucham suffering from heart failure. https://]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/10761/htbt-its-time-to-prepare-to-step-up-and-fill-the-ranks-ep-590.mp3" length="42873755"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/08/HtBT-Logo-02.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/08/HtBT-Logo-02.jpg</url>
+			<title>HTBT: It&#8217;s time to prepare to step up and fill the ranks &#8211; EP 590</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:21:56</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>HTBT: It&#8217;s colder in the GOP than Texas in February &#8211; EP 589</title>
+	<link>https://crosspolitic.com/podcast/htbt-its-colder-in-the-gop-than-texas-in-february-ep-589/</link>
+	<pubDate>Wed, 17 Feb 2021 08:00:06 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10749</guid>
+	<description><![CDATA[We talk about some wins at the local level and the fight between CCP Mitch and Donald Trump. Help support Voddie Baucham suffering from heart failure. https://www.gofundme.com/f/voddie-baucham Show Marketing Powered By: Better Three Group Click Here to find out more or go to betterthreegroup.com GAB: @mattwilliams Telegram: @realmattwilliams]]></description>
+	<itunes:subtitle><![CDATA[We talk about some wins at the local level and the fight between CCP Mitch and Donald Trump. Help support Voddie Baucham suffering from heart failure. https://www.gofundme.com/f/voddie-baucham Show Marketing Powered By: Better Three Group Click Here to f]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/10749/htbt-its-colder-in-the-gop-than-texas-in-february-ep-589.mp3" length="38330719"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/08/HtBT-Logo-02.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/08/HtBT-Logo-02.jpg</url>
+			<title>HTBT: It&#8217;s colder in the GOP than Texas in February &#8211; EP 589</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:19:35</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>HTBT: why the GOP  didn&#8217;t fight for Trump in the FRAUDULENT election &#8211; EP 588</title>
+	<link>https://crosspolitic.com/podcast/htbt-this-is-your-next-step-on-how-to-take-back-our-country-ep-588/</link>
+	<pubDate>Tue, 16 Feb 2021 08:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10731</guid>
+	<description><![CDATA[This is why I think the GOP establishment didn&#8217;t fight for Trump even though the election was obviously stolen and we need to find these opportunities to take back the government sphere for Christ. Help support Voddie Baucham suffering from heart failure. https://www.gofundme.com/f/voddie-baucham Show Marketing Powered By: Better Three Group Click Here to find out [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[This is why I think the GOP establishment didn&#8217;t fight for Trump even though the election was obviously stolen and we need to find these opportunities to take back the government sphere for Christ. Help support Voddie Baucham suffering from heart f]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/10731/htbt-this-is-your-next-step-on-how-to-take-back-our-country-ep-588.mp3" length="34609866"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/08/HtBT-Logo-02.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/08/HtBT-Logo-02.jpg</url>
+			<title>HTBT: why the GOP  didn&#8217;t fight for Trump in the FRAUDULENT election &#8211; EP 588</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:17:41</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>HtBT: This is your next step on how to take back our country &#8211; Ep 587</title>
+	<link>https://crosspolitic.com/podcast/htbt-this-is-your-next-step-on-how-to-take-back-our-country-ep-587/</link>
+	<pubDate>Fri, 12 Feb 2021 08:00:33 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10709</guid>
+	<description><![CDATA[The Republican county committee party strategy that will let us control the party in the future. Watch and take these 3 steps at your county committee. Website: theprecinctproject.wordpress.com Show Marketing Powered By: Better Three Group Click Here to find out more or go to betterthreegroup.com GAB: @mattwilliams Telegram: @realmattwilliams]]></description>
+	<itunes:subtitle><![CDATA[The Republican county committee party strategy that will let us control the party in the future. Watch and take these 3 steps at your county committee. Website: theprecinctproject.wordpress.com Show Marketing Powered By: Better Three Group Click Here to ]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/10709/htbt-this-is-your-next-step-on-how-to-take-back-our-country-ep-587.mp3" length="30296263"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/08/HtBT-Logo-02.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/08/HtBT-Logo-02.jpg</url>
+			<title>HtBT: This is your next step on how to take back our country &#8211; Ep 587</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:15:31</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>HtBT: You have to guard your kids from what seems like good things &#8211; Ep 586</title>
+	<link>https://crosspolitic.com/podcast/htbt-you-have-to-guard-your-kids-from-what-seems-like-good-things-ep-586/</link>
+	<pubDate>Thu, 11 Feb 2021 08:00:30 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10705</guid>
+	<description><![CDATA[A tragic story about a high school kid who was investing and thought he lost it all and took his life and the state where every republican in a district had 5% of their votes undercounted. NH Election Recount Update &#8211; Thursday November 12 Show Marketing Powered By: Better Three Group Click Here to find [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[A tragic story about a high school kid who was investing and thought he lost it all and took his life and the state where every republican in a district had 5% of their votes undercounted. NH Election Recount Update &#8211; Thursday November 12 Show Mark]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/10705/htbt-you-have-to-guard-your-kids-from-what-seems-like-good-things-ep-586.mp3" length="49392391"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/08/HtBT-Logo-02.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/08/HtBT-Logo-02.jpg</url>
+			<title>HtBT: You have to guard your kids from what seems like good things &#8211; Ep 586</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:25:15</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>HtBT: Who are Trump&#8217;s lawyers and what did the Who say now? &#8211; Ep 585</title>
+	<link>https://crosspolitic.com/podcast/htbt-who-are-trumps-lawyers-and-what-did-the-who-say-now-ep-585/</link>
+	<pubDate>Wed, 10 Feb 2021 08:00:31 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10701</guid>
+	<description><![CDATA[We talk about the impeachment trial, interview clips from Victor Davis Hanson and Alan Dershowitz, and the WHO just said this, again. Show Marketing Powered By: Better Three Group Click Here to find out more or go to betterthreegroup.com GAB: @mattwilliams Telegram: @realmattwilliams]]></description>
+	<itunes:subtitle><![CDATA[We talk about the impeachment trial, interview clips from Victor Davis Hanson and Alan Dershowitz, and the WHO just said this, again. Show Marketing Powered By: Better Three Group Click Here to find out more or go to betterthreegroup.com GAB: @mattwillia]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/10701/htbt-who-are-trumps-lawyers-and-what-did-the-who-say-now-ep-585.mp3" length="50549531"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/08/HtBT-Logo-02.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/08/HtBT-Logo-02.jpg</url>
+			<title>HtBT: Who are Trump&#8217;s lawyers and what did the Who say now? &#8211; Ep 585</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:25:50</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>HtBT: The GOP continues stabbing us in the back and the DNC takes ground &#8211; Ep 584</title>
+	<link>https://crosspolitic.com/podcast/htbt-the-gop-continues-stabbing-us-in-the-back-and-the-dnc-takes-ground-ep-584/</link>
+	<pubDate>Tue, 09 Feb 2021 08:00:59 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10694</guid>
+	<description><![CDATA[AZ Senate betrayal, SOS of GA attacks Trump, Tampa mayor threatening the Super Bowl attendees, and gun control grabs are coming. Show Marketing Powered By: Better Three Group Click Here to find out more or go to betterthreegroup.com GAB: @mattwilliams Telegram: @realmattwilliams]]></description>
+	<itunes:subtitle><![CDATA[AZ Senate betrayal, SOS of GA attacks Trump, Tampa mayor threatening the Super Bowl attendees, and gun control grabs are coming. Show Marketing Powered By: Better Three Group Click Here to find out more or go to betterthreegroup.com GAB: @mattwilliams Te]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/10694/htbt-the-gop-continues-stabbing-us-in-the-back-and-the-dnc-takes-ground-ep-584.mp3" length="39123787"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/08/HtBT-Logo-02.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/08/HtBT-Logo-02.jpg</url>
+			<title>HtBT: The GOP continues stabbing us in the back and the DNC takes ground &#8211; Ep 584</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:19:59</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>HtBT: What they&#8217;re doing with this Time article about the election &#8211; Ep 583</title>
+	<link>https://crosspolitic.com/podcast/htbt-what-theyre-doing-with-this-time-article-about-the-election-ep-583/</link>
+	<pubDate>Mon, 08 Feb 2021 08:00:11 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10688</guid>
+	<description><![CDATA[What they&#8217;re doing with this Time article and how terrible is football now? https://time.com/tag/2020-election/ https://www.forbes.com/sites/evangerstmann/2021/02/05/supreme-court-will-decide-whether-police-can-enter-a-home-to-seize-guns-without-a-warrant/?sh=2d4159405bb4 Show Marketing Powered By: Better Three Group Click Here to find out more or go to betterthreegroup.com GAB: @mattwilliams Telegram: @realmattwilliams]]></description>
+	<itunes:subtitle><![CDATA[What they&#8217;re doing with this Time article and how terrible is football now? https://time.com/tag/2020-election/ https://www.forbes.com/sites/evangerstmann/2021/02/05/supreme-court-will-decide-whether-police-can-enter-a-home-to-seize-guns-without-a-]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/10688/htbt-what-theyre-doing-with-this-time-article-about-the-election-ep-583.mp3" length="35054333"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/08/HtBT-Logo-02.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/08/HtBT-Logo-02.jpg</url>
+			<title>HtBT: What they&#8217;re doing with this Time article about the election &#8211; Ep 583</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:17:54</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>HtBT: What Joe Biden said at the prayer breakfast is dangerous &#8211; Ep 582</title>
+	<link>https://crosspolitic.com/podcast/htbt-what-joe-biden-said-at-the-prayer-breakfast-is-dangerous-ep-582/</link>
+	<pubDate>Fri, 05 Feb 2021 08:00:26 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10684</guid>
+	<description><![CDATA[We string together what Joe Biden said at the prayer breakfast their covid policy, and immigration policy. Show Marketing Powered By: Better Three Group Click Here to find out more or go to betterthreegroup.com GAB: @mattwilliams Telegram: @realmattwilliams Subscribe on Youtube]]></description>
+	<itunes:subtitle><![CDATA[We string together what Joe Biden said at the prayer breakfast their covid policy, and immigration policy. Show Marketing Powered By: Better Three Group Click Here to find out more or go to betterthreegroup.com GAB: @mattwilliams Telegram: @realmattwilli]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/10684/htbt-what-joe-biden-said-at-the-prayer-breakfast-is-dangerous-ep-582.mp3" length="33925735"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/HtBT-1400x.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/HtBT-1400x.png</url>
+			<title>HtBT: What Joe Biden said at the prayer breakfast is dangerous &#8211; Ep 582</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:17:21</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>HtBT: The news about Newsmax makes a whole lot of sense &#8211; Ep 581</title>
+	<link>https://crosspolitic.com/podcast/htbt-the-news-about-newsmax-makes-a-whole-lot-of-sense-ep-581/</link>
+	<pubDate>Thu, 04 Feb 2021 08:00:40 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10676</guid>
+	<description><![CDATA[We talk about why we need to stop being surprised about the terrible things that the Regime and Communist are doing to our country now that they&#8217;re in charge and what to expect now that we have been red pilled. Show Marketing Powered By: Better Three Group Click Here to find out more or go [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[We talk about why we need to stop being surprised about the terrible things that the Regime and Communist are doing to our country now that they&#8217;re in charge and what to expect now that we have been red pilled. Show Marketing Powered By: Better Thr]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/10676/htbt-the-news-about-newsmax-makes-a-whole-lot-of-sense-ep-581.mp3" length="40945108"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/08/HtBT-Logo-02.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/08/HtBT-Logo-02.jpg</url>
+			<title>HtBT: The news about Newsmax makes a whole lot of sense &#8211; Ep 581</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:20:56</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>HtBT: Youtube your days are numbered and you will bow the knee &#8211; Ep 580</title>
+	<link>https://crosspolitic.com/podcast/htbt-youtube-your-days-are-numbered-and-you-will-bow-the-knee-ep-580/</link>
+	<pubDate>Wed, 03 Feb 2021 08:00:05 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10669</guid>
+	<description><![CDATA[We talk about Youtube removing my 6th video, Governor Desantis fighting against big tech, and Newsmax already has killed its brand treating My Pillow Mike Lindell with disrespect. Show Marketing Powered By: Better Three Group Click Here to find out more or go to betterthreegroup.com GAB: @mattwilliams Telegram: @realmattwilliams Subscribe on Youtube]]></description>
+	<itunes:subtitle><![CDATA[We talk about Youtube removing my 6th video, Governor Desantis fighting against big tech, and Newsmax already has killed its brand treating My Pillow Mike Lindell with disrespect. Show Marketing Powered By: Better Three Group Click Here to find out more ]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/10669/htbt-youtube-your-days-are-numbered-and-you-will-bow-the-knee-ep-580.mp3" length="55824402"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/08/HtBT-Logo-02.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/08/HtBT-Logo-02.jpg</url>
+			<title>HtBT: Youtube your days are numbered and you will bow the knee &#8211; Ep 580</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:28:36</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
+	<title>HtBT: We&#8217;re all fascists now and that should concern us &#8211; Ep 579</title>
+	<link>https://crosspolitic.com/podcast/htbt-institutional-investors-are-hypocrites-and-we-have-been-conquered-ep-578-2/</link>
+	<pubDate>Tue, 02 Feb 2021 08:00:43 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10653</guid>
+	<description><![CDATA[The saddest story I ever heard involves Patrick Byrne, Sidney Powell, Michael Flynn, and Donald Trump and we&#8217;re all fascist. Show Marketing Powered By: Better Three Group Click Here to find out more or go to betterthreegroup.com GAB: @mattwilliams Telegram: @realmattwilliams Subscribe on Youtube]]></description>
+	<itunes:subtitle><![CDATA[The saddest story I ever heard involves Patrick Byrne, Sidney Powell, Michael Flynn, and Donald Trump and we&#8217;re all fascist. Show Marketing Powered By: Better Three Group Click Here to find out more or go to betterthreegroup.com GAB: @mattwilliams ]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+							<enclosure url="https://crosspolitic.com/podcast-download/10653/htbt-institutional-investors-are-hypocrites-and-we-have-been-conquered-ep-578-2.mp3" length="43031404"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/08/HtBT-Logo-02.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/08/HtBT-Logo-02.jpg</url>
+			<title>HtBT: We&#8217;re all fascists now and that should concern us &#8211; Ep 579</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:22:00</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	</item>
+	</channel>
+</rss>
