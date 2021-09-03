@@ -3,7 +3,7 @@ const path = require(`path`)
 const fetch = require(`node-fetch`)
 
 const split_rss = require(`./split-rss.js`)
-const new_feed_definitions = require('./new-feed-definitions.json')
+const new_feed_definitions = require('./new-feed-definitions.js')
 
 const fetch2 = (...args) => {
 	return fetch(...args)
@@ -34,7 +34,7 @@ const main = async() => {
 	items.forEach(rss_item => {
 		const [ , item_title ] = rss_item.match(/<title>(.+?)<\/title>/)
 		const { rss_name } =
-			new_feed_definitions.matches.find(({ title_prefix }) => item_title.startsWith(title_prefix)) ||
+			new_feed_definitions.matches.find(({ regex }) => regex.test(item_title)) ||
 			new_feed_definitions.default
 
 		if (!bins[rss_name]) {
