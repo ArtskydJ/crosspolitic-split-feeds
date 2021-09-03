@@ -2,7 +2,7 @@ const fs = require(`fs`)
 const path = require(`path`)
 const fetch = require(`node-fetch`)
 
-const split_podcast_file = require(`./split-podcast-file.js`)
+const split_rss = require(`./split-rss.js`)
 const new_feed_definitions = require('./new-feed-definitions.json')
 
 const fetch2 = (...args) => {
@@ -27,7 +27,7 @@ const main = async() => {
 	write_file(`../tmp/crosspolitic.rss`, body)
 	// const body = read_file(`../tmp/crosspolitic.rss`)
 
-	const { begin_channel, items, end_channel } = split_podcast_file(body)
+	const { begin_channel, items, end_channel } = split_rss(body)
 
 	const bins = {}
 
