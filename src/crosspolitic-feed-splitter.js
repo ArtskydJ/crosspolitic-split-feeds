@@ -58,7 +58,7 @@ const main = async() => {
 	})
 
 	const markdown_list = all_new_feed_definitions
-		.map(({ rss_name, title }) => `- [${ title }](${ get_rss_url(rss_name) })`)
+		.map(({ rss_name, title }) => `- [${ title }](${ get_rss_url(rss_name) }) (${bins[rss_name].length} episodes)`)
 		.join(`\n`)
 	const current_readme = read_file(`../README.md`)
 	const new_readme = current_readme
