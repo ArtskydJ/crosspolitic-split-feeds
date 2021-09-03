@@ -2,7 +2,7 @@ module.exports = {
 	matches: [
 		 { regex: /^AD\b/,                       rss_name: 'adrobles.rss',          title: 'AD Robles'                     },
 		 { regex: /^Campus Preacher LIVE:/i,     rss_name: 'campus.rss',            title: 'Campus Preacher LIVE'          },
-		 { regex: /News Brief for \w+day/i,      rss_name: 'dailynews.rss',         title: 'Daily News Brief'              },
+		 { regex: /News( Brief)? for \w+day/i,   rss_name: 'dailynews.rss',         title: 'Daily News Brief'              },
 		 { regex: /^DOANE!T/i,                   rss_name: 'darrendoane.rss',       title: 'DOANE!T'                       },
 		 { regex: /^HtBT/i,                      rss_name: 'howtobuildatent.rss',   title: 'HtBT'                          },
 		 { regex: /^MATT:/i,                     rss_name: 'mattwilliams.rss',      title: 'Matt Williams'                 },
