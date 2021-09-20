@@ -16,7 +16,7 @@
 		<description>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
 
 Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</description>
-		<lastBuildDate>Fri, 17 Sep 2021 11:15:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 20 Sep 2021 03:15:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<copyright></copyright>
 		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
@@ -48,6 +48,24 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 						
 		
 <item>
+	<title>American Segregation Return, Campus Preacher in Studio, &#038; CP’s TOP TEN of 2021</title>
+	<link>https://crosspolitic.com/podcast/american-segregation-return-campus-preacher-in-studio-cps-top-ten-of-2021/</link>
+	<pubDate>Mon, 20 Sep 2021 03:15:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11904</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+								<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://crosspolitic.com/podcast-download/11904/american-segregation-return-campus-preacher-in-studio-cps-top-ten-of-2021.mp3" length="35702130"
+			   type="audio/mpeg"></enclosure>
+			<itunes:summary><![CDATA[]]></itunes:summary>
+			<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:14:21</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
 	<title>Mid-Week Fix: Fighting w/ The Power Of Story &#124; Pr. Josh McPherson</title>
 	<link>https://crosspolitic.com/podcast/mid-week-fix-fighting-w-the-power-of-story-pr-josh-mcpherson/</link>
 	<pubDate>Wed, 15 Sep 2021 19:25:27 +0000</pubDate>
@@ -1106,26 +1124,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:duration>00:53:34</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
 	
-</item><item>
-	<title>Law and Profits is BACK! Gina Carano is Cancelled!</title>
-	<link>https://crosspolitic.com/podcast/law-and-profits-is-back-gina-carano-is-cancelled/</link>
-	<pubDate>Fri, 12 Feb 2021 04:26:29 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10717</guid>
-	<description><![CDATA[We talk about Gina Carano and Cancel Culture. Why is it important for Christians to stand up against cancel culture. Does Cancel Culture really hurt people? It&#8217;s been a long time coming, but I am moved in and the studio has been painted and sound proofed. So here&#8217;s the first new episode of Law and [&#8230;]]]></description>
-	<itunes:subtitle><![CDATA[We talk about Gina Carano and Cancel Culture. Why is it important for Christians to stand up against cancel culture. Does Cancel Culture really hurt people? It&#8217;s been a long time coming, but I am moved in and the studio has been painted and sound p]]></itunes:subtitle>
-			<itunes:keywords>Cancel Culture,Cancelled,Gina Carano,Mandalorian,Star Wars</itunes:keywords>
-							<enclosure url="https://crosspolitic.com/podcast-download/10717/law-and-profits-is-back-gina-carano-is-cancelled.mp3" length="37942357"
-			   type="audio/mpeg"></enclosure>
-				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/04/LP-Logo-3000-scaled.jpg"></itunes:image>
-		<image>
-			<url>https://crosspolitic.com/wp-content/uploads/2020/04/LP-Logo-3000-scaled.jpg</url>
-			<title>Law and Profits is BACK! Gina Carano is Cancelled!</title>
-		</image>
-		<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>00:52:41</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	</item>
+</item>
 	</channel>
 </rss>
