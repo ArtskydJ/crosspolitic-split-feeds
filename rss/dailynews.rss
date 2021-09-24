@@ -16,7 +16,7 @@
 		<description>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
 
 Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</description>
-		<lastBuildDate>Thu, 23 Sep 2021 16:50:03 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 24 Sep 2021 01:15:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<copyright></copyright>
 		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
@@ -2554,21 +2554,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:duration>00:19:13</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
 	
-</item><item>
-	<title>Daily News Brief for Tuesday, Feb. 16, 2021</title>
-	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-feb-16-2021/</link>
-	<pubDate>Tue, 16 Feb 2021 12:15:00 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10737</guid>
-	<description><![CDATA[This is Toby Sumpter with your CrossPolitic Daily News Brief for Tuesday, Feb. 16, 2021. Today you will hear about the courageous stand of Pastor James Coates in Edmonton, Alberta, the cray-cray Covid policies of New Zealand, Wisdom from Mr. Bean, Godfather Cuomo doesn’t care about all the old people he killed with his covid [&#8230;]]]></description>
-	<itunes:subtitle><![CDATA[This is Toby Sumpter with your CrossPolitic Daily News Brief for Tuesday, Feb. 16, 2021. Today you will hear about the courageous stand of Pastor James Coates in Edmonton, Alberta, the cray-cray Covid policies of New Zealand, Wisdom from Mr. Bean, Godfat]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
-							<enclosure url="https://crosspolitic.com/podcast-download/10737/daily-news-brief-for-tuesday-feb-16-2021.mp3" length="9412290"
-			   type="audio/mpeg"></enclosure>
-			<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>00:19:35</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	</item>
+</item>
 	</channel>
 </rss>
