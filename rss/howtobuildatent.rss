@@ -16,7 +16,7 @@
 		<description>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
 
 Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</description>
-		<lastBuildDate>Fri, 24 Sep 2021 01:15:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 27 Sep 2021 19:06:24 +0000</lastBuildDate>
 		<language>en-US</language>
 		<copyright></copyright>
 		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
@@ -194,26 +194,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:duration>00:21:56</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
 	
-</item><item>
-	<title>HTBT: It&#8217;s colder in the GOP than Texas in February &#8211; EP 589</title>
-	<link>https://crosspolitic.com/podcast/htbt-its-colder-in-the-gop-than-texas-in-february-ep-589/</link>
-	<pubDate>Wed, 17 Feb 2021 08:00:06 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10749</guid>
-	<description><![CDATA[We talk about some wins at the local level and the fight between CCP Mitch and Donald Trump. Help support Voddie Baucham suffering from heart failure. https://www.gofundme.com/f/voddie-baucham Show Marketing Powered By: Better Three Group Click Here to find out more or go to betterthreegroup.com GAB: @mattwilliams Telegram: @realmattwilliams]]></description>
-	<itunes:subtitle><![CDATA[We talk about some wins at the local level and the fight between CCP Mitch and Donald Trump. Help support Voddie Baucham suffering from heart failure. https://www.gofundme.com/f/voddie-baucham Show Marketing Powered By: Better Three Group Click Here to f]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
-							<enclosure url="https://crosspolitic.com/podcast-download/10749/htbt-its-colder-in-the-gop-than-texas-in-february-ep-589.mp3" length="38330719"
-			   type="audio/mpeg"></enclosure>
-				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/08/HtBT-Logo-02.jpg"></itunes:image>
-		<image>
-			<url>https://crosspolitic.com/wp-content/uploads/2020/08/HtBT-Logo-02.jpg</url>
-			<title>HTBT: It&#8217;s colder in the GOP than Texas in February &#8211; EP 589</title>
-		</image>
-		<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>00:19:35</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	</item>
+</item>
 	</channel>
 </rss>
