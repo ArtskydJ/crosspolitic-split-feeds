@@ -16,7 +16,7 @@
 		<description>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
 
 Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</description>
-		<lastBuildDate>Mon, 27 Sep 2021 20:42:36 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 28 Sep 2021 14:26:33 +0000</lastBuildDate>
 		<language>en-US</language>
 		<copyright></copyright>
 		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
@@ -91,6 +91,24 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 		<itunes:explicit>clean</itunes:explicit>
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:48:23</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	</item>
+<item>
+	<title>Jeff Durbin: Stand With Warriors, N.D. Wilson in Studio, STICKERGATE Update, Riot &#038; the Dance</title>
+	<link>https://crosspolitic.com/podcast/jeff-durbin-stand-with-warriors-n-d-wilson-in-studio-stickergate-update-riot-the-dance/</link>
+	<pubDate>Mon, 27 Sep 2021 03:15:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11916</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+								<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://crosspolitic.com/podcast-download/11916/jeff-durbin-stand-with-warriors-n-d-wilson-in-studio-stickergate-update-riot-the-dance.mp3" length="41707506"
+			   type="audio/mpeg"></enclosure>
+			<itunes:summary><![CDATA[]]></itunes:summary>
+			<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:26:52</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
 	</item>
 <item>
@@ -263,10 +281,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<description><![CDATA[]]></description>
 	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 			<itunes:keywords>2021</itunes:keywords>
-								<content:encoded><![CDATA[]]></content:encoded>
-		<enclosure url="https://crosspolitic.com/podcast-download/11904/american-segregation-return-campus-preacher-in-studio-cps-top-ten-of-2021.mp3" length="35702130"
+							<enclosure url="https://crosspolitic.com/podcast-download/11904/american-segregation-return-campus-preacher-in-studio-cps-top-ten-of-2021.mp3" length="35702130"
 			   type="audio/mpeg"></enclosure>
-			<itunes:summary><![CDATA[]]></itunes:summary>
 			<itunes:explicit>clean</itunes:explicit>
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:14:21</itunes:duration>
@@ -9791,22 +9807,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 		<itunes:explicit>clean</itunes:explicit>
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:26:30</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	</item>
-<item>
-	<title>MidWeek Fix: Bad Laws Hurt Good People &#8211; TX/Alberta</title>
-	<link>https://crosspolitic.com/podcast/midweek-fix-bad-laws-hurt-good-people-tx-alberta/</link>
-	<pubDate>Wed, 17 Feb 2021 23:26:55 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10758</guid>
-	<description><![CDATA[&#160; Click the link to get it out on Gab TV! https://tv.gab.com/channel/crosspolitic/view/midweek-fix-bad-laws-hurt-good-602d8e99ecacb8ee7ed64a72]]></description>
-	<itunes:subtitle><![CDATA[&#160; Click the link to get it out on Gab TV! https://tv.gab.com/channel/crosspolitic/view/midweek-fix-bad-laws-hurt-good-602d8e99ecacb8ee7ed64a72]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
-							<enclosure url="https://crosspolitic.com/podcast-download/10758/midweek-fix-bad-laws-hurt-good-people-tx-alberta.mp3" length="12671072"
-			   type="audio/mpeg"></enclosure>
-			<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>00:26:23</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
 	</item>
 	</channel>
