@@ -16,7 +16,7 @@
 		<description>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
 
 Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</description>
-		<lastBuildDate>Thu, 30 Sep 2021 01:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 30 Sep 2021 10:31:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<copyright></copyright>
 		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
@@ -48,6 +48,29 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 						
 		
 <item>
+	<title>The Theology Pugcast: The Soul of Man Under Socialism</title>
+	<link>https://crosspolitic.com/podcast/the-theology-pugcast-the-soul-of-man-under-socialism/</link>
+	<pubDate>Thu, 30 Sep 2021 10:31:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11912</guid>
+	<description><![CDATA[Today Chris introduces the guys to Christopher Lasch and a chapter in his book, The Revolt of the Elites and the Betrayal of Democracy. The chapter is, The Soul of Man Under Secularism. In the chapter Lasch riffs on Oscar Wilde’s, The Soul of Man Under Socialism. Wilde believed that Socialism would free people from [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[Today Chris introduces the guys to Christopher Lasch and a chapter in his book, The Revolt of the Elites and the Betrayal of Democracy. The chapter is, The Soul of Man Under Secularism. In the chapter Lasch riffs on Oscar Wilde’s, The Soul of Man Under S]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+								<content:encoded><![CDATA[Today Chris introduces the guys to Christopher Lasch and a chapter in his book, The Revolt of the Elites and the Betrayal of Democracy. The chapter is, The Soul of Man Under Secularism. In the chapter Lasch riffs on Oscar Wilde’s, The Soul of Man Under Socialism. Wilde believed that Socialism would free people from [&#8230;]]]></content:encoded>
+		<enclosure url="https://crosspolitic.com/podcast-download/11912/the-theology-pugcast-the-soul-of-man-under-socialism.mp3" length="101962201"
+			   type="audio/mpeg"></enclosure>
+			<itunes:summary><![CDATA[Today Chris introduces the guys to Christopher Lasch and a chapter in his book, The Revolt of the Elites and the Betrayal of Democracy. The chapter is, The Soul of Man Under Secularism. In the chapter Lasch riffs on Oscar Wilde’s, The Soul of Man Under Socialism. Wilde believed that Socialism would free people from [&#8230;]]]></itunes:summary>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg</url>
+			<title>The Theology Pugcast: The Soul of Man Under Socialism</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:00:41</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
 	<title>The Theology Pugcast: Magic, Enchantment, and Worldview</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-magic-enchantment-and-worldview/</link>
 	<pubDate>Thu, 23 Sep 2021 10:00:00 +0000</pubDate>
@@ -700,26 +723,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:duration>01:01:09</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
 	
-</item><item>
-	<title>The Theology Pugcast: Morgoth&#8217;s Ring!</title>
-	<link>https://crosspolitic.com/podcast/the-theology-pugcast-morgoths-ring/</link>
-	<pubDate>Thu, 18 Feb 2021 13:00:34 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10678</guid>
-	<description><![CDATA[Little by little, the notes and reflections of J. R. R. Tolkien have been published posthumously by his son, Christopher. Among the many volumes is the Tenth Volume in The History of Middle-Earth, entitled Morgoth&#8217;s Ring. The book contains many of Tolkien&#8217;s reflections on the nature of evil, mortality, and the eschatology of Middle-Earth. Among [&#8230;]]]></description>
-	<itunes:subtitle><![CDATA[Little by little, the notes and reflections of J. R. R. Tolkien have been published posthumously by his son, Christopher. Among the many volumes is the Tenth Volume in The History of Middle-Earth, entitled Morgoth&#8217;s Ring. The book contains many of ]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
-							<enclosure url="https://crosspolitic.com/podcast-download/10678/the-theology-pugcast-morgoths-ring.mp3" length="164311112"
-			   type="audio/mpeg"></enclosure>
-				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg"></itunes:image>
-		<image>
-			<url>https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg</url>
-			<title>The Theology Pugcast: Morgoth&#8217;s Ring!</title>
-		</image>
-		<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>01:08:27</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	</item>
+</item>
 	</channel>
 </rss>
