@@ -16,7 +16,7 @@
 		<description>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
 
 Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</description>
-		<lastBuildDate>Thu, 30 Sep 2021 11:15:00 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 30 Sep 2021 23:35:07 +0000</lastBuildDate>
 		<language>en-US</language>
 		<copyright></copyright>
 		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
@@ -102,10 +102,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<description><![CDATA[Fed signals plan to pull back economic support even as virus looms https://www.politico.com/news/2021/09/22/federal-reserve-pulls-back-support-economy-513618 Latin American Migration, Once Limited to a Few Countries, Turns Into a Mass Exodus https://apple.news/AFlG8ehY3RniI2WzOT0s8kg Liquor Shortages Caused By The COVID-19 Pandemic Persist In Some States https://www.npr.org/2021/09/22/1039600464/liquor-shortages-covid-19-pennsylvania-virginia-ration-alcohol Soda Shortages in the UK https://www.foxbusiness.com/lifestyle/soda-shortage-may-hit-britain Black Lives Matter Is Threatening An ‘Uprising’ Against ‘Racist’ [&#8230;]]]></description>
 	<itunes:subtitle><![CDATA[Fed signals plan to pull back economic support even as virus looms https://www.politico.com/news/2021/09/22/federal-reserve-pulls-back-support-economy-513618 Latin American Migration, Once Limited to a Few Countries, Turns Into a Mass Exodus https://appl]]></itunes:subtitle>
 			<itunes:keywords>2021</itunes:keywords>
-								<content:encoded><![CDATA[Fed signals plan to pull back economic support even as virus looms https://www.politico.com/news/2021/09/22/federal-reserve-pulls-back-support-economy-513618 Latin American Migration, Once Limited to a Few Countries, Turns Into a Mass Exodus https://apple.news/AFlG8ehY3RniI2WzOT0s8kg Liquor Shortages Caused By The COVID-19 Pandemic Persist In Some States https://www.npr.org/2021/09/22/1039600464/liquor-shortages-covid-19-pennsylvania-virginia-ration-alcohol Soda Shortages in the UK https://www.foxbusiness.com/lifestyle/soda-shortage-may-hit-britain Black Lives Matter Is Threatening An ‘Uprising’ Against ‘Racist’ [&#8230;]]]></content:encoded>
-		<enclosure url="https://crosspolitic.com/podcast-download/11910/daily-news-brief-for-thursday-september-23-2021.mp3" length="9242946"
+							<enclosure url="https://crosspolitic.com/podcast-download/11910/daily-news-brief-for-thursday-september-23-2021.mp3" length="9242946"
 			   type="audio/mpeg"></enclosure>
-			<itunes:summary><![CDATA[Fed signals plan to pull back economic support even as virus looms https://www.politico.com/news/2021/09/22/federal-reserve-pulls-back-support-economy-513618 Latin American Migration, Once Limited to a Few Countries, Turns Into a Mass Exodus https://apple.news/AFlG8ehY3RniI2WzOT0s8kg Liquor Shortages Caused By The COVID-19 Pandemic Persist In Some States https://www.npr.org/2021/09/22/1039600464/liquor-shortages-covid-19-pennsylvania-virginia-ration-alcohol Soda Shortages in the UK https://www.foxbusiness.com/lifestyle/soda-shortage-may-hit-britain Black Lives Matter Is Threatening An ‘Uprising’ Against ‘Racist’ [&#8230;]]]></itunes:summary>
 				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/AC587412-DDAD-4BBA-A4CC-401E362B5895.png"></itunes:image>
 		<image>
 			<url>https://crosspolitic.com/wp-content/uploads/2021/06/AC587412-DDAD-4BBA-A4CC-401E362B5895.png</url>
@@ -2544,21 +2542,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:duration>00:22:14</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
 	
-</item><item>
-	<title>Daily News Brief for Friday, February 19, 2021</title>
-	<link>https://crosspolitic.com/podcast/daily-news-brief-for-friday-february-19-2021/</link>
-	<pubDate>Fri, 19 Feb 2021 12:15:39 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10768</guid>
-	<description><![CDATA[&#160; Good Friday! This is the Chocolate Knox with you CrossPolitic Daily News Brief for Friday February 19th 2021 Happy Black History month! If you have any news stories you want to send us here you can do that at news@crosspolitic.com that’s news@crosspolitic.com You can also find the most important stories we think you need [&#8230;]]]></description>
-	<itunes:subtitle><![CDATA[&#160; Good Friday! This is the Chocolate Knox with you CrossPolitic Daily News Brief for Friday February 19th 2021 Happy Black History month! If you have any news stories you want to send us here you can do that at news@crosspolitic.com that’s news@cros]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
-							<enclosure url="https://crosspolitic.com/podcast-download/10768/daily-news-brief-for-friday-february-19-2021.mp3" length="8158146"
-			   type="audio/mpeg"></enclosure>
-			<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>00:16:58</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	</item>
+</item>
 	</channel>
 </rss>
