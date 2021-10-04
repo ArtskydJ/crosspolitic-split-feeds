@@ -16,7 +16,7 @@
 		<description>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
 
 Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</description>
-		<lastBuildDate>Mon, 04 Oct 2021 03:15:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 04 Oct 2021 20:32:22 +0000</lastBuildDate>
 		<language>en-US</language>
 		<copyright></copyright>
 		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
@@ -110,26 +110,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:duration>00:36:36</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
 	
-</item><item>
-	<title>HTBT: We called the SCOTUS decision on the election and Biden wants to abolish ICE &#8211; EP 593</title>
-	<link>https://crosspolitic.com/podcast/htbt-john-kerry-says-we-only-have-9-years-left-again-ep-593/</link>
-	<pubDate>Tue, 23 Feb 2021 08:00:03 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10777</guid>
-	<description><![CDATA[We discuss the most outrageous reason SCOTUS dismissed these election cases and Joe Biden wants to abolish ICE just like they said they would.  Help support Voddie Baucham suffering from heart failure. https://www.gofundme.com/f/voddie-baucham Show Marketing Powered By: Better Three Group Click Here to find out more or go to betterthreegroup.com GAB: @mattwilliams Telegram: @realmattwilliams]]></description>
-	<itunes:subtitle><![CDATA[We discuss the most outrageous reason SCOTUS dismissed these election cases and Joe Biden wants to abolish ICE just like they said they would.  Help support Voddie Baucham suffering from heart failure. https://www.gofundme.com/f/voddie-baucham Show Marke]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
-							<enclosure url="https://crosspolitic.com/podcast-download/10777/htbt-john-kerry-says-we-only-have-9-years-left-again-ep-593.mp3" length="37959965"
-			   type="audio/mpeg"></enclosure>
-				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/HtBT-Logo-1400x.jpg"></itunes:image>
-		<image>
-			<url>https://crosspolitic.com/wp-content/uploads/2020/07/HtBT-Logo-1400x.jpg</url>
-			<title>HTBT: We called the SCOTUS decision on the election and Biden wants to abolish ICE &#8211; EP 593</title>
-		</image>
-		<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>00:19:23</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	</item>
+</item>
 	</channel>
 </rss>
