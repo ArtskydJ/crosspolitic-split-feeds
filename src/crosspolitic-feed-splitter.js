@@ -27,26 +27,23 @@ const main = async() => {
 	write_file(`../tmp/crosspolitic.rss`, body)
 	// const body = read_file(`../tmp/crosspolitic.rss`)
 
+	const all_new_feed_definitions = [
+		...new_feed_definitions.matches,
+		new_feed_definitions.default,
+	]
+
 	const { begin_channel, items, end_channel } = split_rss(body)
 
 	const bins = {}
+	all_new_feed_definitions.forEach(({ rss_name }) => bins[rss_name] = [])
 
 	items.forEach(rss_item => {
 		const [ , item_title ] = rss_item.match(/<title>(.+?)<\/title>/)
 		const { rss_name } =
 			new_feed_definitions.matches.find(({ regex }) => regex.test(item_title)) ||
 			new_feed_definitions.default
-
-		if (!bins[rss_name]) {
-			bins[rss_name] = []
-		}
 		bins[rss_name].push(rss_item)
 	})
-
-	const all_new_feed_definitions = [
-		...new_feed_definitions.matches,
-		new_feed_definitions.default,
-	]
 
 	all_new_feed_definitions.forEach(({ rss_name, title }) => {
 		const new_begin_channel = begin_channel
