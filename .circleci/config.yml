@@ -35,7 +35,7 @@ jobs:
       - checkout
       - run: npm ci
       # - *npm_save_cache
-      - run: node src/crosspolitic-feed-splitter.js
+      - run: npm run build
 
       - add_ssh_keys:
           fingerprints:

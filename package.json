@@ -4,7 +4,7 @@
   "description": "",
   "main": "crosspolitic-feed-splitter.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node src/crosspolitic-feed-splitter.js"
   },
   "author": "Joseph Dykstra",
   "license": "MIT",
