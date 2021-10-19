@@ -16,7 +16,7 @@
 		<description>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
 
 Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</description>
-		<lastBuildDate>Tue, 19 Oct 2021 09:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 19 Oct 2021 11:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<copyright></copyright>
 		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
@@ -48,6 +48,29 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 						
 		
 <item>
+	<title>Daily News Brief for Tuesday, October 19, 2021</title>
+	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-october-19-2021/</link>
+	<pubDate>Tue, 19 Oct 2021 11:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11972</guid>
+	<description><![CDATA[“The world has gone mad”….. and more on today’s CrossPolitic Daily Newsbrief. I’m Toby Sumpter and today is Tuesday, October 19, 2021. Do you love the CrossPolitic Daily News Brief? Would you consider becoming a Fight Laugh Feast Club Member? Go to FLF Network dot com and click “join the club.” We are committed to [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[“The world has gone mad”….. and more on today’s CrossPolitic Daily Newsbrief. I’m Toby Sumpter and today is Tuesday, October 19, 2021. Do you love the CrossPolitic Daily News Brief? Would you consider becoming a Fight Laugh Feast Club Member? Go to FLF N]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+								<content:encoded><![CDATA[“The world has gone mad”….. and more on today’s CrossPolitic Daily Newsbrief. I’m Toby Sumpter and today is Tuesday, October 19, 2021. Do you love the CrossPolitic Daily News Brief? Would you consider becoming a Fight Laugh Feast Club Member? Go to FLF Network dot com and click “join the club.” We are committed to [&#8230;]]]></content:encoded>
+		<enclosure url="https://crosspolitic.com/podcast-download/11972/daily-news-brief-for-tuesday-october-19-2021.mp3" length="6967362"
+			   type="audio/mpeg"></enclosure>
+			<itunes:summary><![CDATA[“The world has gone mad”….. and more on today’s CrossPolitic Daily Newsbrief. I’m Toby Sumpter and today is Tuesday, October 19, 2021. Do you love the CrossPolitic Daily News Brief? Would you consider becoming a Fight Laugh Feast Club Member? Go to FLF Network dot com and click “join the club.” We are committed to [&#8230;]]]></itunes:summary>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/AC587412-DDAD-4BBA-A4CC-401E362B5895.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2021/06/AC587412-DDAD-4BBA-A4CC-401E362B5895.png</url>
+			<title>Daily News Brief for Tuesday, October 19, 2021</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:14:30</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+	
+</item><item>
 	<title>Daily News Brief for Monday, October 18, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-monday-october-18-2021/</link>
 	<pubDate>Mon, 18 Oct 2021 20:56:43 +0000</pubDate>
@@ -2668,21 +2691,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:duration>00:15:09</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
 	
-</item><item>
-	<title>Daily News Brief for Friday, March 5, 2021</title>
-	<link>https://crosspolitic.com/podcast/daily-news-brief-for-friday-march-5-2021/</link>
-	<pubDate>Fri, 05 Mar 2021 12:15:45 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10882</guid>
-	<description><![CDATA[&#160; This is Toby Sumpter with your CrossPolitic Daily News Brief for Friday, March 5, 2021. Today you will hear about Republicans failing to deny the premise ”“ and we’re not sure if they are capable of denying any premise the Democrats bring ”“ and that’s why the Democrats win and the Republicans lose over [&#8230;]]]></description>
-	<itunes:subtitle><![CDATA[&#160; This is Toby Sumpter with your CrossPolitic Daily News Brief for Friday, March 5, 2021. Today you will hear about Republicans failing to deny the premise ”“ and we’re not sure if they are capable of denying any premise the Democrats bring ”“ and t]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
-							<enclosure url="https://crosspolitic.com/podcast-download/10882/daily-news-brief-for-friday-march-5-2021.mp3" length="8446722"
-			   type="audio/mpeg"></enclosure>
-			<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>00:17:34</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	</item>
+</item>
 	</channel>
 </rss>
