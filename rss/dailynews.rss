@@ -16,7 +16,7 @@
 		<description>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
 
 Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</description>
-		<lastBuildDate>Fri, 22 Oct 2021 16:28:01 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 23 Oct 2021 07:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<copyright></copyright>
 		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
@@ -2699,21 +2699,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:duration>00:14:24</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
 	
-</item><item>
-	<title>Daily News Brief for Thursday, March 11, 2021</title>
-	<link>https://crosspolitic.com/podcast/daily-news-brief-for-thursday-march-11-2021/</link>
-	<pubDate>Thu, 11 Mar 2021 12:15:00 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=10911</guid>
-	<description><![CDATA[This is Toby Sumpter with your CrossPolitic Daily News Brief for Thursday, March 11, 2021. Chocolate Knox &#38; Water Boy on are on Spring Break this week.&#160; Today you will hear about the CoronaPork Bill, the Supreme Court defends 1st Amendment Rights and effectively rules on the nature of damages and what makes a case [&#8230;]]]></description>
-	<itunes:subtitle><![CDATA[This is Toby Sumpter with your CrossPolitic Daily News Brief for Thursday, March 11, 2021. Chocolate Knox &#38; Water Boy on are on Spring Break this week.&#160; Today you will hear about the CoronaPork Bill, the Supreme Court defends 1st Amendment Right]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
-							<enclosure url="https://crosspolitic.com/podcast-download/10911/daily-news-brief-for-thursday-march-11-2021.mp3" length="9354114"
-			   type="audio/mpeg"></enclosure>
-			<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>00:19:28</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	</item>
+</item>
 	</channel>
 </rss>
