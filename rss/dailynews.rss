@@ -16,7 +16,7 @@
 		<description>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
 
 Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</description>
-		<lastBuildDate>Mon, 25 Oct 2021 04:00:53 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 28 Oct 2021 10:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<copyright></copyright>
 		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
@@ -102,10 +102,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<description><![CDATA[“The world has gone mad”….. and more on today’s CrossPolitic Daily Newsbrief. I’m Toby Sumpter and today is Tuesday, October 19, 2021. Do you love the CrossPolitic Daily News Brief? Would you consider becoming a Fight Laugh Feast Club Member? Go to FLF Network dot com and click “join the club.” We are committed to [&#8230;]]]></description>
 	<itunes:subtitle><![CDATA[“The world has gone mad”….. and more on today’s CrossPolitic Daily Newsbrief. I’m Toby Sumpter and today is Tuesday, October 19, 2021. Do you love the CrossPolitic Daily News Brief? Would you consider becoming a Fight Laugh Feast Club Member? Go to FLF N]]></itunes:subtitle>
 			<itunes:keywords>2021</itunes:keywords>
-								<content:encoded><![CDATA[“The world has gone mad”….. and more on today’s CrossPolitic Daily Newsbrief. I’m Toby Sumpter and today is Tuesday, October 19, 2021. Do you love the CrossPolitic Daily News Brief? Would you consider becoming a Fight Laugh Feast Club Member? Go to FLF Network dot com and click “join the club.” We are committed to [&#8230;]]]></content:encoded>
-		<enclosure url="https://crosspolitic.com/podcast-download/11972/daily-news-brief-for-tuesday-october-19-2021.mp3" length="6967362"
+							<enclosure url="https://crosspolitic.com/podcast-download/11972/daily-news-brief-for-tuesday-october-19-2021.mp3" length="6967362"
 			   type="audio/mpeg"></enclosure>
-			<itunes:summary><![CDATA[“The world has gone mad”….. and more on today’s CrossPolitic Daily Newsbrief. I’m Toby Sumpter and today is Tuesday, October 19, 2021. Do you love the CrossPolitic Daily News Brief? Would you consider becoming a Fight Laugh Feast Club Member? Go to FLF Network dot com and click “join the club.” We are committed to [&#8230;]]]></itunes:summary>
 				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/AC587412-DDAD-4BBA-A4CC-401E362B5895.png"></itunes:image>
 		<image>
 			<url>https://crosspolitic.com/wp-content/uploads/2021/06/AC587412-DDAD-4BBA-A4CC-401E362B5895.png</url>
@@ -2698,7 +2696,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:14:24</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
-</item>
+	</item>
 	</channel>
 </rss>
