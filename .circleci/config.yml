@@ -36,11 +36,11 @@ jobs:
 
 workflows:
   version: 2
-  hourly:
+  every_six_hours:
     triggers:
       - schedule:
-          cron: "0 * * * *"
-          # https://cron.help/#0_*_*_*_*
+          cron: "25 1,7,13,19 * * *"
+          # https://cron.help/#25_1,7,13,19_*_*_*
           filters:
             branches:
               only:
