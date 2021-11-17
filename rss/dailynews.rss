@@ -17,7 +17,7 @@
 		<description>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
 
 Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</description>
-		<lastBuildDate>Tue, 16 Nov 2021 12:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 17 Nov 2021 12:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<copyright></copyright>
 		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
@@ -49,6 +49,30 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 		
 
 <item>
+	<title>Daily News Brief for Wednesday, November 17, 2021</title>
+	<link>https://crosspolitic.com/podcast/daily-news-brief-for-wednesday-november-17-2021/</link>
+	<pubDate>Wed, 17 Nov 2021 12:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=12036</guid>
+	<description><![CDATA[So, as most of you know, I was in Mexico last week for a family wedding, well it is good to be back in the studio, and back to the hands on the plow. Having grown up in Texas, having lived in New Mexico, it reminded me how important Mexico really is, and I would [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[So, as most of you know, I was in Mexico last week for a family wedding, well it is good to be back in the studio, and back to the hands on the plow. Having grown up in Texas, having lived in New Mexico, it reminded me how important Mexico really is, and]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+								<content:encoded><![CDATA[So, as most of you know, I was in Mexico last week for a family wedding, well it is good to be back in the studio, and back to the hands on the plow. Having grown up in Texas, having lived in New Mexico, it reminded me how important Mexico really is, and I would [&#8230;]]]></content:encoded>
+		<enclosure url="https://crosspolitic.com/podcast-download/12036/daily-news-brief-for-wednesday-november-17-2021.mp3" length="9199625"
+			   type="audio/mpeg"></enclosure>
+			<itunes:summary><![CDATA[So, as most of you know, I was in Mexico last week for a family wedding, well it is good to be back in the studio, and back to the hands on the plow. Having grown up in Texas, having lived in New Mexico, it reminded me how important Mexico really is, and I would [&#8230;]]]></itunes:summary>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/AC587412-DDAD-4BBA-A4CC-401E362B5895.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2021/06/AC587412-DDAD-4BBA-A4CC-401E362B5895.png</url>
+			<title>Daily News Brief for Wednesday, November 17, 2021</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:19:09</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+
+
+</item><item>
 	<title>Daily News Brief for Tuesday, November 16, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-november-16-2021/</link>
 	<pubDate>Tue, 16 Nov 2021 12:00:00 +0000</pubDate>
@@ -2928,21 +2952,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
 
 
-</item><item>
-	<title>Daily News Brief for Tuesday, March 30, 2021.</title>
-	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-march-30-2021/</link>
-	<pubDate>Tue, 30 Mar 2021 11:00:00 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11011</guid>
-	<description><![CDATA[This is Toby Sumpter with your CrossPolitic Daily News Brief for Tuesday, March 30, 2021. Have you registered for the Fight Laugh Feast Rally in Rapid City, South Dakota, April 29, 30, May 1? Excited to see many of you as we learn to Love God, Sing Psalms, Defy Tyrants. Come hear talks from Pastor [&#8230;]]]></description>
-	<itunes:subtitle><![CDATA[This is Toby Sumpter with your CrossPolitic Daily News Brief for Tuesday, March 30, 2021. Have you registered for the Fight Laugh Feast Rally in Rapid City, South Dakota, April 29, 30, May 1? Excited to see many of you as we learn to Love God, Sing Psalm]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
-							<enclosure url="https://crosspolitic.com/podcast-download/11011/daily-news-brief-for-tuesday-march-30-2021.mp3" length="8077746"
-			   type="audio/mpeg"></enclosure>
-			<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>00:16:48</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
 </item>
 	</channel>
 </rss>
