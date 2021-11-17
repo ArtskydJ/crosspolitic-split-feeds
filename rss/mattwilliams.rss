@@ -8,8 +8,9 @@
 	 xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 	 xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	 xmlns:podcast="https://podcastindex.org/namespace/1.0"
 	>
-	<channel>
+		<channel>
 		<title>FLF - Matt Williams</title>
 		<atom:link href="https://artskydj.github.io/crosspolitic-split-feeds/rss/mattwilliams.rss" rel="self" type="application/rss+xml"/>
 		<link>https://crosspolitic.com/</link>
@@ -20,33 +21,33 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 		<language>en-US</language>
 		<copyright></copyright>
 		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
-		<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+		<itunes:author>CrossPolitic Studios</itunes:author>
 					<itunes:type>serial</itunes:type>
-					<itunes:summary>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
-
-Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</itunes:summary>
+				<itunes:summary></itunes:summary>
 		<itunes:owner>
 			<itunes:name>CrossPolitic Studios</itunes:name>
 			<itunes:email>fightlaughfeast@gmail.com</itunes:email>
 		</itunes:owner>
 		<itunes:explicit>clean</itunes:explicit>
-					<itunes:image href="http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png"></itunes:image>
+		<itunes:image href="http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png"></itunes:image>
 			<image>
 				<url>http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png</url>
 				<title>Fight Laugh Feast Network</title>
 				<link>https://crosspolitic.com/</link>
 			</image>
-					<itunes:category text="News">
+		<itunes:category text="News">
+			<itunes:category text="Christianity"></itunes:category>
+		</itunes:category>
+		<itunes:category text="Religion &amp; Spirituality">
 									<itunes:category text="Christianity"></itunes:category>
 							</itunes:category>
-							<itunes:category text="Religion &amp; Spirituality">
-									<itunes:category text="Christianity"></itunes:category>
-							</itunes:category>
-							<itunes:category text="Society &amp; Culture">
+		<itunes:category text="Society &amp; Culture">
 									<itunes:category text="Philosophy"></itunes:category>
 							</itunes:category>
-						
+		<podcast:locked owner="fightlaughfeast@gmail.com">yes</podcast:locked>
+		<podcast:guid>bdcdb5ef-eb7a-5df7-865f-f0fa4628a66b</podcast:guid>
 		
+
 <item>
 	<title>MATT: THINGS ARE TERRIBLE, THIS IS WHAT YOU NEED TO DO &#8211; EP 661</title>
 	<link>https://crosspolitic.com/podcast/matt-things-are-terrible-this-is-what-you-need-to-do-ep-661-2/</link>
@@ -67,7 +68,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:12:38</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: Things are terrible, this is what you need to do &#8211; EP 661</title>
 	<link>https://crosspolitic.com/podcast/matt-things-are-terrible-this-is-what-you-need-to-do-ep-661/</link>
@@ -88,7 +90,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:32:24</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: WE need to fight as christians, as men, and to win  &#8211; EP 660</title>
 	<link>https://crosspolitic.com/podcast/matt-we-need-to-fight-as-christians-as-men-and-to-win-ep-660/</link>
@@ -109,7 +112,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:25:12</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: we are now living in the minority report  &#8211; EP 659</title>
 	<link>https://crosspolitic.com/podcast/matt-we-are-now-living-in-the-minority-report-ep-659/</link>
@@ -130,7 +134,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:25:49</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: There are a lot of crazy things going on &#8211; EP 658</title>
 	<link>https://crosspolitic.com/podcast/matt-there-are-a-lot-of-crazy-things-going-on-ep-658/</link>
@@ -151,7 +156,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:20:03</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: More proof we are in a communist revolution &#8211; EP 657</title>
 	<link>https://crosspolitic.com/podcast/matt-more-proof-we-are-in-a-communist-revolution-ep-657/</link>
@@ -172,7 +178,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:19:01</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: 100&#8217;s of yards toward grazing fire &#8211; EP 656</title>
 	<link>https://crosspolitic.com/podcast/matt-100s-of-yards-toward-grazing-fire-ep-656/</link>
@@ -193,7 +200,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:20:13</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: The government is full of fauci&#8217;s &#8211; EP 655</title>
 	<link>https://crosspolitic.com/podcast/matt-the-government-is-full-of-faucis-ep-655/</link>
@@ -214,7 +222,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:15:42</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: We must win the hearts and minds &#8211; EP 654</title>
 	<link>https://crosspolitic.com/podcast/matt-atf-david-chipman-is-the-next-piece-of-the-communist-revolution-ep-654/</link>
@@ -235,7 +244,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:18:16</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: ATF David Chipman is the next piece of the communist revolution &#8211; EP 653</title>
 	<link>https://crosspolitic.com/podcast/matt-atf-david-chipman-is-the-next-piece-of-the-communist-revolution-ep-653/</link>
@@ -256,7 +266,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:22:54</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: We will not be free again until &#8211; EP 652</title>
 	<link>https://crosspolitic.com/podcast/matt-we-will-not-be-free-again-until-ep-652/</link>
@@ -277,7 +288,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:21:59</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: My observations at a GOP donor event last weekend &#8211; EP 651</title>
 	<link>https://crosspolitic.com/podcast/matt-my-observations-at-a-gop-donor-event-last-weekend-ep-651/</link>
@@ -298,7 +310,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:24:29</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: Election Updates in several states &#8211; EP 650</title>
 	<link>https://crosspolitic.com/podcast/matt-election-updates-in-several-states-ep-650/</link>
@@ -319,7 +332,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:12:38</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: The patriots are now the DISSIDENTS in America &#8211; EP 649</title>
 	<link>https://crosspolitic.com/podcast/matt-the-patriots-are-now-the-dissidents-in-america-ep-649/</link>
@@ -340,7 +354,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:19:02</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: How the left is going to put boots on the ground &#8211; EP 648</title>
 	<link>https://crosspolitic.com/podcast/matt-how-the-left-is-going-to-put-boots-on-the-ground-ep-648/</link>
@@ -361,7 +376,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:34:14</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT:  Fauci lied and people died&#8230; that&#8217;s how it goes right? &#8211; EP 647</title>
 	<link>https://crosspolitic.com/podcast/matt-fauci-lied-and-people-died-thats-how-it-goes-right-ep-647/</link>
@@ -382,7 +398,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:31:28</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT:  You think there are shortages now? just wait &#8211; EP 646</title>
 	<link>https://crosspolitic.com/podcast/matt-you-think-there-are-shortages-now-just-wait-ep-646/</link>
@@ -403,7 +420,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:24:50</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT:  From the Nuremberg trial on how they did it &#8211; EP 645</title>
 	<link>https://crosspolitic.com/podcast/matt-from-the-nuremberg-trial-on-how-they-did-it-ep-645/</link>
@@ -424,7 +442,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:17:12</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT:  The most secure election in history&#8230; without admin credentials &#8211; EP 644</title>
 	<link>https://crosspolitic.com/podcast/matt-the-most-secure-election-in-history-without-admin-credentials-ep-644/</link>
@@ -445,7 +464,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:17:27</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: THE ELECTION FRAUD ATTACK JUST BECAME A BIPARTISAN ASSAULT  &#8211; EP 643</title>
 	<link>https://crosspolitic.com/podcast/matt-the-election-fraud-attack-just-became-a-bipartisan-assault-ep-643/</link>
@@ -466,7 +486,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:20:58</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: The momentum is already swinging in New Hampshire  &#8211; EP 642</title>
 	<link>https://crosspolitic.com/podcast/matt-the-momentum-is-already-swinging-in-new-hampshire-ep-642/</link>
@@ -487,7 +508,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:26:25</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: Share this video of the auditor showing the voting machines flip votes &#8211; EP 641</title>
 	<link>https://crosspolitic.com/podcast/matt-share-this-video-of-the-auditor-showing-the-voting-machines-flip-votes-ep-641/</link>
@@ -508,7 +530,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:22:21</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: CHINA WANTS TO CONTROL THE INTERNET&#8230; FOR THE WORLD- EP 640</title>
 	<link>https://crosspolitic.com/podcast/matt-china-wants-to-control-the-internet-for-the-world-ep-640/</link>
@@ -529,7 +552,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:17:36</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: It&#8217;s getting a little too communist for comfort &#8211; EP 639</title>
 	<link>https://crosspolitic.com/podcast/matt-its-getting-a-little-to-communist-for-comfort-ep-639/</link>
@@ -550,7 +574,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:26:01</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: Joe Biden&#8217;s speech to the Joint Session of Congress&#8230; Kinda &#8211; EP 638</title>
 	<link>https://crosspolitic.com/podcast/matt-joe-bidens-speech-to-the-joint-session-of-congress-kinda-ep-638/</link>
@@ -566,7 +591,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:23:26</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: What is happening in AZ with this new judge &#8211; EP 637</title>
 	<link>https://crosspolitic.com/podcast/matt-what-is-happening-in-az-with-this-new-judge-ep-637/</link>
@@ -587,7 +613,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:15:01</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: The consent of the governed or the law of nature &#8211; EP 636</title>
 	<link>https://crosspolitic.com/podcast/matt-the-consent-of-the-governed-or-the-law-of-nature-ep-636/</link>
@@ -608,7 +635,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:26:27</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: You all have heard there is a 2.1 million ballot audit in AZ right? &#8211; EP 635</title>
 	<link>https://crosspolitic.com/podcast/matt-you-all-have-heard-there-is-a-2-1-million-ballot-audit-in-az-right-ep-635/</link>
@@ -629,7 +657,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:27:23</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: A Message to Militias Across America &#8211; EP 634</title>
 	<link>https://crosspolitic.com/podcast/matt-a-message-to-militias-across-america-ep-634/</link>
@@ -650,7 +679,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:29:39</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: I didn&#8217;t think I could hate the USPS more but I was wrong &#8211; EP 633</title>
 	<link>https://crosspolitic.com/podcast/matt-i-didnt-think-i-could-hate-the-usps-more-but-i-was-wrong-ep-633/</link>
@@ -671,7 +701,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:36:00</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: It&#8217;s not about the Derek Chauvin it&#8217;s about insurrection and revolution &#8211; EP 632</title>
 	<link>https://crosspolitic.com/podcast/matt-its-not-about-the-derek-chauvin-its-about-insurrection-and-revolution-ep-632/</link>
@@ -692,7 +723,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:11:14</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: Book deals must be the new 30 pieces of silver &#8211; EP 631</title>
 	<link>https://crosspolitic.com/podcast/matt-freedom-from-tyrants-so-we-can-submit-to-christ-ep-631/</link>
@@ -713,7 +745,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:35:55</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: Freedom from tyrants so we can submit to Christ- EP 630</title>
 	<link>https://crosspolitic.com/podcast/matt-freedom-from-tyrants-so-we-can-submit-to-christ-ep-630/</link>
@@ -734,7 +767,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:36:55</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: We must relearn how to speak and act free again &#8211; EP 629</title>
 	<link>https://crosspolitic.com/podcast/matt-we-must-relearn-how-to-speak-and-act-free-again-ep-629/</link>
@@ -755,7 +789,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:21:12</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: American&#8217;s are freeman therefore act accordingly &#8211; EP 628</title>
 	<link>https://crosspolitic.com/podcast/matt-americans-are-freeman-therefore-act-accordingly-ep-628/</link>
@@ -776,7 +811,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:28:03</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: The Global Reset is inevitable so how do we prepare? &#8211; EP 627</title>
 	<link>https://crosspolitic.com/podcast/matt-the-global-reset-is-inevitable-so-how-do-we-prepare-ep-628/</link>
@@ -797,7 +833,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:24:11</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: Trump&#8217;s statement on the SCOTUS and why I didn&#8217;t like it &#8211; EP 626</title>
 	<link>https://crosspolitic.com/podcast/matt-trumps-statement-on-the-scotus-and-why-i-didnt-like-it-ep-626/</link>
@@ -818,7 +855,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:34:49</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: Fascism is here and isn&#8217;t leaving until we kick it out- EP 625</title>
 	<link>https://crosspolitic.com/podcast/matt-fascism-is-here-and-isnt-leaving-until-we-kick-it-out-ep-625/</link>
@@ -839,7 +877,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:31:37</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: This is how they&#8217;re going to take your guns &#8211; EP 624</title>
 	<link>https://crosspolitic.com/podcast/matt-this-is-how-theyre-going-to-take-your-guns-ep-624/</link>
@@ -860,7 +899,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:21:50</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: Biden wants your guns this is why you don&#8217;t give them up &#8211; EP 623</title>
 	<link>https://crosspolitic.com/podcast/matt-biden-wants-your-guns-this-is-why-you-dont-give-them-up-ep-623/</link>
@@ -881,7 +921,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:12:54</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: they are not woke they are communists acting and speaking woke &#8211; EP 622</title>
 	<link>https://crosspolitic.com/podcast/matt-they-are-not-woke-they-are-communist-acting-and-speaking-woke-ep-622/</link>
@@ -902,7 +943,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:22:37</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: IF YOU DON&#8217;T HAVE A PASTOR LIKE THIS, GET A NEW PASTOR &#8211; EP 621</title>
 	<link>https://crosspolitic.com/podcast/matt-if-you-dont-have-a-pastor-like-this-get-a-new-pastor-ep-621/</link>
@@ -923,7 +965,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:28:11</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: Everyone is preparing for war but us, why? &#8211; EP 620</title>
 	<link>https://crosspolitic.com/podcast/matt-everyone-is-preparing-for-war-but-us-why-ep-620/</link>
@@ -944,7 +987,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:16:02</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: Some big good news about the 2020 election &#8211; EP 619</title>
 	<link>https://crosspolitic.com/podcast/matt-the-global-consequences-of-a-national-election-are-starting-to-show-ep-618-2/</link>
@@ -965,7 +1009,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:31:12</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MATT: The global CONSEQUENCES of a national election are starting to show &#8211; EP 618</title>
 	<link>https://crosspolitic.com/podcast/matt-the-global-consequences-of-a-national-election-are-starting-to-show-ep-618/</link>
@@ -986,7 +1031,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:20:34</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item>
 	</channel>
 </rss>

@@ -8,8 +8,9 @@
 	 xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 	 xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	 xmlns:podcast="https://podcastindex.org/namespace/1.0"
 	>
-	<channel>
+		<channel>
 		<title>FLF - Waterbreak w/ The Waterboy</title>
 		<atom:link href="https://artskydj.github.io/crosspolitic-split-feeds/rss/waterbreak.rss" rel="self" type="application/rss+xml"/>
 		<link>https://crosspolitic.com/</link>
@@ -20,33 +21,33 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 		<language>en-US</language>
 		<copyright></copyright>
 		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
-		<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+		<itunes:author>CrossPolitic Studios</itunes:author>
 					<itunes:type>serial</itunes:type>
-					<itunes:summary>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
-
-Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</itunes:summary>
+				<itunes:summary></itunes:summary>
 		<itunes:owner>
 			<itunes:name>CrossPolitic Studios</itunes:name>
 			<itunes:email>fightlaughfeast@gmail.com</itunes:email>
 		</itunes:owner>
 		<itunes:explicit>clean</itunes:explicit>
-					<itunes:image href="http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png"></itunes:image>
+		<itunes:image href="http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png"></itunes:image>
 			<image>
 				<url>http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png</url>
 				<title>Fight Laugh Feast Network</title>
 				<link>https://crosspolitic.com/</link>
 			</image>
-					<itunes:category text="News">
+		<itunes:category text="News">
+			<itunes:category text="Christianity"></itunes:category>
+		</itunes:category>
+		<itunes:category text="Religion &amp; Spirituality">
 									<itunes:category text="Christianity"></itunes:category>
 							</itunes:category>
-							<itunes:category text="Religion &amp; Spirituality">
-									<itunes:category text="Christianity"></itunes:category>
-							</itunes:category>
-							<itunes:category text="Society &amp; Culture">
+		<itunes:category text="Society &amp; Culture">
 									<itunes:category text="Philosophy"></itunes:category>
 							</itunes:category>
-						
+		<podcast:locked owner="fightlaughfeast@gmail.com">yes</podcast:locked>
+		<podcast:guid>bdcdb5ef-eb7a-5df7-865f-f0fa4628a66b</podcast:guid>
 		
+
 <item>
 	<title>Waterbreak: Take Your Blinders Off</title>
 	<link>https://crosspolitic.com/podcast/waterbreak-take-your-blinders-off/</link>
@@ -67,7 +68,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:28:31</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Waterbreak: Why aren&#8217;t Christians Funny??</title>
 	<link>https://crosspolitic.com/podcast/waterbreak/</link>
@@ -88,7 +90,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:59:12</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Waterbreak: Is Comedy Dead? &#038; The Apologia Utah Church Plant</title>
 	<link>https://crosspolitic.com/podcast/waterbreak-is-comedy-dead-the-apologia-utah-church-plant/</link>
@@ -109,7 +112,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:55:28</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Waterbreak w/ The Waterboy &#038; The Comedian John Branyan &#8211; House on Fire</title>
 	<link>https://crosspolitic.com/podcast/waterbreak-w-the-waterboy-the-comedian-john-branyan-house-on-fire/</link>
@@ -130,7 +134,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:40:29</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Waterbreak w/ The Waterboy &#038; John Branyan &#8211; &#8216;Mere Medical&#8217; Dr. Story Interview</title>
 	<link>https://crosspolitic.com/podcast/waterbreak-w-the-waterboy-john-branyan-mere-medical-dr-story-interview/</link>
@@ -151,7 +156,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:51:24</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Waterbreak w/ The Waterboy: Hangin’ Out with Steve Deace!!</title>
 	<link>https://crosspolitic.com/podcast/waterbreak-w-the-waterboy-hangin-out-with-steve-deace/</link>
@@ -172,7 +178,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:40:24</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Waterbreak w/ The Waterboy: The Government&#8217;s Housing Boondoggle</title>
 	<link>https://crosspolitic.com/podcast/waterbreak-w-the-waterboy-the-governments-housing-boondoggle/</link>
@@ -193,7 +200,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:29:23</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Waterbreak w/Waterboy And Pastor Tim Stephens (Free Again)</title>
 	<link>https://crosspolitic.com/podcast/waterbreak-w-waterboy-and-pastor-tim-stephens-free-again/</link>
@@ -209,7 +217,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:45:53</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Waterbreak w/ The Waterboy: Recap on PCA General Assembly w/ Scott Hedgcock</title>
 	<link>https://crosspolitic.com/podcast/waterbreak-w-the-waterboy-recap-on-pca-general-assembly-w-scott-hedgcock/</link>
@@ -230,7 +239,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:37:15</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Waterbreak w/ The Waterboy: Pastor Trevor Stephens on his brother Tim&#8217;s Release from Jail</title>
 	<link>https://crosspolitic.com/podcast/waterbreak-w-the-waterboy-pastor-trevor-stephens-on-his-brother-tims-release-from-jail/</link>
@@ -251,7 +261,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:41:55</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Waterbreak w/ The Waterboy: Ousted China Missionary</title>
 	<link>https://crosspolitic.com/podcast/waterbreak-w-the-waterboy-ousted-china-missionary/</link>
@@ -272,7 +283,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:44:13</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Waterbreak w/ The Waterboy: Alabama Gov. Candidate &#8211; Dean Odle</title>
 	<link>https://crosspolitic.com/podcast/waterbreak-w-the-waterboy-alabama-gov-candidate-dean-odle/</link>
@@ -293,7 +305,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:36:50</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Waterbreak w/ The Waterboy &#038; Bahnsen on the Japanification of the US Economy</title>
 	<link>https://crosspolitic.com/podcast/waterbreak-w-the-waterboy-bahnsen-on-the-japanification-of-the-us-economy/</link>
@@ -314,7 +327,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:51:12</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Waterbreak w/ The Waterboy: Breaking Free from Economic Chains</title>
 	<link>https://crosspolitic.com/podcast/waterbreak-w-the-waterboy-breaking-free-from-economic-chains/</link>
@@ -330,7 +344,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:28:56</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Waterbreak w/ The Waterboy: Pastor Tim Stephens &#8211; Fresh outta Jail!!</title>
 	<link>https://crosspolitic.com/podcast/waterbreak-w-the-waterboy-pastor-tim-stephens-fresh-outta-jail/</link>
@@ -346,7 +361,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:40:42</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>WaterBreak w/Waterboy: Canada Update w/Pr. Jacob Reaume</title>
 	<link>https://crosspolitic.com/podcast/waterbreak-w-waterboy-canada-update-w-pr-jacob-reaume/</link>
@@ -362,7 +378,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:28:50</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>WATERBREAK w/The Waterboy: Nate Spearing Talks &#8220;Warriors in the Garden&#8221;</title>
 	<link>https://crosspolitic.com/podcast/waterbreak-w-the-waterboy-nate-spearing-talks-warriors-in-the-garden/</link>
@@ -378,7 +395,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:25:44</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>WaterBreak w/The Waterboy Fighting Tyranny the Doane Way</title>
 	<link>https://crosspolitic.com/podcast/waterbreak-w-the-waterboy-fighting-tyranny-the-doane-way/</link>
@@ -394,7 +412,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:36:16</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>WATERBREAK w/The Water Boy &#8211; Steve Deace talks about his new book &#8220;Faucian Bargain&#8221;</title>
 	<link>https://crosspolitic.com/podcast/waterbreak-w-the-water-boy-steve-deace-talks-about-his-new-book-faucian-bargain/</link>
@@ -410,7 +429,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:31:52</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item>
 	</channel>
 </rss>

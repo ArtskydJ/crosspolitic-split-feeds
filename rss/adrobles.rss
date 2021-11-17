@@ -8,8 +8,9 @@
 	 xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 	 xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	 xmlns:podcast="https://podcastindex.org/namespace/1.0"
 	>
-	<channel>
+		<channel>
 		<title>FLF - AD Robles</title>
 		<atom:link href="https://artskydj.github.io/crosspolitic-split-feeds/rss/adrobles.rss" rel="self" type="application/rss+xml"/>
 		<link>https://crosspolitic.com/</link>
@@ -20,33 +21,33 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 		<language>en-US</language>
 		<copyright></copyright>
 		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
-		<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+		<itunes:author>CrossPolitic Studios</itunes:author>
 					<itunes:type>serial</itunes:type>
-					<itunes:summary>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
-
-Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</itunes:summary>
+				<itunes:summary></itunes:summary>
 		<itunes:owner>
 			<itunes:name>CrossPolitic Studios</itunes:name>
 			<itunes:email>fightlaughfeast@gmail.com</itunes:email>
 		</itunes:owner>
 		<itunes:explicit>clean</itunes:explicit>
-					<itunes:image href="http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png"></itunes:image>
+		<itunes:image href="http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png"></itunes:image>
 			<image>
 				<url>http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png</url>
 				<title>Fight Laugh Feast Network</title>
 				<link>https://crosspolitic.com/</link>
 			</image>
-					<itunes:category text="News">
+		<itunes:category text="News">
+			<itunes:category text="Christianity"></itunes:category>
+		</itunes:category>
+		<itunes:category text="Religion &amp; Spirituality">
 									<itunes:category text="Christianity"></itunes:category>
 							</itunes:category>
-							<itunes:category text="Religion &amp; Spirituality">
-									<itunes:category text="Christianity"></itunes:category>
-							</itunes:category>
-							<itunes:category text="Society &amp; Culture">
+		<itunes:category text="Society &amp; Culture">
 									<itunes:category text="Philosophy"></itunes:category>
 							</itunes:category>
-						
+		<podcast:locked owner="fightlaughfeast@gmail.com">yes</podcast:locked>
+		<podcast:guid>bdcdb5ef-eb7a-5df7-865f-f0fa4628a66b</podcast:guid>
 		
+
 <item>
 	<title>AD: The Atlantic Takes 4000 Words&#8230;To Call White Christians &#8216;Racist&#8221;</title>
 	<link>https://crosspolitic.com/podcast/ad-the-atlantic-takes-4000-words-to-call-white-christians-racist/</link>
@@ -55,7 +56,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=12026</guid>
 	<description><![CDATA[]]></description>
 	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
 								<content:encoded><![CDATA[]]></content:encoded>
 		<enclosure url="https://crosspolitic.com/podcast-download/12026/ad-the-atlantic-takes-4000-words-to-call-white-christians-racist.mp3" length="47306754"
 			   type="audio/mpeg"></enclosure>
@@ -69,7 +69,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:19:42</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>AD: Just Like That AD Is Interested in Bitcoin?</title>
 	<link>https://crosspolitic.com/podcast/ad-just-like-that-ad-is-interested-in-bitcoin/</link>
@@ -78,7 +79,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11991</guid>
 	<description><![CDATA[]]></description>
 	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
-			<itunes:keywords>Cancel Mob,Dave Chapelle,LGBT,trans,twitter mob</itunes:keywords>
 							<enclosure url="https://crosspolitic.com/podcast-download/11991/ad-just-like-that-ad-is-interested-in-bitcoin.mp3" length="57544664"
 			   type="audio/mpeg"></enclosure>
 				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2019/01/AD-1-e1548264215567.jpeg"></itunes:image>
@@ -90,7 +90,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:23:58</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>AD: What Gets Ligon Duncan ALl Excited!</title>
 	<link>https://crosspolitic.com/podcast/ad-what-gets-ligon-duncan-all-excited/</link>
@@ -99,7 +100,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11985</guid>
 	<description><![CDATA[]]></description>
 	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
 							<enclosure url="https://crosspolitic.com/podcast-download/11985/ad-what-gets-ligon-duncan-all-excited.mp3" length="50543848"
 			   type="audio/mpeg"></enclosure>
 				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2019/01/AD-1-e1548264215567.jpeg"></itunes:image>
@@ -111,7 +111,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:21:03</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>AD: Evangelical Harlots and Woke Capitalism</title>
 	<link>https://crosspolitic.com/podcast/ad-evangelical-harlots-and-woke-capitalism/</link>
@@ -120,14 +121,14 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11821</guid>
 	<description><![CDATA[]]></description>
 	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
-			<itunes:keywords>2021,Knox Unplugged</itunes:keywords>
 							<enclosure url="https://crosspolitic.com/podcast-download/11821/ad-evangelical-harlots-and-woke-capitalism.mp3" length="50778950"
 			   type="audio/mpeg"></enclosure>
 			<itunes:explicit>clean</itunes:explicit>
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:21:09</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>AD: LAwsuits Against The Woke Church?</title>
 	<link>https://crosspolitic.com/podcast/ad-lawsuits-against-the-woke-church/</link>
@@ -136,14 +137,14 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11667</guid>
 	<description><![CDATA[]]></description>
 	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
-			<itunes:keywords>brand,Content,social media</itunes:keywords>
 							<enclosure url="https://crosspolitic.com/podcast-download/11667/ad-lawsuits-against-the-woke-church.mp3" length="73637138"
 			   type="audio/mpeg"></enclosure>
 			<itunes:explicit>clean</itunes:explicit>
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:30:40</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>AD: Evangelical Pastors are Too Busy to do Their Job</title>
 	<link>https://crosspolitic.com/podcast/ad-evangelical-pastors-are-too-busy-to-do-their-job/</link>
@@ -152,7 +153,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11624</guid>
 	<description><![CDATA[]]></description>
 	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
 							<enclosure url="https://crosspolitic.com/podcast-download/11624/ad-evangelical-pastors-are-too-busy-to-do-their-job.mp3" length="64181856"
 			   type="audio/mpeg"></enclosure>
 				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2019/01/AD-1-e1548264215567.jpeg"></itunes:image>
@@ -164,7 +164,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:26:44</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>AD: Russell Moore &#8211; Ethnic Wizard</title>
 	<link>https://crosspolitic.com/podcast/ad-russell-moore-ethnic-wizard/</link>
@@ -173,14 +174,14 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11555</guid>
 	<description><![CDATA[Coining my own term. Also get my book: adrobles.com]]></description>
 	<itunes:subtitle><![CDATA[Coining my own term. Also get my book: adrobles.com]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
 							<enclosure url="https://crosspolitic.com/podcast-download/11555/ad-russell-moore-ethnic-wizard.mp3" length="79280631"
 			   type="audio/mpeg"></enclosure>
 			<itunes:explicit>clean</itunes:explicit>
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:33:01</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>AD: Responding to Dave Ramsey Clip</title>
 	<link>https://crosspolitic.com/podcast/ad-responding-to-dave-ramsey-clip/</link>
@@ -189,14 +190,14 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11524</guid>
 	<description><![CDATA[adrobles.com to get my book!]]></description>
 	<itunes:subtitle><![CDATA[adrobles.com to get my book!]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
 							<enclosure url="https://crosspolitic.com/podcast-download/11524/ad-responding-to-dave-ramsey-clip.mp3" length="95276974"
 			   type="audio/mpeg"></enclosure>
 			<itunes:explicit>clean</itunes:explicit>
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:39:41</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>AD: Curt Versus Voddie?</title>
 	<link>https://crosspolitic.com/podcast/ad-curt-versus-voddie/</link>
@@ -205,7 +206,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11448</guid>
 	<description><![CDATA[]]></description>
 	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
 							<enclosure url="https://crosspolitic.com/podcast-download/11448/ad-curt-versus-voddie.mp3" length="66881872"
 			   type="audio/mpeg"></enclosure>
 				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2019/01/AD-1-e1548264215567.jpeg"></itunes:image>
@@ -217,7 +217,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:27:52</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>AD: Committed to Fighting &#8211; Love Each Other</title>
 	<link>https://crosspolitic.com/podcast/ad-committed-to-fighting-love-each-other/</link>
@@ -226,14 +227,14 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11426</guid>
 	<description><![CDATA[]]></description>
 	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
 							<enclosure url="https://crosspolitic.com/podcast-download/11426/ad-committed-to-fighting-love-each-other.mp3" length="47834427"
 			   type="audio/mpeg"></enclosure>
 			<itunes:explicit>clean</itunes:explicit>
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:19:55</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>AD &#8211; Save your tears DR Eric Mason</title>
 	<link>https://crosspolitic.com/podcast/ad-save-your-tears-dr-eric-mason/</link>
@@ -242,7 +243,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11403</guid>
 	<description><![CDATA[]]></description>
 	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
 							<enclosure url="https://crosspolitic.com/podcast-download/11403/ad-save-your-tears-dr-eric-mason.mp3" length="66455554"
 			   type="audio/mpeg"></enclosure>
 				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2019/01/AD-1-e1548264215567.jpeg"></itunes:image>
@@ -254,7 +254,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:27:41</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>AD:  Equality of Opportunity is a Scam</title>
 	<link>https://crosspolitic.com/podcast/ad-equality-of-opportunity-is-a-scam/</link>
@@ -263,7 +264,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11382</guid>
 	<description><![CDATA[]]></description>
 	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
 							<enclosure url="https://crosspolitic.com/podcast-download/11382/ad-equality-of-opportunity-is-a-scam.mp3" length="105758346"
 			   type="audio/mpeg"></enclosure>
 				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2019/01/AD-1-e1548264215567.jpeg"></itunes:image>
@@ -275,7 +275,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:44:03</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>AD: Chemtrails Go Mainstream</title>
 	<link>https://crosspolitic.com/podcast/ad-chemtrails-go-mainstream/</link>
@@ -284,7 +285,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11211</guid>
 	<description><![CDATA[]]></description>
 	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
 							<enclosure url="https://crosspolitic.com/podcast-download/11211/ad-chemtrails-go-mainstream.mp3" length="54832109"
 			   type="audio/mpeg"></enclosure>
 				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2019/01/AD-1-e1548264215567.jpeg"></itunes:image>
@@ -296,7 +296,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:22:50</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item>
 	</channel>
 </rss>

@@ -8,8 +8,9 @@
 	 xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 	 xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	 xmlns:podcast="https://podcastindex.org/namespace/1.0"
 	>
-	<channel>
+		<channel>
 		<title>FLF - Daily News Brief</title>
 		<atom:link href="https://artskydj.github.io/crosspolitic-split-feeds/rss/dailynews.rss" rel="self" type="application/rss+xml"/>
 		<link>https://crosspolitic.com/</link>
@@ -20,33 +21,33 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 		<language>en-US</language>
 		<copyright></copyright>
 		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
-		<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+		<itunes:author>CrossPolitic Studios</itunes:author>
 					<itunes:type>serial</itunes:type>
-					<itunes:summary>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
-
-Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</itunes:summary>
+				<itunes:summary></itunes:summary>
 		<itunes:owner>
 			<itunes:name>CrossPolitic Studios</itunes:name>
 			<itunes:email>fightlaughfeast@gmail.com</itunes:email>
 		</itunes:owner>
 		<itunes:explicit>clean</itunes:explicit>
-					<itunes:image href="http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png"></itunes:image>
+		<itunes:image href="http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png"></itunes:image>
 			<image>
 				<url>http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png</url>
 				<title>Fight Laugh Feast Network</title>
 				<link>https://crosspolitic.com/</link>
 			</image>
-					<itunes:category text="News">
+		<itunes:category text="News">
+			<itunes:category text="Christianity"></itunes:category>
+		</itunes:category>
+		<itunes:category text="Religion &amp; Spirituality">
 									<itunes:category text="Christianity"></itunes:category>
 							</itunes:category>
-							<itunes:category text="Religion &amp; Spirituality">
-									<itunes:category text="Christianity"></itunes:category>
-							</itunes:category>
-							<itunes:category text="Society &amp; Culture">
+		<itunes:category text="Society &amp; Culture">
 									<itunes:category text="Philosophy"></itunes:category>
 							</itunes:category>
-						
+		<podcast:locked owner="fightlaughfeast@gmail.com">yes</podcast:locked>
+		<podcast:guid>bdcdb5ef-eb7a-5df7-865f-f0fa4628a66b</podcast:guid>
 		
+
 <item>
 	<title>Daily News Brief for Tuesday, November 16, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-november-16-2021/</link>
@@ -69,7 +70,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:18:51</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Monday, November 15, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-monday-november-15-2021/</link>
@@ -92,7 +94,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:14:31</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Friday, November 12, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-friday-november-12-2021/</link>
@@ -115,7 +118,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:22:30</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Thursday, November 11, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-thursday-november-11-2021/</link>
@@ -138,7 +142,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:10:27</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Wednesday, November 10, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-wednesday-november-10-2021/</link>
@@ -159,7 +164,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:21:17</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Tuesday, November 9, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-november-9-2021/</link>
@@ -180,7 +186,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:19:25</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Monday, November 8, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-monday-november-8-2021/</link>
@@ -201,7 +208,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:20:38</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Thursday, November 4, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-thursday-november-4-2021/</link>
@@ -222,7 +230,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:16:35</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Wednesday, November 3, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-wednesday-november-3-2021/</link>
@@ -243,7 +252,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:14:05</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Tuesday, November 2, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-november-2-2021/</link>
@@ -264,7 +274,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:16:02</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Monday, November 1, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-monday-november-1-2021/</link>
@@ -285,7 +296,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:15:28</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Friday, October 22, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-friday-october-22-2021/</link>
@@ -306,7 +318,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:16:52</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Wednesday, October 20, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-wednesday-october-20-2021/</link>
@@ -327,7 +340,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:15:42</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Tuesday, October 19, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-october-19-2021/</link>
@@ -348,7 +362,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:14:30</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Monday, October 18, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-monday-october-18-2021/</link>
@@ -369,7 +384,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:14:17</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Friday, October 15, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-friday-october-15-2021/</link>
@@ -390,7 +406,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:17:02</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Thursday, October 14, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-thursday-october-14-2021/</link>
@@ -411,7 +428,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:17:05</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Wednesday, October 13, 2021</title>
 	<link>https://crosspolitic.com/podcast/11957/</link>
@@ -432,7 +450,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:21:06</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Tuesday, October 12, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-october-12-2021/</link>
@@ -453,7 +472,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:15:58</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Monday, October 11, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-monday-october-11-2021/</link>
@@ -474,7 +494,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:16:50</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Friday, October 8, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-friday-october-8-2021/</link>
@@ -495,7 +516,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:15:49</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Thursday, October 7, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-thursday-october-7-2021/</link>
@@ -516,7 +538,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:13:50</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Wednesday, October 6th, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-wednesday-october-6th-2021/</link>
@@ -537,7 +560,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:15:48</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Tuesday, October 5, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-october-5-2021/</link>
@@ -558,7 +582,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:19:06</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Monday, October 4, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-monday-october-4-2021/</link>
@@ -579,7 +604,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:13:57</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Friday, October 1, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-friday-october-1-2021/</link>
@@ -600,7 +626,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:13:48</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Thursday, September 30, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-thursday-september-30-2021/</link>
@@ -621,7 +648,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>0:00:00</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Wednesday, September 29, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-wednesday-september-29-2021/</link>
@@ -642,7 +670,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:17:15</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Thursday, September 23, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-thursday-september-23-2021/</link>
@@ -663,7 +692,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:19:14</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Wednesday, September 22, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-wednesday-september-22-2021/</link>
@@ -684,7 +714,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:17:44</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Tuesday, September 21, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-september-21-2021/</link>
@@ -705,7 +736,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:14:48</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Monday, September 20, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-monday-september-20-2021/</link>
@@ -726,7 +758,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:14:28</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Friday, September 17, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-friday-september-17-2021/</link>
@@ -747,7 +780,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:14:26</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Thursday, September 16, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-thursday-september-16-2021/</link>
@@ -768,7 +802,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:17:54</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Wednesday, September 15, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-wednesday-september-15-2021/</link>
@@ -789,7 +824,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:13:15</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Tuesday, September 14, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-september-14-2021/</link>
@@ -810,7 +846,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:15:00</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Friday, September 3, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-friday-september-3-2021/</link>
@@ -831,7 +868,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:12:11</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Thursday, September 2, 2021</title>
 	<link>https://crosspolitic.com/podcast/11846/</link>
@@ -852,7 +890,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:18:50</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Wednesday, September 1, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-wednesday-september-1-2021/</link>
@@ -873,7 +912,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:16:08</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Tuesday, August 31, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-august-31-2021/</link>
@@ -894,7 +934,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:21:48</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Monday, August 30, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-monday-august-30-2021/</link>
@@ -915,7 +956,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:25:16</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Friday, August 27, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-friday-august-27-2021/</link>
@@ -936,7 +978,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:21:39</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Thursday, August 26, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-thursday-august-26-2021/</link>
@@ -957,7 +1000,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:25:20</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Wednesday, August 25, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-wednesday-august-25-2021/</link>
@@ -978,7 +1022,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:16:39</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Tuesday, August 24, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-august-24-2021/</link>
@@ -999,7 +1044,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:21:54</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Monday, August 23, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-monday-august-23-2021/</link>
@@ -1020,7 +1066,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:22:40</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Friday, August 20, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-friday-august-20-2021/</link>
@@ -1041,7 +1088,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:16:02</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Thursday, August 19, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-thursday-august-19-2021/</link>
@@ -1062,7 +1110,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:19:30</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Wednesday, August 18, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-wednesday-august-18-2021/</link>
@@ -1083,7 +1132,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:19:23</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Tuesday, August 17, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-august-17-2021/</link>
@@ -1104,7 +1154,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:20:13</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Monday, August 16, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-monday-august-16-2021/</link>
@@ -1125,7 +1176,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:18:08</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Friday, August 13, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-friday-august-13-2021/</link>
@@ -1146,7 +1198,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:13:12</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Thursday, August 12, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-thursday-august-12-2021/</link>
@@ -1167,7 +1220,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:13:26</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Wednesday, August 11, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-wednesday-august-11-2021/</link>
@@ -1188,7 +1242,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:17:35</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Tuesday, August 10, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-august-10-2021/</link>
@@ -1209,7 +1264,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:13:22</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Monday, August 9, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-monday-august-9-2021/</link>
@@ -1230,7 +1286,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:10:59</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Friday, August 6, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-friday-august-6-2021/</link>
@@ -1251,7 +1308,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:12:05</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Thursday, August 5, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-thursday-august-5-2021/</link>
@@ -1260,7 +1318,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11745</guid>
 	<description><![CDATA[Here are the areas that would get major new spending: Transportation projects: The bill would spend $110 billion in new funds for road, bridges, and related projects. It also would commit $39 billion for public transit — which the Biden administration described as “the largest federal investment in public transit in history” — along with [&#8230;]]]></description>
 	<itunes:subtitle><![CDATA[Here are the areas that would get major new spending: Transportation projects: The bill would spend $110 billion in new funds for road, bridges, and related projects. It also would commit $39 billion for public transit — which the Biden administration de]]></itunes:subtitle>
-			<itunes:keywords>brand,business,Content,social media,work</itunes:keywords>
 							<enclosure url="https://crosspolitic.com/podcast-download/11745/daily-news-brief-for-thursday-august-5-2021.mp3" length="7434882"
 			   type="audio/mpeg"></enclosure>
 				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/AC587412-DDAD-4BBA-A4CC-401E362B5895.png"></itunes:image>
@@ -1272,7 +1329,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:15:28</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Wednesday, August 4, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-wednesday-august-4-2021/</link>
@@ -1293,7 +1351,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:16:16</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Tuesday, August 3, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-august-3-2021/</link>
@@ -1314,7 +1373,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:21:55</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Monday, August 2, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-monday-august-2-2021/</link>
@@ -1335,7 +1395,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:21:50</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Friday, July 30, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-friday-july-30-2021/</link>
@@ -1356,7 +1417,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:16:27</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief For Thursday, July 29th 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-thursday-july-29th-2021/</link>
@@ -1372,7 +1434,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:19:38</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Wednesday, July 28 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-wednesday-july-28-2021/</link>
@@ -1388,7 +1451,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:21:20</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Tuesday, July 27th, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-july-27th-2021/</link>
@@ -1404,7 +1468,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:15:01</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Monday, July 26th 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-monday-july-26th-2021/</link>
@@ -1420,7 +1485,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:16:05</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Friday, July 23, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-friday-july-23-2021/</link>
@@ -1436,7 +1502,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:12:49</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Thursday, July 22, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-thursday-july-22-2021/</link>
@@ -1457,7 +1524,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:18:41</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Wednesday, July 21, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-wednesday-july-21-2021/</link>
@@ -1478,7 +1546,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:19:45</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Tuesday, July 20, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-july-20-2021/</link>
@@ -1499,7 +1568,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:13:02</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Monday, July 19, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-monday-july-19-2021/</link>
@@ -1520,7 +1590,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:26:44</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Friday, July 16, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-friday-july-16-2021/</link>
@@ -1541,7 +1612,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:14:42</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Thursday, July 15, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-thursday-july-15-2021/</link>
@@ -1562,7 +1634,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:17:52</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Wednesday, July 14, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-wednesday-july-14-2021/</link>
@@ -1583,7 +1656,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:16:32</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Tuesday, July 13, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-july-13-2021/</link>
@@ -1604,7 +1678,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:15:56</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Friday, July 9, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-friday-july-9-2021/</link>
@@ -1625,7 +1700,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:16:26</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Thursday, July 8, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-thursday-july-8-2021/</link>
@@ -1646,7 +1722,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:14:15</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Wednesday, July 7, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-wednesday-july-7-2021/</link>
@@ -1667,7 +1744,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:12:47</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Tuesday, July 6, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-july-6-2021/</link>
@@ -1688,7 +1766,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:21:11</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Monday, July 5, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-monday-july-5-2021/</link>
@@ -1709,7 +1788,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:18:45</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Friday, July 2, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-friday-july-2-2021/</link>
@@ -1730,7 +1810,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:13:39</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Thursday, July 1, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-thursday-july-1-2021/</link>
@@ -1751,7 +1832,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:17:30</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Wednesday, June 30, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-wednesday-june-30-2021/</link>
@@ -1772,7 +1854,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:13:48</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Tuesday, June 29, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-june-29-2021/</link>
@@ -1793,7 +1876,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:12:52</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Monday, June 28, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-monday-june-28-2021/</link>
@@ -1814,7 +1898,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:12:42</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Friday, June 25, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-friday-june-25-2021/</link>
@@ -1835,7 +1920,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:16:16</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Thursday, June 24, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-thursday-june-24-2021/</link>
@@ -1856,7 +1942,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:16:59</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Wednesday, June 23, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-wednesday-june-23-2021/</link>
@@ -1877,7 +1964,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:16:55</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Tuesday, June 22, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-june-22-2021/</link>
@@ -1898,7 +1986,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:22:25</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Monday, June 21, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-monday-june-21-2021/</link>
@@ -1919,7 +2008,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:17:37</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Friday, June 18, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-friday-june-18-2021/</link>
@@ -1940,7 +2030,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:20:36</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Thursday, June 17, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-thursday-june-17-2021/</link>
@@ -1961,7 +2052,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:15:49</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Wednesday, June 16, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-wednesday-june-16-2021/</link>
@@ -1982,7 +2074,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:20:46</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Tuesday, June 15, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-june-15-2021/</link>
@@ -2003,7 +2096,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:16:11</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Friday, June 11, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-friday-june-11-2021/</link>
@@ -2024,7 +2118,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:19:31</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Thursday, June 10, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-thursday-june-10-2021/</link>
@@ -2045,7 +2140,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:13:17</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Wednesday, June 9, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-wednesday-june-9-2021/</link>
@@ -2066,7 +2162,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:18:26</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Tuesday, June 8, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-june-8-2021/</link>
@@ -2082,7 +2179,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:20:21</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Monday, June 7, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-monday-june-7-2021/</link>
@@ -2098,7 +2196,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:23:25</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Friday, June 4, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-friday-june-4-2021/</link>
@@ -2114,7 +2213,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:15:25</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Thursday, June 3, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-thursday-june-3-2021/</link>
@@ -2130,7 +2230,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:18:44</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Wednesday, June 2, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-wednesday-june-2-2021/</link>
@@ -2146,7 +2247,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:15:06</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Friday, May 28, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-friday-may-28-2021/</link>
@@ -2162,7 +2264,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:10:59</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Thursday, May 27, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-thursday-may-27-2021/</link>
@@ -2178,7 +2281,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:14:37</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Wednesday, May 26th, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-wednesday-may-26th-2021/</link>
@@ -2194,7 +2298,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:19:30</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Tuesday, May 25, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-may-25-2021/</link>
@@ -2210,7 +2315,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:16:46</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Monday, May 24, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-monday-may-24-2021/</link>
@@ -2226,7 +2332,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:18:36</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Friday, May 21, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-friday-may-21-2021/</link>
@@ -2242,7 +2349,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:19:07</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Thursday, May 20, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-thursday-may-20-2021/</link>
@@ -2258,7 +2366,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:21:38</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>News Brief for Wednesday, May 19th, 2021</title>
 	<link>https://crosspolitic.com/podcast/news-brief-for-wednesday-may-19th-2021/</link>
@@ -2274,7 +2383,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:21:21</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Tuesday, May 18, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-may-18-2021/</link>
@@ -2290,7 +2400,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:14:15</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Monday, May 17th, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-monday-may-17th-2021/</link>
@@ -2306,7 +2417,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:30:04</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News brief for Friday, May 14, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-friday-may-14-2021/</link>
@@ -2322,7 +2434,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:08:38</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News brief for Wednesday, May 12, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-wednesday-may-12-2021/</link>
@@ -2338,7 +2451,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:16:50</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Tuesday, May 11th, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-may-11th-2021/</link>
@@ -2354,7 +2468,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:14:53</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Monday, May 10th, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-monday-may-10th-2021/</link>
@@ -2363,14 +2478,14 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11364</guid>
 	<description><![CDATA[This is the Chocolate Knox with your CrossPolitic Daily News Brief for Monday, May 10th, 2021 Immunabands! I’m sorry what?&#160; Immunabands! Gov. Andrew M. Cuomo of New York… Wait&#8230;He’s still governor right? He is? Ok… https://themodelhealthshow.com/maskfacts/ https://www.nytimes.com/2021/05/10/us/politics/gas-pipeline-hack.html#click=https://t.co/BNt9EKqlly The F.B.I. just today confirmed that DarkSide, a hacking group, was responsible for the ransomware attack that closed [&#8230;]]]></description>
 	<itunes:subtitle><![CDATA[This is the Chocolate Knox with your CrossPolitic Daily News Brief for Monday, May 10th, 2021 Immunabands! I’m sorry what?&#160; Immunabands! Gov. Andrew M. Cuomo of New York… Wait&#8230;He’s still governor right? He is? Ok… https://themodelhealthshow.co]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
 							<enclosure url="https://crosspolitic.com/podcast-download/11364/daily-news-brief-for-monday-may-10th-2021.mp3" length="8086722"
 			   type="audio/mpeg"></enclosure>
 			<itunes:explicit>clean</itunes:explicit>
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:16:49</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Friday, May 7, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-friday-may-7-2021/</link>
@@ -2386,7 +2501,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:16:10</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Thursday, May 6, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-thursday-may-6-2021/</link>
@@ -2402,7 +2518,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:13:58</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Wednesday, May 5th, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-wednesday-may-5th-2021/</link>
@@ -2418,7 +2535,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:16:40</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Tuesday, May 4, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-may-4-2021/</link>
@@ -2434,7 +2552,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:14:41</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Monday, May 3, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-monday-may-3-2021/</link>
@@ -2450,7 +2569,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:02:08</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Friday, April 30, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-friday-april-30-2021/</link>
@@ -2466,7 +2586,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:14:23</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Wednesday, April 28, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-wednesday-april-28-2021/</link>
@@ -2482,7 +2603,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:09:09</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Tuesday, April 27, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-april-27-2021/</link>
@@ -2498,7 +2620,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:11:02</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Friday, April 23, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-friday-april-23-2021/</link>
@@ -2514,7 +2637,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:16:06</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Thursday, April 22, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-thursday-april-22-2021/</link>
@@ -2530,7 +2654,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:14:44</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News for Wednesday, April 21th, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-for-wednesday-april-21th-2021/</link>
@@ -2546,7 +2671,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:19:53</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Tuesday, April 20, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-april-20-2021/</link>
@@ -2562,7 +2688,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:12:42</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Monday, April 19, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-monday-april-19-2021/</link>
@@ -2578,7 +2705,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:16:31</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Friday, April 16, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-friday-april-16-2021/</link>
@@ -2594,7 +2722,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:16:12</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Thursday April 15th 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-thursday-april-15th-2021/</link>
@@ -2610,7 +2739,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:14:49</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Wednesday April 14th 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-wednesday-april-14th-2021/</link>
@@ -2626,7 +2756,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:21:34</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Tuesday April 13th, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-april-13th-2021/</link>
@@ -2642,7 +2773,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:14:05</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Monday, April 12, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-monday-april-12-2021/</link>
@@ -2658,7 +2790,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:17:17</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Friday, April 9, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-friday-april-9-2021/</link>
@@ -2674,7 +2807,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:22:29</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Thursday, April 8, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-thursday-april-8-2021/</link>
@@ -2690,7 +2824,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:14:23</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News for Wednesday April 7th, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-for-wednesday-april-7th-2021/</link>
@@ -2706,7 +2841,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:17:00</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Tuesday, April 6, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-april-6-2021/</link>
@@ -2722,7 +2858,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:14:34</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Monday, April 5, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-monday-april-5-2021/</link>
@@ -2738,7 +2875,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:13:11</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Friday, April 2, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-friday-april-2-2021/</link>
@@ -2754,7 +2892,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:17:05</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Thursday, April 1, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-thursday-april-1-2021/</link>
@@ -2770,7 +2909,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:16:37</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Wednesday March 31st 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-wednesday-march-31st-2021/</link>
@@ -2786,7 +2926,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:22:07</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daily News Brief for Tuesday, March 30, 2021.</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-march-30-2021/</link>
@@ -2802,6 +2943,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:16:48</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	</item>
+</item>
 	</channel>
 </rss>

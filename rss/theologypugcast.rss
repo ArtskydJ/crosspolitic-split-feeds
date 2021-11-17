@@ -8,8 +8,9 @@
 	 xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 	 xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	 xmlns:podcast="https://podcastindex.org/namespace/1.0"
 	>
-	<channel>
+		<channel>
 		<title>FLF - The Theology Pugcast</title>
 		<atom:link href="https://artskydj.github.io/crosspolitic-split-feeds/rss/theologypugcast.rss" rel="self" type="application/rss+xml"/>
 		<link>https://crosspolitic.com/</link>
@@ -20,33 +21,33 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 		<language>en-US</language>
 		<copyright></copyright>
 		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
-		<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+		<itunes:author>CrossPolitic Studios</itunes:author>
 					<itunes:type>serial</itunes:type>
-					<itunes:summary>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
-
-Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</itunes:summary>
+				<itunes:summary></itunes:summary>
 		<itunes:owner>
 			<itunes:name>CrossPolitic Studios</itunes:name>
 			<itunes:email>fightlaughfeast@gmail.com</itunes:email>
 		</itunes:owner>
 		<itunes:explicit>clean</itunes:explicit>
-					<itunes:image href="http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png"></itunes:image>
+		<itunes:image href="http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png"></itunes:image>
 			<image>
 				<url>http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png</url>
 				<title>Fight Laugh Feast Network</title>
 				<link>https://crosspolitic.com/</link>
 			</image>
-					<itunes:category text="News">
+		<itunes:category text="News">
+			<itunes:category text="Christianity"></itunes:category>
+		</itunes:category>
+		<itunes:category text="Religion &amp; Spirituality">
 									<itunes:category text="Christianity"></itunes:category>
 							</itunes:category>
-							<itunes:category text="Religion &amp; Spirituality">
-									<itunes:category text="Christianity"></itunes:category>
-							</itunes:category>
-							<itunes:category text="Society &amp; Culture">
+		<itunes:category text="Society &amp; Culture">
 									<itunes:category text="Philosophy"></itunes:category>
 							</itunes:category>
-						
+		<podcast:locked owner="fightlaughfeast@gmail.com">yes</podcast:locked>
+		<podcast:guid>bdcdb5ef-eb7a-5df7-865f-f0fa4628a66b</podcast:guid>
 		
+
 <item>
 	<title>The Theology Pugcast: Owen Barfield’s ‘Saving the Appearances’</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-owen-barfields-saving-the-appearances/</link>
@@ -69,7 +70,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:12:22</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Theology Pugcast: A Monk Without a Monastery</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-a-monk-without-a-monastery/</link>
@@ -90,7 +92,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:04:11</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Theology Pugcast: Tolkien’s “On Fairy Stories:” Escape</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-tolkiens-on-fairy-stories-escape/</link>
@@ -111,7 +114,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:04:22</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Theology Pugcast: The Slavery Show</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-the-slavery-show/</link>
@@ -132,7 +136,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:00:53</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Theology Pugcast: Technology, Wisdom, and Virtue</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-technology-wisdom-and-virtue/</link>
@@ -153,7 +158,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:00:49</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Theology Pugcast: Pilgrimage</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-pilgrimage/</link>
@@ -174,7 +180,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:59:31</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Theology Pugcast: The Soul of Man Under Socialism</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-the-soul-of-man-under-socialism/</link>
@@ -195,7 +202,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:00:41</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Theology Pugcast: Magic, Enchantment, and Worldview</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-magic-enchantment-and-worldview/</link>
@@ -216,7 +224,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:03:26</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Theology Pugcast: The Philosophy of the Vampire</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-the-philosophy-of-the-vampire/</link>
@@ -237,7 +246,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:05:02</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Theology Pugcast: Welcome to the Metaverse!</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-welcome-to-the-metaverse/</link>
@@ -258,7 +268,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:01:43</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Theology Pugcast: Sophistry Past and Present</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-sophistry-past-and-present/</link>
@@ -279,7 +290,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:05:49</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Theology Pugcast: The Rise and Fall of Heroes</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-the-rise-and-fall-of-heroes/</link>
@@ -300,7 +312,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:01:01</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Theology Pugcast: Darwinian Conservatism?</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-darwinian-conservatism/</link>
@@ -321,7 +334,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:01:59</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Theology Pugcast: Meaning in History: Part Three</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-meaning-in-history-part-three/</link>
@@ -342,7 +356,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:00:38</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Theology Pugcast: The Rise of Biblical Criticism</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-the-rise-of-biblical-criticism/</link>
@@ -363,7 +378,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:00:14</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Theology Pugcast: Is Politics Everything?</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-is-politics-everything/</link>
@@ -384,7 +400,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:00:45</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Theology Pugcast: Meaning in History: Part Two</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-meaning-in-history-part-two/</link>
@@ -405,7 +422,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:05:13</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Theology Pugcast: Guilds, Craftsmanship, and Excellence</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-guilds-craftsmanship-and-excellence/</link>
@@ -426,7 +444,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:04:05</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Theology Pugcast: Ideologies That Are Out to Get Your Family</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-ideologies-that-are-out-to-get-your-family/</link>
@@ -447,7 +466,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:06:54</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Theology Pugcast: Meaning in History</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-meaning-in-history/</link>
@@ -468,7 +488,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:04:48</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Theology Pugcast: Aesthetics: The Good, The Bad, and The Ugly</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-aesthetics-the-good-the-bad-and-the-ugly/</link>
@@ -489,7 +510,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:02:44</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Theology Pugcast: You&#8217;re Special, Just Like Everyone Else!</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-youre-special-just-like-everyone-else/</link>
@@ -510,7 +532,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:05:58</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Theology Pugcast: Restoring the Transcendent Frame</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-restoring-the-transcendent-frame/</link>
@@ -531,7 +554,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:01:24</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Theology Pugcast: Revelation, Reason, and Romanticism</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-revelation-reason-and-romanticism/</link>
@@ -552,7 +576,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:07:22</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Theology Pugcast: It&#8217;s a Mystery! Can Every Mystery be Solved?</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-its-a-mystery-can-every-mystery-be-solved/</link>
@@ -573,7 +598,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:06:59</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Theology Pugcast: Soul Sickness and Society: Plato and Christ: Part Two</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-soul-sickness-and-society-plato-and-christ-part-two/</link>
@@ -594,7 +620,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:01:37</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Theology Pugcast: Soul Sickness and Society: Plato and Christ: Part One</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-soul-sickness-and-society-part-one-plato-and-christ/</link>
@@ -615,7 +642,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:06:47</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Theology Pugcast: Warriors in the Garden: Martial Virtues and the Christian Man</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-warriors-in-the-garden-martial-virtues-and-the-christian-man/</link>
@@ -636,7 +664,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:00:49</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Theology Pugcast: Heiser’s Unseen Realm</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-heisers-unseen-realm/</link>
@@ -657,7 +686,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:11:22</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Theology Pugcast: The Hermeneutic of Suspicion</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-the-hermeneutic-of-suspicion/</link>
@@ -678,7 +708,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:58:05</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Theology Pugcast: The Return of the Metanarrative?!</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-the-return-of-the-metanarrative/</link>
@@ -699,7 +730,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:05:02</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Theology Pugcast: The Irish Saints: Redeemed Paganism</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-the-irish-saints-redeemed-paganism/</link>
@@ -720,7 +752,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:04:18</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Theology Pugcast: Individualisms: Which Sort of Individual are You?</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-individualisms-which-sort-of-individual-are-you/</link>
@@ -741,7 +774,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:07:17</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item>
 	</channel>
 </rss>

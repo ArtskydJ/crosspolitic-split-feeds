@@ -8,8 +8,9 @@
 	 xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 	 xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	 xmlns:podcast="https://podcastindex.org/namespace/1.0"
 	>
-	<channel>
+		<channel>
 		<title>FLF - DOANE!T</title>
 		<atom:link href="https://artskydj.github.io/crosspolitic-split-feeds/rss/darrendoane.rss" rel="self" type="application/rss+xml"/>
 		<link>https://crosspolitic.com/</link>
@@ -20,33 +21,33 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 		<language>en-US</language>
 		<copyright></copyright>
 		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
-		<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+		<itunes:author>CrossPolitic Studios</itunes:author>
 					<itunes:type>serial</itunes:type>
-					<itunes:summary>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
-
-Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</itunes:summary>
+				<itunes:summary></itunes:summary>
 		<itunes:owner>
 			<itunes:name>CrossPolitic Studios</itunes:name>
 			<itunes:email>fightlaughfeast@gmail.com</itunes:email>
 		</itunes:owner>
 		<itunes:explicit>clean</itunes:explicit>
-					<itunes:image href="http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png"></itunes:image>
+		<itunes:image href="http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png"></itunes:image>
 			<image>
 				<url>http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png</url>
 				<title>Fight Laugh Feast Network</title>
 				<link>https://crosspolitic.com/</link>
 			</image>
-					<itunes:category text="News">
+		<itunes:category text="News">
+			<itunes:category text="Christianity"></itunes:category>
+		</itunes:category>
+		<itunes:category text="Religion &amp; Spirituality">
 									<itunes:category text="Christianity"></itunes:category>
 							</itunes:category>
-							<itunes:category text="Religion &amp; Spirituality">
-									<itunes:category text="Christianity"></itunes:category>
-							</itunes:category>
-							<itunes:category text="Society &amp; Culture">
+		<itunes:category text="Society &amp; Culture">
 									<itunes:category text="Philosophy"></itunes:category>
 							</itunes:category>
-						
+		<podcast:locked owner="fightlaughfeast@gmail.com">yes</podcast:locked>
+		<podcast:guid>bdcdb5ef-eb7a-5df7-865f-f0fa4628a66b</podcast:guid>
 		
+
 <item>
 	<title>DOANE!T Episode 136: What Creative Courage Looks Like</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-136-what-creative-courage-looks-like/</link>
@@ -69,7 +70,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:09:18</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 135: The Truck Cast: Why I Rarely Have Guests On The Doane Cast</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-135-the-truck-cast-why-i-rarely-have-guests-on-the-doane-cast/</link>
@@ -92,7 +94,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:07:06</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 134: The Truck Cast: How To Scale And Take Market Share</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-134-the-truck-cast-how-to-scale-and-take-market-share/</link>
@@ -113,7 +116,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:11:52</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 133: The Truck Cast: The Food Industry Gets It</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-133-the-truck-cast-the-food-industry-gets-it/</link>
@@ -134,7 +138,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:06:47</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 132: The Truck Cast: My Crazy Idea For 2022</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-132-the-truck-cast-my-crazy-idea-for-2022/</link>
@@ -155,7 +160,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:14:39</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 131: DOANE&#8217;T LISTEN TO DARREN ON THEOLOGY: The Nephilim, Jude, and Michael The Archangel</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-131-doanet-listen-to-darren-on-theology-the-nephilim-jude-and-michael-the-archangel/</link>
@@ -164,7 +170,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11975</guid>
 	<description><![CDATA[Darren gives his brief thoughts on the Nephilim and their connection with Jude and other texts in Scripture.]]></description>
 	<itunes:subtitle><![CDATA[Darren gives his brief thoughts on the Nephilim and their connection with Jude and other texts in Scripture.]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
 							<enclosure url="https://crosspolitic.com/podcast-download/11975/doanet-episode-131-doanet-listen-to-darren-on-theology-the-nephilim-jude-and-michael-the-archangel.mp3" length="11475337"
 			   type="audio/mpeg"></enclosure>
 				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/FLF-Doanecast-Logo.png-1400.png"></itunes:image>
@@ -176,7 +181,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:11:55</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 130: The Truck Cast: The Business Owner Prophecy Warning Manifesto Episode</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-130-the-truck-cast-the-business-owner-prophecy-warning-manifesto-episode/</link>
@@ -197,7 +203,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:27:03</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 129: The Truck Cast: Vegas, Troublemaking, and Spec Ads</title>
 	<link>https://crosspolitic.com/podcast/the-truck-cast-vegas-troublemaking-and-spec-ads/</link>
@@ -218,7 +225,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:46:11</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 128: The Truck Cast: The NO Process and NOT Sponsored By Mission Meats Episode</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-128-the-truck-cast-the-no-process-and-not-sponsored-by-mission-meats-episode/</link>
@@ -228,7 +236,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<description><![CDATA[<p>There are no more &#8220;due dates&#8221;.</p>
 ]]></description>
 	<itunes:subtitle><![CDATA[There are no more &#8220;due dates&#8221;.]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
 							<enclosure url="https://crosspolitic.com/podcast-download/11926/doanet-episode-128-the-truck-cast-the-no-process-and-not-sponsored-by-mission-meats-episode.mp3" length="6591153"
 			   type="audio/mpeg"></enclosure>
 				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/FLF-Doanecast-Logo.png-1400.png"></itunes:image>
@@ -240,7 +247,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:07:48</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 127: Darren And Steve Save The World: Ep. 3</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-127-darren-and-steve-save-the-world-ep-3/</link>
@@ -261,7 +269,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:01:17</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 126: DOANE&#8217;T LISTEN TO DARREN ON THEOLOGY: Karma, Tattoos, And The Mark Of The Beast</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-126-doanet-listen-to-darren-on-theology-karma-tattoos-and-the-mark-of-the-beast/</link>
@@ -282,7 +291,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:13:57</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 125: The First Time I Had To DOANE!T</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-125-the-first-time-i-had-to-doanet/</link>
@@ -303,7 +313,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:08:59</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 124: The Truck Cast: Keep On Grinding Through The Sansdemic</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-124-the-truck-cast-keep-on-grinding-through-the-sansdemic/</link>
@@ -324,7 +335,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:24:57</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 123: For All The Young Musicians Out There</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-123-for-all-the-young-musicians-out-there/</link>
@@ -345,7 +357,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:05:45</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 122: Punk Rock Free Market Entrepreneurship</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-122-punk-rock-free-market-entrepreneurship/</link>
@@ -366,7 +379,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:15:20</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 121: Darren And Steve Save The World: Ep. 2</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-121-darren-and-steve-save-the-world-ep-2/</link>
@@ -387,7 +401,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:56:14</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 120: Darren And Steve Save The World: Ep. 1</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-120-darren-and-steve-save-the-world-ep-1/</link>
@@ -408,7 +423,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:06:21</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 119: The Truck Cast: The Value of Subculture</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-119-the-truck-cast-the-value-of-subculture/</link>
@@ -429,7 +445,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:09:10</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 118: Apocalypse Now With John Sacco</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-118-apocalypse-now-with-john-sacco/</link>
@@ -450,7 +467,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:21:17</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 117: Keynote On Brand Building</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-117-keynote-on-brand-building/</link>
@@ -471,7 +489,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:09:09</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 116: The Truck Cast: Just Keep Moving</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-116-the-truck-cast-just-keep-moving/</link>
@@ -492,7 +511,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:05:41</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 115:  The Truck Cast: WHAT THE HECK AM I DOING?</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-115-the-truck-cast-what-the-heck-am-i-doing/</link>
@@ -513,7 +533,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:07:39</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 114: Utilizing Youtube</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-114-utilizing-youtube/</link>
@@ -534,7 +555,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:14:23</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 113:  Bringing People Along When Telling Your Story</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-113-bringing-people-along-when-telling-your-story/</link>
@@ -555,7 +577,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:07:12</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 112: If Social Media Is So Stupid, Dumb, And Irrelevant&#8230;</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-112-if-social-media-is-so-stupid-dumb-and-irrelevant/</link>
@@ -576,7 +599,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:09:19</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Epiosde 111: Why Disney +</title>
 	<link>https://crosspolitic.com/podcast/doanet-epiosde-111-why-disney/</link>
@@ -597,7 +621,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:10:25</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 110: The All-Action Evan Jacobs</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-110-the-all-action-evan-jacobs/</link>
@@ -618,7 +643,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:28:03</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 109: The Truck Cast: Crypto Nike Niche</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-109-the-truck-cast-crypto-nike-niche/</link>
@@ -639,7 +665,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:07:51</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 108: Punk Rock Christianity And The FLF Conference 2021</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-108-punk-rock-christianity-and-the-flf-conference-2021/</link>
@@ -660,7 +687,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:21:02</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 107:  Office Talk: The Thesis Of The Music Industry</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-107-office-talk-the-thesis-of-the-music-industry/</link>
@@ -681,7 +709,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:18:23</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 106: DOANE&#8217;T LISTEN TO DARREN ON THEOLOGY: Mark 5 And Typology</title>
 	<link>https://crosspolitic.com/podcast/episode-106-doanet-listen-to-darren-on-theology-mark-5-and-typology/</link>
@@ -702,7 +731,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:13:29</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 105: DOANE&#8217;T LISTEN TO DARREN ON THEOLOGY: From Darren&#8217;s Testimony to Why He Thinks N.T. Wright Ain&#8217;t That Wrong</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-105-doanet-listen-to-darren-on-theology-from-darrens-testimony-to-why-he-thinks-n-t-wright-aint-that-wrong/</link>
@@ -723,7 +753,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:58:24</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 104: Office Talk: Brand Value with Levi Spires</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-104-office-talk-brand-value-with-levi-spires/</link>
@@ -744,7 +775,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:22:09</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 103: The Truck Cast: Execution Over Sales Call</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-103-the-truck-cast-execution-over-sales-call/</link>
@@ -765,7 +797,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:09:23</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 102: The Truck Cast (Kinda): We Are Always Telling Narratives</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-102-the-truck-cast-kinda-we-are-always-telling-narratives/</link>
@@ -786,7 +819,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:12:06</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 101: Office Talk: We Are Not Boring</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-101-office-talk-we-are-not-boring/</link>
@@ -807,7 +841,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:05:59</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 100: Fight Laugh Feast Conversation</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-100-fight-laugh-feast-conversation/</link>
@@ -828,7 +863,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:06:34</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 99: Exclusive: Special Guest Andrew Crapuchettes</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-99-exclusive-special-guest-andrew-crapuchettes/</link>
@@ -849,7 +885,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:21:15</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 98: The DCA State Of The Union</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-98-the-dca-state-of-the-union/</link>
@@ -870,7 +907,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:58:23</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 97: What Covid Taught Me About Content Communication</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-97-what-covid-taught-me-about-content-communication/</link>
@@ -891,7 +929,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:35:04</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 96: From Ocean&#8217;s 11 To JFK</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-96-from-oceans-11-to-jfk/</link>
@@ -912,7 +951,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:25:09</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 95: The Truck Cast: Extracting From Experience</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-95-the-truck-cast-extracting-from-experience/</link>
@@ -933,7 +973,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:24:17</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 94: The Man Himself David Bahnsen</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-94-the-man-himself-david-bahnsen/</link>
@@ -954,7 +995,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:33:24</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 93: The Truck Cast: Don&#8217;t You Dare Leave Now</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-93-the-truck-cast-dont-you-dare-leave-now/</link>
@@ -975,7 +1017,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:08:55</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 92: Platform Suicide and Resurrection</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-92-platform-suicide-and-resurrection/</link>
@@ -996,7 +1039,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:21:39</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 91: The Truck Cast: Brand Consistency</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-91-the-truck-cast-brand-consistency/</link>
@@ -1017,7 +1061,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:11:47</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 90: The Blue Print For 2021 With Eric Meyer</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-90-the-blue-print-for-2021-with-eric-meyer/</link>
@@ -1038,7 +1083,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:48:04</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 89: The Shape Of Entertainment To Come</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-89-the-shape-of-entertainment-to-come/</link>
@@ -1059,7 +1105,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:25:47</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 88: The Truck Cast: Why You Need To Wake Up</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-88-the-truck-cast-why-you-need-to-wake-up/</link>
@@ -1080,7 +1127,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:04:34</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 87: The New Mindset</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-87-the-new-mindset/</link>
@@ -1101,7 +1149,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:17:14</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 86: The Truck Cast: You Must Disrupt</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-86-the-truck-cast-you-must-disrupt/</link>
@@ -1122,7 +1171,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:05:54</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 85: The Truck Cast: Why I Like Private Jets</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-85-the-truck-cast-why-i-like-private-jets/</link>
@@ -1143,7 +1193,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:09:26</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 84: Athletes And Branding</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-84-athletes-and-branding/</link>
@@ -1164,7 +1215,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:11:41</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 83: The Truck Cast: The Simplicity Of Posting</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-83-the-truck-cast-the-simplicity-of-posting/</link>
@@ -1185,7 +1237,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:12:20</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 82: The Truck Cast: A Quick Strategy Overview</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-82-the-truck-cast-a-quick-strategy-overview/</link>
@@ -1206,7 +1259,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:07:31</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 81: The Truck Cast: Opportunity Is A Commodity</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-81-the-truck-cast-opportunity-is-a-commodity/</link>
@@ -1227,7 +1281,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:08:01</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 80: No Holds Barred With Lavon Coleman And Scott Hedgcock</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-80-no-holds-barred-with-lavon-coleman-and-scott-hedgcock/</link>
@@ -1248,7 +1303,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:46:58</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 79: The Truck Cast: What I&#8217;m Doing At The Fight Laugh Feast Conference 2020</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-79-the-truck-cast-what-im-doing-at-the-fight-laugh-feast-conference-2020/</link>
@@ -1269,7 +1325,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:08:16</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 78: Content Communication Elective &#8211; Day 5</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-78-content-communication-elective-day-5/</link>
@@ -1290,7 +1347,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:48:10</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 77: The Truck Cast: I Do Not Believe We Are God</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-77-the-truck-cast-i-do-not-believe-we-are-god/</link>
@@ -1311,7 +1369,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:28:33</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 76: The Truck Cast: The Doane!t Hiring Process and Crushing Content</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-76-the-truck-cast-the-doanet-hiring-process-and-crushing-content/</link>
@@ -1332,7 +1391,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:16:31</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 75: Exclusive Pre-Production Call On A New Music Video</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-75-exclusive-pre-production-call-on-a-new-music-video/</link>
@@ -1353,7 +1413,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:14:54</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 74: Content Communication Elective &#8211; Day 4</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-74-content-communication-elective-day-4/</link>
@@ -1374,7 +1435,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:50:24</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 73: Look At Your Phone And See Opportunity</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-73-look-at-your-phone-and-see-opportunity/</link>
@@ -1395,7 +1457,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:08:34</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 72: Content Communication Elective &#8211; Day 3</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-72-content-communication-elective-day-3/</link>
@@ -1416,7 +1479,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:48:55</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 71: From Agriculture To Resumes On Plowtalk</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-71-from-agriculture-to-resumes-on-plowtalk/</link>
@@ -1438,7 +1502,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:51:50</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 70: Content Communication Elective &#8211; Day 2</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-70-content-communication-elective-day-2/</link>
@@ -1459,7 +1524,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:49:53</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 69: Content Communication Elective &#8211; Day 1</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-69-content-communication-elective-day-1/</link>
@@ -1480,7 +1546,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:49:22</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 68: Marcus Pittman, Child Labor Laws, and Esports</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-68-marcus-pittman-child-labor-laws-and-esports/</link>
@@ -1501,7 +1568,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:15:30</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 67: The Truck Cast: You Don&#8217;t Have A Head Of Marketing</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-67-the-truck-cast-you-dont-have-a-head-of-marketing/</link>
@@ -1523,7 +1591,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:09:40</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 66: Keynote Q&#038;A</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-66-keynote-qa/</link>
@@ -1544,7 +1613,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:03:16</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 65: Epic 2 Hour Keynote With Q&#038;A</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-65-epic-2-hour-keynote-with-qa/</link>
@@ -1565,7 +1635,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:57:11</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 64: The Truck Cast: Communicating Who You Are</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-64-the-truck-cast-communicating-who-you-are/</link>
@@ -1586,7 +1657,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:12:09</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 63: Darren Gets Grilled</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-63-darren-gets-grilled/</link>
@@ -1607,7 +1679,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:22:45</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 62: Throwback 2010 Talk</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-62-throwback-2010-talk/</link>
@@ -1628,7 +1701,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:48:13</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 61: The Truck Cast: Leave College? Why not?</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-61-the-truck-cast-leave-college-why-not/</link>
@@ -1649,7 +1723,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:13:29</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 60: The Truck Cast: Cultural Branding</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-60-the-truck-cast-cultural-branding/</link>
@@ -1670,7 +1745,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:12:03</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 59: Hot Take on Film School Faculty</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-59-hot-take-on-film-school-faculty/</link>
@@ -1691,7 +1767,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:30:30</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 58: The Truck Cast: Straight Talk On Why My Online Platform Is A Game Changer</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-58-the-truck-cast-straight-talk-on-why-my-online-platform-is-a-game-changer/</link>
@@ -1712,7 +1789,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:06:46</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 57: Why I&#8217;m Starting An Online School</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-57-why-im-starting-an-online-school/</link>
@@ -1733,7 +1811,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:19:44</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 56: The Truck Cast: The World Has Changed. Deal With It.</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-56-the-truck-cast-the-world-has-changed-deal-with-it/</link>
@@ -1754,7 +1833,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:08:44</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 55: The Truck Cast: Document Don&#8217;t Create: Everyday Communication</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-55-the-truck-cast-document-dont-create-everyday-communication/</link>
@@ -1775,7 +1855,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:16:15</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 54: This Is How Quick You Can Make A Podcast</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-54-this-is-how-quick-you-can-make-a-podcast/</link>
@@ -1796,7 +1877,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:00:57</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 53: The Truck Cast: Do Not Wait For Opportunity</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-53-the-truck-cast-do-not-wait-for-opportunity/</link>
@@ -1817,7 +1899,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:05:14</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 52: Tough Love #2</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-52-tough-love-2/</link>
@@ -1838,7 +1921,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:26:33</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 51: The Truck Cast: Communicating To The Whole World</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-51-the-truck-cast-communicating-to-the-whole-world/</link>
@@ -1859,7 +1943,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:13:07</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 50: There Is No Such Thing As A Safe Job</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-50-there-is-no-such-thing-as-a-safe-job/</link>
@@ -1880,7 +1965,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:33:30</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 49: Minimalism And Why I&#8217;m Not Into It</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-49-minimalism-and-why-im-not-into-it/</link>
@@ -1901,7 +1987,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:17:20</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 48: Brutality Honest With Adam Simon</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-48-brutality-honest-with-adam-simon/</link>
@@ -1922,7 +2009,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>02:01:54</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 47: The Truck Cast: The Reality of Brand Building</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-47-the-truck-cast-the-reality-of-brand-building/</link>
@@ -1943,7 +2031,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:09:24</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 46: Brand Is Reputation</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-46-brand-is-reputation/</link>
@@ -1964,7 +2053,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:34:46</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 45: Loss Is Gain</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-45-loss-is-gain/</link>
@@ -1985,7 +2075,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:25:53</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 44: The Skills of Being A Maker</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-44-the-skills-of-being-a-maker/</link>
@@ -2006,7 +2097,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:26:54</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Doane!t Episode 43: Content Communication</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-43-content-communication/</link>
@@ -2027,7 +2119,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:11:44</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Doane!t Episode 42: COVID-19: When It Happened, How It Affected Businesses, And Continuing The Hustle</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-42-covid-19-when-it-happened-how-it-affected-businesses-and-continuing-the-hustle/</link>
@@ -2048,7 +2141,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:12:29</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 41: Zach Myers of Shinedown</title>
 	<link>https://crosspolitic.com/podcast/doanet-zach-myers-of-shinedown/</link>
@@ -2069,7 +2163,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:07:53</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 40: The Truck Cast: Door Dash and Living on $400 bucks a month. The hustle is REAL.</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-40-the-truck-cast-door-dash-and-living-on-400-bucks-a-month-the-hustle-is-real/</link>
@@ -2090,7 +2185,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:15:26</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 39:  The History/Future Of Education And Why Colleges Are In Trouble</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-39-the-history-future-of-education-and-why-colleges-are-in-trouble/</link>
@@ -2111,7 +2207,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:27:59</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 38: The Truck Cast: Resumes, The Corona Virus, and the UX/UI Myth</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-38-the-truck-cast-resumes-the-corona-virus-and-the-ux-ui-myth/</link>
@@ -2132,7 +2229,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:30:34</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 37: The Truck Cast: People Want Quick Solutions</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-37-the-truck-cast-people-want-quick-solutions/</link>
@@ -2153,7 +2251,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:14:48</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 36: Container Talk with Brandon Allen</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-36-container-talk-with-brandon-allen/</link>
@@ -2174,7 +2273,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:46:16</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 35: The Truck Cast: Why I Hate The Personality Test</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-35-the-truck-cast-why-i-hate-the-personality-test/</link>
@@ -2195,7 +2295,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:18:29</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 34: The Truck Cast: California Trip and Brand Building</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-34-the-truck-cast-california-trip-and-brand-building/</link>
@@ -2216,7 +2317,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:26:01</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 33: Everything I Learned Was From Bands (Instagram Live!)</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-33-everything-i-learned-was-from-bands-instagram-live/</link>
@@ -2237,7 +2339,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:54:06</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 32: Consultation Call With Kris Estep</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-32-consultation-call-with-kris-estep/</link>
@@ -2258,7 +2361,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:47:32</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 31: Container Talk With Eric Meyer</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-31-container-talk-with-eric-meyer/</link>
@@ -2279,7 +2383,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:39:51</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T: Episode 30: If Not This, Then What?</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-30-if-not-this-then-what/</link>
@@ -2300,7 +2405,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:22:25</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 29: Container Talk With Jake Litwin</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-29-container-talk-with-jake-litwin/</link>
@@ -2321,7 +2427,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:30:06</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 28: The Truck Cast: Quick Thoughts On The Power Of Social Media</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-28-the-truck-cast-quick-thoughts-on-the-power-of-social-media/</link>
@@ -2342,7 +2449,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:07:27</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 27: Special Episode: Tough Love</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-27-special-episode-tough-love/</link>
@@ -2363,7 +2471,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:45:00</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 26: Interview With TC Cook</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-26-interview-with-tc-cook/</link>
@@ -2384,7 +2493,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:23:28</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 25: Hanging Out With David Shannon</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-25-hanging-out-with-david-shannon/</link>
@@ -2405,7 +2515,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:15:00</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 24: Conversation With Nicholas Litwin</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-24-conversation-with-nicholas-litwin/</link>
@@ -2426,7 +2537,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:47:37</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 23: Conversation With Dan Dobi</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-23-conversation-with-dan-dobi/</link>
@@ -2447,7 +2559,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:14:27</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 22: Interview with Jeremy Spencer</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-22-interview-with-jeremy-spencer/</link>
@@ -2468,7 +2581,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:25:11</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 21: The Truck Cast: Culture Shift</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-21-the-truck-cast-culture-shift/</link>
@@ -2489,7 +2603,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:28:33</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode 20: The Truck Cast: Gary Vee And The Future Of Content</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-20-the-truck-cast-gary-vee-and-the-future-of-content/</link>
@@ -2510,7 +2625,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:15:45</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode Nineteen: This Is Warfare</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-nineteen-this-is-warfare/</link>
@@ -2531,7 +2647,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:10:22</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode Eighteen: The Truck Cast: Why Create So Much?</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-eighteen-the-truck-cast-why-create-so-much/</link>
@@ -2552,7 +2669,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:15:27</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode Seventeen: Doane Studio Interview</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-seventeen-doane-studio-interview/</link>
@@ -2573,7 +2691,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:24:59</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode Sixteen: The Truck Cast: Early Mornings In Pain And Working Through The Suffering</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-sixteen-the-truck-cast-early-mornings-in-pain-and-working-through-the-suffering/</link>
@@ -2594,7 +2713,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:23:35</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode Fifteen: The Truck Cast: Creating Platforms</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-fifteen-the-truck-cast-creating-platforms/</link>
@@ -2615,7 +2735,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:10:16</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode Fourteen: Breakfast Interview</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-fourteen-breakfast-interview/</link>
@@ -2636,7 +2757,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:28:35</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode Thirteen: Talk at Sierra International Machinery</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-thirteen-talk-at-sierra-international-machinery/</link>
@@ -2657,7 +2779,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:11:20</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode Twelve: The Truck Cast: Redeeming The Time We Have Before Us</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-twelve-the-truck-cast-redeeming-the-time-we-have-before-us/</link>
@@ -2678,7 +2801,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:24:28</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode Eleven: The Hustle Grind Pubcast: We Don&#8217;t Work Hard Enough</title>
 	<link>https://crosspolitic.com/podcast/doanet-episode-eleven-the-hustle-grind-pubcast-we-dont-work-hard-enough/</link>
@@ -2699,7 +2823,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:13:19</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode Ten: The Hustle Grind Pubcast: Pure Hustle and Grind</title>
 	<link>https://crosspolitic.com/podcast/tdc-episode-ten-the-hustle-grind-pubcast-pure-hustle-and-grind/</link>
@@ -2720,7 +2845,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:09:40</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode Nine: The Hustle Grind Pubcast</title>
 	<link>https://crosspolitic.com/podcast/tdc-episode-nine-the-hustle-grind-pubcast/</link>
@@ -2741,7 +2867,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:19:09</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode Eight: Social Media: Learn It Or Get Canned</title>
 	<link>https://crosspolitic.com/podcast/tdc-episode-eight-social-media-learn-it-or-get-canned/</link>
@@ -2762,7 +2889,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:10:37</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode Seven: The Importance of Music Choice in Filmmaking / The Future of Composers</title>
 	<link>https://crosspolitic.com/podcast/tdc-episode-seven-the-importance-of-music-choice-in-filmmaking-the-future-of-composers/</link>
@@ -2783,7 +2911,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:26:59</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode Six: The End Of Filmmaking</title>
 	<link>https://crosspolitic.com/podcast/episode-six-the-end-of-filmmaking/</link>
@@ -2804,7 +2933,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:28:45</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode Five: Proximity Matters</title>
 	<link>https://crosspolitic.com/podcast/tdc-episode-five-proximity-matters/</link>
@@ -2825,7 +2955,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:30:47</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode Four: The Social Media Barrage</title>
 	<link>https://crosspolitic.com/podcast/episode-four-the-social-media-barrage/</link>
@@ -2846,7 +2977,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:40:28</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode Three: Film Festivals Are High School Cliques</title>
 	<link>https://crosspolitic.com/podcast/tdc-episode-three-film-festivals-are-high-school-cliques/</link>
@@ -2867,7 +2999,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:35:50</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode Two: Anything Worth Doing Is Worth Doing Badly</title>
 	<link>https://crosspolitic.com/podcast/tdc-episode-2-anything-worth-doing-is-worth-doing-badly/</link>
@@ -2888,7 +3021,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:33:52</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>DOANE!T Episode One: Don&#8217;t Let your Content be Precious</title>
 	<link>https://crosspolitic.com/podcast/tdc-episode-one-dont-let-your-cotent-be-precious/</link>
@@ -2909,7 +3043,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:33:52</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item>
 	</channel>
 </rss>

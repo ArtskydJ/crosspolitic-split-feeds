@@ -8,8 +8,9 @@
 	 xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 	 xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	 xmlns:podcast="https://podcastindex.org/namespace/1.0"
 	>
-	<channel>
+		<channel>
 		<title>FLF - Fight Laugh Feast (No Series)</title>
 		<atom:link href="https://artskydj.github.io/crosspolitic-split-feeds/rss/everythingelse.rss" rel="self" type="application/rss+xml"/>
 		<link>https://crosspolitic.com/</link>
@@ -20,33 +21,33 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 		<language>en-US</language>
 		<copyright></copyright>
 		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
-		<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+		<itunes:author>CrossPolitic Studios</itunes:author>
 					<itunes:type>serial</itunes:type>
-					<itunes:summary>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
-
-Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</itunes:summary>
+				<itunes:summary></itunes:summary>
 		<itunes:owner>
 			<itunes:name>CrossPolitic Studios</itunes:name>
 			<itunes:email>fightlaughfeast@gmail.com</itunes:email>
 		</itunes:owner>
 		<itunes:explicit>clean</itunes:explicit>
-					<itunes:image href="http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png"></itunes:image>
+		<itunes:image href="http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png"></itunes:image>
 			<image>
 				<url>http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png</url>
 				<title>Fight Laugh Feast Network</title>
 				<link>https://crosspolitic.com/</link>
 			</image>
-					<itunes:category text="News">
+		<itunes:category text="News">
+			<itunes:category text="Christianity"></itunes:category>
+		</itunes:category>
+		<itunes:category text="Religion &amp; Spirituality">
 									<itunes:category text="Christianity"></itunes:category>
 							</itunes:category>
-							<itunes:category text="Religion &amp; Spirituality">
-									<itunes:category text="Christianity"></itunes:category>
-							</itunes:category>
-							<itunes:category text="Society &amp; Culture">
+		<itunes:category text="Society &amp; Culture">
 									<itunes:category text="Philosophy"></itunes:category>
 							</itunes:category>
-						
+		<podcast:locked owner="fightlaughfeast@gmail.com">yes</podcast:locked>
+		<podcast:guid>bdcdb5ef-eb7a-5df7-865f-f0fa4628a66b</podcast:guid>
 		
+
 <item>
 	<title>Live Not by Lies! The CrossPolitic Crew sits down w/ Rod Dreher!</title>
 	<link>https://crosspolitic.com/podcast/live-not-by-lies-the-crosspolitic-crew-sits-down-w-rod-dreher/</link>
@@ -69,7 +70,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:26:53</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Joy of the CREC w/ Pastors Uri Brito &#038; Jerry Owen</title>
 	<link>https://crosspolitic.com/podcast/the-joy-of-the-crec-w-pastors-uri-brito-jerry-owen/</link>
@@ -90,7 +92,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:46:38</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Theology Pugcast on CrossPolitic! Tom Bombadil w/ C.R. Wiley, Get Involved &#8211; Make a Difference</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-on-crosspolitic-tom-bombadil-w-c-r-wiley-get-involved-make-a-difference/</link>
@@ -106,7 +109,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:11:21</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Knox Unplugged w/ Jason Farley: The World as an Allegory &#038; Eve as the Cheat Code</title>
 	<link>https://crosspolitic.com/podcast/knox-unplugged-w-jason-farley-the-world-as-an-allegory-eve-as-the-cheat-code/</link>
@@ -127,7 +131,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:57:56</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>NO QUARTER NOVEMBER is HERE! Pastor Doug joins us in Studio for The Midweek Fix!</title>
 	<link>https://crosspolitic.com/podcast/no-quarter-november-is-here-pastor-doug-joins-us-in-studio-for-the-midweek-fix/</link>
@@ -148,7 +153,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:46:57</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>UCLA RT FIRED! AJ Hurley joins on the Sunday Special to share his story &#8211; The Sacrifice &#038; Fight</title>
 	<link>https://crosspolitic.com/podcast/ucla-rt-fired-aj-hurley-joins-on-the-sunday-special-to-share-his-story-the-sacrifice-fight/</link>
@@ -169,7 +175,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:52:47</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>LAP &#8211; Dave Chapelle and the Cancel Mob</title>
 	<link>https://crosspolitic.com/podcast/lap-dave-chapelle-and-the-cancel-mob/</link>
@@ -190,7 +197,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:47:20</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>#FauciLied, The Confessional County w/ Raymond Simmons, Push Back w/ Practical Christian Communities</title>
 	<link>https://crosspolitic.com/podcast/faucilied-the-confessional-county-w-raymond-simmons-push-back-w-practical-christian-communities/</link>
@@ -206,7 +214,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:07:38</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Last Reformgelical AD ROBLES + MATT WILLIAMS</title>
 	<link>https://crosspolitic.com/podcast/the-last-reformgelical-ad-robles-matt-williams/</link>
@@ -227,7 +236,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:09:13</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Mandate doesn’t Exist? w/ Joy Pullman, Inflation at a new level, Climate Change Judement</title>
 	<link>https://crosspolitic.com/podcast/mandate-doesnt-exist-w-joy-pullman-inflation-at-a-new-level-climate-change-judement/</link>
@@ -243,7 +253,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:09:23</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Free Speech on Gab.com Is Problematic</title>
 	<link>https://crosspolitic.com/podcast/free-speech-on-gab-com-is-problematic/</link>
@@ -252,7 +263,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11962</guid>
 	<description><![CDATA[]]></description>
 	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
-			<itunes:keywords>brand,Content,Film</itunes:keywords>
 							<enclosure url="https://crosspolitic.com/podcast-download/11962/free-speech-on-gab-com-is-problematic.mp3" length="51038085"
 			   type="audio/mpeg"></enclosure>
 				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2019/01/AD-1-e1548264215567.jpeg"></itunes:image>
@@ -264,7 +274,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:21:15</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>LIVE Special: Southwest Airlines Pilot Speaks, Rod Martin on SBC</title>
 	<link>https://crosspolitic.com/podcast/live-special-southwest-airlines-pilot-speaks-rod-martin-on-sbc/</link>
@@ -285,7 +296,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>0:00:00</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>LaP &#8211; Let&#8217;s go brandon vs the black robe regiment</title>
 	<link>https://crosspolitic.com/podcast/lap-lets-go-brandon-vs-the-black-robe-regiment/</link>
@@ -294,7 +306,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11953</guid>
 	<description><![CDATA[On this return episode I am talking about the current red pill rage that fills stadiums with chants of F Joe Biden and how that compares to the preaching of the Black Robe Regiment. Are we a people spiritually ready to battle?]]></description>
 	<itunes:subtitle><![CDATA[On this return episode I am talking about the current red pill rage that fills stadiums with chants of F Joe Biden and how that compares to the preaching of the Black Robe Regiment. Are we a people spiritually ready to battle?]]></itunes:subtitle>
-			<itunes:keywords>2021,christian,feminism,MenOfViolence,patriarchy</itunes:keywords>
 							<enclosure url="https://crosspolitic.com/podcast-download/11953/lap-lets-go-brandon-vs-the-black-robe-regiment.mp3" length="50899740"
 			   type="audio/mpeg"></enclosure>
 				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/05/LawProfits_1024x10244-scaled-1.jpg"></itunes:image>
@@ -306,7 +317,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:53:00</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Eric Metaxas Interview, Dr. Story &#8211; Dark Side of Medicine (Abortion/Vaccines), Building Christianly</title>
 	<link>https://crosspolitic.com/podcast/eric-metaxas-interview-dr-story-dark-side-of-medicine-abortion-vaccines-building-christianly/</link>
@@ -322,7 +334,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:19:07</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Fake Facebook Whistleblower &#038; The Call for Christians to Take Over Media</title>
 	<link>https://crosspolitic.com/podcast/fake-facebook-whistleblower-the-call-for-christians-to-take-over-media/</link>
@@ -343,7 +356,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:42:26</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Making Sense of the Infrastructure/Spending Bill, JAG Lawyer Davis Younts Defending Military Clients</title>
 	<link>https://crosspolitic.com/podcast/making-sense-of-the-infrastructure-spending-bill-jag-lawyer-davis-younts-defending-military-clients/</link>
@@ -359,7 +373,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:09:58</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Vaccine Eucharist, Christians &#038; Technology w/ Dr. Tom Price, Comedy Workshop w/ John Branyan</title>
 	<link>https://crosspolitic.com/podcast/vaccine-eucharist-christians-technology-w-dr-tom-price-comedy-workshop-w-john-branyan/</link>
@@ -380,7 +395,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:56:02</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Knox Unplugged: Eschatology is Metaphysics in Motion w/ Jason Farley</title>
 	<link>https://crosspolitic.com/podcast/knox-unplugged-eschatology-is-metaphysics-in-motion-w-jason-farley/</link>
@@ -401,7 +417,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:48:23</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Jeff Durbin: Stand With Warriors, N.D. Wilson in Studio, STICKERGATE Update, Riot &#038; the Dance</title>
 	<link>https://crosspolitic.com/podcast/jeff-durbin-stand-with-warriors-n-d-wilson-in-studio-stickergate-update-riot-the-dance/</link>
@@ -417,7 +434,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:26:52</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>StopTheVaxxMandate w/ Robert Bortins, Norm Macdonald’s best, Gabe’s Arrest Anniversary</title>
 	<link>https://crosspolitic.com/podcast/stopthevaxxmandate-w-robert-bortins-norm-macdonalds-best-gabes-arrest-anniversary/</link>
@@ -438,7 +456,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:11:05</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>American Segregation Return, Campus Preacher in Studio, &#038; CP’s TOP TEN of 2021</title>
 	<link>https://crosspolitic.com/podcast/american-segregation-return-campus-preacher-in-studio-cps-top-ten-of-2021/</link>
@@ -454,7 +473,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:14:21</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Mid-Week Fix: Fighting w/ The Power Of Story &#124; Pr. Josh McPherson</title>
 	<link>https://crosspolitic.com/podcast/mid-week-fix-fighting-w-the-power-of-story-pr-josh-mcpherson/</link>
@@ -475,7 +495,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:25:34</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Sunday Special: LIVE FLF Conference Show w/ Voddie Baucham &#038; Doug Wilson</title>
 	<link>https://crosspolitic.com/podcast/sunday-special-live-flf-conference-show-w-voddie-baucham-doug-wilson/</link>
@@ -491,7 +512,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:20:52</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Tennessee Backyard Special: Masculine Tactical Theology w/ Forrest Cooper</title>
 	<link>https://crosspolitic.com/podcast/tennessee-backyard-special-masculine-tactical-theology-w-forrest-cooper/</link>
@@ -507,7 +529,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:05:09</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Doane/Crapuchettes Return In Studio! Texas Scorecard: Mike Sullivan &#8211; Participate in your Politics!</title>
 	<link>https://crosspolitic.com/podcast/doane-crapuchettes-return-in-studio-texas-scorecard-mike-sullivan-participate-in-your-politics/</link>
@@ -523,7 +546,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:03:12</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Knox Unplugged w/ Jason Farley: “What’s it Made of?”</title>
 	<link>https://crosspolitic.com/podcast/knox-unplugged-w-jason-farley-whats-it-made-of/</link>
@@ -544,7 +568,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:39:10</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>This US Welfare War, The Hijacked Imagination w/ Carl Trueman &#8211; Understanding our Current Rebellion</title>
 	<link>https://crosspolitic.com/podcast/this-us-welfare-war-the-hijacked-imagination-w-carl-trueman-understanding-our-current-rebellion/</link>
@@ -560,7 +585,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:06:17</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Communism/Capitalism vs Christian Economics &#038; How to Make the Back of the Bus Hot Again</title>
 	<link>https://crosspolitic.com/podcast/communism-capitalism-vs-christian-economics-how-to-make-the-back-of-the-bus-hot-again/</link>
@@ -581,7 +607,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>02:13:53</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Red Balloon &#8211; Freedom Business w/ Andrew Crapuchettes &#038; Standing Against Our Own Taliban</title>
 	<link>https://crosspolitic.com/podcast/red-balloon-freedom-business-w-andrew-crapuchettes-standing-against-our-own-taliban/</link>
@@ -597,7 +624,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:03:26</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Dr. James White in Studio! The Great Reset, Postmil Pains, &#038; Having a Proper Handle on The Word</title>
 	<link>https://crosspolitic.com/podcast/dr-james-white-in-studio-the-great-reset-postmil-pains-having-a-proper-handle-on-the-word/</link>
@@ -613,7 +641,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:09:06</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Is Freedom Bunk? Interposing Tyranny in Our Heart &#124; The Beautiful Christian Life w/ Jason Farley</title>
 	<link>https://crosspolitic.com/podcast/is-freedom-bunk-interposing-tyranny-in-our-heart-the-beautiful-christian-life-w-jason-farley/</link>
@@ -629,7 +658,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:05:23</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>COVID SPECIAL!! Dr. Richards, Dr. Cole, Dr. Bhattacharya, Dr. Wool, &#038; guest N.D. Wilson!!</title>
 	<link>https://crosspolitic.com/podcast/covid-special-dr-richards-dr-cole-dr-bhattacharya-dr-wool-guest-n-d-wilson/</link>
@@ -645,7 +675,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:57:25</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Delta Variant, Vaccines &#8211; How do we respond w/ Wisdom? Dr. Jay Bhattacharya takes us to School!</title>
 	<link>https://crosspolitic.com/podcast/delta-variant-vaccines-how-do-we-respond-w-wisdom-dr-jay-bhattacharya-takes-us-to-school/</link>
@@ -661,7 +692,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:04:48</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Biden Town Hall, Pelosi wants choice in medicare and Priscilla Giddings who is running for ID Lt, Gov. joins us for the whole show.</title>
 	<link>https://crosspolitic.com/podcast/biden-town-hall-pelosi-wants-choice-in-medicare-and-priscilla-giddings-who-is-running-for-id-lt-gov-joins-us-for-the-whole-show/</link>
@@ -677,7 +709,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:14:30</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Dems Tough On Cuba, FL Sued over Covid Passports, Blaine Conzotti: Idaho&#8217;s Biggest Politics Problem</title>
 	<link>https://crosspolitic.com/podcast/dems-tough-on-cuba-fl-sued-over-covid-passports-blaine-conzotti-idahos-biggest-politics-problem/</link>
@@ -693,7 +726,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:01:59</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>John Branyan Comedy Special at The Fight Laugh Feast Rally</title>
 	<link>https://crosspolitic.com/podcast/john-branyan-comedy-special-at-the-fight-laugh-feast-rally/</link>
@@ -709,7 +743,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:05:18</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>“You Might not be Paedobaptist or Postmil, but the Left is &#038; That’s Why They’re Winning”</title>
 	<link>https://crosspolitic.com/podcast/you-might-not-be-paedobaptist-or-postmil-but-the-left-is-thats-why-theyre-winning/</link>
@@ -730,7 +765,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:51:16</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Freedom Bash at the Rench’s! Remembering Liberty &#8211; Fighting for It</title>
 	<link>https://crosspolitic.com/podcast/freedom-bash-at-the-renchs-remembering-liberty-fighting-for-it/</link>
@@ -746,7 +782,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:08:24</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Biden&#8217;s Careless Whispers (F-15’s &#038; Nukes), Ride Sally Ride Film Director Joseph Granda in Studio!</title>
 	<link>https://crosspolitic.com/podcast/bidens-careless-whispers-f-15s-nukes-ride-sally-ride-film-director-joseph-granda-in-studio/</link>
@@ -767,7 +804,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:02:55</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Pastor Tim Stephens arrested again, The Sansdemic no one is talking about &#038; why it&#8217;s so important</title>
 	<link>https://crosspolitic.com/podcast/pastor-tim-stephens-arrested-again-the-sansdemic-no-one-is-talking-about-why-its-so-important/</link>
@@ -783,7 +821,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:11:02</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>VP Harris crosses the border, $26 mil. for black birthing people? Russell Moore &#038; SBC Politics</title>
 	<link>https://crosspolitic.com/podcast/vp-harris-crosses-the-boarder-26-mil-for-black-birthing-people-russell-moore-sbc-politics/</link>
@@ -799,7 +838,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:14:31</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>The Mercy of the Wicked is Cruel &#8211; BigEva Hates Poor People</title>
 	<link>https://crosspolitic.com/podcast/the-mercy-of-the-wicked-is-cruel-bigeva-hates-poor-people/</link>
@@ -808,7 +848,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11491</guid>
 	<description><![CDATA[]]></description>
 	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
 							<enclosure url="https://crosspolitic.com/podcast-download/11491/the-mercy-of-the-wicked-is-cruel-bigeva-hates-poor-people.mp3" length="64260223"
 			   type="audio/mpeg"></enclosure>
 				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2019/01/AD-1-e1548264215567.jpeg"></itunes:image>
@@ -820,7 +859,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:26:46</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Knox Unplugged: Rd. 3 Reconnecting w/ Reality &#8211; Jason Farley &#038; Thomas Price</title>
 	<link>https://crosspolitic.com/podcast/knox-unplugged-rd-3-reconnecting-w-reality-jason-farley-thomas-price/</link>
@@ -841,7 +881,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:58:32</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>UNICEF Fails Children, TX Valedictorian Can&#8217;t Think, &#038; Doug TenNapel On Why AZ Audit Really Matters</title>
 	<link>https://crosspolitic.com/podcast/unicef-fails-children-tx-valedictorian-cant-think-doug-tennapel-on-why-az-audit-really-matters/</link>
@@ -857,7 +898,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:07:37</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Knox Unplugged Pt. 2: Metaphysics…we&#8217;re all gnostics now</title>
 	<link>https://crosspolitic.com/podcast/knox-unplugged-pt-2-metaphysicswere-all-gnostics-now/</link>
@@ -878,7 +920,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:51:05</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Thunberg checked, Super Straight? Zach Lautenschlager talks truth on Noem &#038; Keith Darrell in studio</title>
 	<link>https://crosspolitic.com/podcast/thunberg-checked-super-straight-zach-lautenschlager-talks-truth-on-noem-keith-darrell-in-studio/</link>
@@ -894,7 +937,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:14:34</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Knox Unplugged: A conversational introduction to the metaphysics of ethics w/Jason Farley from LOOR.tv Part 1</title>
 	<link>https://crosspolitic.com/podcast/knox-unplugged-a-conversational-introduction-to-the-metaphysics-of-ethics-w-jason-farley-from-loor-tv-part-1/</link>
@@ -915,7 +959,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:43:18</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Russia v. US Ad, Russell NoMoore, Doug Wilson in Studio talks Weed, Liberty, &#038; Legalization</title>
 	<link>https://crosspolitic.com/podcast/russia-v-us-ad-russell-nomoore-doug-wilson-in-studio-talks-weed-liberty-legalization/</link>
@@ -931,7 +976,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:53:39</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Cheney Out, de Blasio: Free Fries for Vaccine &#038; Dr. Hayward InStudio on Churchill &#038; Reagan today</title>
 	<link>https://crosspolitic.com/podcast/cheney-out-de-blasio-free-fries-for-vaccine-dr-hayward-instudio-on-churchill-reagan-today/</link>
@@ -947,7 +993,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:53:16</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>L&#038;P: Debating Ruslan on the the answers to injustice</title>
 	<link>https://crosspolitic.com/podcast/lp-debating-ruslan-on-the-the-answers-to-injustice/</link>
@@ -968,7 +1015,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:43:02</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Hannity&#8217;s Jenner Hypocrisy, Politics of Sex, FLF Rally Recap w/ Campus Preacher &#038; Marcus Pittman!</title>
 	<link>https://crosspolitic.com/podcast/hannitys-jenner-hypocrisy-politics-of-sex-rally-recap-w-campus-preacher-marcus-pittman/</link>
@@ -984,7 +1032,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:02:34</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Post Talk Conversation w/ Steve Deace at the FLF Rally</title>
 	<link>https://crosspolitic.com/podcast/post-talk-conversation-w-steve-deace-at-the-flf-rally/</link>
@@ -1000,7 +1049,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:16:51</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Post Talk Conversation w/ N.D. Wilson at the FLF Rally</title>
 	<link>https://crosspolitic.com/podcast/post-talk-conversation-w-n-d-wilson-at-the-flf-rally/</link>
@@ -1016,7 +1066,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:32:38</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Post Talk Conversation w/ Joe Boot at the FLF Rally</title>
 	<link>https://crosspolitic.com/podcast/post-talk-conversation-w-joe-boot-at-the-flf-rally/</link>
@@ -1032,7 +1083,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:32:31</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Post Talk Conversation w/ Sheriff Wheeler at the FLF Rally</title>
 	<link>https://crosspolitic.com/podcast/post-talk-conversation-w-sheriff-wheeler-at-the-flf-rally/</link>
@@ -1048,7 +1100,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:22:05</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>CrossPolitic LIVE SHOW at the FLF Rally &#8211; Love God, Sing Psalms, Defy Tyrants</title>
 	<link>https://crosspolitic.com/podcast/crosspolitic-live-show-at-the-flf-rally-love-god-sing-psalms-defy-tyrants/</link>
@@ -1064,7 +1117,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:23:33</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Woke LeBron &#8211; Broken Republicans, FL Riot Bill, Danger of PRO Act Bill, Austin Chenge for MI?</title>
 	<link>https://crosspolitic.com/podcast/woke-lebron-broken-republicans-fl-riot-bill-danger-of-pro-act-bill-austin-chenge-for-mi/</link>
@@ -1080,7 +1134,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:04:53</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Where&#8217;s the Justice for Floyd and Chauvin?</title>
 	<link>https://crosspolitic.com/podcast/wheres-the-justice-for-floyd-and-chauvin/</link>
@@ -1096,7 +1151,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:43:23</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Daunte Wright &#038; Police Reform, Founders Opening IOPT, No GOD &#8211; No Comedy w/ John Branyan</title>
 	<link>https://crosspolitic.com/podcast/daunte-wright-police-reform-founders-opening-iopt-no-god-no-comedy-w-john-branyan/</link>
@@ -1112,7 +1168,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:25:35</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>KDCP Ep. 82 The TIme I preached to Jesse Jackson</title>
 	<link>https://crosspolitic.com/podcast/kdcp-ep-82-the-time-i-preached-to-jesse-jackson/</link>
@@ -1134,7 +1191,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:17:45</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Dr. Larry Stephenson of Logos Online &#8211; Education, Education, Education!!</title>
 	<link>https://crosspolitic.com/podcast/dr-larry-stephenson-of-logos-online-education-education-education/</link>
@@ -1150,7 +1208,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:27:38</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Biden 2A Epidemic, Elon Eschatology, &#038; Southern Baptist Confusion w/ Rod Martin</title>
 	<link>https://crosspolitic.com/podcast/biden-2a-epidemic-elon-eschatology-southern-baptist-confusion-w-rod-martin/</link>
@@ -1166,7 +1225,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:11:17</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Canadian Tyranny &#8211; MP Arnold Viersen and James Coates, Tim Stephens, Aaron ROck, NaTE WRIGHT&#8230;</title>
 	<link>https://crosspolitic.com/podcast/canadian-tyranny-mp-arnold-viersen-and-james-coates-tim-stephens-aaron-rock-nate-wright/</link>
@@ -1182,7 +1242,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:42:31</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Live interview with GraceLife Alberta, Canada Member Devin Davis</title>
 	<link>https://crosspolitic.com/podcast/live-interview-with-gracelife-alberta-canada-member-devin-davis/</link>
@@ -1203,7 +1264,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>02:05:37</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>***BREAKING** GraceLife, Pr. James Coates&#8217; Church Seized by Canadian Government</title>
 	<link>https://crosspolitic.com/podcast/breaking-gracelife-pr-james-coates-church-seized-by-canadian-government/</link>
@@ -1219,7 +1281,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:27:10</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Easter &#8211; He is Risen!! GA/Delta hypocrisy, Asian Lives Matter? Social Conditioning w/ Doug TenNapel</title>
 	<link>https://crosspolitic.com/podcast/easter-he-is-risen-ga-delta-hypocrisy-asian-lives-matter-social-conditioning-w-doug-tennapel/</link>
@@ -1235,7 +1298,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:16:55</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>A Mishmash Mideweek Fix</title>
 	<link>https://crosspolitic.com/podcast/a-mishmash-mideweek-fix/</link>
@@ -1251,7 +1315,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:29:44</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item>
 	</channel>
 </rss>

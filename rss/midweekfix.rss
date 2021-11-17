@@ -8,8 +8,9 @@
 	 xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 	 xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	 xmlns:podcast="https://podcastindex.org/namespace/1.0"
 	>
-	<channel>
+		<channel>
 		<title>FLF - MidWeek Fix</title>
 		<atom:link href="https://artskydj.github.io/crosspolitic-split-feeds/rss/midweekfix.rss" rel="self" type="application/rss+xml"/>
 		<link>https://crosspolitic.com/</link>
@@ -20,33 +21,33 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 		<language>en-US</language>
 		<copyright></copyright>
 		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
-		<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+		<itunes:author>CrossPolitic Studios</itunes:author>
 					<itunes:type>serial</itunes:type>
-					<itunes:summary>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
-
-Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</itunes:summary>
+				<itunes:summary></itunes:summary>
 		<itunes:owner>
 			<itunes:name>CrossPolitic Studios</itunes:name>
 			<itunes:email>fightlaughfeast@gmail.com</itunes:email>
 		</itunes:owner>
 		<itunes:explicit>clean</itunes:explicit>
-					<itunes:image href="http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png"></itunes:image>
+		<itunes:image href="http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png"></itunes:image>
 			<image>
 				<url>http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png</url>
 				<title>Fight Laugh Feast Network</title>
 				<link>https://crosspolitic.com/</link>
 			</image>
-					<itunes:category text="News">
+		<itunes:category text="News">
+			<itunes:category text="Christianity"></itunes:category>
+		</itunes:category>
+		<itunes:category text="Religion &amp; Spirituality">
 									<itunes:category text="Christianity"></itunes:category>
 							</itunes:category>
-							<itunes:category text="Religion &amp; Spirituality">
-									<itunes:category text="Christianity"></itunes:category>
-							</itunes:category>
-							<itunes:category text="Society &amp; Culture">
+		<itunes:category text="Society &amp; Culture">
 									<itunes:category text="Philosophy"></itunes:category>
 							</itunes:category>
-						
+		<podcast:locked owner="fightlaughfeast@gmail.com">yes</podcast:locked>
+		<podcast:guid>bdcdb5ef-eb7a-5df7-865f-f0fa4628a66b</podcast:guid>
 		
+
 <item>
 	<title>Midweek Fix: Breaking Bread w/ Carol Swain</title>
 	<link>https://crosspolitic.com/podcast/midweek-fix-breaking-bread-w-carol-swain/</link>
@@ -67,7 +68,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:27:17</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Midweek Fix: Delano Squires on David Chappelle, Jon Gruden, &#038; Soft America</title>
 	<link>https://crosspolitic.com/podcast/midweek-fix-delano-squires-on-david-chappelle-jon-gruden-soft-america/</link>
@@ -88,7 +90,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:49:52</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MidWeek Fix: Pfizer getting Snitched on &#8211; Dr. Cole was right the whole time…</title>
 	<link>https://crosspolitic.com/podcast/midweek-fix-pfizer-getting-snitched-on-dr-cole-was-right-the-whole-time/</link>
@@ -109,7 +112,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:38:57</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MidWeek Fix: AZ Audit w/ Cyber Ninjas CEO Doug Logan</title>
 	<link>https://crosspolitic.com/podcast/midweek-fix-az-audit-w-cyber-ninjas-ceo-doug-logan/</link>
@@ -130,7 +134,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>0:00:00</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Midweek Fix: Freedom or Death</title>
 	<link>https://crosspolitic.com/podcast/midweek-fix-freedom-or-death/</link>
@@ -151,7 +156,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:53:12</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MidWeek Fix: Rick Warren or Johnny Mac</title>
 	<link>https://crosspolitic.com/podcast/midweek-fix-rick-warren-or-johnny-mac/</link>
@@ -172,7 +178,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:27:35</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MidWeek Fix w/ ID Gubernatorial Candidate Janice McGeachin</title>
 	<link>https://crosspolitic.com/podcast/midweek-fix-w-id-gubernatorial-candidate-janice-mcgeachin/</link>
@@ -193,7 +200,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:41:27</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MidWeek Fix: The Afghan Debacle w/ James Rayment &#038; Jeremy Stalnecker</title>
 	<link>https://crosspolitic.com/podcast/midweek-fix-the-afghan-debacle-w-james-rayment-jeremy-stalnecker/</link>
@@ -214,7 +222,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:58:44</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MidWeek Fix: ReAwaken America Tour w/ Clay Clark</title>
 	<link>https://crosspolitic.com/podcast/midweek-fix-reawaken-america-tour-w-clay-clark/</link>
@@ -235,7 +244,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:33:06</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MidWeek Fix: de Blasio NY Shutdown, Should Women Wrestle?, &#038; Business Sovereignty</title>
 	<link>https://crosspolitic.com/podcast/midweek-fix-de-blasio-ny-shutdown-should-women-wrestle-business-sovereignty/</link>
@@ -256,7 +266,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:37:14</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>Midweek-Fix: Simone Biles, Mandates and The New Normal</title>
 	<link>https://crosspolitic.com/podcast/midweek-fix-simone-biles-mandates-and-the-new-normal/</link>
@@ -272,7 +283,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:56:46</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MidWeek Fix: Getting Handles on GA Voter Fraud w/ Garland Favorito of Voter GA</title>
 	<link>https://crosspolitic.com/podcast/midweek-fix-getting-handles-on-ga-voter-fraud-w-garland-favorito-of-voter-ga/</link>
@@ -293,7 +305,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:30:49</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MidWeek Fix: Voting, Civil Rights, &#038; Jim Crow</title>
 	<link>https://crosspolitic.com/podcast/midweek-fix-voting-civil-rights-jim-crow/</link>
@@ -314,7 +327,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:26:06</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MidWeek Fix: Bill Ascol on The SBCs Abortion Stance</title>
 	<link>https://crosspolitic.com/podcast/midweek-fix-bill-ascol-on-the-sbcs-abortion-stance/</link>
@@ -335,7 +349,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:32:10</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MidWeek Fix: LIVE at the SBC w/ Choc Knox</title>
 	<link>https://crosspolitic.com/podcast/midweek-fix-live-at-the-sbc-w-choc-knox/</link>
@@ -356,7 +371,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:40:13</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MidWeek Fix: Intro to Kuyper &#038; The FLF Network (Empire) w/ Jesse Sumpter</title>
 	<link>https://crosspolitic.com/podcast/midweek-fix-intro-to-kuyper-the-flf-network-empire-w-jesse-sumpter/</link>
@@ -377,7 +393,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:44:47</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MidWeek Fix: AG Candidate of ID &#8211; Art Macomber</title>
 	<link>https://crosspolitic.com/podcast/midweek-fix-ag-candidate-of-id-art-macomber/</link>
@@ -393,7 +410,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:37:55</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MidWeek Fix: 60 Minutes Detransitioning, Free Ice Cream &#8211; Free Vaccine in Canada</title>
 	<link>https://crosspolitic.com/podcast/midweek-fix-60-minutes-detransitioning-free-ice-cream-free-vaccine-in-canada/</link>
@@ -409,7 +427,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:32:44</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MidWeek Fix: Roe v. Wade Rd. 2 &#8211; Time for Christian Pursuit of Tyrants</title>
 	<link>https://crosspolitic.com/podcast/midweek-fix-roe-v-wade-rd-2-time-for-christian-pursuit-of-tyrants/</link>
@@ -425,7 +444,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:34:07</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MidWeek Fix: No Chick-fil-A Sauce? Now That&#8217;s Too Far&#8230;</title>
 	<link>https://crosspolitic.com/podcast/midweek-fix-no-chick-fil-a-sauce-now-thats-too-far/</link>
@@ -441,7 +461,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:24:34</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item><item>
 	<title>MidWeek Fix: Gumbo</title>
 	<link>https://crosspolitic.com/podcast/midweek-fix-gumbo/</link>
@@ -457,7 +478,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:26:57</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-	
+
+
 </item>
 	</channel>
 </rss>
