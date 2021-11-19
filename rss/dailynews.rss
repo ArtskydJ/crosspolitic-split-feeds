@@ -17,7 +17,7 @@
 		<description>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
 
 Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</description>
-		<lastBuildDate>Fri, 19 Nov 2021 04:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 19 Nov 2021 12:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<copyright></copyright>
 		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
@@ -49,6 +49,30 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 		
 
 <item>
+	<title>Daily News Brief for Friday, November 19, 2021</title>
+	<link>https://crosspolitic.com/podcast/daily-news-brief-for-friday-november-19-2021/</link>
+	<pubDate>Fri, 19 Nov 2021 12:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=12041</guid>
+	<description><![CDATA[Play during opening music: 0:11-0:18 MSNBC is out of the Rittenhouse trial … and more on today’s CrossPolitic Daily News Brief. This is Toby Sumpter. Today is Friday, November 19, 2021.&#160; Find all our shows at Crosspolitic.com and download the Fight Laugh Feast App at your favorite app store so you don’t miss anything. We [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[Play during opening music: 0:11-0:18 MSNBC is out of the Rittenhouse trial … and more on today’s CrossPolitic Daily News Brief. This is Toby Sumpter. Today is Friday, November 19, 2021.&#160; Find all our shows at Crosspolitic.com and download the Fight ]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+								<content:encoded><![CDATA[Play during opening music: 0:11-0:18 MSNBC is out of the Rittenhouse trial … and more on today’s CrossPolitic Daily News Brief. This is Toby Sumpter. Today is Friday, November 19, 2021.&#160; Find all our shows at Crosspolitic.com and download the Fight Laugh Feast App at your favorite app store so you don’t miss anything. We [&#8230;]]]></content:encoded>
+		<enclosure url="https://crosspolitic.com/podcast-download/12041/daily-news-brief-for-friday-november-19-2021.mp3" length="7592706"
+			   type="audio/mpeg"></enclosure>
+			<itunes:summary><![CDATA[Play during opening music: 0:11-0:18 MSNBC is out of the Rittenhouse trial … and more on today’s CrossPolitic Daily News Brief. This is Toby Sumpter. Today is Friday, November 19, 2021.&#160; Find all our shows at Crosspolitic.com and download the Fight Laugh Feast App at your favorite app store so you don’t miss anything. We [&#8230;]]]></itunes:summary>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/AC587412-DDAD-4BBA-A4CC-401E362B5895.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2021/06/AC587412-DDAD-4BBA-A4CC-401E362B5895.png</url>
+			<title>Daily News Brief for Friday, November 19, 2021</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:15:48</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+
+
+</item><item>
 	<title>Daily News Brief for Thursday, November 18, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-thursday-november-18-2021/</link>
 	<pubDate>Thu, 18 Nov 2021 12:00:00 +0000</pubDate>
@@ -2938,21 +2962,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
 
 
-</item><item>
-	<title>Daily News Brief for Thursday, April 1, 2021</title>
-	<link>https://crosspolitic.com/podcast/daily-news-brief-for-thursday-april-1-2021/</link>
-	<pubDate>Thu, 01 Apr 2021 11:00:00 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11019</guid>
-	<description><![CDATA[This is Toby Sumpter with your CrossPolitic Daily News Brief for Thursday, April 1, 2021. The housing market is bonkers, Wisconsin Supreme court strikes down mask mandate, President Biden gets Four Pinnochios from Glenn Kessler at the Washington Post, and Dana Carvey has a pretty good impression of Joe Biden.&#160; Happy Opening Day of Major [&#8230;]]]></description>
-	<itunes:subtitle><![CDATA[This is Toby Sumpter with your CrossPolitic Daily News Brief for Thursday, April 1, 2021. The housing market is bonkers, Wisconsin Supreme court strikes down mask mandate, President Biden gets Four Pinnochios from Glenn Kessler at the Washington Post, an]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
-							<enclosure url="https://crosspolitic.com/podcast-download/11019/daily-news-brief-for-thursday-april-1-2021.mp3" length="7989810"
-			   type="audio/mpeg"></enclosure>
-			<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>00:16:37</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
 </item>
 	</channel>
 </rss>
