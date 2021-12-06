@@ -17,7 +17,7 @@
 		<description>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
 
 Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</description>
-		<lastBuildDate>Fri, 03 Dec 2021 23:01:27 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 06 Dec 2021 04:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<copyright></copyright>
 		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
@@ -49,6 +49,30 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 		
 
 <item>
+	<title>Free Market Medical w/ Dr. Smith &#8211; Revolutionizing the Modern Health Cartel, Ptr. Bales in Studio</title>
+	<link>https://crosspolitic.com/podcast/free-market-medical-w-dr-smith-revolutionizing-the-modern-health-cartel-ptr-bales-in-studio/</link>
+	<pubDate>Mon, 06 Dec 2021 04:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=12116</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+								<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://crosspolitic.com/podcast-download/12116/free-market-medical-w-dr-smith-revolutionizing-the-modern-health-cartel-ptr-bales-in-studio.mp3" length="35900850"
+			   type="audio/mpeg"></enclosure>
+			<itunes:summary><![CDATA[]]></itunes:summary>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/12/FreeMarketCP-e1638752766694.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2021/12/FreeMarketCP-e1638752766694.png</url>
+			<title>Free Market Medical w/ Dr. Smith &#8211; Revolutionizing the Modern Health Cartel, Ptr. Bales in Studio</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:14:46</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+
+
+</item><item>
 	<title>Tools of Liberty w/ AR500 Armor CEO</title>
 	<link>https://crosspolitic.com/podcast/tools-of-liberty-w-ar500-armor-ceo/</link>
 	<pubDate>Thu, 02 Dec 2021 04:00:00 +0000</pubDate>
@@ -1332,21 +1356,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
 
 
-</item><item>
-	<title>Biden 2A Epidemic, Elon Eschatology, &#038; Southern Baptist Confusion w/ Rod Martin</title>
-	<link>https://crosspolitic.com/podcast/biden-2a-epidemic-elon-eschatology-southern-baptist-confusion-w-rod-martin/</link>
-	<pubDate>Mon, 12 Apr 2021 03:15:00 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11177</guid>
-	<description><![CDATA[]]></description>
-	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
-							<enclosure url="https://crosspolitic.com/podcast-download/11177/biden-2a-epidemic-elon-eschatology-southern-baptist-confusion-w-rod-martin.mp3" length="34222386"
-			   type="audio/mpeg"></enclosure>
-			<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>01:11:17</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
 </item>
 	</channel>
 </rss>
