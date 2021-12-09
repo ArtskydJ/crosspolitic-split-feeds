@@ -17,7 +17,7 @@
 		<description>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
 
 Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</description>
-		<lastBuildDate>Thu, 09 Dec 2021 04:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 09 Dec 2021 12:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<copyright></copyright>
 		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
@@ -47,6 +47,54 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 		<podcast:locked owner="fightlaughfeast@gmail.com">yes</podcast:locked>
 		<podcast:guid>bdcdb5ef-eb7a-5df7-865f-f0fa4628a66b</podcast:guid>
 		
+
+<item>
+	<title>Daily News Brief for Thursday, December 9, 2021</title>
+	<link>https://crosspolitic.com/podcast/daily-news-brief-for-thursday-december-9-2021/</link>
+	<pubDate>Thu, 09 Dec 2021 12:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=12133</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+								<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://crosspolitic.com/podcast-download/12133/daily-news-brief-for-thursday-december-9-2021.mp3" length="6501954"
+			   type="audio/mpeg"></enclosure>
+			<itunes:summary><![CDATA[]]></itunes:summary>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/AC587412-DDAD-4BBA-A4CC-401E362B5895.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2021/06/AC587412-DDAD-4BBA-A4CC-401E362B5895.png</url>
+			<title>Daily News Brief for Thursday, December 9, 2021</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:13:31</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+</item>
+
+<item>
+	<title>The Theology Pugcast: Plato&#8217;s Revenge!</title>
+	<link>https://crosspolitic.com/podcast/the-theology-pugcast-platos-revenge/</link>
+	<pubDate>Thu, 09 Dec 2021 11:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=12081</guid>
+	<description><![CDATA[The Pugcast finishes its Pacific Northwest Tour in Moscow, Idaho at the Nuart Theater! The theme for the show is Plato&#8211;and why he just won&#8217;t go away. It is something of a cottage industry in certain pockets of the Reformed world to write off one of the most important figures in the history of western [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[The Pugcast finishes its Pacific Northwest Tour in Moscow, Idaho at the Nuart Theater! The theme for the show is Plato&#8211;and why he just won&#8217;t go away. It is something of a cottage industry in certain pockets of the Reformed world to write off ]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+								<content:encoded><![CDATA[The Pugcast finishes its Pacific Northwest Tour in Moscow, Idaho at the Nuart Theater! The theme for the show is Plato&#8211;and why he just won&#8217;t go away. It is something of a cottage industry in certain pockets of the Reformed world to write off one of the most important figures in the history of western [&#8230;]]]></content:encoded>
+		<enclosure url="https://crosspolitic.com/podcast-download/12081/the-theology-pugcast-platos-revenge.mp3" length="161856668"
+			   type="audio/mpeg"></enclosure>
+			<itunes:summary><![CDATA[The Pugcast finishes its Pacific Northwest Tour in Moscow, Idaho at the Nuart Theater! The theme for the show is Plato&#8211;and why he just won&#8217;t go away. It is something of a cottage industry in certain pockets of the Reformed world to write off one of the most important figures in the history of western [&#8230;]]]></itunes:summary>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg</url>
+			<title>The Theology Pugcast: Plato&#8217;s Revenge!</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:07:26</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+</item>
 
 <item>
 	<title>Merrick Garland sues TX, Redistricting Lines Racist? w/ TX Scorecard Michael Sullivan</title>
@@ -225,10 +273,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<description><![CDATA[]]></description>
 	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 			<itunes:keywords>2021</itunes:keywords>
-								<content:encoded><![CDATA[]]></content:encoded>
-		<enclosure url="https://crosspolitic.com/podcast-download/12100/tools-of-liberty-w-ar500-armor-ceo.mp3" length="97582233"
+							<enclosure url="https://crosspolitic.com/podcast-download/12100/tools-of-liberty-w-ar500-armor-ceo.mp3" length="97582233"
 			   type="audio/mpeg"></enclosure>
-			<itunes:summary><![CDATA[]]></itunes:summary>
 				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/1A3C57A8-F872-4512-8AE9-96E4B383A1E3.png"></itunes:image>
 		<image>
 			<url>https://crosspolitic.com/wp-content/uploads/2021/06/1A3C57A8-F872-4512-8AE9-96E4B383A1E3.png</url>
@@ -249,10 +295,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<description><![CDATA[Happy Advent! If you want to send us Christmas cards, drawings form your kids to hang up and add to our Christmas decorations, please email us at Contact@fightlaughfeast.com for our physical address.&#160; Folks, we have a lot of exciting things planned for 2022, and we are praying God blesses it all. Our club member support [&#8230;]]]></description>
 	<itunes:subtitle><![CDATA[Happy Advent! If you want to send us Christmas cards, drawings form your kids to hang up and add to our Christmas decorations, please email us at Contact@fightlaughfeast.com for our physical address.&#160; Folks, we have a lot of exciting things planned ]]></itunes:subtitle>
 			<itunes:keywords>2021</itunes:keywords>
-								<content:encoded><![CDATA[Happy Advent! If you want to send us Christmas cards, drawings form your kids to hang up and add to our Christmas decorations, please email us at Contact@fightlaughfeast.com for our physical address.&#160; Folks, we have a lot of exciting things planned for 2022, and we are praying God blesses it all. Our club member support [&#8230;]]]></content:encoded>
-		<enclosure url="https://crosspolitic.com/podcast-download/12097/daily-news-brief-for-wednesday-december-1-2021.mp3" length="37903136"
+							<enclosure url="https://crosspolitic.com/podcast-download/12097/daily-news-brief-for-wednesday-december-1-2021.mp3" length="37903136"
 			   type="audio/mpeg"></enclosure>
-			<itunes:summary><![CDATA[Happy Advent! If you want to send us Christmas cards, drawings form your kids to hang up and add to our Christmas decorations, please email us at Contact@fightlaughfeast.com for our physical address.&#160; Folks, we have a lot of exciting things planned for 2022, and we are praying God blesses it all. Our club member support [&#8230;]]]></itunes:summary>
 				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/AC587412-DDAD-4BBA-A4CC-401E362B5895.png"></itunes:image>
 		<image>
 			<url>https://crosspolitic.com/wp-content/uploads/2021/06/AC587412-DDAD-4BBA-A4CC-401E362B5895.png</url>
@@ -10478,45 +10522,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 			<itunes:explicit>clean</itunes:explicit>
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:21:34</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-</item>
-
-<item>
-	<title>MATT: The Global Reset is inevitable so how do we prepare? &#8211; EP 627</title>
-	<link>https://crosspolitic.com/podcast/matt-the-global-reset-is-inevitable-so-how-do-we-prepare-ep-628/</link>
-	<pubDate>Wed, 14 Apr 2021 07:00:00 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11194</guid>
-	<description><![CDATA[Two Treatises by John Locke Chapter 2b highlights and preparing for the global reset in 3 parts.  Show Marketing Powered By: Better Three Group Click Here to find out more or go to betterthreegroup.com For Advertising your business email Matt at matt@howtobuildatent.com GAB: @mattwilliams CloutHub: @themattwilliamsshow Telegram: @realmattwilliams]]></description>
-	<itunes:subtitle><![CDATA[Two Treatises by John Locke Chapter 2b highlights and preparing for the global reset in 3 parts.  Show Marketing Powered By: Better Three Group Click Here to find out more or go to betterthreegroup.com For Advertising your business email Matt at matt@how]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
-							<enclosure url="https://crosspolitic.com/podcast-download/11194/matt-the-global-reset-is-inevitable-so-how-do-we-prepare-ep-628.mp3" length="47223971"
-			   type="audio/mpeg"></enclosure>
-				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/03/3.png"></itunes:image>
-		<image>
-			<url>https://crosspolitic.com/wp-content/uploads/2021/03/3.png</url>
-			<title>MATT: The Global Reset is inevitable so how do we prepare? &#8211; EP 627</title>
-		</image>
-		<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>00:24:11</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-</item>
-
-<item>
-	<title>Daily News Brief for Tuesday April 13th, 2021</title>
-	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-april-13th-2021/</link>
-	<pubDate>Tue, 13 Apr 2021 11:15:00 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11186</guid>
-	<description><![CDATA[This is your CrossPolitic Daily News Brief for Tuesday April 13th, 2021. Pastor Toby is first and foremost a pastor, so I am filling in for him today. Yes sorry, you get me, and not the great Pastor Toby news brief you generally get on Tuesday.&#160; Folks- we have 16 days until our Fight Laugh [&#8230;]]]></description>
-	<itunes:subtitle><![CDATA[This is your CrossPolitic Daily News Brief for Tuesday April 13th, 2021. Pastor Toby is first and foremost a pastor, so I am filling in for him today. Yes sorry, you get me, and not the great Pastor Toby news brief you generally get on Tuesday.&#160; Fol]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
-							<enclosure url="https://crosspolitic.com/podcast-download/11186/daily-news-brief-for-tuesday-april-13th-2021.mp3" length="6770370"
-			   type="audio/mpeg"></enclosure>
-			<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>00:14:05</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
 </item>
 	</channel>
