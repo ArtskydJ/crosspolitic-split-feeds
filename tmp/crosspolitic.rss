@@ -17,7 +17,7 @@
 		<description>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
 
 Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</description>
-		<lastBuildDate>Fri, 10 Dec 2021 04:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 10 Dec 2021 12:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<copyright></copyright>
 		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
@@ -249,10 +249,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<description><![CDATA[Dr. Anthony Fauci says we should do 8 things to deal with the Omicron variant Dr. Anthony Fauci listed eight steps that people should take in their daily lives to address the Omicron variant. https://news.yahoo.com/dr-anthony-fauci-says-8-203550053.html?guccounter=1 Mayor de Blasio Announces Nation&#8217;s First Overdose Prevention Center Services to Open in New York Cit https://www1.nyc.gov/office-of-the-mayor/news/793-21/mayor-de-blasio-nation-s-first-overdose-prevention-center-services-open-new-york LeBron James will [&#8230;]]]></description>
 	<itunes:subtitle><![CDATA[Dr. Anthony Fauci says we should do 8 things to deal with the Omicron variant Dr. Anthony Fauci listed eight steps that people should take in their daily lives to address the Omicron variant. https://news.yahoo.com/dr-anthony-fauci-says-8-203550053.html?]]></itunes:subtitle>
 			<itunes:keywords>2021</itunes:keywords>
-								<content:encoded><![CDATA[Dr. Anthony Fauci says we should do 8 things to deal with the Omicron variant Dr. Anthony Fauci listed eight steps that people should take in their daily lives to address the Omicron variant. https://news.yahoo.com/dr-anthony-fauci-says-8-203550053.html?guccounter=1 Mayor de Blasio Announces Nation&#8217;s First Overdose Prevention Center Services to Open in New York Cit https://www1.nyc.gov/office-of-the-mayor/news/793-21/mayor-de-blasio-nation-s-first-overdose-prevention-center-services-open-new-york LeBron James will [&#8230;]]]></content:encoded>
-		<enclosure url="https://crosspolitic.com/podcast-download/12102/daily-news-brief-for-thursday-december-2-2021.mp3" length="23838368"
+							<enclosure url="https://crosspolitic.com/podcast-download/12102/daily-news-brief-for-thursday-december-2-2021.mp3" length="23838368"
 			   type="audio/mpeg"></enclosure>
-			<itunes:summary><![CDATA[Dr. Anthony Fauci says we should do 8 things to deal with the Omicron variant Dr. Anthony Fauci listed eight steps that people should take in their daily lives to address the Omicron variant. https://news.yahoo.com/dr-anthony-fauci-says-8-203550053.html?guccounter=1 Mayor de Blasio Announces Nation&#8217;s First Overdose Prevention Center Services to Open in New York Cit https://www1.nyc.gov/office-of-the-mayor/news/793-21/mayor-de-blasio-nation-s-first-overdose-prevention-center-services-open-new-york LeBron James will [&#8230;]]]></itunes:summary>
 				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/AC587412-DDAD-4BBA-A4CC-401E362B5895.png"></itunes:image>
 		<image>
 			<url>https://crosspolitic.com/wp-content/uploads/2021/06/AC587412-DDAD-4BBA-A4CC-401E362B5895.png</url>
@@ -10510,23 +10508,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 		<itunes:explicit>clean</itunes:explicit>
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:17:45</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-</item>
-
-<item>
-	<title>Dr. Larry Stephenson of Logos Online &#8211; Education, Education, Education!!</title>
-	<link>https://crosspolitic.com/podcast/dr-larry-stephenson-of-logos-online-education-education-education/</link>
-	<pubDate>Wed, 14 Apr 2021 22:53:42 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11198</guid>
-	<description><![CDATA[]]></description>
-	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
-							<enclosure url="https://crosspolitic.com/podcast-download/11198/dr-larry-stephenson-of-logos-online-education-education-education.mp3" length="13278258"
-			   type="audio/mpeg"></enclosure>
-			<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>00:27:38</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
 </item>
 	</channel>
