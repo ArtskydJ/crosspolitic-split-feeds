@@ -17,7 +17,7 @@
 		<description>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
 
 Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</description>
-		<lastBuildDate>Fri, 10 Dec 2021 12:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 13 Dec 2021 04:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<copyright></copyright>
 		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
@@ -47,6 +47,25 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 		<podcast:locked owner="fightlaughfeast@gmail.com">yes</podcast:locked>
 		<podcast:guid>bdcdb5ef-eb7a-5df7-865f-f0fa4628a66b</podcast:guid>
 		
+
+<item>
+	<title>Auschwitz Survivor Warning Signs, Fight Canadian Christian Persecution, How US Freedom is Essential</title>
+	<link>https://crosspolitic.com/podcast/auschwitz-survivor-warning-signs-fight-canadian-christian-persecution-how-us-freedom-is-essential/</link>
+	<pubDate>Mon, 13 Dec 2021 04:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=12140</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+								<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://crosspolitic.com/podcast-download/12140/auschwitz-survivor-warning-signs-fight-canadian-christian-persecution-how-us-freedom-is-essential.mp3" length="160419914"
+			   type="audio/mpeg"></enclosure>
+			<itunes:summary><![CDATA[]]></itunes:summary>
+			<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:21:55</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+</item>
 
 <item>
 	<title>America’s Quasi-Socialism is why China’s Slavery still works</title>
@@ -225,10 +244,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<description><![CDATA[]]></description>
 	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 			<itunes:keywords>2021</itunes:keywords>
-								<content:encoded><![CDATA[]]></content:encoded>
-		<enclosure url="https://crosspolitic.com/podcast-download/12103/waterbreak-what-happened-at-the-scotus-hearing-w-bradley-pierce.mp3" length="88036076"
+							<enclosure url="https://crosspolitic.com/podcast-download/12103/waterbreak-what-happened-at-the-scotus-hearing-w-bradley-pierce.mp3" length="88036076"
 			   type="audio/mpeg"></enclosure>
-			<itunes:summary><![CDATA[]]></itunes:summary>
 				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/303522A5-0F4F-4BF4-8908-A0FE749D0E9B.png"></itunes:image>
 		<image>
 			<url>https://crosspolitic.com/wp-content/uploads/2021/06/303522A5-0F4F-4BF4-8908-A0FE749D0E9B.png</url>
@@ -10485,29 +10502,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 		<itunes:explicit>clean</itunes:explicit>
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:28:03</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-</item>
-
-<item>
-	<title>KDCP Ep. 82 The TIme I preached to Jesse Jackson</title>
-	<link>https://crosspolitic.com/podcast/kdcp-ep-82-the-time-i-preached-to-jesse-jackson/</link>
-	<pubDate>Thu, 15 Apr 2021 04:34:35 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11207</guid>
-	<description><![CDATA[]]></description>
-	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
-				<itunes:episodeType>full</itunes:episodeType>
-						<enclosure url="https://crosspolitic.com/podcast-download/11207/kdcp-ep-82-the-time-i-preached-to-jesse-jackson.mp3" length="25578183"
-			   type="audio/mpeg"></enclosure>
-				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/05/CampusPreacher_1024x10242-scaled.jpg"></itunes:image>
-		<image>
-			<url>https://crosspolitic.com/wp-content/uploads/2020/05/CampusPreacher_1024x10242-scaled.jpg</url>
-			<title>KDCP Ep. 82 The TIme I preached to Jesse Jackson</title>
-		</image>
-		<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>00:17:45</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
 </item>
 	</channel>
