@@ -17,7 +17,7 @@
 		<description>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
 
 Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</description>
-		<lastBuildDate>Fri, 17 Dec 2021 12:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 17 Dec 2021 23:09:23 +0000</lastBuildDate>
 		<language>en-US</language>
 		<copyright></copyright>
 		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
@@ -129,10 +129,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<description><![CDATA[How important is a Dad? … and more on today’s CrossPolitic Daily News Brief. This is Toby Sumpter. Today is Tuesday, December 14, 2021.&#160; Find all our shows at Crosspolitic.com and download the Fight Laugh Feast App at your favorite app store so you don’t miss anything. And if you’re not yet a Fight Laugh [&#8230;]]]></description>
 	<itunes:subtitle><![CDATA[How important is a Dad? … and more on today’s CrossPolitic Daily News Brief. This is Toby Sumpter. Today is Tuesday, December 14, 2021.&#160; Find all our shows at Crosspolitic.com and download the Fight Laugh Feast App at your favorite app store so you ]]></itunes:subtitle>
 			<itunes:keywords>2021</itunes:keywords>
-								<content:encoded><![CDATA[How important is a Dad? … and more on today’s CrossPolitic Daily News Brief. This is Toby Sumpter. Today is Tuesday, December 14, 2021.&#160; Find all our shows at Crosspolitic.com and download the Fight Laugh Feast App at your favorite app store so you don’t miss anything. And if you’re not yet a Fight Laugh [&#8230;]]]></content:encoded>
-		<enclosure url="https://crosspolitic.com/podcast-download/12145/daily-news-brief-for-tuesday-december-14-2021.mp3" length="7166466"
+							<enclosure url="https://crosspolitic.com/podcast-download/12145/daily-news-brief-for-tuesday-december-14-2021.mp3" length="7166466"
 			   type="audio/mpeg"></enclosure>
-			<itunes:summary><![CDATA[How important is a Dad? … and more on today’s CrossPolitic Daily News Brief. This is Toby Sumpter. Today is Tuesday, December 14, 2021.&#160; Find all our shows at Crosspolitic.com and download the Fight Laugh Feast App at your favorite app store so you don’t miss anything. And if you’re not yet a Fight Laugh [&#8230;]]]></itunes:summary>
 				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/AC587412-DDAD-4BBA-A4CC-401E362B5895.png"></itunes:image>
 		<image>
 			<url>https://crosspolitic.com/wp-content/uploads/2021/06/AC587412-DDAD-4BBA-A4CC-401E362B5895.png</url>
@@ -3067,25 +3065,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:19:53</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-
-
-</item><item>
-	<title>Daily News Brief for Tuesday, April 20, 2021</title>
-	<link>https://crosspolitic.com/podcast/daily-news-brief-for-tuesday-april-20-2021/</link>
-	<pubDate>Tue, 20 Apr 2021 11:15:00 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11227</guid>
-	<description><![CDATA[This is Toby Sumpter with your CrossPolitic Daily News Brief for Tuesday, April 20, 2021. 9 Days to the Rally in Rapid City, South Dakota: April 29, 30, May 1? Excited to see and meet many of you as we learn to Love God, Sing Psalms, Defy Tyrants. Come hear talks from Pastor Doug Wilson, [&#8230;]]]></description>
-	<itunes:subtitle><![CDATA[This is Toby Sumpter with your CrossPolitic Daily News Brief for Tuesday, April 20, 2021. 9 Days to the Rally in Rapid City, South Dakota: April 29, 30, May 1? Excited to see and meet many of you as we learn to Love God, Sing Psalms, Defy Tyrants. Come h]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
-							<enclosure url="https://crosspolitic.com/podcast-download/11227/daily-news-brief-for-tuesday-april-20-2021.mp3" length="6106818"
-			   type="audio/mpeg"></enclosure>
-			<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>00:12:42</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-
-
 </item>
 	</channel>
 </rss>
