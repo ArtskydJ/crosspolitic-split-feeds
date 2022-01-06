@@ -17,7 +17,7 @@
 		<description>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
 
 Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</description>
-		<lastBuildDate>Thu, 06 Jan 2022 04:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 06 Jan 2022 12:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<copyright></copyright>
 		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
@@ -49,6 +49,30 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 		
 
 <item>
+	<title>The Theology Pugcast: Shooting Rousseau Twice … and Clubbing Him with the Gun</title>
+	<link>https://crosspolitic.com/podcast/the-theology-pugcast-shooting-rousseau-twice-and-clubbing-him-with-the-gun/</link>
+	<pubDate>Thu, 06 Jan 2022 11:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=12164</guid>
+	<description><![CDATA[Glenn has been the subject of memes about his attitude toward Rousseau. In this episode, he explains why, focused on three areas: Rousseau as the root of Carl Trueman’s Psychological Man; his attitudes toward education and women; and his political theory, its influence on Marx, and the death toll that came from implementing it. Tom [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[Glenn has been the subject of memes about his attitude toward Rousseau. In this episode, he explains why, focused on three areas: Rousseau as the root of Carl Trueman’s Psychological Man; his attitudes toward education and women; and his political theory]]></itunes:subtitle>
+			<itunes:keywords>2022</itunes:keywords>
+								<content:encoded><![CDATA[Glenn has been the subject of memes about his attitude toward Rousseau. In this episode, he explains why, focused on three areas: Rousseau as the root of Carl Trueman’s Psychological Man; his attitudes toward education and women; and his political theory, its influence on Marx, and the death toll that came from implementing it. Tom [&#8230;]]]></content:encoded>
+		<enclosure url="https://crosspolitic.com/podcast-download/12164/the-theology-pugcast-shooting-rousseau-twice-and-clubbing-him-with-the-gun.mp3" length="149695834"
+			   type="audio/mpeg"></enclosure>
+			<itunes:summary><![CDATA[Glenn has been the subject of memes about his attitude toward Rousseau. In this episode, he explains why, focused on three areas: Rousseau as the root of Carl Trueman’s Psychological Man; his attitudes toward education and women; and his political theory, its influence on Marx, and the death toll that came from implementing it. Tom [&#8230;]]]></itunes:summary>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/PugCast_1400x1400.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/07/PugCast_1400x1400.jpg</url>
+			<title>The Theology Pugcast: Shooting Rousseau Twice … and Clubbing Him with the Gun</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:02:17</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+
+
+</item><item>
 	<title>The Theology Pugcast:  Incarnation and Its Significance For Understanding All Things</title>
 	<link>https://crosspolitic.com/podcast/the-theology-pugcast-incarnation-and-its-significance-for-understanding-all-things/</link>
 	<pubDate>Thu, 30 Dec 2021 11:00:00 +0000</pubDate>
@@ -57,10 +81,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<description><![CDATA[Tom delves into many of the often taken for granted reality implications of the Christian teaching about the Incarnation of God the Son. He explores the riches of wisdom such biblical teaching has for a true understanding of divinity, humanity, creation and its relation to God. Chris and Glenn bring into the conversation many fascinating [&#8230;]]]></description>
 	<itunes:subtitle><![CDATA[Tom delves into many of the often taken for granted reality implications of the Christian teaching about the Incarnation of God the Son. He explores the riches of wisdom such biblical teaching has for a true understanding of divinity, humanity, creation ]]></itunes:subtitle>
 			<itunes:keywords>2021</itunes:keywords>
-								<content:encoded><![CDATA[Tom delves into many of the often taken for granted reality implications of the Christian teaching about the Incarnation of God the Son. He explores the riches of wisdom such biblical teaching has for a true understanding of divinity, humanity, creation and its relation to God. Chris and Glenn bring into the conversation many fascinating [&#8230;]]]></content:encoded>
-		<enclosure url="https://crosspolitic.com/podcast-download/12163/the-theology-pugcast-incarnation-and-its-significance-for-understanding-all-things.mp3" length="151667228"
+							<enclosure url="https://crosspolitic.com/podcast-download/12163/the-theology-pugcast-incarnation-and-its-significance-for-understanding-all-things.mp3" length="151667228"
 			   type="audio/mpeg"></enclosure>
-			<itunes:summary><![CDATA[Tom delves into many of the often taken for granted reality implications of the Christian teaching about the Incarnation of God the Son. He explores the riches of wisdom such biblical teaching has for a true understanding of divinity, humanity, creation and its relation to God. Chris and Glenn bring into the conversation many fascinating [&#8230;]]]></itunes:summary>
 				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg"></itunes:image>
 		<image>
 			<url>https://crosspolitic.com/wp-content/uploads/2020/07/PugCast-copy.jpg</url>
@@ -840,8 +862,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>01:11:22</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-
-
 </item>
 	</channel>
 </rss>
