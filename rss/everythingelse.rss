@@ -17,7 +17,7 @@
 		<description>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
 
 Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</description>
-		<lastBuildDate>Wed, 05 Jan 2022 12:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 06 Jan 2022 00:12:37 +0000</lastBuildDate>
 		<language>en-US</language>
 		<copyright></copyright>
 		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
@@ -49,6 +49,54 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 		
 
 <item>
+	<title>Knox Unplugged: Jason Farley</title>
+	<link>https://crosspolitic.com/podcast/knox-unplugged-jason-farley/</link>
+	<pubDate>Wed, 05 Jan 2022 20:09:29 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=12191</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+								<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://crosspolitic.com/podcast-download/12191/knox-unplugged-jason-farley.mp3" length="176301854"
+			   type="audio/mpeg"></enclosure>
+			<itunes:summary><![CDATA[]]></itunes:summary>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/C883C411-EBD3-4961-B1BB-5F6B41D059EE.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2021/06/C883C411-EBD3-4961-B1BB-5F6B41D059EE.png</url>
+			<title>Knox Unplugged: Jason Farley</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>02:02:25</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+
+
+</item><item>
+	<title>Knox Unplugged: Joffre Swait</title>
+	<link>https://crosspolitic.com/podcast/knox-unplugged-joffre-swait/</link>
+	<pubDate>Wed, 05 Jan 2022 19:52:21 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=12189</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2021</itunes:keywords>
+								<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://crosspolitic.com/podcast-download/12189/knox-unplugged-joffre-swait.mp3" length="163168160"
+			   type="audio/mpeg"></enclosure>
+			<itunes:summary><![CDATA[]]></itunes:summary>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/C883C411-EBD3-4961-B1BB-5F6B41D059EE.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2021/06/C883C411-EBD3-4961-B1BB-5F6B41D059EE.png</url>
+			<title>Knox Unplugged: Joffre Swait</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>01:53:18</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+
+
+</item><item>
 	<title>Ep. 86 Year End Review</title>
 	<link>https://crosspolitic.com/podcast/ep-86-year-end-review/</link>
 	<pubDate>Wed, 29 Dec 2021 05:52:12 +0000</pubDate>
@@ -1412,21 +1460,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
 
 
-</item><item>
-	<title>Woke LeBron &#8211; Broken Republicans, FL Riot Bill, Danger of PRO Act Bill, Austin Chenge for MI?</title>
-	<link>https://crosspolitic.com/podcast/woke-lebron-broken-republicans-fl-riot-bill-danger-of-pro-act-bill-austin-chenge-for-mi/</link>
-	<pubDate>Mon, 26 Apr 2021 03:15:00 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11274</guid>
-	<description><![CDATA[]]></description>
-	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
-							<enclosure url="https://crosspolitic.com/podcast-download/11274/woke-lebron-broken-republicans-fl-riot-bill-danger-of-pro-act-bill-austin-chenge-for-mi.mp3" length="31157874"
-			   type="audio/mpeg"></enclosure>
-			<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>01:04:53</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
 </item>
 	</channel>
 </rss>
