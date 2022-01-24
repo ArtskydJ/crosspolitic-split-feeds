@@ -17,7 +17,7 @@
 		<description>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
 
 Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</description>
-		<lastBuildDate>Mon, 24 Jan 2022 04:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 24 Jan 2022 19:05:04 +0000</lastBuildDate>
 		<language>en-US</language>
 		<copyright></copyright>
 		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
@@ -47,6 +47,48 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 		<podcast:locked owner="fightlaughfeast@gmail.com">yes</podcast:locked>
 		<podcast:guid>bdcdb5ef-eb7a-5df7-865f-f0fa4628a66b</podcast:guid>
 		
+
+<item>
+	<title>DOANE!T: Why Posting 3 Times A Day Is Almost Impossible</title>
+	<link>https://crosspolitic.com/podcast/doanet-why-posting-3-times-a-day-is-almost-impossible/</link>
+	<pubDate>Mon, 24 Jan 2022 19:05:03 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=12256</guid>
+	<description><![CDATA[Darren talks about the level of commitment it takes just to post 3 times a day. ]]></description>
+	<itunes:subtitle><![CDATA[Darren talks about the level of commitment it takes just to post 3 times a day. ]]></itunes:subtitle>
+			<itunes:keywords>brand,business,podcast,social media</itunes:keywords>
+								<content:encoded><![CDATA[Darren talks about the level of commitment it takes just to post 3 times a day. ]]></content:encoded>
+		<enclosure url="https://crosspolitic.com/podcast-download/12256/doanet-why-posting-3-times-a-day-is-almost-impossible.mp3" length="10212588"
+			   type="audio/mpeg"></enclosure>
+			<itunes:summary><![CDATA[Darren talks about the level of commitment it takes just to post 3 times a day. ]]></itunes:summary>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/FLF-Doanecast-Logo-1.png-1400-1.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2021/06/FLF-Doanecast-Logo-1.png-1400-1.png</url>
+			<title>DOANE!T: Why Posting 3 Times A Day Is Almost Impossible</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:10:36</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+</item>
+
+<item>
+	<title>AD: Has Depression Caused The Church to Lose Its Mind?</title>
+	<link>https://crosspolitic.com/podcast/ad-has-depression-caused-the-church-to-lose-its-mind/</link>
+	<pubDate>Mon, 24 Jan 2022 15:49:01 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=12255</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+								<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://crosspolitic.com/podcast-download/12255/ad-has-depression-caused-the-church-to-lose-its-mind.mp3" length="55554133"
+			   type="audio/mpeg"></enclosure>
+			<itunes:summary><![CDATA[]]></itunes:summary>
+			<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:23:08</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+</item>
 
 <item>
 	<title>Boris Hero/Hypocrite? McConnell Misunderstanding, CREC Virgil Hurt, ID Family Policy &#8211; Get Involved!</title>
@@ -249,10 +291,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<description><![CDATA[]]></description>
 	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 			<itunes:keywords>2022</itunes:keywords>
-								<content:encoded><![CDATA[]]></content:encoded>
-		<enclosure url="https://crosspolitic.com/podcast-download/12231/knox-unplugged-w-jason-farley-in-conversation-w-dante-part-1.mp3" length="58284896"
+							<enclosure url="https://crosspolitic.com/podcast-download/12231/knox-unplugged-w-jason-farley-in-conversation-w-dante-part-1.mp3" length="58284896"
 			   type="audio/mpeg"></enclosure>
-			<itunes:summary><![CDATA[]]></itunes:summary>
 				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/C883C411-EBD3-4961-B1BB-5F6B41D059EE.png"></itunes:image>
 		<image>
 			<url>https://crosspolitic.com/wp-content/uploads/2021/06/C883C411-EBD3-4961-B1BB-5F6B41D059EE.png</url>
@@ -273,10 +313,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<description><![CDATA[Daily News Brief for Wednesday January 19th, 2022 If you want to see more of this sort of thing, please consider joining the Fight Laugh Feast Club. For less than a few coffees a month, you can help us build a rowdy Christian media response to liberal legacy media, big tech, and build a Christian [&#8230;]]]></description>
 	<itunes:subtitle><![CDATA[Daily News Brief for Wednesday January 19th, 2022 If you want to see more of this sort of thing, please consider joining the Fight Laugh Feast Club. For less than a few coffees a month, you can help us build a rowdy Christian media response to liberal le]]></itunes:subtitle>
 			<itunes:keywords>2022</itunes:keywords>
-								<content:encoded><![CDATA[Daily News Brief for Wednesday January 19th, 2022 If you want to see more of this sort of thing, please consider joining the Fight Laugh Feast Club. For less than a few coffees a month, you can help us build a rowdy Christian media response to liberal legacy media, big tech, and build a Christian [&#8230;]]]></content:encoded>
-		<enclosure url="https://crosspolitic.com/podcast-download/12230/daily-news-brief-for-wednesday-january-19th-2022.mp3" length="35683131"
+							<enclosure url="https://crosspolitic.com/podcast-download/12230/daily-news-brief-for-wednesday-january-19th-2022.mp3" length="35683131"
 			   type="audio/mpeg"></enclosure>
-			<itunes:summary><![CDATA[Daily News Brief for Wednesday January 19th, 2022 If you want to see more of this sort of thing, please consider joining the Fight Laugh Feast Club. For less than a few coffees a month, you can help us build a rowdy Christian media response to liberal legacy media, big tech, and build a Christian [&#8230;]]]></itunes:summary>
 				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-03-at-2.08.04-PM.png"></itunes:image>
 		<image>
 			<url>https://crosspolitic.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-03-at-2.08.04-PM.png</url>
@@ -10592,50 +10630,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 			<itunes:explicit>clean</itunes:explicit>
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:16:50</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-</item>
-
-<item>
-	<title>L&#038;P: Debating Ruslan on the the answers to injustice</title>
-	<link>https://crosspolitic.com/podcast/lp-debating-ruslan-on-the-the-answers-to-injustice/</link>
-	<pubDate>Wed, 12 May 2021 07:04:38 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11376</guid>
-	<description><![CDATA[Ruslan is a YouTuber and successful music producer who has been interviewing evangelicals on matters of Critical Race Theory. He was kind enough to come on my show and discuss possible solutions to matters of injustice. I enjoyed this conversation and appreciate Ruslan&#8217;s willingness to engage in these issues.]]></description>
-	<itunes:subtitle><![CDATA[Ruslan is a YouTuber and successful music producer who has been interviewing evangelicals on matters of Critical Race Theory. He was kind enough to come on my show and discuss possible solutions to matters of injustice. I enjoyed this conversation and ap]]></itunes:subtitle>
-			<itunes:keywords>Critical Race Theory,marxism,Ruslan,Ruslan KD,RuslanKD,Social Justice,Socialism</itunes:keywords>
-							<enclosure url="https://crosspolitic.com/podcast-download/11376/lp-debating-ruslan-on-the-the-answers-to-injustice.mp3" length="74201897"
-			   type="audio/mpeg"></enclosure>
-				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/05/LawProfits_1024x10244-scaled-1.jpg"></itunes:image>
-		<image>
-			<url>https://crosspolitic.com/wp-content/uploads/2020/05/LawProfits_1024x10244-scaled-1.jpg</url>
-			<title>L&#038;P: Debating Ruslan on the the answers to injustice</title>
-		</image>
-		<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>01:43:02</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-</item>
-
-<item>
-	<title>MATT:  Fauci lied and people died&#8230; that&#8217;s how it goes right? &#8211; EP 647</title>
-	<link>https://crosspolitic.com/podcast/matt-fauci-lied-and-people-died-thats-how-it-goes-right-ep-647/</link>
-	<pubDate>Wed, 12 May 2021 07:00:00 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11371</guid>
-	<description><![CDATA[John Locke&#8217;s Two Treatises of Government Chapter 11. Fauci gets called out in the hearing, shortages, attacks, and China&#8217;s runways.  Show Marketing Powered By: Better Three Group Click Here to find out more or go to betterthreegroup.com For Advertising your business email Matt at matt@howtobuildatent.com GAB: @mattwilliams Locals: https://themattwilliamsshow.locals.com/  ]]></description>
-	<itunes:subtitle><![CDATA[John Locke&#8217;s Two Treatises of Government Chapter 11. Fauci gets called out in the hearing, shortages, attacks, and China&#8217;s runways.  Show Marketing Powered By: Better Three Group Click Here to find out more or go to betterthreegroup.com For A]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
-							<enclosure url="https://crosspolitic.com/podcast-download/11371/matt-fauci-lied-and-people-died-thats-how-it-goes-right-ep-647.mp3" length="61569064"
-			   type="audio/mpeg"></enclosure>
-				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/03/3.png"></itunes:image>
-		<image>
-			<url>https://crosspolitic.com/wp-content/uploads/2021/03/3.png</url>
-			<title>MATT:  Fauci lied and people died&#8230; that&#8217;s how it goes right? &#8211; EP 647</title>
-		</image>
-		<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>00:31:28</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
 </item>
 	</channel>
