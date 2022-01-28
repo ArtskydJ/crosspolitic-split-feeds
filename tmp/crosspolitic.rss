@@ -17,7 +17,7 @@
 		<description>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
 
 Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</description>
-		<lastBuildDate>Thu, 27 Jan 2022 12:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 28 Jan 2022 03:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<copyright></copyright>
 		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
@@ -47,6 +47,25 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 		<podcast:locked owner="fightlaughfeast@gmail.com">yes</podcast:locked>
 		<podcast:guid>bdcdb5ef-eb7a-5df7-865f-f0fa4628a66b</podcast:guid>
 		
+
+<item>
+	<title>WATERBREAK w/The Water Boy: &#8220;Don&#8217;t Be Sean Hannity&#8221;</title>
+	<link>https://crosspolitic.com/podcast/waterbreak-w-the-water-boy-dont-be-sean-hannity/</link>
+	<pubDate>Fri, 28 Jan 2022 03:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=12266</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:keywords>2022</itunes:keywords>
+								<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://crosspolitic.com/podcast-download/12266/waterbreak-w-the-water-boy-dont-be-sean-hannity.mp3" length="16135605"
+			   type="audio/mpeg"></enclosure>
+			<itunes:summary><![CDATA[]]></itunes:summary>
+			<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:33:36</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+</item>
 
 <item>
 	<title>Daily News Brief for Thursday, January 27th, 2022</title>
@@ -262,10 +281,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<description><![CDATA[]]></description>
 	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 			<itunes:keywords>2022</itunes:keywords>
-								<content:encoded><![CDATA[]]></content:encoded>
-		<enclosure url="https://crosspolitic.com/podcast-download/12236/strong-men-to-crusts-of-bread-the-pitter-patter-of-sexual-sin.mp3" length="71545022"
+							<enclosure url="https://crosspolitic.com/podcast-download/12236/strong-men-to-crusts-of-bread-the-pitter-patter-of-sexual-sin.mp3" length="71545022"
 			   type="audio/mpeg"></enclosure>
-			<itunes:summary><![CDATA[]]></itunes:summary>
 				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/303522A5-0F4F-4BF4-8908-A0FE749D0E9B.png"></itunes:image>
 		<image>
 			<url>https://crosspolitic.com/wp-content/uploads/2021/06/303522A5-0F4F-4BF4-8908-A0FE749D0E9B.png</url>
@@ -10614,27 +10631,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 			<itunes:explicit>clean</itunes:explicit>
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:08:38</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-</item>
-
-<item>
-	<title>AD:  Equality of Opportunity is a Scam</title>
-	<link>https://crosspolitic.com/podcast/ad-equality-of-opportunity-is-a-scam/</link>
-	<pubDate>Thu, 13 May 2021 15:20:11 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11382</guid>
-	<description><![CDATA[]]></description>
-	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
-							<enclosure url="https://crosspolitic.com/podcast-download/11382/ad-equality-of-opportunity-is-a-scam.mp3" length="105758346"
-			   type="audio/mpeg"></enclosure>
-				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2019/01/AD-1-e1548264215567.jpeg"></itunes:image>
-		<image>
-			<url>https://crosspolitic.com/wp-content/uploads/2019/01/AD-1-e1548264215567.jpeg</url>
-			<title>AD:  Equality of Opportunity is a Scam</title>
-		</image>
-		<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>00:44:03</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
 </item>
 	</channel>
