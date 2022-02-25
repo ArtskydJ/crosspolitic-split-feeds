@@ -17,7 +17,7 @@
 		<description>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
 
 Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</description>
-		<lastBuildDate>Fri, 25 Feb 2022 03:15:00 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 25 Feb 2022 12:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<copyright></copyright>
 		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
@@ -49,6 +49,29 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 		<podcast:locked owner="fightlaughfeast@gmail.com">yes</podcast:locked>
 		<podcast:guid>bdcdb5ef-eb7a-5df7-865f-f0fa4628a66b</podcast:guid>
 		
+
+<item>
+	<title>Daily News Brief for Friday, February 25th, 2022</title>
+	<link>https://crosspolitic.com/podcast/daily-news-brief-for-friday-february-25th-2022/</link>
+	<pubDate>Fri, 25 Feb 2022 12:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=12480</guid>
+	<description><![CDATA[https://twitter.com/SohrabAhmari/status/1496881718879531011?s=20&#38;t=aeeV3TBdacijzg83OCVPcA &#160; Play 0:50-1:03 &#160; Hopefully President Putin will see that he&#8217;s putting the climate at risk because a bunch of his country used to be an iceberg &#8230;and more on today&#8217;s CrossPolitic Daily News Brief. This is Toby Sumpter. Today is Friday, February 25, 2022. Would you please Like and share this show? Do [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[https://twitter.com/SohrabAhmari/status/1496881718879531011?s=20&#38;t=aeeV3TBdacijzg83OCVPcA &#160; Play 0:50-1:03 &#160; Hopefully President Putin will see that he&#8217;s putting the climate at risk because a bunch of his country used to be an iceberg]]></itunes:subtitle>
+								<content:encoded><![CDATA[https://twitter.com/SohrabAhmari/status/1496881718879531011?s=20&#38;t=aeeV3TBdacijzg83OCVPcA &#160; Play 0:50-1:03 &#160; Hopefully President Putin will see that he&#8217;s putting the climate at risk because a bunch of his country used to be an iceberg &#8230;and more on today&#8217;s CrossPolitic Daily News Brief. This is Toby Sumpter. Today is Friday, February 25, 2022. Would you please Like and share this show? Do [&#8230;]]]></content:encoded>
+		<enclosure url="https://crosspolitic.com/podcast-download/12480/daily-news-brief-for-friday-february-25th-2022.mp3" length="30109160"
+			   type="audio/mpeg"></enclosure>
+			<itunes:summary><![CDATA[https://twitter.com/SohrabAhmari/status/1496881718879531011?s=20&#38;t=aeeV3TBdacijzg83OCVPcA &#160; Play 0:50-1:03 &#160; Hopefully President Putin will see that he&#8217;s putting the climate at risk because a bunch of his country used to be an iceberg &#8230;and more on today&#8217;s CrossPolitic Daily News Brief. This is Toby Sumpter. Today is Friday, February 25, 2022. Would you please Like and share this show? Do [&#8230;]]]></itunes:summary>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-03-at-2.08.04-PM.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-03-at-2.08.04-PM.png</url>
+			<title>Daily News Brief for Friday, February 25th, 2022</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>921.756735</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+</item>
 
 <item>
 	<title>Waterbreak Kinda: Fight Laugh Feast Updates w/ Gabe!</title>
@@ -265,10 +288,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<guid isPermaLink="false">https://crosspolitic.com/podcast/this-is-a-3-man-game/</guid>
 	<description><![CDATA[https://www.doanenetwork.com]]></description>
 	<itunes:subtitle><![CDATA[https://www.doanenetwork.com]]></itunes:subtitle>
-								<content:encoded><![CDATA[https://www.doanenetwork.com]]></content:encoded>
-		<enclosure url="https://crosspolitic.com/podcast-download/12470/this-is-a-3-man-game.mp3" length="12445241"
+							<enclosure url="https://crosspolitic.com/podcast-download/12470/this-is-a-3-man-game.mp3" length="12445241"
 			   type="audio/mpeg"></enclosure>
-			<itunes:summary><![CDATA[https://www.doanenetwork.com]]></itunes:summary>
 				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/FLF-Doanecast-Logo-1.png-1400-1.png"></itunes:image>
 		<image>
 			<url>https://crosspolitic.com/wp-content/uploads/2021/06/FLF-Doanecast-Logo-1.png-1400-1.png</url>
@@ -10692,28 +10713,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 		<itunes:explicit>clean</itunes:explicit>
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:33:52</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-</item>
-
-<item>
-	<title>Daily News Brief for Wednesday, June 9, 2021</title>
-	<link>https://crosspolitic.com/podcast/daily-news-brief-for-wednesday-june-9-2021/</link>
-	<pubDate>Wed, 09 Jun 2021 11:15:00 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11464</guid>
-	<description><![CDATA[This is Waterboy with your CrossPolitic Daily News Brief for Wednesday June 9th, 2021. Supreme Court what?, more duh science when it comes to COVID, Trump run for Congress?, Fight Laugh U is back, more info on the Fight Laugh Feast Conference in TN, Fourth of July Liberty Bash, and public reinstated a teacher!&#160; Fight [&#8230;]]]></description>
-	<itunes:subtitle><![CDATA[This is Waterboy with your CrossPolitic Daily News Brief for Wednesday June 9th, 2021. Supreme Court what?, more duh science when it comes to COVID, Trump run for Congress?, Fight Laugh U is back, more info on the Fight Laugh Feast Conference in TN, Four]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
-							<enclosure url="https://crosspolitic.com/podcast-download/11464/daily-news-brief-for-wednesday-june-9-2021.mp3" length="8857026"
-			   type="audio/mpeg"></enclosure>
-				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/AC587412-DDAD-4BBA-A4CC-401E362B5895.png"></itunes:image>
-		<image>
-			<url>https://crosspolitic.com/wp-content/uploads/2021/06/AC587412-DDAD-4BBA-A4CC-401E362B5895.png</url>
-			<title>Daily News Brief for Wednesday, June 9, 2021</title>
-		</image>
-		<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>00:18:26</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
 </item>
 	</channel>
