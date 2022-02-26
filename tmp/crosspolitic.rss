@@ -17,7 +17,7 @@
 		<description>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
 
 Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</description>
-		<lastBuildDate>Fri, 25 Feb 2022 18:28:00 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 25 Feb 2022 21:33:19 +0000</lastBuildDate>
 		<language>en-US</language>
 		<copyright></copyright>
 		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
@@ -367,7 +367,7 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 <item>
 	<title>Gabe Talks Creationism w/ John Branyan</title>
 	<link>https://crosspolitic.com/podcast/gabe-talks-creationism-w-john-branyan/</link>
-	<pubDate>Fri, 18 Feb 2022 04:00:00 +0000</pubDate>
+	<pubDate>Fri, 18 Feb 2022 05:00:00 +0000</pubDate>
 	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
 	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=12463</guid>
 	<description><![CDATA[]]></description>
@@ -381,7 +381,7 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 		</image>
 		<itunes:explicit>clean</itunes:explicit>
 	<itunes:block>no</itunes:block>
-	<itunes:duration>1640.437551</itunes:duration>
+	<itunes:duration>1640</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
 </item>
 
@@ -10367,6 +10367,27 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 </item>
 
 <item>
+	<title>Flashback: Episode 4: The Social Media Barrage</title>
+	<link>https://crosspolitic.com/podcast/flashback-episode-4-the-social-media-barrage/</link>
+	<pubDate>Fri, 11 Jun 2021 19:35:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/podcast/flashback-episode-4-the-social-media-barrage/</guid>
+	<description><![CDATA[https://www.doanenetwork.com]]></description>
+	<itunes:subtitle><![CDATA[https://www.doanenetwork.com]]></itunes:subtitle>
+							<enclosure url="https://crosspolitic.com/podcast-download/12482/flashback-episode-4-the-social-media-barrage.mp3" length="39926254"
+			   type="audio/mpeg"></enclosure>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/FLF-Doanecast-Logo-1.png-1400-1.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2021/06/FLF-Doanecast-Logo-1.png-1400-1.png</url>
+			<title>Flashback: Episode 4: The Social Media Barrage</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>2494.736000</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+</item>
+
+<item>
 	<title>Daily News Brief for Friday, June 11, 2021</title>
 	<link>https://crosspolitic.com/podcast/daily-news-brief-for-friday-june-11-2021/</link>
 	<pubDate>Fri, 11 Jun 2021 11:15:00 +0000</pubDate>
@@ -10690,28 +10711,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 		<itunes:explicit>clean</itunes:explicit>
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:44:47</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-</item>
-
-<item>
-	<title>DOANE!T Episode Three: Film Festivals Are High School Cliques</title>
-	<link>https://crosspolitic.com/podcast/tdc-episode-three-film-festivals-are-high-school-cliques/</link>
-	<pubDate>Wed, 09 Jun 2021 15:59:13 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11476</guid>
-	<description><![CDATA[Save your film festival entry fee and promote your film yourself.&#160;]]></description>
-	<itunes:subtitle><![CDATA[Save your film festival entry fee and promote your film yourself.&#160;]]></itunes:subtitle>
-			<itunes:keywords>Content,Film,filmmaker,marketing,Media,social media</itunes:keywords>
-							<enclosure url="https://crosspolitic.com/podcast-download/11476/tdc-episode-three-film-festivals-are-high-school-cliques.mp3" length="34412639"
-			   type="audio/mpeg"></enclosure>
-				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/FLF-Doanecast-Logo-1.png-1400-1.png"></itunes:image>
-		<image>
-			<url>https://crosspolitic.com/wp-content/uploads/2021/06/FLF-Doanecast-Logo-1.png-1400-1.png</url>
-			<title>DOANE!T Episode Three: Film Festivals Are High School Cliques</title>
-		</image>
-		<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>00:35:50</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
 </item>
 	</channel>
