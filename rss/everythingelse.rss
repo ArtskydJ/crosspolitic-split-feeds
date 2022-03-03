@@ -17,7 +17,7 @@
 		<description>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
 
 Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</description>
-		<lastBuildDate>Thu, 03 Mar 2022 11:45:00 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 03 Mar 2022 18:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<copyright></copyright>
 		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
@@ -51,6 +51,29 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 		
 
 <item>
+	<title>Ukraine and Russia: History and the Theology of Nationalism</title>
+	<link>https://crosspolitic.com/podcast/ukraine-and-russia-history-and-the-theology-of-nationalism/</link>
+	<pubDate>Thu, 03 Mar 2022 18:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=12486</guid>
+	<description><![CDATA[With the Russian invasion of the Ukraine, Glenn thought it a good time for a history lesson on Ukraine and Russia. As you might expect, he started over 1000 years ago, but noted especially more recent history and why the Ukrainians want to get out from under Russian domination. Along the way, he noted some [&#8230;]]]></description>
+	<itunes:subtitle><![CDATA[With the Russian invasion of the Ukraine, Glenn thought it a good time for a history lesson on Ukraine and Russia. As you might expect, he started over 1000 years ago, but noted especially more recent history and why the Ukrainians want to get out from u]]></itunes:subtitle>
+								<content:encoded><![CDATA[With the Russian invasion of the Ukraine, Glenn thought it a good time for a history lesson on Ukraine and Russia. As you might expect, he started over 1000 years ago, but noted especially more recent history and why the Ukrainians want to get out from under Russian domination. Along the way, he noted some [&#8230;]]]></content:encoded>
+		<enclosure url="https://crosspolitic.com/podcast-download/12486/ukraine-and-russia-history-and-the-theology-of-nationalism.mp3" length="151286452"
+			   type="audio/mpeg"></enclosure>
+			<itunes:summary><![CDATA[With the Russian invasion of the Ukraine, Glenn thought it a good time for a history lesson on Ukraine and Russia. As you might expect, he started over 1000 years ago, but noted especially more recent history and why the Ukrainians want to get out from under Russian domination. Along the way, he noted some [&#8230;]]]></itunes:summary>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/05/64237477_1993893270717162_3015373985924775936_o.jpg"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2020/05/64237477_1993893270717162_3015373985924775936_o.jpg</url>
+			<title>Ukraine and Russia: History and the Theology of Nationalism</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>3778.851200</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+
+
+</item><item>
 	<title>Larry Elder joins us for the Midweek Fix &#8211; 20ish Questions!</title>
 	<link>https://crosspolitic.com/podcast/larry-elder-joins-us-for-the-midweek-fix-20ish-questions/</link>
 	<pubDate>Thu, 03 Mar 2022 11:45:00 +0000</pubDate>
@@ -196,10 +219,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=12484</guid>
 	<description><![CDATA[]]></description>
 	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
-								<content:encoded><![CDATA[]]></content:encoded>
-		<enclosure url="https://crosspolitic.com/podcast-download/12484/ukraine-pastor-shares-update-requests-prayer-hoperussia-ministry-peter-hitchens-weighs-in.mp3" length="146518861"
+							<enclosure url="https://crosspolitic.com/podcast-download/12484/ukraine-pastor-shares-update-requests-prayer-hoperussia-ministry-peter-hitchens-weighs-in.mp3" length="146518861"
 			   type="audio/mpeg"></enclosure>
-			<itunes:summary><![CDATA[]]></itunes:summary>
 				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/cp.png"></itunes:image>
 		<image>
 			<url>https://crosspolitic.com/wp-content/uploads/2020/07/cp.png</url>
@@ -2078,8 +2099,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:26:46</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-
-
 </item>
 	</channel>
 </rss>
