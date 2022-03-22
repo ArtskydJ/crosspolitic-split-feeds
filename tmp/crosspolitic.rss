@@ -17,7 +17,7 @@
 		<description>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
 
 Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</description>
-		<lastBuildDate>Mon, 21 Mar 2022 23:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 22 Mar 2022 04:53:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<copyright></copyright>
 		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
@@ -49,6 +49,29 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 		<podcast:locked owner="fightlaughfeast@gmail.com">yes</podcast:locked>
 		<podcast:guid>bdcdb5ef-eb7a-5df7-865f-f0fa4628a66b</podcast:guid>
 		
+
+<item>
+	<title>Daily News Brief for Monday, March 21st, 2022</title>
+	<link>https://crosspolitic.com/podcast/daily-news-brief-for-monday-march-21st-2022/</link>
+	<pubDate>Tue, 22 Mar 2022 04:53:00 +0000</pubDate>
+	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
+	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=12563</guid>
+	<description><![CDATA[]]></description>
+	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+								<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://crosspolitic.com/podcast-download/12563/daily-news-brief-for-monday-march-21st-2022.mp3" length="23681630"
+			   type="audio/mpeg"></enclosure>
+			<itunes:summary><![CDATA[]]></itunes:summary>
+				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-03-at-2.08.04-PM.png"></itunes:image>
+		<image>
+			<url>https://crosspolitic.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-03-at-2.08.04-PM.png</url>
+			<title>Daily News Brief for Monday, March 21st, 2022</title>
+		</image>
+		<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>718.288980</itunes:duration>
+	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
+</item>
 
 <item>
 	<title>There Is Crying in Baseball</title>
@@ -265,10 +288,8 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=12551</guid>
 	<description><![CDATA[]]></description>
 	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
-								<content:encoded><![CDATA[]]></content:encoded>
-		<enclosure url="https://crosspolitic.com/podcast-download/12551/waterbreak-sickened-how-the-government-ruined-healthcare-and-how-to-fix-it.mp3" length="25742137"
+							<enclosure url="https://crosspolitic.com/podcast-download/12551/waterbreak-sickened-how-the-government-ruined-healthcare-and-how-to-fix-it.mp3" length="25742137"
 			   type="audio/mpeg"></enclosure>
-			<itunes:summary><![CDATA[]]></itunes:summary>
 				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2020/07/cp.png"></itunes:image>
 		<image>
 			<url>https://crosspolitic.com/wp-content/uploads/2020/07/cp.png</url>
@@ -10668,28 +10689,6 @@ Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and
 		<itunes:explicit>clean</itunes:explicit>
 	<itunes:block>no</itunes:block>
 	<itunes:duration>00:15:27</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-</item>
-
-<item>
-	<title>MidWeek Fix: LIVE at the SBC w/ Choc Knox</title>
-	<link>https://crosspolitic.com/podcast/midweek-fix-live-at-the-sbc-w-choc-knox/</link>
-	<pubDate>Wed, 16 Jun 2021 18:21:38 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11515</guid>
-	<description><![CDATA[]]></description>
-	<itunes:subtitle><![CDATA[]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
-							<enclosure url="https://crosspolitic.com/podcast-download/11515/midweek-fix-live-at-the-sbc-w-choc-knox.mp3" length="19317634"
-			   type="audio/mpeg"></enclosure>
-				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/06/1A3C57A8-F872-4512-8AE9-96E4B383A1E3.png"></itunes:image>
-		<image>
-			<url>https://crosspolitic.com/wp-content/uploads/2021/06/1A3C57A8-F872-4512-8AE9-96E4B383A1E3.png</url>
-			<title>MidWeek Fix: LIVE at the SBC w/ Choc Knox</title>
-		</image>
-		<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>00:40:13</itunes:duration>
 	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
 </item>
 	</channel>
