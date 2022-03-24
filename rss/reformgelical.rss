@@ -1,231 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://crosspolitic.com/wp-content/plugins/seriously-simple-podcasting/templates/feed-stylesheet.xsl"?><rss version="2.0"
-	 xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	 xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	 xmlns:dc="http://purl.org/dc/elements/1.1/"
-	 xmlns:atom="http://www.w3.org/2005/Atom"
-	 xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	 xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-	 xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
-	 xmlns:podcast="https://podcastindex.org/namespace/1.0"
-	>
-		<channel>
-		<title>FLF - Reformgelical</title>
-		<atom:link href="https://artskydj.github.io/crosspolitic-split-feeds/rss/reformgelical.rss" rel="self" type="application/rss+xml"/>
-		<link>https://crosspolitic.com/</link>
-		<description>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
-
-Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</description>
-		<lastBuildDate>Tue, 22 Mar 2022 21:15:54 +0000</lastBuildDate>
-		<language>en-US</language>
-		<copyright></copyright>
-		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
-		<itunes:author>CrossPolitic Studios</itunes:author>
-					<itunes:type>serial</itunes:type>
-				<itunes:summary>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
-
-Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</itunes:summary>
-		<itunes:owner>
-			<itunes:name>CrossPolitic Studios</itunes:name>
-			<itunes:email>fightlaughfeast@gmail.com</itunes:email>
-		</itunes:owner>
-		<itunes:explicit>clean</itunes:explicit>
-		<itunes:image href="http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png"></itunes:image>
-			<image>
-				<url>http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png</url>
-				<title>Fight Laugh Feast Network</title>
-				<link>https://crosspolitic.com/</link>
-			</image>
-		<itunes:category text="News">
-			<itunes:category text="Christianity"></itunes:category>
-		</itunes:category>
-		<itunes:category text="Religion &amp; Spirituality">
-									<itunes:category text="Christianity"></itunes:category>
-							</itunes:category>
-		<itunes:category text="Society &amp; Culture">
-									<itunes:category text="Philosophy"></itunes:category>
-							</itunes:category>
-		<podcast:locked owner="fightlaughfeast@gmail.com">yes</podcast:locked>
-		<podcast:guid>bdcdb5ef-eb7a-5df7-865f-f0fa4628a66b</podcast:guid>
-		
-
-<item>
-	<title>REFORMGELICAL: AD ROBLES + MATT WILLIAMS</title>
-	<link>https://crosspolitic.com/podcast/reformgelical-ad-robles-matt-williams-8/</link>
-	<pubDate>Fri, 01 Oct 2021 01:08:46 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11929</guid>
-	<description><![CDATA[You think this is the show that will get us banned on Youtube? Join our show live on Youtube and twitter on our Reformgelical channels.]]></description>
-	<itunes:subtitle><![CDATA[You think this is the show that will get us banned on Youtube? Join our show live on Youtube and twitter on our Reformgelical channels.]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
-							<enclosure url="https://crosspolitic.com/podcast-download/11929/reformgelical-ad-robles-matt-williams-8.mp3" length="54603789"
-			   type="video/mp4"></enclosure>
-				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/07/Correct-Pixel.jpg"></itunes:image>
-		<image>
-			<url>https://crosspolitic.com/wp-content/uploads/2021/07/Correct-Pixel.jpg</url>
-			<title>REFORMGELICAL: AD ROBLES + MATT WILLIAMS</title>
-		</image>
-		<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>00:56:52</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-
-
-</item><item>
-	<title>REFORMGELICAL: AD ROBLES + MATT WILLIAMS</title>
-	<link>https://crosspolitic.com/podcast/reformgelical-ad-robles-matt-williams-7/</link>
-	<pubDate>Fri, 17 Sep 2021 07:00:00 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11897</guid>
-	<description><![CDATA[What if Jesus was forced to take the jab by the crown pressure when He didn&#8217;t want to? Join our show live on Youtube and twitter on our Reformgelical channels.]]></description>
-	<itunes:subtitle><![CDATA[What if Jesus was forced to take the jab by the crown pressure when He didn&#8217;t want to? Join our show live on Youtube and twitter on our Reformgelical channels.]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
-							<enclosure url="https://crosspolitic.com/podcast-download/11897/reformgelical-ad-robles-matt-williams-7.mp3" length="58224988"
-			   type="audio/mpeg"></enclosure>
-				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/07/Correct-Pixel.jpg"></itunes:image>
-		<image>
-			<url>https://crosspolitic.com/wp-content/uploads/2021/07/Correct-Pixel.jpg</url>
-			<title>REFORMGELICAL: AD ROBLES + MATT WILLIAMS</title>
-		</image>
-		<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>01:00:39</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-
-
-</item><item>
-	<title>REFORMGELICAL: AD ROBLES + MATT WILLIAMS</title>
-	<link>https://crosspolitic.com/podcast/reformgelical-ad-robles-matt-williams-6/</link>
-	<pubDate>Fri, 27 Aug 2021 07:00:00 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11826</guid>
-	<description><![CDATA[Join our show live on Youtube and twitter on our Reformgelical channels. What the jab is really for, real life hunger games, and Anytime Fitness needs to be supported.]]></description>
-	<itunes:subtitle><![CDATA[Join our show live on Youtube and twitter on our Reformgelical channels. What the jab is really for, real life hunger games, and Anytime Fitness needs to be supported.]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
-							<enclosure url="https://crosspolitic.com/podcast-download/11826/reformgelical-ad-robles-matt-williams-6.mp3" length="54094715"
-			   type="audio/mpeg"></enclosure>
-				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/07/Correct-Pixel.jpg"></itunes:image>
-		<image>
-			<url>https://crosspolitic.com/wp-content/uploads/2021/07/Correct-Pixel.jpg</url>
-			<title>REFORMGELICAL: AD ROBLES + MATT WILLIAMS</title>
-		</image>
-		<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>00:56:20</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-
-
-</item><item>
-	<title>REFORMGELICAL: AD ROBLES + MATT WILLIAMS</title>
-	<link>https://crosspolitic.com/podcast/reformgelical-ad-robles-matt-williams-5/</link>
-	<pubDate>Fri, 20 Aug 2021 07:00:00 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11801</guid>
-	<description><![CDATA[Join our show live on Youtube and twitter on our Reformgelical channels. Is Shira better than Liberalism? Is Bitcoin good for anything? Does AD or Matt think you shouldn&#8217;t get the jab and who is the super squish on the subject?]]></description>
-	<itunes:subtitle><![CDATA[Join our show live on Youtube and twitter on our Reformgelical channels. Is Shira better than Liberalism? Is Bitcoin good for anything? Does AD or Matt think you shouldn&#8217;t get the jab and who is the super squish on the subject?]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
-							<enclosure url="https://crosspolitic.com/podcast-download/11801/reformgelical-ad-robles-matt-williams-5.mp3" length="58369601"
-			   type="audio/mpeg"></enclosure>
-				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/07/Correct-Pixel.jpg"></itunes:image>
-		<image>
-			<url>https://crosspolitic.com/wp-content/uploads/2021/07/Correct-Pixel.jpg</url>
-			<title>REFORMGELICAL: AD ROBLES + MATT WILLIAMS</title>
-		</image>
-		<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>01:00:48</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-
-
-</item><item>
-	<title>REFORMGELICAL: AD ROBLES + MATT WILLIAMS</title>
-	<link>https://crosspolitic.com/podcast/reformgelical-ad-robles-matt-williams-4/</link>
-	<pubDate>Fri, 06 Aug 2021 07:00:00 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11750</guid>
-	<description><![CDATA[Join our show live on Youtube and twitter on our Reformgelical channels. AD is turning into the Christian Project Veritas with all the undercover Platt investigations he is doing, will the FED do anything to stop inflation, Matt gives his best and worst case scenarios for the next 3-4 years.]]></description>
-	<itunes:subtitle><![CDATA[Join our show live on Youtube and twitter on our Reformgelical channels. AD is turning into the Christian Project Veritas with all the undercover Platt investigations he is doing, will the FED do anything to stop inflation, Matt gives his best and worst ]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
-							<enclosure url="https://crosspolitic.com/podcast-download/11750/reformgelical-ad-robles-matt-williams-4.mp3" length="58920890"
-			   type="audio/mpeg"></enclosure>
-				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/07/Correct-Pixel.jpg"></itunes:image>
-		<image>
-			<url>https://crosspolitic.com/wp-content/uploads/2021/07/Correct-Pixel.jpg</url>
-			<title>REFORMGELICAL: AD ROBLES + MATT WILLIAMS</title>
-		</image>
-		<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>01:01:22</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-
-
-</item><item>
-	<title>REFORMGELICAL: AD ROBLES + MATT WILLIAMS</title>
-	<link>https://crosspolitic.com/podcast/reformgelical-ad-robles-matt-williams-3/</link>
-	<pubDate>Fri, 30 Jul 2021 07:00:00 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11699</guid>
-	<description><![CDATA[Join our show live on Youtube and twitter on our Reformgelical channels. AD is turning into the Christian Project Veritas with all the undercover Platt investigations he is doing, will the FED do anything to stop inflation, Matt gives his best and worst case scenarios for the next 3-4 years.]]></description>
-	<itunes:subtitle><![CDATA[Join our show live on Youtube and twitter on our Reformgelical channels. AD is turning into the Christian Project Veritas with all the undercover Platt investigations he is doing, will the FED do anything to stop inflation, Matt gives his best and worst ]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
-							<enclosure url="https://crosspolitic.com/podcast-download/11699/reformgelical-ad-robles-matt-williams-3.mp3" length="58561863"
-			   type="audio/mpeg"></enclosure>
-				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/07/Correct-Pixel.jpg"></itunes:image>
-		<image>
-			<url>https://crosspolitic.com/wp-content/uploads/2021/07/Correct-Pixel.jpg</url>
-			<title>REFORMGELICAL: AD ROBLES + MATT WILLIAMS</title>
-		</image>
-		<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>01:01:00</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-
-
-</item><item>
-	<title>REFORMGELICAL: AD ROBLES + MATT WILLIAMS</title>
-	<link>https://crosspolitic.com/podcast/reformgelical-ad-robles-matt-williams-2/</link>
-	<pubDate>Fri, 23 Jul 2021 07:00:00 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11663</guid>
-	<description><![CDATA[Join our show live on Youtube and twitter on our Reformgelical channels. The America&#8217;s Front Line Doctors lawsuit against the government regarding the mRNA vaccines and their harm.]]></description>
-	<itunes:subtitle><![CDATA[Join our show live on Youtube and twitter on our Reformgelical channels. The America&#8217;s Front Line Doctors lawsuit against the government regarding the mRNA vaccines and their harm.]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
-							<enclosure url="https://crosspolitic.com/podcast-download/11663/reformgelical-ad-robles-matt-williams-2.mp3" length="64659887"
-			   type="audio/mpeg"></enclosure>
-				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/07/Correct-Pixel.jpg"></itunes:image>
-		<image>
-			<url>https://crosspolitic.com/wp-content/uploads/2021/07/Correct-Pixel.jpg</url>
-			<title>REFORMGELICAL: AD ROBLES + MATT WILLIAMS</title>
-		</image>
-		<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>01:07:21</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-
-
-</item><item>
-	<title>Reformgelical: AD ROBLES + Matt Williams</title>
-	<link>https://crosspolitic.com/podcast/reformgelical-ad-robles-matt-williams/</link>
-	<pubDate>Fri, 16 Jul 2021 07:00:00 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11639</guid>
-	<description><![CDATA[Join our show live on Youtube and twitter on our Reformgelical channels. Ed Litton, SBC moves, FBI and Denhollender and more stuff.]]></description>
-	<itunes:subtitle><![CDATA[Join our show live on Youtube and twitter on our Reformgelical channels. Ed Litton, SBC moves, FBI and Denhollender and more stuff.]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
-							<enclosure url="https://crosspolitic.com/podcast-download/11639/reformgelical-ad-robles-matt-williams.mp3" length="59215133"
-			   type="audio/mpeg"></enclosure>
-				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/07/Correct-Pixel.jpg"></itunes:image>
-		<image>
-			<url>https://crosspolitic.com/wp-content/uploads/2021/07/Correct-Pixel.jpg</url>
-			<title>Reformgelical: AD ROBLES + Matt Williams</title>
-		</image>
-		<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>01:01:40</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-
-
-</item>
-	</channel>
+<?xml version="1.0"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+ <channel>
+  <title>FLF - Reformgelical</title>
+  <link>https://flfnetwork.com</link>
+  <description><![CDATA[FIGHT LAUGH FEAST PRESENTS SHOWS PROCLAIMING THE LORDSHIP OF CHRIST OVER ALL OF LIFE.
+]]></description>
+  <language>en</language>
+  <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
+  <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
+  <pubDate>Thu, 24 Mar 2022 01:25:41 +0000</pubDate>
+  <lastBuildDate>Thu, 24 Mar 2022 01:25:41 +0000</lastBuildDate>
+  <image>
+   <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
+   <link>https://flfnetwork.com</link>
+   <title><![CDATA[FLF, LLC]]></title>
+  </image>
+  <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+  <itunes:image href="https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg"/>
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:owner>
+   <itunes:name><![CDATA[FLF, LLC]]></itunes:name>
+   <itunes:email>fightlaughfeast@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:category text="News"/>
+  
+ </channel>
 </rss>

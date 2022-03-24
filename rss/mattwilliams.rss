@@ -1,121 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://crosspolitic.com/wp-content/plugins/seriously-simple-podcasting/templates/feed-stylesheet.xsl"?><rss version="2.0"
-	 xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	 xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	 xmlns:dc="http://purl.org/dc/elements/1.1/"
-	 xmlns:atom="http://www.w3.org/2005/Atom"
-	 xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	 xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-	 xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
-	 xmlns:podcast="https://podcastindex.org/namespace/1.0"
-	>
-		<channel>
-		<title>FLF - Matt Williams</title>
-		<atom:link href="https://artskydj.github.io/crosspolitic-split-feeds/rss/mattwilliams.rss" rel="self" type="application/rss+xml"/>
-		<link>https://crosspolitic.com/</link>
-		<description>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
-
-Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</description>
-		<lastBuildDate>Tue, 22 Mar 2022 21:15:54 +0000</lastBuildDate>
-		<language>en-US</language>
-		<copyright></copyright>
-		<itunes:subtitle>CrossPolitic Show, Law &amp; Profits, Theology Pugcast, and more...</itunes:subtitle>
-		<itunes:author>CrossPolitic Studios</itunes:author>
-					<itunes:type>serial</itunes:type>
-				<itunes:summary>The Fight Laugh Feast Network produces Christ-centered content for all of life, for all the world. Featuring CrossPolitic (Christ over Politics) Podcast and Show, which mixes the taboo formula of faith, culture, and politics in order to bring the clarity of the gospel into muddle America.  We are a community of Christians who desire to see the Lordship of Christ in every corner of our culture, reigning over every politician, and changing every individual for our good and His glory.  
-
-Our shows are made up of pastors, deacons, filmmakers, teachers, professors, and more, and long to see our nation once again recognize Jesus as the redeemer of our fallen nation.  Our shows have interviewed notable public figures (including presidential candidates Senator Ted Cruz and Dr. Ben Carson), written books, preach at churches and on college campuses, produced films, and utilize every avenue possible to declare the gospel of our Lord to our broken world.</itunes:summary>
-		<itunes:owner>
-			<itunes:name>CrossPolitic Studios</itunes:name>
-			<itunes:email>fightlaughfeast@gmail.com</itunes:email>
-		</itunes:owner>
-		<itunes:explicit>clean</itunes:explicit>
-		<itunes:image href="http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png"></itunes:image>
-			<image>
-				<url>http://crosspolitic.com/wp-content/uploads/2019/06/FLF_CircleLogo_1400x1400.png</url>
-				<title>Fight Laugh Feast Network</title>
-				<link>https://crosspolitic.com/</link>
-			</image>
-		<itunes:category text="News">
-			<itunes:category text="Christianity"></itunes:category>
-		</itunes:category>
-		<itunes:category text="Religion &amp; Spirituality">
-									<itunes:category text="Christianity"></itunes:category>
-							</itunes:category>
-		<itunes:category text="Society &amp; Culture">
-									<itunes:category text="Philosophy"></itunes:category>
-							</itunes:category>
-		<podcast:locked owner="fightlaughfeast@gmail.com">yes</podcast:locked>
-		<podcast:guid>bdcdb5ef-eb7a-5df7-865f-f0fa4628a66b</podcast:guid>
-		
-
-<item>
-	<title>MATT: THINGS ARE TERRIBLE, THIS IS WHAT YOU NEED TO DO &#8211; EP 661</title>
-	<link>https://crosspolitic.com/podcast/matt-things-are-terrible-this-is-what-you-need-to-do-ep-661-2/</link>
-	<pubDate>Mon, 28 Jun 2021 07:00:00 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11563</guid>
-	<description><![CDATA[Where my focus will be going forward for the Kingdom. Show Marketing Powered By: Better Three Group Click Here to find out more or go to betterthreegroup.comFor Advertising your business email Matt at matt@howtobuildatent.comGAB: @mattwilliams Telegram: https://t.me/realmattwilliams email: matt@howtobuildatent.com]]></description>
-	<itunes:subtitle><![CDATA[Where my focus will be going forward for the Kingdom. Show Marketing Powered By: Better Three Group Click Here to find out more or go to betterthreegroup.comFor Advertising your business email Matt at matt@howtobuildatent.comGAB: @mattwilliams Telegram: ]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
-							<enclosure url="https://crosspolitic.com/podcast-download/11563/matt-things-are-terrible-this-is-what-you-need-to-do-ep-661-2.mp3" length="24748292"
-			   type="audio/mpeg"></enclosure>
-				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/03/3.png"></itunes:image>
-		<image>
-			<url>https://crosspolitic.com/wp-content/uploads/2021/03/3.png</url>
-			<title>MATT: THINGS ARE TERRIBLE, THIS IS WHAT YOU NEED TO DO &#8211; EP 661</title>
-		</image>
-		<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>00:12:38</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-
-
-</item><item>
-	<title>MATT: Things are terrible, this is what you need to do &#8211; EP 661</title>
-	<link>https://crosspolitic.com/podcast/matt-things-are-terrible-this-is-what-you-need-to-do-ep-661/</link>
-	<pubDate>Wed, 23 Jun 2021 07:00:00 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11546</guid>
-	<description><![CDATA[Why I&#8217;m constantly talking about what&#8217;s wrong, action steps to do offensively and defensively, and the CCP defector(s). Show Marketing Powered By: Better Three Group Click Here to find out more or go to betterthreegroup.comFor Advertising your business email Matt at matt@howtobuildatent.comGAB: @mattwilliams]]></description>
-	<itunes:subtitle><![CDATA[Why I&#8217;m constantly talking about what&#8217;s wrong, action steps to do offensively and defensively, and the CCP defector(s). Show Marketing Powered By: Better Three Group Click Here to find out more or go to betterthreegroup.comFor Advertising you]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
-							<enclosure url="https://crosspolitic.com/podcast-download/11546/matt-things-are-terrible-this-is-what-you-need-to-do-ep-661.mp3" length="66903972"
-			   type="audio/mpeg"></enclosure>
-				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/03/3.png"></itunes:image>
-		<image>
-			<url>https://crosspolitic.com/wp-content/uploads/2021/03/3.png</url>
-			<title>MATT: Things are terrible, this is what you need to do &#8211; EP 661</title>
-		</image>
-		<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>00:32:24</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-
-
-</item><item>
-	<title>MATT: WE need to fight as christians, as men, and to win  &#8211; EP 660</title>
-	<link>https://crosspolitic.com/podcast/matt-we-need-to-fight-as-christians-as-men-and-to-win-ep-660/</link>
-	<pubDate>Tue, 22 Jun 2021 07:00:00 +0000</pubDate>
-	<dc:creator><![CDATA[CrossPolitic Studios]]></dc:creator>
-	<guid isPermaLink="false">https://crosspolitic.com/?post_type=podcast&#038;p=11538</guid>
-	<description><![CDATA[3 biblical texts to help us be blessed with victory and not cursed with unbelief. Show Marketing Powered By: Better Three Group Click Here to find out more or go to betterthreegroup.com For Advertising your business email Matt at matt@howtobuildatent.com GAB: @mattwilliams]]></description>
-	<itunes:subtitle><![CDATA[3 biblical texts to help us be blessed with victory and not cursed with unbelief. Show Marketing Powered By: Better Three Group Click Here to find out more or go to betterthreegroup.com For Advertising your business email Matt at matt@howtobuildatent.com]]></itunes:subtitle>
-			<itunes:keywords>2021</itunes:keywords>
-							<enclosure url="https://crosspolitic.com/podcast-download/11538/matt-we-need-to-fight-as-christians-as-men-and-to-win-ep-660.mp3" length="49240556"
-			   type="audio/mpeg"></enclosure>
-				<itunes:image href="https://crosspolitic.com/wp-content/uploads/2021/03/3.png"></itunes:image>
-		<image>
-			<url>https://crosspolitic.com/wp-content/uploads/2021/03/3.png</url>
-			<title>MATT: WE need to fight as christians, as men, and to win  &#8211; EP 660</title>
-		</image>
-		<itunes:explicit>clean</itunes:explicit>
-	<itunes:block>no</itunes:block>
-	<itunes:duration>00:25:12</itunes:duration>
-	<itunes:author><![CDATA[CrossPolitic Studios]]></itunes:author>
-
-
-</item>
-	</channel>
+<?xml version="1.0"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+ <channel>
+  <title>FLF - Matt Williams</title>
+  <link>https://flfnetwork.com</link>
+  <description><![CDATA[FIGHT LAUGH FEAST PRESENTS SHOWS PROCLAIMING THE LORDSHIP OF CHRIST OVER ALL OF LIFE.
+]]></description>
+  <language>en</language>
+  <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
+  <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
+  <pubDate>Thu, 24 Mar 2022 01:25:41 +0000</pubDate>
+  <lastBuildDate>Thu, 24 Mar 2022 01:25:41 +0000</lastBuildDate>
+  <image>
+   <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
+   <link>https://flfnetwork.com</link>
+   <title><![CDATA[FLF, LLC]]></title>
+  </image>
+  <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+  <itunes:image href="https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg"/>
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:owner>
+   <itunes:name><![CDATA[FLF, LLC]]></itunes:name>
+   <itunes:email>fightlaughfeast@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:category text="News"/>
+  
+ </channel>
 </rss>
