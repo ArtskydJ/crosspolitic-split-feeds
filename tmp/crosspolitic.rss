@@ -8,8 +8,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Fri, 25 Mar 2022 01:25:41 +0000</pubDate>
-  <lastBuildDate>Fri, 25 Mar 2022 01:25:41 +0000</lastBuildDate>
+  <pubDate>Fri, 25 Mar 2022 07:25:42 +0000</pubDate>
+  <lastBuildDate>Fri, 25 Mar 2022 07:25:42 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -23,6 +23,19 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Why Conservatives Can’t Have Anything Good [The Waterbreak]]]></title>
+   <link>https://app.dropwave.io/episode/b51981f7-8cb4-4385-b307-889234711da9/why-conservatives-cant-have-anything-good.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Gabe Rench, John Branyan)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/b51981f7-8cb4-4385-b307-889234711da9/why-conservatives-cant-have-anything-good.mp3" length="2032" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[b51981f7-8cb4-4385-b307-889234711da9]]></guid>
+   <pubDate>Fri, 25 Mar 2022 02:30:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/0a3dee73-38ca-4cc7-b0dc-e72b0074106c/cover-art/7DOVWc4hahBpRmGmfTrV17Z7LRpqZkJJHW4BKIko.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2032</itunes:duration>
+  </item>
   <item>
    <title><![CDATA[The Sunny Side of Tyranny [Leadership Now Podcast]]]></title>
    <link>https://app.dropwave.io/episode/ad5faba4-28ef-47e3-9eb6-9a4fc6a2bf2b/the-sunny-side-of-tyranny.mp3</link>
@@ -3634,19 +3647,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/t78Zbr2N6F6PTXexYzQswGlcYiSOLJjKPvkNj6u1.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2210</itunes:duration>
-  </item>
-  <item>
-   <title><![CDATA[Luke 5:1-11 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/3db5fab1-e023-482a-b90c-ca790bc1276d/luke-51-11.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/3db5fab1-e023-482a-b90c-ca790bc1276d/luke-51-11.mp3" length="312" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[3db5fab1-e023-482a-b90c-ca790bc1276d]]></guid>
-   <pubDate>Mon, 07 Feb 2022 10:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/XIMjTaZ6VawlhoVOPryXVftMA00jOLQ5gmyJXe0x.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>312</itunes:duration>
   </item>
  </channel>
 </rss>
