@@ -8,8 +8,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Sat, 26 Mar 2022 07:25:40 +0000</pubDate>
-  <lastBuildDate>Sat, 26 Mar 2022 07:25:40 +0000</lastBuildDate>
+  <pubDate>Sat, 26 Mar 2022 13:25:41 +0000</pubDate>
+  <lastBuildDate>Sat, 26 Mar 2022 13:25:41 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -24,6 +24,19 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Psalm 63 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/cf7ebcbd-1330-48ab-aa6c-b80ed8eaa2d6/psalm-63.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/cf7ebcbd-1330-48ab-aa6c-b80ed8eaa2d6/psalm-63.mp3" length="322" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[cf7ebcbd-1330-48ab-aa6c-b80ed8eaa2d6]]></guid>
+   <pubDate>Sat, 26 Mar 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/gu6RZSRbrxI21LpFv5OVYEEvJZGGvqfRyJ676bZI.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>322</itunes:duration>
+  
+  </item><item>
    <title><![CDATA[1 Corinthians10:6-11 [Up and Ready]]]></title>
    <link>https://app.dropwave.io/episode/0be321af-5255-4b2e-a490-bd6e4a8bde93/1-corinthians106-11.mp3</link>
    <description><![CDATA[]]></description>
@@ -1838,7 +1851,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/82WCtA7VhYo5yE1x7ovo4q67KiiUIBCIGCw836dX.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>289</itunes:duration>
-  
   </item>
  </channel>
 </rss>
