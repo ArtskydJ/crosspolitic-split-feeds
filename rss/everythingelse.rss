@@ -8,8 +8,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 28 Mar 2022 01:25:41 +0000</pubDate>
-  <lastBuildDate>Mon, 28 Mar 2022 01:25:41 +0000</lastBuildDate>
+  <pubDate>Mon, 28 Mar 2022 07:25:42 +0000</pubDate>
+  <lastBuildDate>Mon, 28 Mar 2022 07:25:42 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -24,6 +24,19 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Raul Labrador for Idaho AG!! Ketanji Brown Jackson is a Black Woman? Dave Rubin Baby Hypocrisy [CrossPolitic Show]]]></title>
+   <link>https://app.dropwave.io/episode/76459f41-6a5f-42f9-a7c4-11b8008aa97f/raul-labrador-for-idaho-ag-ketanji-brown-jackson-is-a-black-woman-dave-rubin-baby-hypocrisy.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/76459f41-6a5f-42f9-a7c4-11b8008aa97f/raul-labrador-for-idaho-ag-ketanji-brown-jackson-is-a-black-woman-dave-rubin-baby-hypocrisy.mp3" length="4253" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[76459f41-6a5f-42f9-a7c4-11b8008aa97f]]></guid>
+   <pubDate>Mon, 28 Mar 2022 03:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>4253</itunes:duration>
+  
+  </item><item>
    <title><![CDATA[Joe Boot, Theonomy and revenge of the beta males [The Rebel Podcast]]]></title>
    <link>https://app.dropwave.io/episode/056e5efd-7b92-42a0-bdc2-47ff1d095c6b/joe-boot-theonomy-and-revenge-of-the-beta-males.mp3</link>
    <description><![CDATA[<div dir="auto" style="font-size: 18px; font-family: -apple-system, HelveticaNeue;">P Nate and Pootie are back in Garage-Mahal ready to defend not only the theological orthodoxy of theonomy but of friend and mentor Dr. JOE Boot.</div>
@@ -1849,18 +1862,6 @@
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3104</itunes:duration>
   
-  </item><item>
-   <title><![CDATA[Cyril [Resistance and Reformation]]]></title>
-   <link>https://app.dropwave.io/episode/fd6e8782-0f02-4d8b-9bca-3f81a820b50c/cyril.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Dr. George Grant)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/fd6e8782-0f02-4d8b-9bca-3f81a820b50c/cyril.mp3" length="526" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[fd6e8782-0f02-4d8b-9bca-3f81a820b50c]]></guid>
-   <pubDate>Tue, 08 Feb 2022 12:26:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/2b0B9kcv9w3zkQN5ijajwHgEUGrY1XbEYid3CoBv.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>526</itunes:duration>
   </item>
  </channel>
 </rss>
