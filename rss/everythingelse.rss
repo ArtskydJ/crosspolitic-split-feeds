@@ -8,8 +8,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 28 Mar 2022 07:25:42 +0000</pubDate>
-  <lastBuildDate>Mon, 28 Mar 2022 07:25:42 +0000</lastBuildDate>
+  <pubDate>Mon, 28 Mar 2022 13:25:41 +0000</pubDate>
+  <lastBuildDate>Mon, 28 Mar 2022 13:25:41 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -24,6 +24,37 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Life is Meaningless (Eat Some Cashews) [The Comedian Next Door]]]></title>
+   <link>https://app.dropwave.io/episode/75e42c01-b9b9-469c-96f1-83e2c41747c5/life-is-meaningless-eat-some-cashews.mp3</link>
+   <description><![CDATA[<p>Welcome to the table, Neighbor Pkarlgh!&nbsp; &nbsp;The Peaches had an epiphany this week regarding how important it is for the human body to have food.&nbsp; Isn't it crazy the way the sun rises every morning--and putting nutrients in your stomach can change your life?</p>
+<p>But let's remember: people are not just physical creatures. We have minds and souls as well.&nbsp;</p>
+<p>Later: Would you criticize a fat person at the gym?&nbsp; It's hard to wait for God to reveal the same things to other people that He has revealed to you...</p>
+<p>Then:&nbsp; Are we encroaching on Relativism over here??? Or are we simply realizing a Truth about the "living and active" nature of Scripture?</p>
+<p>Finally:&nbsp; Ecclesiastes seems really depressing... But, with the right perspective, it's actually encouraging.&nbsp; "NOTHING MATTERS--EVERYTHING IS MEANINGLESS!"&nbsp; It reminds us of John's saying, "Life is a joke."</p>
+<p>Reach out to us by emailing nextdoor@johnbranyan.com. Join us at the Fight Laugh Feast Conference in October! (Details at flfnetwork.com) Tune in to the Starving Comic's Quarantine Show on the John Branyan YouTube channel!</p>]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/75e42c01-b9b9-469c-96f1-83e2c41747c5/life-is-meaningless-eat-some-cashews.mp3" length="2826" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[75e42c01-b9b9-469c-96f1-83e2c41747c5]]></guid>
+   <pubDate>Mon, 28 Mar 2022 09:30:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/PVTqAnqkKypZDQkH4seACPJECBbChiC9Z3PfirAz.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2826</itunes:duration>
+  
+  </item><item>
+   <title><![CDATA[Luke 15:1-3ff [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/8fd8497c-0dd9-4335-963a-40dc1f336f55/luke-151-3ff.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/8fd8497c-0dd9-4335-963a-40dc1f336f55/luke-151-3ff.mp3" length="315" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[8fd8497c-0dd9-4335-963a-40dc1f336f55]]></guid>
+   <pubDate>Mon, 28 Mar 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/gu6RZSRbrxI21LpFv5OVYEEvJZGGvqfRyJ676bZI.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>315</itunes:duration>
+  
+  </item><item>
    <title><![CDATA[Raul Labrador for Idaho AG!! Ketanji Brown Jackson is a Black Woman? Dave Rubin Baby Hypocrisy [CrossPolitic Show]]]></title>
    <link>https://app.dropwave.io/episode/76459f41-6a5f-42f9-a7c4-11b8008aa97f/raul-labrador-for-idaho-ag-ketanji-brown-jackson-is-a-black-woman-dave-rubin-baby-hypocrisy.mp3</link>
    <description><![CDATA[]]></description>
@@ -1861,7 +1892,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/1c3a97bd-65b0-4aec-bb35-3a1b6eec5d2c/cover-art/6ek1PmZBvTrLUCy8LRCCAOqo4kX2a8NsQ60CfTZ4.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3104</itunes:duration>
-  
   </item>
  </channel>
 </rss>
