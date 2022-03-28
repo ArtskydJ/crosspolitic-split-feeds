@@ -8,8 +8,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 28 Mar 2022 13:25:41 +0000</pubDate>
-  <lastBuildDate>Mon, 28 Mar 2022 13:25:41 +0000</lastBuildDate>
+  <pubDate>Mon, 28 Mar 2022 19:25:41 +0000</pubDate>
+  <lastBuildDate>Mon, 28 Mar 2022 19:25:41 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -23,6 +23,19 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Perception and Reality [In the Bullpen]]]></title>
+   <link>https://app.dropwave.io/episode/0bcc03f6-2525-4a6f-8f16-2c91e24ee16e/perception-and-reality.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/0bcc03f6-2525-4a6f-8f16-2c91e24ee16e/perception-and-reality.mp3" length="1252" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[0bcc03f6-2525-4a6f-8f16-2c91e24ee16e]]></guid>
+   <pubDate>Mon, 28 Mar 2022 16:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1252</itunes:duration>
+  </item>
   <item>
    <title><![CDATA[Life is Meaningless (Eat Some Cashews) [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/75e42c01-b9b9-469c-96f1-83e2c41747c5/life-is-meaningless-eat-some-cashews.mp3</link>
@@ -200,7 +213,7 @@
    <guid isPermaLink="false"><![CDATA[b51981f7-8cb4-4385-b307-889234711da9]]></guid>
    <pubDate>Fri, 25 Mar 2022 02:30:00 +0000</pubDate>
    <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/0a3dee73-38ca-4cc7-b0dc-e72b0074106c/cover-art/7DOVWc4hahBpRmGmfTrV17Z7LRpqZkJJHW4BKIko.jpg"/>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/0a3dee73-38ca-4cc7-b0dc-e72b0074106c/cover-art/xJi9vNSfoPviAe1iENwwphmxq2zu6VQyM1wufoXB.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2032</itunes:duration>
   </item>
@@ -915,7 +928,7 @@
    <guid isPermaLink="false"><![CDATA[3b0d500f-fdb4-484f-8f8e-1910099b3c45]]></guid>
    <pubDate>Thu, 10 Mar 2022 23:22:00 +0000</pubDate>
    <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/0a3dee73-38ca-4cc7-b0dc-e72b0074106c/cover-art/7DOVWc4hahBpRmGmfTrV17Z7LRpqZkJJHW4BKIko.jpg"/>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/0a3dee73-38ca-4cc7-b0dc-e72b0074106c/cover-art/xJi9vNSfoPviAe1iENwwphmxq2zu6VQyM1wufoXB.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3217</itunes:duration>
   </item>
@@ -2026,7 +2039,7 @@
    <guid isPermaLink="false"><![CDATA[b882905e-9619-4c90-8d8c-fac6ca4f2b70]]></guid>
    <pubDate>Thu, 24 Feb 2022 19:15:00 +0000</pubDate>
    <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/0a3dee73-38ca-4cc7-b0dc-e72b0074106c/cover-art/7DOVWc4hahBpRmGmfTrV17Z7LRpqZkJJHW4BKIko.jpg"/>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/0a3dee73-38ca-4cc7-b0dc-e72b0074106c/cover-art/xJi9vNSfoPviAe1iENwwphmxq2zu6VQyM1wufoXB.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>382</itunes:duration>
   </item>
@@ -3428,7 +3441,7 @@
    <guid isPermaLink="false"><![CDATA[3a5c6e3a-d085-49d7-b45a-dd80fb0247f9]]></guid>
    <pubDate>Thu, 10 Feb 2022 20:00:00 +0000</pubDate>
    <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/0a3dee73-38ca-4cc7-b0dc-e72b0074106c/cover-art/7DOVWc4hahBpRmGmfTrV17Z7LRpqZkJJHW4BKIko.jpg"/>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/0a3dee73-38ca-4cc7-b0dc-e72b0074106c/cover-art/xJi9vNSfoPviAe1iENwwphmxq2zu6VQyM1wufoXB.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1893</itunes:duration>
   </item>
@@ -3517,21 +3530,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/1I5qq9duaXJL9z3NwXHywD2ySOKzMayvLUjyZraV.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>238</itunes:duration>
-  </item>
-  <item>
-   <title><![CDATA[Dominion, with John Cooper [The Ezra Institute Podcast for Cultural Reformation]]]></title>
-   <link>https://app.dropwave.io/episode/636b0e48-1954-4c94-9c00-0aa764f0697e/dominion-with-john-cooper.mp3</link>
-   <description><![CDATA[<p style="box-sizing: border-box; margin: 0px 0px 10px; color: #212529; font-family: effra, Verdana, Arial, sans-serif; font-size: 18px; background-color: #ffffff;">John Cooper of Skillet joins us to talk about their recent album, Dominion, about the experience of writing music in a dark and confused cultural moment, and about the importance of Christians participating in civil life.</p>
-<p style="box-sizing: border-box; margin: 0px 0px 10px; color: #212529; font-family: effra, Verdana, Arial, sans-serif; font-size: 18px; background-color: #ffffff;">Get John Cooper&rsquo;s book&nbsp;<a style="box-sizing: border-box; background-color: transparent; color: #72bf44; text-decoration-line: none;" href="https://ezrapress.ca/products/awake-and-alive-to-truth?_pos=1&amp;_sid=70178983d&amp;_ss=r" target="_blank" rel="noreferrer noopener">Awake and Alive to Truth</a>, at Ezra Press.</p>
-<div class="featured-resources mt-5 rp4wp-related-posts rp4wp-related-mere_resource" style="box-sizing: border-box; clear: both; background: #ffffff; padding-top: 100px; width: 1054.5px; overflow: hidden; color: #212529; font-family: effra, Verdana, Arial, sans-serif; font-size: 18px;">&nbsp;</div>]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Joe Boot, John Cooper, Nathan Oblak, Ryan Eras)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/636b0e48-1954-4c94-9c00-0aa764f0697e/dominion-with-john-cooper.mp3" length="3104" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[636b0e48-1954-4c94-9c00-0aa764f0697e]]></guid>
-   <pubDate>Wed, 09 Feb 2022 09:40:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/1c3a97bd-65b0-4aec-bb35-3a1b6eec5d2c/cover-art/6ek1PmZBvTrLUCy8LRCCAOqo4kX2a8NsQ60CfTZ4.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3104</itunes:duration>
   </item>
  </channel>
 </rss>
