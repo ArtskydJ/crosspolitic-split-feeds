@@ -8,8 +8,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Tue, 29 Mar 2022 19:25:42 +0000</pubDate>
-  <lastBuildDate>Tue, 29 Mar 2022 19:25:42 +0000</lastBuildDate>
+  <pubDate>Wed, 30 Mar 2022 01:25:52 +0000</pubDate>
+  <lastBuildDate>Wed, 30 Mar 2022 01:25:52 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -154,6 +154,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/a26ffadb-00d7-4e2e-af1b-d1e289ddbc9d/cover-art/XmMaGn4WCvuPv3xnYdhxY9EADzX4YCrSOsuufMCa.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3607</itunes:duration>
+  </item>
+  <item>
+   <title><![CDATA[The OSCARS: Death of Hollywood and its Gate Keepers (Darren Doane) [Choc Knox Unplugged]]]></title>
+   <link>https://app.dropwave.io/episode/0638757a-862a-4e36-8286-6570cf7477ba/the-oscars-death-of-hollywood-and-its-gate-keepers-darren-doane.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/0638757a-862a-4e36-8286-6570cf7477ba/the-oscars-death-of-hollywood-and-its-gate-keepers-darren-doane.mp3" length="3881" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[0638757a-862a-4e36-8286-6570cf7477ba]]></guid>
+   <pubDate>Mon, 28 Mar 2022 20:23:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/6123b54f-ab49-406c-9cba-a39f6730fc76/cover-art/ARuuU8PixHGkhNvgtHIHIGGJjBUPNwgZEkuaGqzL.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3881</itunes:duration>
   </item>
   <item>
    <title><![CDATA[Perception and Reality [In the Bullpen]]]></title>
@@ -1605,19 +1618,6 @@
    <itunes:duration>1013</itunes:duration>
   </item>
   <item>
-   <title><![CDATA[Ukraine and Russia: History and the Theology of Nationalism [The Pugcast]]]></title>
-   <link>https://app.dropwave.io/episode/e3a9e431-9695-46b9-a275-59e01e97d1b7/ukraine-and-russia-history-and-the-theology-of-nationalism.mp3</link>
-   <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">With the Russian invasion of the Ukraine, Glenn thought it a good time for a history lesson on Ukraine and Russia. As you might expect, he started over 1000 years ago, but noted especially more recent history and why the Ukrainians want to get out from under Russian domination. Along the way, he noted some genuine problems with Ukraine and their treatment of Russian minorities, part and parcel of the messy way borders work in Central and Eastern Europe. The guys finish with a discussion of the theological significance of nations, noting that they seem to survive in a purified form into eternity.</p>]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/e3a9e431-9695-46b9-a275-59e01e97d1b7/ukraine-and-russia-history-and-the-theology-of-nationalism.mp3" length="3779" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[e3a9e431-9695-46b9-a275-59e01e97d1b7]]></guid>
-   <pubDate>Thu, 03 Mar 2022 10:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3779</itunes:duration>
-  </item>
-  <item>
    <title><![CDATA[2 Chronicles 34:19-21 [Up and Ready]]]></title>
    <link>https://app.dropwave.io/episode/54d4b070-425d-46c1-aa2e-dba667dae2c5/2-chronicles-3419-21.mp3</link>
    <description><![CDATA[]]></description>
@@ -1629,6 +1629,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/gu6RZSRbrxI21LpFv5OVYEEvJZGGvqfRyJ676bZI.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>262</itunes:duration>
+  </item>
+  <item>
+   <title><![CDATA[Ukraine and Russia: History and the Theology of Nationalism [The Pugcast]]]></title>
+   <link>https://app.dropwave.io/episode/e3a9e431-9695-46b9-a275-59e01e97d1b7/ukraine-and-russia-history-and-the-theology-of-nationalism.mp3</link>
+   <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">With the Russian invasion of the Ukraine, Glenn thought it a good time for a history lesson on Ukraine and Russia. As you might expect, he started over 1000 years ago, but noted especially more recent history and why the Ukrainians want to get out from under Russian domination. Along the way, he noted some genuine problems with Ukraine and their treatment of Russian minorities, part and parcel of the messy way borders work in Central and Eastern Europe. The guys finish with a discussion of the theological significance of nations, noting that they seem to survive in a purified form into eternity.</p>]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/e3a9e431-9695-46b9-a275-59e01e97d1b7/ukraine-and-russia-history-and-the-theology-of-nationalism.mp3" length="3779" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[e3a9e431-9695-46b9-a275-59e01e97d1b7]]></guid>
+   <pubDate>Thu, 03 Mar 2022 10:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3779</itunes:duration>
   </item>
   <item>
    <title><![CDATA[Larry Elder joins us for the Midweek Fix - 20ish Questions! [CrossPolitic Show]]]></title>
@@ -3597,19 +3610,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/3312a6b0-2b88-4186-bfdd-e9c55d3d7e0f/cover-art/lo7bJGb4TgokLNLK6vp3sXdRFAnjKZiNflEQeIL0.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3452</itunes:duration>
-  </item>
-  <item>
-   <title><![CDATA[Racism and Censorship [Heavy Lifting with Uncle Gary]]]></title>
-   <link>https://app.dropwave.io/episode/01a0f2b9-b100-496a-8d0b-c38a6953ca00/racism-and-censorship.mp3</link>
-   <description><![CDATA[<p>More cancel culture and racism coming from the Left. Gary discusses the Biden administration's recent announcement about a Supreme Court nominee, the NFL's race dilemma, and the never-ending Joe Rogan "controversy." Free speech and alternative viewpoints are becoming less-and-less welcome in the public marketplace of ideas. Social agendas are now the primary factor running the show and directing the media narrative.&nbsp;</p>]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Gary DeMar)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/01a0f2b9-b100-496a-8d0b-c38a6953ca00/racism-and-censorship.mp3" length="1159" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[01a0f2b9-b100-496a-8d0b-c38a6953ca00]]></guid>
-   <pubDate>Thu, 10 Feb 2022 13:23:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/P5Y1G1YHdhNdwBbezOrquM0KIVLXlpoMLxojtmaJ.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1159</itunes:duration>
   </item>
  </channel>
 </rss>
