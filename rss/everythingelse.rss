@@ -8,8 +8,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Fri, 01 Apr 2022 07:25:42 +0000</pubDate>
-  <lastBuildDate>Fri, 01 Apr 2022 07:25:42 +0000</lastBuildDate>
+  <pubDate>Fri, 01 Apr 2022 13:25:44 +0000</pubDate>
+  <lastBuildDate>Fri, 01 Apr 2022 13:25:44 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -24,6 +24,19 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[John 5:16-18 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/3a798c41-9120-457e-836c-d169538debdd/john-516-18.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/3a798c41-9120-457e-836c-d169538debdd/john-516-18.mp3" length="296" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[3a798c41-9120-457e-836c-d169538debdd]]></guid>
+   <pubDate>Fri, 01 Apr 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/gu6RZSRbrxI21LpFv5OVYEEvJZGGvqfRyJ676bZI.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>296</itunes:duration>
+  
+  </item><item>
    <title><![CDATA[Will Smith, Will Smith...Oh Yeah, Chris Rock [The Waterbreak]]]></title>
    <link>https://app.dropwave.io/episode/e48c8753-080d-4a62-9afc-d949fc739d34/will-smith-will-smithoh-yeah-chris-rock.mp3</link>
    <description><![CDATA[]]></description>
@@ -845,19 +858,6 @@
    <itunes:duration>3192</itunes:duration>
   
   </item><item>
-   <title><![CDATA[Philemon 4-7 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/3a356e9f-1622-46f5-9972-5f7fdc41e897/philemon-4-7.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/3a356e9f-1622-46f5-9972-5f7fdc41e897/philemon-4-7.mp3" length="270" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[3a356e9f-1622-46f5-9972-5f7fdc41e897]]></guid>
-   <pubDate>Thu, 10 Mar 2022 10:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/gu6RZSRbrxI21LpFv5OVYEEvJZGGvqfRyJ676bZI.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>270</itunes:duration>
-  
-  </item><item>
    <title><![CDATA[Welcome to Negative World: An Interview with Aaron Renn [The Pugcast]]]></title>
    <link>https://app.dropwave.io/episode/3d1ca526-5363-4371-bc22-02cf715c3d10/welcome-to-negative-world-an-interview-with-aaron-renn.mp3</link>
    <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">Aaron Renn joins the show once again, this time to discuss an article he wrote for First Things entitled, The Three Worlds of Evangelicalism. It&rsquo;s hard to miss that the social climate in which Christian ministry is conducted in the western world has become more antagonistic towards the Christian faith. What social and political developments have contributed to that, and how should Christians respond? Tune in and see what Aaron and the Pugsters think!</p>
@@ -872,6 +872,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>4116</itunes:duration>
+  
+  </item><item>
+   <title><![CDATA[Philemon 4-7 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/3a356e9f-1622-46f5-9972-5f7fdc41e897/philemon-4-7.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/3a356e9f-1622-46f5-9972-5f7fdc41e897/philemon-4-7.mp3" length="270" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[3a356e9f-1622-46f5-9972-5f7fdc41e897]]></guid>
+   <pubDate>Thu, 10 Mar 2022 10:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/gu6RZSRbrxI21LpFv5OVYEEvJZGGvqfRyJ676bZI.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>270</itunes:duration>
   
   </item><item>
    <title><![CDATA[Russia, End Times, and a few other things with Uncle Gary DeMar [CrossPolitic Show]]]></title>
@@ -1106,19 +1119,6 @@
    <itunes:duration>4659</itunes:duration>
   
   </item><item>
-   <title><![CDATA[2 Chronicles 34:19-21 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/54d4b070-425d-46c1-aa2e-dba667dae2c5/2-chronicles-3419-21.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/54d4b070-425d-46c1-aa2e-dba667dae2c5/2-chronicles-3419-21.mp3" length="262" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[54d4b070-425d-46c1-aa2e-dba667dae2c5]]></guid>
-   <pubDate>Thu, 03 Mar 2022 10:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/gu6RZSRbrxI21LpFv5OVYEEvJZGGvqfRyJ676bZI.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>262</itunes:duration>
-  
-  </item><item>
    <title><![CDATA[Ukraine and Russia: History and the Theology of Nationalism [The Pugcast]]]></title>
    <link>https://app.dropwave.io/episode/e3a9e431-9695-46b9-a275-59e01e97d1b7/ukraine-and-russia-history-and-the-theology-of-nationalism.mp3</link>
    <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">With the Russian invasion of the Ukraine, Glenn thought it a good time for a history lesson on Ukraine and Russia. As you might expect, he started over 1000 years ago, but noted especially more recent history and why the Ukrainians want to get out from under Russian domination. Along the way, he noted some genuine problems with Ukraine and their treatment of Russian minorities, part and parcel of the messy way borders work in Central and Eastern Europe. The guys finish with a discussion of the theological significance of nations, noting that they seem to survive in a purified form into eternity.</p>]]></description>
@@ -1130,6 +1130,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3779</itunes:duration>
+  
+  </item><item>
+   <title><![CDATA[2 Chronicles 34:19-21 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/54d4b070-425d-46c1-aa2e-dba667dae2c5/2-chronicles-3419-21.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/54d4b070-425d-46c1-aa2e-dba667dae2c5/2-chronicles-3419-21.mp3" length="262" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[54d4b070-425d-46c1-aa2e-dba667dae2c5]]></guid>
+   <pubDate>Thu, 03 Mar 2022 10:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/gu6RZSRbrxI21LpFv5OVYEEvJZGGvqfRyJ676bZI.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>262</itunes:duration>
   
   </item><item>
    <title><![CDATA[Larry Elder joins us for the Midweek Fix - 20ish Questions! [CrossPolitic Show]]]></title>
@@ -1745,32 +1758,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/3312a6b0-2b88-4186-bfdd-e9c55d3d7e0f/cover-art/lo7bJGb4TgokLNLK6vp3sXdRFAnjKZiNflEQeIL0.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3798</itunes:duration>
-  
-  </item><item>
-   <title><![CDATA[Psalm 1 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/b4abe673-c236-4031-a6c6-c9c7fe0f55a6/psalm-1.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/b4abe673-c236-4031-a6c6-c9c7fe0f55a6/psalm-1.mp3" length="270" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[b4abe673-c236-4031-a6c6-c9c7fe0f55a6]]></guid>
-   <pubDate>Tue, 15 Feb 2022 10:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/gu6RZSRbrxI21LpFv5OVYEEvJZGGvqfRyJ676bZI.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>270</itunes:duration>
-  
-  </item><item>
-   <title><![CDATA[Martyrs [Resistance and Reformation]]]></title>
-   <link>https://app.dropwave.io/episode/ba754414-07f3-4cac-b0b3-a4b91131812d/martyrs.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Dr. George Grant)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/ba754414-07f3-4cac-b0b3-a4b91131812d/martyrs.mp3" length="446" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[ba754414-07f3-4cac-b0b3-a4b91131812d]]></guid>
-   <pubDate>Tue, 15 Feb 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/7jrzTXEaJLFcRYQaNphQWGBqJbzqHard1k6FCT4E.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>446</itunes:duration>
   </item>
  </channel>
 </rss>
