@@ -8,8 +8,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Fri, 01 Apr 2022 01:25:41 +0000</pubDate>
-  <lastBuildDate>Fri, 01 Apr 2022 01:25:41 +0000</lastBuildDate>
+  <pubDate>Fri, 01 Apr 2022 07:25:42 +0000</pubDate>
+  <lastBuildDate>Fri, 01 Apr 2022 07:25:42 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -24,6 +24,19 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Will Smith, Will Smith...Oh Yeah, Chris Rock [The Waterbreak]]]></title>
+   <link>https://app.dropwave.io/episode/e48c8753-080d-4a62-9afc-d949fc739d34/will-smith-will-smithoh-yeah-chris-rock.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/e48c8753-080d-4a62-9afc-d949fc739d34/will-smith-will-smithoh-yeah-chris-rock.mp3" length="2054" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[e48c8753-080d-4a62-9afc-d949fc739d34]]></guid>
+   <pubDate>Fri, 01 Apr 2022 02:30:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/0a3dee73-38ca-4cc7-b0dc-e72b0074106c/cover-art/xJi9vNSfoPviAe1iENwwphmxq2zu6VQyM1wufoXB.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2054</itunes:duration>
+  
+  </item><item>
    <title><![CDATA[Two Centers: Word & Sacrament [Choc Knox Unplugged]]]></title>
    <link>https://app.dropwave.io/episode/2519749f-ec01-4f34-829d-d0910c9d120d/two-centers-word-sacrament.mp3</link>
    <description><![CDATA[]]></description>
@@ -1093,19 +1106,6 @@
    <itunes:duration>4659</itunes:duration>
   
   </item><item>
-   <title><![CDATA[Ukraine and Russia: History and the Theology of Nationalism [The Pugcast]]]></title>
-   <link>https://app.dropwave.io/episode/e3a9e431-9695-46b9-a275-59e01e97d1b7/ukraine-and-russia-history-and-the-theology-of-nationalism.mp3</link>
-   <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">With the Russian invasion of the Ukraine, Glenn thought it a good time for a history lesson on Ukraine and Russia. As you might expect, he started over 1000 years ago, but noted especially more recent history and why the Ukrainians want to get out from under Russian domination. Along the way, he noted some genuine problems with Ukraine and their treatment of Russian minorities, part and parcel of the messy way borders work in Central and Eastern Europe. The guys finish with a discussion of the theological significance of nations, noting that they seem to survive in a purified form into eternity.</p>]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/e3a9e431-9695-46b9-a275-59e01e97d1b7/ukraine-and-russia-history-and-the-theology-of-nationalism.mp3" length="3779" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[e3a9e431-9695-46b9-a275-59e01e97d1b7]]></guid>
-   <pubDate>Thu, 03 Mar 2022 10:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3779</itunes:duration>
-  
-  </item><item>
    <title><![CDATA[2 Chronicles 34:19-21 [Up and Ready]]]></title>
    <link>https://app.dropwave.io/episode/54d4b070-425d-46c1-aa2e-dba667dae2c5/2-chronicles-3419-21.mp3</link>
    <description><![CDATA[]]></description>
@@ -1117,6 +1117,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/gu6RZSRbrxI21LpFv5OVYEEvJZGGvqfRyJ676bZI.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>262</itunes:duration>
+  
+  </item><item>
+   <title><![CDATA[Ukraine and Russia: History and the Theology of Nationalism [The Pugcast]]]></title>
+   <link>https://app.dropwave.io/episode/e3a9e431-9695-46b9-a275-59e01e97d1b7/ukraine-and-russia-history-and-the-theology-of-nationalism.mp3</link>
+   <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">With the Russian invasion of the Ukraine, Glenn thought it a good time for a history lesson on Ukraine and Russia. As you might expect, he started over 1000 years ago, but noted especially more recent history and why the Ukrainians want to get out from under Russian domination. Along the way, he noted some genuine problems with Ukraine and their treatment of Russian minorities, part and parcel of the messy way borders work in Central and Eastern Europe. The guys finish with a discussion of the theological significance of nations, noting that they seem to survive in a purified form into eternity.</p>]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/e3a9e431-9695-46b9-a275-59e01e97d1b7/ukraine-and-russia-history-and-the-theology-of-nationalism.mp3" length="3779" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[e3a9e431-9695-46b9-a275-59e01e97d1b7]]></guid>
+   <pubDate>Thu, 03 Mar 2022 10:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3779</itunes:duration>
   
   </item><item>
    <title><![CDATA[Larry Elder joins us for the Midweek Fix - 20ish Questions! [CrossPolitic Show]]]></title>
@@ -1758,7 +1771,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/7jrzTXEaJLFcRYQaNphQWGBqJbzqHard1k6FCT4E.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>446</itunes:duration>
-  
   </item>
  </channel>
 </rss>
