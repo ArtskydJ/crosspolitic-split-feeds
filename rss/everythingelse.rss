@@ -8,8 +8,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 04 Apr 2022 01:25:42 +0000</pubDate>
-  <lastBuildDate>Mon, 04 Apr 2022 01:25:42 +0000</lastBuildDate>
+  <pubDate>Mon, 04 Apr 2022 07:25:43 +0000</pubDate>
+  <lastBuildDate>Mon, 04 Apr 2022 07:25:43 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -24,6 +24,19 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Our Crisis in the Law & How to be Equipped to Fight Back w/ Jeff Shafer of The Hale Institute [CrossPolitic Show]]]></title>
+   <link>https://app.dropwave.io/episode/695007c5-ee5f-4d2f-9bf5-edc5c156e517/our-crisis-in-the-law-how-to-be-equipped-to-fight-back-w-jeff-shafer-of-the-hale-institute.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/695007c5-ee5f-4d2f-9bf5-edc5c156e517/our-crisis-in-the-law-how-to-be-equipped-to-fight-back-w-jeff-shafer-of-the-hale-institute.mp3" length="5163" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[695007c5-ee5f-4d2f-9bf5-edc5c156e517]]></guid>
+   <pubDate>Mon, 04 Apr 2022 03:24:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>5163</itunes:duration>
+  
+  </item><item>
    <title><![CDATA[Psalm 14 [Up and Ready]]]></title>
    <link>https://app.dropwave.io/episode/8ec6383e-1da2-4b36-915f-f33dc2d3da4d/psalm-14.mp3</link>
    <description><![CDATA[]]></description>
@@ -1738,18 +1751,6 @@
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>289</itunes:duration>
   
-  </item><item>
-   <title><![CDATA[Common Law Pt.1 [Choc Knox Unplugged]]]></title>
-   <link>https://app.dropwave.io/episode/0f0970d6-fb74-4ee9-afbc-d26be0a873d2/common-law-pt1.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/0f0970d6-fb74-4ee9-afbc-d26be0a873d2/common-law-pt1.mp3" length="9027" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[0f0970d6-fb74-4ee9-afbc-d26be0a873d2]]></guid>
-   <pubDate>Tue, 15 Feb 2022 17:30:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/6123b54f-ab49-406c-9cba-a39f6730fc76/cover-art/ARuuU8PixHGkhNvgtHIHIGGJjBUPNwgZEkuaGqzL.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>9027</itunes:duration>
   </item>
  </channel>
 </rss>
