@@ -8,8 +8,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Tue, 05 Apr 2022 13:25:44 +0000</pubDate>
-  <lastBuildDate>Tue, 05 Apr 2022 13:25:44 +0000</lastBuildDate>
+  <pubDate>Tue, 05 Apr 2022 19:26:32 +0000</pubDate>
+  <lastBuildDate>Tue, 05 Apr 2022 19:26:32 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -24,6 +24,19 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Ten Boom [Resistance and Reformation]]]></title>
+   <link>https://app.dropwave.io/episode/c3497631-7d80-45dd-8b8f-e6beacf77d5b/ten-boom.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Dr. George Grant)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/c3497631-7d80-45dd-8b8f-e6beacf77d5b/ten-boom.mp3" length="595" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[c3497631-7d80-45dd-8b8f-e6beacf77d5b]]></guid>
+   <pubDate>Tue, 05 Apr 2022 16:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/7jrzTXEaJLFcRYQaNphQWGBqJbzqHard1k6FCT4E.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>595</itunes:duration>
+  
+  </item><item>
    <title><![CDATA[Isaiah 43:14-21 [Up and Ready]]]></title>
    <link>https://app.dropwave.io/episode/6c7de720-8bee-4e1f-aa58-54ccd6d82fbb/isaiah-4314-21.mp3</link>
    <description><![CDATA[]]></description>
@@ -1758,7 +1771,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/gu6RZSRbrxI21LpFv5OVYEEvJZGGvqfRyJ676bZI.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>307</itunes:duration>
-  
   </item>
  </channel>
 </rss>
