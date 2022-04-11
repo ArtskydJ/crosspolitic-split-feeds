@@ -8,8 +8,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 11 Apr 2022 13:25:46 +0000</pubDate>
-  <lastBuildDate>Mon, 11 Apr 2022 13:25:46 +0000</lastBuildDate>
+  <pubDate>Mon, 11 Apr 2022 19:25:50 +0000</pubDate>
+  <lastBuildDate>Mon, 11 Apr 2022 19:25:50 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -24,17 +24,17 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
-   <title><![CDATA[Luke 19:28-40 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/2cac7e6d-a287-4440-a2ba-50ed0d99d95c/luke-1928-40.mp3</link>
+   <title><![CDATA[Did You See That? [In the Bullpen]]]></title>
+   <link>https://app.dropwave.io/episode/d8710fc5-39b7-4479-961f-d281b2b5fc65/did-you-see-that.mp3</link>
    <description><![CDATA[]]></description>
    <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/2cac7e6d-a287-4440-a2ba-50ed0d99d95c/luke-1928-40.mp3" length="273" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[2cac7e6d-a287-4440-a2ba-50ed0d99d95c]]></guid>
-   <pubDate>Mon, 11 Apr 2022 09:00:00 +0000</pubDate>
+   <enclosure url="https://app.dropwave.io/episode/d8710fc5-39b7-4479-961f-d281b2b5fc65/did-you-see-that.mp3" length="1203" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[d8710fc5-39b7-4479-961f-d281b2b5fc65]]></guid>
+   <pubDate>Mon, 11 Apr 2022 16:00:00 +0000</pubDate>
    <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/gu6RZSRbrxI21LpFv5OVYEEvJZGGvqfRyJ676bZI.png"/>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
    <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>273</itunes:duration>
+   <itunes:duration>1203</itunes:duration>
   
   </item><item>
    <title><![CDATA[TCND: Stress, Hollywood, and Osteen (Stinkbug on the Wall) [The Comedian Next Door]]]></title>
@@ -55,6 +55,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/PVTqAnqkKypZDQkH4seACPJECBbChiC9Z3PfirAz.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2835</itunes:duration>
+  
+  </item><item>
+   <title><![CDATA[Luke 19:28-40 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/2cac7e6d-a287-4440-a2ba-50ed0d99d95c/luke-1928-40.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/2cac7e6d-a287-4440-a2ba-50ed0d99d95c/luke-1928-40.mp3" length="273" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[2cac7e6d-a287-4440-a2ba-50ed0d99d95c]]></guid>
+   <pubDate>Mon, 11 Apr 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/gu6RZSRbrxI21LpFv5OVYEEvJZGGvqfRyJ676bZI.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>273</itunes:duration>
   
   </item><item>
    <title><![CDATA[Liberty Tour South Dakota: No Christ, No Freedom [CrossPolitic Show]]]></title>
@@ -130,19 +143,6 @@
    <itunes:duration>1906</itunes:duration>
   
   </item><item>
-   <title><![CDATA[Proverbs 4:20-27 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/b80f8539-db1f-4ad8-ada3-a7da4a22d2ef/proverbs-420-27.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/b80f8539-db1f-4ad8-ada3-a7da4a22d2ef/proverbs-420-27.mp3" length="287" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[b80f8539-db1f-4ad8-ada3-a7da4a22d2ef]]></guid>
-   <pubDate>Thu, 07 Apr 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/gu6RZSRbrxI21LpFv5OVYEEvJZGGvqfRyJ676bZI.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>287</itunes:duration>
-  
-  </item><item>
    <title><![CDATA[Varieties of Relativism [The Pugcast]]]></title>
    <link>https://app.dropwave.io/episode/d7a2521d-8879-4920-b4f7-7d3defa0a798/varieties-of-relativism.mp3</link>
    <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">Tom introduces one of the driving assumptions that is underwriting the flux and chaos of current social trends: the assumption that truth is relative, perspectival, unable to be attained apart from our individual or group filters. The guys join in with many historical and contemporary insights into some key figures and ideas which have played into the rise and dominance of contemporary relativism and they set forth some initial steps in engaging it from a rich Christian vision.</p>
@@ -157,6 +157,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>4127</itunes:duration>
+  
+  </item><item>
+   <title><![CDATA[Proverbs 4:20-27 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/b80f8539-db1f-4ad8-ada3-a7da4a22d2ef/proverbs-420-27.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/b80f8539-db1f-4ad8-ada3-a7da4a22d2ef/proverbs-420-27.mp3" length="287" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[b80f8539-db1f-4ad8-ada3-a7da4a22d2ef]]></guid>
+   <pubDate>Thu, 07 Apr 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/gu6RZSRbrxI21LpFv5OVYEEvJZGGvqfRyJ676bZI.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>287</itunes:duration>
   
   </item><item>
    <title><![CDATA[The Patriarchy Podcast: Above All, Part 1 (Ep 66) [The Patriarchy Podcast]]]></title>
@@ -325,19 +338,6 @@
    <itunes:duration>1084</itunes:duration>
   
   </item><item>
-   <title><![CDATA[John 12:1-8 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/b65cd9d3-44ae-4572-8a27-6d01defb5c17/john-121-8.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/b65cd9d3-44ae-4572-8a27-6d01defb5c17/john-121-8.mp3" length="308" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[b65cd9d3-44ae-4572-8a27-6d01defb5c17]]></guid>
-   <pubDate>Mon, 04 Apr 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/gu6RZSRbrxI21LpFv5OVYEEvJZGGvqfRyJ676bZI.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>308</itunes:duration>
-  
-  </item><item>
    <title><![CDATA[TCND: Stay in Your Lane (Not the Boss of Me) [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/06764758-7dab-4d66-b69e-9b6aa48f8ba5/tcnd-stay-in-your-lane-not-the-boss-of-me.mp3</link>
    <description><![CDATA[<p>We're here at the table, Neighbor Pkarlgh! (And the kids are working busily nearby.) Join us while we talk about John's latest post on social media.&nbsp; Spoilers: this conversation does not go the way he expected...</p>
@@ -358,6 +358,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/PVTqAnqkKypZDQkH4seACPJECBbChiC9Z3PfirAz.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3012</itunes:duration>
+  
+  </item><item>
+   <title><![CDATA[John 12:1-8 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/b65cd9d3-44ae-4572-8a27-6d01defb5c17/john-121-8.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/b65cd9d3-44ae-4572-8a27-6d01defb5c17/john-121-8.mp3" length="308" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[b65cd9d3-44ae-4572-8a27-6d01defb5c17]]></guid>
+   <pubDate>Mon, 04 Apr 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/gu6RZSRbrxI21LpFv5OVYEEvJZGGvqfRyJ676bZI.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>308</itunes:duration>
   
   </item><item>
    <title><![CDATA[Our Crisis in the Law & How to be Equipped to Fight Back w/ Jeff Shafer of The Hale Institute [CrossPolitic Show]]]></title>
@@ -741,19 +754,6 @@
    <itunes:duration>1928</itunes:duration>
   
   </item><item>
-   <title><![CDATA[Nehemiah 2:17-20 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/a27a67cf-dc56-44ea-8a72-59684e6f84f3/nehemiah-217-20.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/a27a67cf-dc56-44ea-8a72-59684e6f84f3/nehemiah-217-20.mp3" length="330" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[a27a67cf-dc56-44ea-8a72-59684e6f84f3]]></guid>
-   <pubDate>Thu, 24 Mar 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/gu6RZSRbrxI21LpFv5OVYEEvJZGGvqfRyJ676bZI.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>330</itunes:duration>
-  
-  </item><item>
    <title><![CDATA[Duck Season! Rabbit Season! The Notorious Duck/Rabbit Problem! [The Pugcast]]]></title>
    <link>https://app.dropwave.io/episode/a4853da4-d2ce-4ba1-ac55-12920c21265f/duck-season-rabbit-season-the-notorious-duckrabbit-problem.mp3</link>
    <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">Well, which is it, a duck or a rabbit? Today the Pugsters examine the notorious duck/rabbit problem. You probably have seen the drawing, look at it one way, and you see a duck, look at it another way and you see a rabbit. Often the drawing is used to illustrate the ambiguity of signs, and the inevitably subjective character of interpretation. But are we doing justice to the signs, or the world we live in? What if the world at large represents something larger and more real than itself? Perhaps it's not interpretation all the way down so much as it is signs pointing to the source of all meaning. Join the Pugsters as they discuss the problem.</p>]]></description>
@@ -765,6 +765,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3517</itunes:duration>
+  
+  </item><item>
+   <title><![CDATA[Nehemiah 2:17-20 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/a27a67cf-dc56-44ea-8a72-59684e6f84f3/nehemiah-217-20.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/a27a67cf-dc56-44ea-8a72-59684e6f84f3/nehemiah-217-20.mp3" length="330" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[a27a67cf-dc56-44ea-8a72-59684e6f84f3]]></guid>
+   <pubDate>Thu, 24 Mar 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/gu6RZSRbrxI21LpFv5OVYEEvJZGGvqfRyJ676bZI.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>330</itunes:duration>
   
   </item><item>
    <title><![CDATA[Courage at Work: RedBalloon & The Pronoun Landmine Game!! [CrossPolitic Show]]]></title>
@@ -1220,19 +1233,6 @@
    <itunes:duration>3192</itunes:duration>
   
   </item><item>
-   <title><![CDATA[Philemon 4-7 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/3a356e9f-1622-46f5-9972-5f7fdc41e897/philemon-4-7.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/3a356e9f-1622-46f5-9972-5f7fdc41e897/philemon-4-7.mp3" length="270" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[3a356e9f-1622-46f5-9972-5f7fdc41e897]]></guid>
-   <pubDate>Thu, 10 Mar 2022 10:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/gu6RZSRbrxI21LpFv5OVYEEvJZGGvqfRyJ676bZI.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>270</itunes:duration>
-  
-  </item><item>
    <title><![CDATA[Welcome to Negative World: An Interview with Aaron Renn [The Pugcast]]]></title>
    <link>https://app.dropwave.io/episode/3d1ca526-5363-4371-bc22-02cf715c3d10/welcome-to-negative-world-an-interview-with-aaron-renn.mp3</link>
    <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">Aaron Renn joins the show once again, this time to discuss an article he wrote for First Things entitled, The Three Worlds of Evangelicalism. It&rsquo;s hard to miss that the social climate in which Christian ministry is conducted in the western world has become more antagonistic towards the Christian faith. What social and political developments have contributed to that, and how should Christians respond? Tune in and see what Aaron and the Pugsters think!</p>
@@ -1247,6 +1247,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>4116</itunes:duration>
+  
+  </item><item>
+   <title><![CDATA[Philemon 4-7 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/3a356e9f-1622-46f5-9972-5f7fdc41e897/philemon-4-7.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/3a356e9f-1622-46f5-9972-5f7fdc41e897/philemon-4-7.mp3" length="270" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[3a356e9f-1622-46f5-9972-5f7fdc41e897]]></guid>
+   <pubDate>Thu, 10 Mar 2022 10:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/gu6RZSRbrxI21LpFv5OVYEEvJZGGvqfRyJ676bZI.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>270</itunes:duration>
   
   </item><item>
    <title><![CDATA[Russia, End Times, and a few other things with Uncle Gary DeMar [CrossPolitic Show]]]></title>
@@ -1481,19 +1494,6 @@
    <itunes:duration>4659</itunes:duration>
   
   </item><item>
-   <title><![CDATA[2 Chronicles 34:19-21 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/54d4b070-425d-46c1-aa2e-dba667dae2c5/2-chronicles-3419-21.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/54d4b070-425d-46c1-aa2e-dba667dae2c5/2-chronicles-3419-21.mp3" length="262" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[54d4b070-425d-46c1-aa2e-dba667dae2c5]]></guid>
-   <pubDate>Thu, 03 Mar 2022 10:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/gu6RZSRbrxI21LpFv5OVYEEvJZGGvqfRyJ676bZI.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>262</itunes:duration>
-  
-  </item><item>
    <title><![CDATA[Ukraine and Russia: History and the Theology of Nationalism [The Pugcast]]]></title>
    <link>https://app.dropwave.io/episode/e3a9e431-9695-46b9-a275-59e01e97d1b7/ukraine-and-russia-history-and-the-theology-of-nationalism.mp3</link>
    <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">With the Russian invasion of the Ukraine, Glenn thought it a good time for a history lesson on Ukraine and Russia. As you might expect, he started over 1000 years ago, but noted especially more recent history and why the Ukrainians want to get out from under Russian domination. Along the way, he noted some genuine problems with Ukraine and their treatment of Russian minorities, part and parcel of the messy way borders work in Central and Eastern Europe. The guys finish with a discussion of the theological significance of nations, noting that they seem to survive in a purified form into eternity.</p>]]></description>
@@ -1505,6 +1505,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3779</itunes:duration>
+  
+  </item><item>
+   <title><![CDATA[2 Chronicles 34:19-21 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/54d4b070-425d-46c1-aa2e-dba667dae2c5/2-chronicles-3419-21.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/54d4b070-425d-46c1-aa2e-dba667dae2c5/2-chronicles-3419-21.mp3" length="262" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[54d4b070-425d-46c1-aa2e-dba667dae2c5]]></guid>
+   <pubDate>Thu, 03 Mar 2022 10:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/gu6RZSRbrxI21LpFv5OVYEEvJZGGvqfRyJ676bZI.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>262</itunes:duration>
   
   </item><item>
    <title><![CDATA[Larry Elder joins us for the Midweek Fix - 20ish Questions! [CrossPolitic Show]]]></title>
@@ -1792,19 +1805,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/6123b54f-ab49-406c-9cba-a39f6730fc76/cover-art/ARuuU8PixHGkhNvgtHIHIGGJjBUPNwgZEkuaGqzL.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>7931</itunes:duration>
-  
-  </item><item>
-   <title><![CDATA[Globalism, A Trinitarian Heresy [Choc Knox Unplugged]]]></title>
-   <link>https://app.dropwave.io/episode/2488879a-050b-4ad2-8506-bddab651ff9a/globalism-a-trinitarian-heresy.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/2488879a-050b-4ad2-8506-bddab651ff9a/globalism-a-trinitarian-heresy.mp3" length="1214" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[2488879a-050b-4ad2-8506-bddab651ff9a]]></guid>
-   <pubDate>Thu, 24 Feb 2022 10:26:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/6123b54f-ab49-406c-9cba-a39f6730fc76/cover-art/ARuuU8PixHGkhNvgtHIHIGGJjBUPNwgZEkuaGqzL.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1214</itunes:duration>
   </item>
  </channel>
 </rss>
