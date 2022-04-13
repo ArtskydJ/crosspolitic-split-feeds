@@ -8,8 +8,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Wed, 13 Apr 2022 01:25:41 +0000</pubDate>
-  <lastBuildDate>Wed, 13 Apr 2022 01:25:41 +0000</lastBuildDate>
+  <pubDate>Wed, 13 Apr 2022 07:25:43 +0000</pubDate>
+  <lastBuildDate>Wed, 13 Apr 2022 07:25:43 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -24,6 +24,19 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Economic Utopianism [The Ezra Institute Podcast for Cultural Reformation]]]></title>
+   <link>https://app.dropwave.io/episode/ca60ef0c-e798-496e-a186-7f7245e8724c/economic-utopianism.mp3</link>
+   <description><![CDATA[<p>On this week's episode we're joined by Ezra Institute Fellow for Biblical Economics, Graeme Leach. Graeme explains why the realm of economics is frequently neglected or misunderstood by Christians, how a biblical vision for economic life, that emphasizes property rights, proportional taxation, and voluntary welfare, leads to a more free and prosperous society, and how Christians can take action to order our economic lives to the glory of God.&nbsp;</p>]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Joe Boot, Graeme Leach, Nathan Oblak, Ryan Eras)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/ca60ef0c-e798-496e-a186-7f7245e8724c/economic-utopianism.mp3" length="3194" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[ca60ef0c-e798-496e-a186-7f7245e8724c]]></guid>
+   <pubDate>Wed, 13 Apr 2022 04:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/1c3a97bd-65b0-4aec-bb35-3a1b6eec5d2c/cover-art/4rDIhLUsGj1xuXpLJYNdtwtbungA78glNHA7dOd9.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3194</itunes:duration>
+  
+  </item><item>
    <title><![CDATA[Euthanasia [Mere Medical]]]></title>
    <link>https://app.dropwave.io/episode/861f5a16-2028-44d1-956e-dce9065e442a/euthanasia.mp3</link>
    <description><![CDATA[]]></description>
@@ -1779,19 +1792,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>4491</itunes:duration>
-  
-  </item><item>
-   <title><![CDATA[Luke 9:28-36 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/e62e56fa-2e4e-4dd7-9a30-e2485963d953/luke-928-36.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/e62e56fa-2e4e-4dd7-9a30-e2485963d953/luke-928-36.mp3" length="315" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[e62e56fa-2e4e-4dd7-9a30-e2485963d953]]></guid>
-   <pubDate>Sat, 26 Feb 2022 10:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/gu6RZSRbrxI21LpFv5OVYEEvJZGGvqfRyJ676bZI.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>315</itunes:duration>
   </item>
  </channel>
 </rss>
