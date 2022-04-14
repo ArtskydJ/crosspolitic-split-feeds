@@ -8,8 +8,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Thu, 14 Apr 2022 01:25:46 +0000</pubDate>
-  <lastBuildDate>Thu, 14 Apr 2022 01:25:46 +0000</lastBuildDate>
+  <pubDate>Thu, 14 Apr 2022 07:25:42 +0000</pubDate>
+  <lastBuildDate>Thu, 14 Apr 2022 07:25:42 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -24,6 +24,19 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[On the ground in Ukraine w/ Forrest Cooper, Pro-Marriage Bill crushed in TN w/ David Fowler [CrossPolitic Show]]]></title>
+   <link>https://app.dropwave.io/episode/cc7d3c07-15b9-49c4-b5c0-2db67925b0c6/on-the-ground-in-ukraine-w-forrest-cooper-pro-marriage-bill-crushed-in-tn-w-david-fowler.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/cc7d3c07-15b9-49c4-b5c0-2db67925b0c6/on-the-ground-in-ukraine-w-forrest-cooper-pro-marriage-bill-crushed-in-tn-w-david-fowler.mp3" length="2183" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[cc7d3c07-15b9-49c4-b5c0-2db67925b0c6]]></guid>
+   <pubDate>Thu, 14 Apr 2022 02:30:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2183</itunes:duration>
+  
+  </item><item>
    <title><![CDATA[Is Islam & Christianity Mutually Exclusive [Campus Preacher]]]></title>
    <link>https://app.dropwave.io/episode/b5332c35-02ad-4a0e-975f-c292004ee519/is-islam-christianity-mutually-exclusive.mp3</link>
    <description><![CDATA[]]></description>
@@ -1761,19 +1774,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/9a91d446-3705-4f98-82b1-d7b3694992a6/cover-art/xe6REFEoqrGFOgYTaBYdk0KmlmmyDAl01AEOu3Q4.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>649</itunes:duration>
-  
-  </item><item>
-   <title><![CDATA[The Next MLB Commissioner? An Interview with Joshua Jenkins [In the Bullpen]]]></title>
-   <link>https://app.dropwave.io/episode/2d140d70-1c68-4d5e-83f4-3e76abc974d0/the-next-mlb-commissioner-an-interview-with-joshua-jenkins.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/2d140d70-1c68-4d5e-83f4-3e76abc974d0/the-next-mlb-commissioner-an-interview-with-joshua-jenkins.mp3" length="1720" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[2d140d70-1c68-4d5e-83f4-3e76abc974d0]]></guid>
-   <pubDate>Mon, 28 Feb 2022 17:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1720</itunes:duration>
   </item>
  </channel>
 </rss>
