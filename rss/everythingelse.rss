@@ -8,8 +8,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Sat, 16 Apr 2022 07:25:42 +0000</pubDate>
-  <lastBuildDate>Sat, 16 Apr 2022 07:25:42 +0000</lastBuildDate>
+  <pubDate>Sat, 16 Apr 2022 13:25:44 +0000</pubDate>
+  <lastBuildDate>Sat, 16 Apr 2022 13:25:44 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -24,6 +24,19 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Matthew 27:57-66 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/19405957-e5ca-4ed2-954e-e7b2aee07544/matthew-2757-66.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/19405957-e5ca-4ed2-954e-e7b2aee07544/matthew-2757-66.mp3" length="299" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[19405957-e5ca-4ed2-954e-e7b2aee07544]]></guid>
+   <pubDate>Sat, 16 Apr 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/gu6RZSRbrxI21LpFv5OVYEEvJZGGvqfRyJ676bZI.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>299</itunes:duration>
+  
+  </item><item>
    <title><![CDATA[The Rise and Fall of The Gospel Coalition  -  Chapter 2: The Game (Ed Litton Case) [The Rise and Fall of Gospel Coalition]]]></title>
    <link>https://app.dropwave.io/episode/de008430-930f-4e48-b8ea-f038fcae5656/the-rise-and-fall-of-the-gospel-coalition-chapter-2-the-game.mp3</link>
    <description><![CDATA[<p>https://themajestysmen.com/pastorgabe/the-ed-litton-sermon-plagiarism-scandal/</p>]]></description>
@@ -1718,19 +1731,6 @@
    <itunes:duration>4659</itunes:duration>
   
   </item><item>
-   <title><![CDATA[Ukraine and Russia: History and the Theology of Nationalism [The Pugcast]]]></title>
-   <link>https://app.dropwave.io/episode/e3a9e431-9695-46b9-a275-59e01e97d1b7/ukraine-and-russia-history-and-the-theology-of-nationalism.mp3</link>
-   <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">With the Russian invasion of the Ukraine, Glenn thought it a good time for a history lesson on Ukraine and Russia. As you might expect, he started over 1000 years ago, but noted especially more recent history and why the Ukrainians want to get out from under Russian domination. Along the way, he noted some genuine problems with Ukraine and their treatment of Russian minorities, part and parcel of the messy way borders work in Central and Eastern Europe. The guys finish with a discussion of the theological significance of nations, noting that they seem to survive in a purified form into eternity.</p>]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/e3a9e431-9695-46b9-a275-59e01e97d1b7/ukraine-and-russia-history-and-the-theology-of-nationalism.mp3" length="3779" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[e3a9e431-9695-46b9-a275-59e01e97d1b7]]></guid>
-   <pubDate>Thu, 03 Mar 2022 10:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3779</itunes:duration>
-  
-  </item><item>
    <title><![CDATA[2 Chronicles 34:19-21 [Up and Ready]]]></title>
    <link>https://app.dropwave.io/episode/54d4b070-425d-46c1-aa2e-dba667dae2c5/2-chronicles-3419-21.mp3</link>
    <description><![CDATA[]]></description>
@@ -1742,6 +1742,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/gu6RZSRbrxI21LpFv5OVYEEvJZGGvqfRyJ676bZI.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>262</itunes:duration>
+  
+  </item><item>
+   <title><![CDATA[Ukraine and Russia: History and the Theology of Nationalism [The Pugcast]]]></title>
+   <link>https://app.dropwave.io/episode/e3a9e431-9695-46b9-a275-59e01e97d1b7/ukraine-and-russia-history-and-the-theology-of-nationalism.mp3</link>
+   <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">With the Russian invasion of the Ukraine, Glenn thought it a good time for a history lesson on Ukraine and Russia. As you might expect, he started over 1000 years ago, but noted especially more recent history and why the Ukrainians want to get out from under Russian domination. Along the way, he noted some genuine problems with Ukraine and their treatment of Russian minorities, part and parcel of the messy way borders work in Central and Eastern Europe. The guys finish with a discussion of the theological significance of nations, noting that they seem to survive in a purified form into eternity.</p>]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/e3a9e431-9695-46b9-a275-59e01e97d1b7/ukraine-and-russia-history-and-the-theology-of-nationalism.mp3" length="3779" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[e3a9e431-9695-46b9-a275-59e01e97d1b7]]></guid>
+   <pubDate>Thu, 03 Mar 2022 10:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3779</itunes:duration>
   
   </item><item>
    <title><![CDATA[Larry Elder joins us for the Midweek Fix - 20ish Questions! [CrossPolitic Show]]]></title>
@@ -1781,20 +1794,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/931fd9c4-1c60-4949-85db-e74a6e1f88fc/cover-art/zzMUHuhOg6D8IQkWsR88CBkUDNjCftKOpdYM5a7B.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1758</itunes:duration>
-  
-  </item><item>
-   <title><![CDATA[Taking Godly Action [The Ezra Institute Podcast for Cultural Reformation]]]></title>
-   <link>https://app.dropwave.io/episode/640ac4f5-c054-44df-8d40-08cbf8452d5d/taking-godly-action.mp3</link>
-   <description><![CDATA[<p style="box-sizing: border-box; margin: 0px 0px 10px; color: #212529; font-family: effra, Verdana, Arial, sans-serif; font-size: 18px; background-color: #ffffff;">Last week we talked about the nature, origins, and features of totalitarian states, and ended with a promise to discuss practical tactics for Christians to use in response. This episode highlights some of those responses, beginning with the often overlooked and undervalued weapon of prayer.</p>
-<div class="featured-resources mt-5 rp4wp-related-posts rp4wp-related-mere_resource" style="box-sizing: border-box; clear: both; background: #ffffff; padding-top: 100px; width: 1054.5px; overflow: hidden; color: #212529; font-family: effra, Verdana, Arial, sans-serif; font-size: 18px;">&nbsp;</div>]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/640ac4f5-c054-44df-8d40-08cbf8452d5d/taking-godly-action.mp3" length="3481" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[640ac4f5-c054-44df-8d40-08cbf8452d5d]]></guid>
-   <pubDate>Wed, 02 Mar 2022 16:14:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/1c3a97bd-65b0-4aec-bb35-3a1b6eec5d2c/cover-art/4rDIhLUsGj1xuXpLJYNdtwtbungA78glNHA7dOd9.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3481</itunes:duration>
   </item>
  </channel>
 </rss>
