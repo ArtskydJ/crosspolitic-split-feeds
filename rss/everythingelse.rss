@@ -8,8 +8,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Tue, 19 Apr 2022 07:25:44 +0000</pubDate>
-  <lastBuildDate>Tue, 19 Apr 2022 07:25:44 +0000</lastBuildDate>
+  <pubDate>Tue, 19 Apr 2022 13:25:43 +0000</pubDate>
+  <lastBuildDate>Tue, 19 Apr 2022 13:25:43 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -24,6 +24,19 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Isaiah 25:6-9 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/a97d340b-5525-4434-b00e-e5c5127eaf7e/isaiah-256-9.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/a97d340b-5525-4434-b00e-e5c5127eaf7e/isaiah-256-9.mp3" length="299" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[a97d340b-5525-4434-b00e-e5c5127eaf7e]]></guid>
+   <pubDate>Tue, 19 Apr 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>299</itunes:duration>
+  
+  </item><item>
    <title><![CDATA[Prepared for the Battle [In the Bullpen]]]></title>
    <link>https://app.dropwave.io/episode/a470c493-a080-4b65-8ea6-16f214572038/prepared-for-the-battle.mp3</link>
    <description><![CDATA[]]></description>
@@ -1787,19 +1800,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/3312a6b0-2b88-4186-bfdd-e9c55d3d7e0f/cover-art/DJmJxOQEoRfGbs693sV6kEnKEGWstWUfdEXbQra8.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>4659</itunes:duration>
-  
-  </item><item>
-   <title><![CDATA[2 Chronicles 34:19-21 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/54d4b070-425d-46c1-aa2e-dba667dae2c5/2-chronicles-3419-21.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/54d4b070-425d-46c1-aa2e-dba667dae2c5/2-chronicles-3419-21.mp3" length="262" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[54d4b070-425d-46c1-aa2e-dba667dae2c5]]></guid>
-   <pubDate>Thu, 03 Mar 2022 10:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>262</itunes:duration>
   </item>
  </channel>
 </rss>
