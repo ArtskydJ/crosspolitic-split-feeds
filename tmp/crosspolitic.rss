@@ -8,8 +8,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Tue, 19 Apr 2022 19:25:43 +0000</pubDate>
-  <lastBuildDate>Tue, 19 Apr 2022 19:25:43 +0000</lastBuildDate>
+  <pubDate>Wed, 20 Apr 2022 01:25:43 +0000</pubDate>
+  <lastBuildDate>Wed, 20 Apr 2022 01:25:43 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -23,6 +23,19 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Elon Musk VS Twitter | The Demonic Self/Demon Position of a Culture [Choc Knox Unplugged]]]></title>
+   <link>https://app.dropwave.io/episode/0ef435c2-077c-490d-b141-931e49a5c557/elon-musk-vs-twitter-the-demonic-selfdemon-position-of-a-culture.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/0ef435c2-077c-490d-b141-931e49a5c557/elon-musk-vs-twitter-the-demonic-selfdemon-position-of-a-culture.mp3" length="7506" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[0ef435c2-077c-490d-b141-931e49a5c557]]></guid>
+   <pubDate>Tue, 19 Apr 2022 19:28:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/6123b54f-ab49-406c-9cba-a39f6730fc76/cover-art/ARuuU8PixHGkhNvgtHIHIGGJjBUPNwgZEkuaGqzL.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>7506</itunes:duration>
+  </item>
   <item>
    <title><![CDATA[Feudalism [Resistance and Reformation]]]></title>
    <link>https://app.dropwave.io/episode/ac44e751-307d-4c8d-9b2b-054abdddb146/feudalism.mp3</link>
@@ -3654,19 +3667,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>499</itunes:duration>
-  </item>
-  <item>
-   <title><![CDATA[2 Corinthians 5:17-21 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/3e9031d9-727e-4a78-b40c-d6b5d12bbe90/2-corinthians-517-21.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/3e9031d9-727e-4a78-b40c-d6b5d12bbe90/2-corinthians-517-21.mp3" length="281" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[3e9031d9-727e-4a78-b40c-d6b5d12bbe90]]></guid>
-   <pubDate>Fri, 04 Mar 2022 10:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>281</itunes:duration>
   </item>
  </channel>
 </rss>
