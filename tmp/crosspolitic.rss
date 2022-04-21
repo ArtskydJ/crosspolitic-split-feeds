@@ -8,8 +8,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Wed, 20 Apr 2022 19:25:44 +0000</pubDate>
-  <lastBuildDate>Wed, 20 Apr 2022 19:25:44 +0000</lastBuildDate>
+  <pubDate>Thu, 21 Apr 2022 01:25:43 +0000</pubDate>
+  <lastBuildDate>Thu, 21 Apr 2022 01:25:43 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -23,6 +23,19 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Gall, Gall Bladders, & Bitterness in the Bible [Mere Medical]]]></title>
+   <link>https://app.dropwave.io/episode/6ec5de54-660f-4ca6-9ade-11b437378b84/gall-gall-bladders-bitterness-in-the-bible.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/6ec5de54-660f-4ca6-9ade-11b437378b84/gall-gall-bladders-bitterness-in-the-bible.mp3" length="1352" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[6ec5de54-660f-4ca6-9ade-11b437378b84]]></guid>
+   <pubDate>Wed, 20 Apr 2022 20:55:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/58bf63b8-9b92-43c0-b0e8-9c895ea5671c/cover-art/0Z4dvpF29PZxgZHQZDYwVU2kxQx6M8Zr3aiDA3sA.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1352</itunes:duration>
+  </item>
   <item>
    <title><![CDATA[The Resurrection Garden [The Ezra Institute Podcast for Cultural Reformation]]]></title>
    <link>https://app.dropwave.io/episode/2f5aeaa6-1153-4519-a089-a049014093c2/the-resurrection-garden.mp3</link>
@@ -3693,19 +3706,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>329</itunes:duration>
-  </item>
-  <item>
-   <title><![CDATA[Biden’s State of the Union Address, Accountable2U in the Studio! [CrossPolitic Show]]]></title>
-   <link>https://app.dropwave.io/episode/0b8f1477-be75-4aab-bb8c-1518f6940642/bidens-state-of-the-union-address-accountable2u-in-the-studio.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/0b8f1477-be75-4aab-bb8c-1518f6940642/bidens-state-of-the-union-address-accountable2u-in-the-studio.mp3" length="3100" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[0b8f1477-be75-4aab-bb8c-1518f6940642]]></guid>
-   <pubDate>Mon, 07 Mar 2022 04:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3100</itunes:duration>
   </item>
  </channel>
 </rss>
