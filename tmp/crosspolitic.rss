@@ -8,8 +8,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Thu, 21 Apr 2022 01:25:43 +0000</pubDate>
-  <lastBuildDate>Thu, 21 Apr 2022 01:25:43 +0000</lastBuildDate>
+  <pubDate>Thu, 21 Apr 2022 07:25:42 +0000</pubDate>
+  <lastBuildDate>Thu, 21 Apr 2022 07:25:42 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -23,6 +23,19 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[We the Patriots USA: Trying to save a young girl’s life [CrossPolitic Show]]]></title>
+   <link>https://app.dropwave.io/episode/4506c6d0-33b9-40a6-ab1d-c8f308bc43a0/we-the-patriots-usa-trying-to-save-a-young-girls-life.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/4506c6d0-33b9-40a6-ab1d-c8f308bc43a0/we-the-patriots-usa-trying-to-save-a-young-girls-life.mp3" length="1859" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[4506c6d0-33b9-40a6-ab1d-c8f308bc43a0]]></guid>
+   <pubDate>Thu, 21 Apr 2022 02:30:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1859</itunes:duration>
+  </item>
   <item>
    <title><![CDATA[Gall, Gall Bladders, & Bitterness in the Bible [Mere Medical]]]></title>
    <link>https://app.dropwave.io/episode/6ec5de54-660f-4ca6-9ade-11b437378b84/gall-gall-bladders-bitterness-in-the-bible.mp3</link>
@@ -3693,19 +3706,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2824</itunes:duration>
-  </item>
-  <item>
-   <title><![CDATA[Luke 4:1-13 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/7a4bc5d8-9e9d-480a-be98-925a5fa76257/luke-41-13.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/7a4bc5d8-9e9d-480a-be98-925a5fa76257/luke-41-13.mp3" length="329" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[7a4bc5d8-9e9d-480a-be98-925a5fa76257]]></guid>
-   <pubDate>Mon, 07 Mar 2022 10:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>329</itunes:duration>
   </item>
  </channel>
 </rss>
