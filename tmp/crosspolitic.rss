@@ -8,8 +8,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Sat, 23 Apr 2022 07:25:43 +0000</pubDate>
-  <lastBuildDate>Sat, 23 Apr 2022 07:25:43 +0000</lastBuildDate>
+  <pubDate>Sat, 23 Apr 2022 13:25:44 +0000</pubDate>
+  <lastBuildDate>Sat, 23 Apr 2022 13:25:44 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -23,6 +23,19 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Psalm 114 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/845cc373-c2c7-4243-a37a-f47b1976d3dc/psalm-114.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/845cc373-c2c7-4243-a37a-f47b1976d3dc/psalm-114.mp3" length="284" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[845cc373-c2c7-4243-a37a-f47b1976d3dc]]></guid>
+   <pubDate>Sat, 23 Apr 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>284</itunes:duration>
+  </item>
   <item>
    <title><![CDATA[Daily News Brief for Friday, April 22nd, 2022 [Daily News Brief]]]></title>
    <link>https://app.dropwave.io/episode/5cc1bbed-22e7-4250-b75e-bf8aa89049a5/daily-news-brief-for-friday-april-22nd-2022.mp3</link>
@@ -1625,19 +1638,6 @@
    <itunes:duration>782</itunes:duration>
   </item>
   <item>
-   <title><![CDATA[Proverbs 4:20-27 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/b80f8539-db1f-4ad8-ada3-a7da4a22d2ef/proverbs-420-27.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/b80f8539-db1f-4ad8-ada3-a7da4a22d2ef/proverbs-420-27.mp3" length="287" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[b80f8539-db1f-4ad8-ada3-a7da4a22d2ef]]></guid>
-   <pubDate>Thu, 07 Apr 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>287</itunes:duration>
-  </item>
-  <item>
    <title><![CDATA[Varieties of Relativism [The Pugcast]]]></title>
    <link>https://app.dropwave.io/episode/d7a2521d-8879-4920-b4f7-7d3defa0a798/varieties-of-relativism.mp3</link>
    <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">Tom introduces one of the driving assumptions that is underwriting the flux and chaos of current social trends: the assumption that truth is relative, perspectival, unable to be attained apart from our individual or group filters. The guys join in with many historical and contemporary insights into some key figures and ideas which have played into the rise and dominance of contemporary relativism and they set forth some initial steps in engaging it from a rich Christian vision.</p>
@@ -1652,6 +1652,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>4127</itunes:duration>
+  </item>
+  <item>
+   <title><![CDATA[Proverbs 4:20-27 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/b80f8539-db1f-4ad8-ada3-a7da4a22d2ef/proverbs-420-27.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/b80f8539-db1f-4ad8-ada3-a7da4a22d2ef/proverbs-420-27.mp3" length="287" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[b80f8539-db1f-4ad8-ada3-a7da4a22d2ef]]></guid>
+   <pubDate>Thu, 07 Apr 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>287</itunes:duration>
   </item>
   <item>
    <title><![CDATA[The Patriarchy Podcast: Above All, Part 1 (Ep 66) [The Patriarchy Podcast]]]></title>
@@ -3707,19 +3720,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>5013</itunes:duration>
-  </item>
-  <item>
-   <title><![CDATA[The Place of Christian Philosophy [The Ezra Institute Podcast for Cultural Reformation]]]></title>
-   <link>https://app.dropwave.io/episode/4d6e973d-0c68-4267-a382-68634c7944d7/the-place-of-christian-philosophy.mp3</link>
-   <description><![CDATA[<p><span style="color: #212529; font-family: effra, Verdana, Arial, sans-serif; font-size: 18px; background-color: #ffffff;">After a stretch of current events commentary, we return to the main themes of this season: worldview and informational thinking. As the world around us seems to devolve at an accelerating pace, it&rsquo;s important to think and act from a principled and self-consciously Christian perspective.</span><br style="box-sizing: border-box; color: #212529; font-family: effra, Verdana, Arial, sans-serif; font-size: 18px; background-color: #ffffff;" /><span style="color: #212529; font-family: effra, Verdana, Arial, sans-serif; font-size: 18px; background-color: #ffffff;">Also, we share some big news about the growth of the ministry of the Ezra Institute, and Joe Boot&rsquo;s book,&nbsp;</span><a style="box-sizing: border-box; background-color: #ffffff; color: #72bf44; text-decoration-line: none; font-family: effra, Verdana, Arial, sans-serif; font-size: 18px;" href="https://ezrapress.ca/products/ruler-of-kings-toward-a-christian-vision-of-government" target="_blank" rel="noreferrer noopener">Ruler of Kings</a><span style="color: #212529; font-family: effra, Verdana, Arial, sans-serif; font-size: 18px; background-color: #ffffff;">, is finally in print!</span></p>]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Joe Boot, Nathan Oblak, Ryan Eras)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/4d6e973d-0c68-4267-a382-68634c7944d7/the-place-of-christian-philosophy.mp3" length="3535" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[4d6e973d-0c68-4267-a382-68634c7944d7]]></guid>
-   <pubDate>Wed, 09 Mar 2022 15:20:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/1c3a97bd-65b0-4aec-bb35-3a1b6eec5d2c/cover-art/4rDIhLUsGj1xuXpLJYNdtwtbungA78glNHA7dOd9.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3535</itunes:duration>
   </item>
  </channel>
 </rss>
