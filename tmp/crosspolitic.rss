@@ -8,8 +8,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 25 Apr 2022 01:25:43 +0000</pubDate>
-  <lastBuildDate>Mon, 25 Apr 2022 01:25:43 +0000</lastBuildDate>
+  <pubDate>Mon, 25 Apr 2022 07:25:44 +0000</pubDate>
+  <lastBuildDate>Mon, 25 Apr 2022 07:25:44 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -23,6 +23,19 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[James White & Jared Longshore in Studio! Christian Sacrifice - The Best Defense is a Good Offense [CrossPolitic Show]]]></title>
+   <link>https://app.dropwave.io/episode/7c8a5817-23b8-4e91-89c4-725f769b63da/james-white-jared-longshore-in-studio-christian-sacrifice-the-best-defense-is-a-good-offense.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/7c8a5817-23b8-4e91-89c4-725f769b63da/james-white-jared-longshore-in-studio-christian-sacrifice-the-best-defense-is-a-good-offense.mp3" length="4043" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[7c8a5817-23b8-4e91-89c4-725f769b63da]]></guid>
+   <pubDate>Mon, 25 Apr 2022 02:55:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/9SyiPgccBetKaoe6UvgLX8gva5uYuNTjwIitcOXQ.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>4043</itunes:duration>
+  </item>
   <item>
    <title><![CDATA[Psalm 114 [Up and Ready]]]></title>
    <link>https://app.dropwave.io/episode/845cc373-c2c7-4243-a37a-f47b1976d3dc/psalm-114.mp3</link>
@@ -3707,19 +3720,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>4116</itunes:duration>
-  </item>
-  <item>
-   <title><![CDATA[Russia, End Times, and a few other things with Uncle Gary DeMar [CrossPolitic Show]]]></title>
-   <link>https://app.dropwave.io/episode/43ed688d-c1ef-402c-a212-62d61bfe6746/russia-end-times-and-a-few-other-things-with-uncle-gary-demar.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/43ed688d-c1ef-402c-a212-62d61bfe6746/russia-end-times-and-a-few-other-things-with-uncle-gary-demar.mp3" length="5013" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[43ed688d-c1ef-402c-a212-62d61bfe6746]]></guid>
-   <pubDate>Thu, 10 Mar 2022 01:46:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>5013</itunes:duration>
   </item>
  </channel>
 </rss>
