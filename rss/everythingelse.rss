@@ -8,8 +8,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Fri, 29 Apr 2022 01:25:43 +0000</pubDate>
-  <lastBuildDate>Fri, 29 Apr 2022 01:25:43 +0000</lastBuildDate>
+  <pubDate>Fri, 29 Apr 2022 07:25:42 +0000</pubDate>
+  <lastBuildDate>Fri, 29 Apr 2022 07:25:42 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -24,6 +24,19 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Republicans are Compromised - They’re not Conservative [The Waterbreak]]]></title>
+   <link>https://app.dropwave.io/episode/c8780824-4ce5-46ec-853d-e3cbb9b436e8/republicans-are-compromised-theyre-not-conservative.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/c8780824-4ce5-46ec-853d-e3cbb9b436e8/republicans-are-compromised-theyre-not-conservative.mp3" length="1729" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[c8780824-4ce5-46ec-853d-e3cbb9b436e8]]></guid>
+   <pubDate>Fri, 29 Apr 2022 02:30:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/0a3dee73-38ca-4cc7-b0dc-e72b0074106c/cover-art/JVKmUbWmpvy1I1dXtdnFmkLrwXwvOHXH1IvXeh1i.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1729</itunes:duration>
+  
+  </item><item>
    <title><![CDATA[Bikers, Billionaires, and a Brainwashed Population [Leadership Now Podcast]]]></title>
    <link>https://app.dropwave.io/episode/d96f8fd2-18bc-41a5-9164-8f54059419e9/bikers-billionaires-and-a-brainwashed-population.mp3</link>
    <description><![CDATA[<p style="margin: 0px 0px 10px; color: #333333; font-family: 'Helvetica Neue', sans-serif; font-size: 14px; background-color: #e2e2e2;">In this episode, Dr. Aaron Rock discusses the bike tour through Ottawa, optional vaccines for zoo animals, continual masking despite health officials' lack of requirement, and Elon Musk buying Twitter!</p>
@@ -1771,19 +1784,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>313</itunes:duration>
-  
-  </item><item>
-   <title><![CDATA[The Fastest Ways to Kill Your Church [Leadership Now Podcast]]]></title>
-   <link>https://app.dropwave.io/episode/93f99360-0ba6-4114-b4cf-f6c141e1aa01/the-fastest-ways-to-kill-your-church.mp3</link>
-   <description><![CDATA[<p>In this episode, Dr. Aaron Rock lists common mistakes that Christian leaders overlook resulting in the death of their church.</p>]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Aaron Rock, Chris Eelman)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/93f99360-0ba6-4114-b4cf-f6c141e1aa01/the-fastest-ways-to-kill-your-church.mp3" length="4065" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[93f99360-0ba6-4114-b4cf-f6c141e1aa01]]></guid>
-   <pubDate>Thu, 17 Mar 2022 20:15:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/3312a6b0-2b88-4186-bfdd-e9c55d3d7e0f/cover-art/DJmJxOQEoRfGbs693sV6kEnKEGWstWUfdEXbQra8.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>4065</itunes:duration>
   </item>
  </channel>
 </rss>
