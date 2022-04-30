@@ -8,8 +8,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Sat, 30 Apr 2022 07:25:46 +0000</pubDate>
-  <lastBuildDate>Sat, 30 Apr 2022 07:25:46 +0000</lastBuildDate>
+  <pubDate>Sat, 30 Apr 2022 13:25:42 +0000</pubDate>
+  <lastBuildDate>Sat, 30 Apr 2022 13:25:42 +0000</lastBuildDate>
   <image>
    <url>https://prod-assets-spc1.nyc3.digitaloceanspaces.com/https%3A//is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -24,6 +24,19 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Psalm 118:22-24 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/364f828c-d35e-48ad-97a1-1e58eb2f729f/psalm-11822-24.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/364f828c-d35e-48ad-97a1-1e58eb2f729f/psalm-11822-24.mp3" length="257" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[364f828c-d35e-48ad-97a1-1e58eb2f729f]]></guid>
+   <pubDate>Sat, 30 Apr 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>257</itunes:duration>
+  
+  </item><item>
    <title><![CDATA[Porn is Hate [Campus Preacher]]]></title>
    <link>https://app.dropwave.io/episode/d445d759-e932-47c8-907a-abfb641affee/porn-is-hate.mp3</link>
    <description><![CDATA[<p>Porn is ubiquitous in our culture. In this podcast, I have a couple discussions I have from campus on pornography.</p>]]></description>
@@ -1758,19 +1771,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>310</itunes:duration>
-  
-  </item><item>
-   <title><![CDATA[CP Liberty Tour! Dr. Peter McCullough, Doug Wilson, & Chad Prather in Fort Worth, TX!! [CrossPolitic Show]]]></title>
-   <link>https://app.dropwave.io/episode/2fd08b81-5728-4794-8850-8e8885972009/cp-liberty-tour-dr-peter-mccullough-doug-wilson-chad-prather-in-fort-worth-tx.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/2fd08b81-5728-4794-8850-8e8885972009/cp-liberty-tour-dr-peter-mccullough-doug-wilson-chad-prather-in-fort-worth-tx.mp3" length="4269" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[2fd08b81-5728-4794-8850-8e8885972009]]></guid>
-   <pubDate>Mon, 21 Mar 2022 02:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/pzVtD2lKKqc8kYSuBV7Aq7Gp3ii30VTao8SvxFrc.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>4269</itunes:duration>
   </item>
  </channel>
 </rss>
