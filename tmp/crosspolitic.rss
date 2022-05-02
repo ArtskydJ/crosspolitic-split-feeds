@@ -8,8 +8,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 02 May 2022 07:25:44 +0000</pubDate>
-  <lastBuildDate>Mon, 02 May 2022 07:25:44 +0000</lastBuildDate>
+  <pubDate>Mon, 02 May 2022 13:25:44 +0000</pubDate>
+  <lastBuildDate>Mon, 02 May 2022 13:25:44 +0000</lastBuildDate>
   <image>
    <url>https://prod-assets-spc1.nyc3.digitaloceanspaces.com/https%3A//is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -23,6 +23,19 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[John 21:15-17 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/d0d0336f-fde2-4739-8205-23352406a253/john-2115-17.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/d0d0336f-fde2-4739-8205-23352406a253/john-2115-17.mp3" length="342" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[d0d0336f-fde2-4739-8205-23352406a253]]></guid>
+   <pubDate>Mon, 02 May 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>342</itunes:duration>
+  </item>
   <item>
    <title><![CDATA[Mis-Inflation: The Truth about Inflation w/ Doug Wilson & David Bahnsen [CrossPolitic Show]]]></title>
    <link>https://app.dropwave.io/episode/88b928f9-f110-4124-905f-48815053a245/mis-inflation-the-truth-about-inflation-w-doug-wilson-david-bahnsen.mp3</link>
@@ -2182,19 +2195,6 @@
    <itunes:duration>1203</itunes:duration>
   </item>
   <item>
-   <title><![CDATA[Luke 19:28-40 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/2cac7e6d-a287-4440-a2ba-50ed0d99d95c/luke-1928-40.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/2cac7e6d-a287-4440-a2ba-50ed0d99d95c/luke-1928-40.mp3" length="273" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[2cac7e6d-a287-4440-a2ba-50ed0d99d95c]]></guid>
-   <pubDate>Mon, 11 Apr 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>273</itunes:duration>
-  </item>
-  <item>
    <title><![CDATA[TCND: Stress, Hollywood, and Osteen (Stinkbug on the Wall) [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/2ee3fd88-5345-4987-95be-4e5f92bdc66b/tcnd-stress-hollywood-and-osteen-stinkbug-on-the-wall.mp3</link>
    <description><![CDATA[<p>The Comedian and The Peaches are talking about heartrate and stress.&nbsp; &nbsp;Apparently, it's possible for your body to be stressed without your mind being aware of it. Who knew?</p>
@@ -2213,6 +2213,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2835</itunes:duration>
+  </item>
+  <item>
+   <title><![CDATA[Luke 19:28-40 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/2cac7e6d-a287-4440-a2ba-50ed0d99d95c/luke-1928-40.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/2cac7e6d-a287-4440-a2ba-50ed0d99d95c/luke-1928-40.mp3" length="273" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[2cac7e6d-a287-4440-a2ba-50ed0d99d95c]]></guid>
+   <pubDate>Mon, 11 Apr 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>273</itunes:duration>
   </item>
   <item>
    <title><![CDATA[Liberty Tour South Dakota: No Christ, No Freedom [CrossPolitic Show]]]></title>
@@ -3137,6 +3150,19 @@
    <itunes:duration>3044</itunes:duration>
   </item>
   <item>
+   <title><![CDATA[Francis Schaeffer & Pre-Evangelism [Campus Preacher]]]></title>
+   <link>https://app.dropwave.io/episode/c6a72144-d434-4b15-a2bb-93639e4e24f7/francis-schaeffer-pre-evangelism.mp3</link>
+   <description><![CDATA[<p>Francis Schaeffer introduced me to the idea of pre-evangelism, which is an attempt to find a point of contact and tension in your neighbors non-Christian philosophy and then seeking to apply the Gospel to their life. This is a dialogue I had with a young woman on a campus, which is my attempt at some pre-evangelism.&nbsp;</p>]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Keith Darrell)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/c6a72144-d434-4b15-a2bb-93639e4e24f7/francis-schaeffer-pre-evangelism.mp3" length="2211" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[c6a72144-d434-4b15-a2bb-93639e4e24f7]]></guid>
+   <pubDate>Thu, 31 Mar 2022 11:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/931fd9c4-1c60-4949-85db-e74a6e1f88fc/cover-art/W41Xalf47AwHAGKZ8NFWFwWZDf4p6s4D421ATQH6.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2211</itunes:duration>
+  </item>
+  <item>
    <title><![CDATA[Daily News Brief for Thursday, March 31st, 2022 [Daily News Brief]]]></title>
    <link>https://app.dropwave.io/episode/e09e90eb-7e09-4037-bdf8-c78064ebe413/daily-news-brief-for-thursday-march-31st-2022.mp3</link>
    <description><![CDATA[<p class="p3" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';"><strong>Officials clear second Covid booster shots for those 50 and older, and some immunocompromised people.</strong></p>
@@ -3163,19 +3189,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>845</itunes:duration>
-  </item>
-  <item>
-   <title><![CDATA[Francis Schaeffer & Pre-Evangelism [Campus Preacher]]]></title>
-   <link>https://app.dropwave.io/episode/c6a72144-d434-4b15-a2bb-93639e4e24f7/francis-schaeffer-pre-evangelism.mp3</link>
-   <description><![CDATA[<p>Francis Schaeffer introduced me to the idea of pre-evangelism, which is an attempt to find a point of contact and tension in your neighbors non-Christian philosophy and then seeking to apply the Gospel to their life. This is a dialogue I had with a young woman on a campus, which is my attempt at some pre-evangelism.&nbsp;</p>]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Keith Darrell)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/c6a72144-d434-4b15-a2bb-93639e4e24f7/francis-schaeffer-pre-evangelism.mp3" length="2211" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[c6a72144-d434-4b15-a2bb-93639e4e24f7]]></guid>
-   <pubDate>Thu, 31 Mar 2022 11:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/931fd9c4-1c60-4949-85db-e74a6e1f88fc/cover-art/W41Xalf47AwHAGKZ8NFWFwWZDf4p6s4D421ATQH6.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2211</itunes:duration>
   </item>
   <item>
    <title><![CDATA[In Defense of Mysticism [The Pugcast]]]></title>
@@ -3717,19 +3730,6 @@
    <itunes:duration>1928</itunes:duration>
   </item>
   <item>
-   <title><![CDATA[Duck Season! Rabbit Season! The Notorious Duck/Rabbit Problem! [The Pugcast]]]></title>
-   <link>https://app.dropwave.io/episode/a4853da4-d2ce-4ba1-ac55-12920c21265f/duck-season-rabbit-season-the-notorious-duckrabbit-problem.mp3</link>
-   <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">Well, which is it, a duck or a rabbit? Today the Pugsters examine the notorious duck/rabbit problem. You probably have seen the drawing, look at it one way, and you see a duck, look at it another way and you see a rabbit. Often the drawing is used to illustrate the ambiguity of signs, and the inevitably subjective character of interpretation. But are we doing justice to the signs, or the world we live in? What if the world at large represents something larger and more real than itself? Perhaps it's not interpretation all the way down so much as it is signs pointing to the source of all meaning. Join the Pugsters as they discuss the problem.</p>]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/a4853da4-d2ce-4ba1-ac55-12920c21265f/duck-season-rabbit-season-the-notorious-duckrabbit-problem.mp3" length="3517" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[a4853da4-d2ce-4ba1-ac55-12920c21265f]]></guid>
-   <pubDate>Thu, 24 Mar 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3517</itunes:duration>
-  </item>
-  <item>
    <title><![CDATA[Nehemiah 2:17-20 [Up and Ready]]]></title>
    <link>https://app.dropwave.io/episode/a27a67cf-dc56-44ea-8a72-59684e6f84f3/nehemiah-217-20.mp3</link>
    <description><![CDATA[]]></description>
@@ -3741,6 +3741,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>330</itunes:duration>
+  </item>
+  <item>
+   <title><![CDATA[Duck Season! Rabbit Season! The Notorious Duck/Rabbit Problem! [The Pugcast]]]></title>
+   <link>https://app.dropwave.io/episode/a4853da4-d2ce-4ba1-ac55-12920c21265f/duck-season-rabbit-season-the-notorious-duckrabbit-problem.mp3</link>
+   <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">Well, which is it, a duck or a rabbit? Today the Pugsters examine the notorious duck/rabbit problem. You probably have seen the drawing, look at it one way, and you see a duck, look at it another way and you see a rabbit. Often the drawing is used to illustrate the ambiguity of signs, and the inevitably subjective character of interpretation. But are we doing justice to the signs, or the world we live in? What if the world at large represents something larger and more real than itself? Perhaps it's not interpretation all the way down so much as it is signs pointing to the source of all meaning. Join the Pugsters as they discuss the problem.</p>]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/a4853da4-d2ce-4ba1-ac55-12920c21265f/duck-season-rabbit-season-the-notorious-duckrabbit-problem.mp3" length="3517" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[a4853da4-d2ce-4ba1-ac55-12920c21265f]]></guid>
+   <pubDate>Thu, 24 Mar 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3517</itunes:duration>
   </item>
   <item>
    <title><![CDATA[Courage at Work: RedBalloon & The Pronoun Landmine Game!! [CrossPolitic Show]]]></title>
@@ -4087,23 +4100,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1621</itunes:duration>
-  </item>
-  <item>
-   <title><![CDATA[TCND: The Transparency Episode (Poo-pouri) [The Comedian Next Door]]]></title>
-   <link>https://app.dropwave.io/episode/fa3db62d-5612-48d8-8020-e98095f64103/the-transparency-episode-poo-pouri.mp3</link>
-   <description><![CDATA[<p>We're going to be totally honest about some stuff today, Neighbor!&nbsp; &nbsp;The Peaches still has been dealing with some emotional and psychological discomfort.&nbsp; &nbsp; (We would blame the thyroid if we could, but that's has been ruled out, so.... darn.)&nbsp; &nbsp;Sometimes, life's trials just FEEL more weighty than other times...&nbsp;</p>
-<p>Hang on, we have a quick interruption while Collin amazes everyone with his poem-thingy...</p>
-<p>Okay--back to the subject. The Peaches is going to be very cautious ("guarded") with her words today. But John wants to lay everything out on the table and tell you about some interpersonal conflict.&nbsp; Not everyone handles their struggles/crisis by dialoging with their Christian family and processing things.&nbsp; &nbsp;But that's how WE roll.&nbsp;</p>
-<p>There are some problems at church because many people aren't comfortable with open communication.&nbsp;</p>
-<p>Join us at the table. Let's say true things.&nbsp;&nbsp;</p>]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/fa3db62d-5612-48d8-8020-e98095f64103/the-transparency-episode-poo-pouri.mp3" length="2849" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[fa3db62d-5612-48d8-8020-e98095f64103]]></guid>
-   <pubDate>Mon, 21 Mar 2022 09:30:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2849</itunes:duration>
   </item>
  </channel>
 </rss>
