@@ -8,8 +8,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Tue, 03 May 2022 07:25:43 +0000</pubDate>
-  <lastBuildDate>Tue, 03 May 2022 07:25:43 +0000</lastBuildDate>
+  <pubDate>Tue, 03 May 2022 13:25:46 +0000</pubDate>
+  <lastBuildDate>Tue, 03 May 2022 13:25:46 +0000</lastBuildDate>
   <image>
    <url>https://prod-assets-spc1.nyc3.digitaloceanspaces.com/https%3A//is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -24,6 +24,19 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Psalm 30:10-12 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/69789932-6d21-435b-b54b-bd7f37cc86fd/psalm-3010012.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/69789932-6d21-435b-b54b-bd7f37cc86fd/psalm-3010012.mp3" length="278" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[69789932-6d21-435b-b54b-bd7f37cc86fd]]></guid>
+   <pubDate>Tue, 03 May 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>278</itunes:duration>
+  
+  </item><item>
    <title><![CDATA[The Patriarchy Podcast: The Dark Ages, Part 2 (Ep 69) [The Patriarchy Podcast]]]></title>
    <link>https://app.dropwave.io/episode/5ac3844e-ca48-484c-92fb-c30d04e7361b/the-patriarchy-podcast-the-dark-ages-part-2-ep-69.mp3</link>
    <description><![CDATA[<p class="p1">On part two of this two part episode, Joseph's sandwich goes down smooth, the guys listen to a woman "pastor" PhD, and they finish discussing being the Church in a dark age.</p>
@@ -1237,19 +1250,6 @@
    <itunes:duration>1084</itunes:duration>
   
   </item><item>
-   <title><![CDATA[John 12:1-8 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/b65cd9d3-44ae-4572-8a27-6d01defb5c17/john-121-8.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/b65cd9d3-44ae-4572-8a27-6d01defb5c17/john-121-8.mp3" length="308" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[b65cd9d3-44ae-4572-8a27-6d01defb5c17]]></guid>
-   <pubDate>Mon, 04 Apr 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>308</itunes:duration>
-  
-  </item><item>
    <title><![CDATA[TCND: Stay in Your Lane (Not the Boss of Me) [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/06764758-7dab-4d66-b69e-9b6aa48f8ba5/tcnd-stay-in-your-lane-not-the-boss-of-me.mp3</link>
    <description><![CDATA[<p>We're here at the table, Neighbor Pkarlgh! (And the kids are working busily nearby.) Join us while we talk about John's latest post on social media.&nbsp; Spoilers: this conversation does not go the way he expected...</p>
@@ -1270,6 +1270,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3012</itunes:duration>
+  
+  </item><item>
+   <title><![CDATA[John 12:1-8 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/b65cd9d3-44ae-4572-8a27-6d01defb5c17/john-121-8.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/b65cd9d3-44ae-4572-8a27-6d01defb5c17/john-121-8.mp3" length="308" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[b65cd9d3-44ae-4572-8a27-6d01defb5c17]]></guid>
+   <pubDate>Mon, 04 Apr 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>308</itunes:duration>
   
   </item><item>
    <title><![CDATA[Our Crisis in the Law & How to be Equipped to Fight Back w/ Jeff Shafer of The Hale Institute [CrossPolitic Show]]]></title>
@@ -1653,19 +1666,6 @@
    <itunes:duration>1928</itunes:duration>
   
   </item><item>
-   <title><![CDATA[Nehemiah 2:17-20 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/a27a67cf-dc56-44ea-8a72-59684e6f84f3/nehemiah-217-20.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/a27a67cf-dc56-44ea-8a72-59684e6f84f3/nehemiah-217-20.mp3" length="330" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[a27a67cf-dc56-44ea-8a72-59684e6f84f3]]></guid>
-   <pubDate>Thu, 24 Mar 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>330</itunes:duration>
-  
-  </item><item>
    <title><![CDATA[Duck Season! Rabbit Season! The Notorious Duck/Rabbit Problem! [The Pugcast]]]></title>
    <link>https://app.dropwave.io/episode/a4853da4-d2ce-4ba1-ac55-12920c21265f/duck-season-rabbit-season-the-notorious-duckrabbit-problem.mp3</link>
    <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">Well, which is it, a duck or a rabbit? Today the Pugsters examine the notorious duck/rabbit problem. You probably have seen the drawing, look at it one way, and you see a duck, look at it another way and you see a rabbit. Often the drawing is used to illustrate the ambiguity of signs, and the inevitably subjective character of interpretation. But are we doing justice to the signs, or the world we live in? What if the world at large represents something larger and more real than itself? Perhaps it's not interpretation all the way down so much as it is signs pointing to the source of all meaning. Join the Pugsters as they discuss the problem.</p>]]></description>
@@ -1677,6 +1677,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3517</itunes:duration>
+  
+  </item><item>
+   <title><![CDATA[Nehemiah 2:17-20 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/a27a67cf-dc56-44ea-8a72-59684e6f84f3/nehemiah-217-20.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/a27a67cf-dc56-44ea-8a72-59684e6f84f3/nehemiah-217-20.mp3" length="330" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[a27a67cf-dc56-44ea-8a72-59684e6f84f3]]></guid>
+   <pubDate>Thu, 24 Mar 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>330</itunes:duration>
   
   </item><item>
    <title><![CDATA[Courage at Work: RedBalloon & The Pronoun Landmine Game!! [CrossPolitic Show]]]></title>
@@ -1763,20 +1776,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1976</itunes:duration>
-  
-  </item><item>
-   <title><![CDATA[Episode 1: Douglas Wilson [All My Friends are Heretics]]]></title>
-   <link>https://app.dropwave.io/episode/abb3f5f1-bac3-4a70-b93e-bfee880a7eb4/episode-1-douglas-wilson.mp3</link>
-   <description><![CDATA[<p style="margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">ALL MY FRIENDS ARE HERETICS!!! Darren Doane launches his new podcast series with an exclusive no holds barred 3 hour interview with pastor Douglas Wilson of Christ Church. Doane pushes Wilson to defend all his major controversies. Slavery, Patriarchy, Federal Vision and more are all discussed and clarified. This is an absolute must for anyone interested in culture, theology and gospel centered trouble making.&nbsp;</p>]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/abb3f5f1-bac3-4a70-b93e-bfee880a7eb4/episode-1-douglas-wilson.mp3" length="11872" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[abb3f5f1-bac3-4a70-b93e-bfee880a7eb4]]></guid>
-   <pubDate>Tue, 22 Mar 2022 16:05:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/41661f89-cb14-4913-997d-db7647c3d7f6/cover-art/IDoHzxMdWvHrae6WNwIvoTcpyD5SVuZq7J5PTvk9.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>11872</itunes:duration>
-  
   </item>
  </channel>
 </rss>
