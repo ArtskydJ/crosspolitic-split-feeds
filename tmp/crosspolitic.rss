@@ -8,8 +8,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Fri, 06 May 2022 01:25:44 +0000</pubDate>
-  <lastBuildDate>Fri, 06 May 2022 01:25:44 +0000</lastBuildDate>
+  <pubDate>Fri, 06 May 2022 07:25:45 +0000</pubDate>
+  <lastBuildDate>Fri, 06 May 2022 07:25:45 +0000</lastBuildDate>
   <image>
    <url>https://prod-assets-spc1.nyc3.digitaloceanspaces.com/https%3A//is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -23,6 +23,19 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[We are made Male & Female [The Waterbreak]]]></title>
+   <link>https://app.dropwave.io/episode/9650ef57-95c2-4da7-8d11-aa33e79c79b6/we-are-made-male-female.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/9650ef57-95c2-4da7-8d11-aa33e79c79b6/we-are-made-male-female.mp3" length="669" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[9650ef57-95c2-4da7-8d11-aa33e79c79b6]]></guid>
+   <pubDate>Fri, 06 May 2022 02:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/0a3dee73-38ca-4cc7-b0dc-e72b0074106c/cover-art/JVKmUbWmpvy1I1dXtdnFmkLrwXwvOHXH1IvXeh1i.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>669</itunes:duration>
+  </item>
   <item>
    <title><![CDATA[Why Lockdowns are not Pro-Life [Leadership Now Podcast]]]></title>
    <link>https://app.dropwave.io/episode/7d6a182f-55f8-400b-b24d-30cf4ca85932/why-lockdowns-are-not-pro-life.mp3</link>
@@ -3705,19 +3718,6 @@
    <itunes:duration>3044</itunes:duration>
   </item>
   <item>
-   <title><![CDATA[Francis Schaeffer & Pre-Evangelism [Campus Preacher]]]></title>
-   <link>https://app.dropwave.io/episode/c6a72144-d434-4b15-a2bb-93639e4e24f7/francis-schaeffer-pre-evangelism.mp3</link>
-   <description><![CDATA[<p>Francis Schaeffer introduced me to the idea of pre-evangelism, which is an attempt to find a point of contact and tension in your neighbors non-Christian philosophy and then seeking to apply the Gospel to their life. This is a dialogue I had with a young woman on a campus, which is my attempt at some pre-evangelism.&nbsp;</p>]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Keith Darrell)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/c6a72144-d434-4b15-a2bb-93639e4e24f7/francis-schaeffer-pre-evangelism.mp3" length="2211" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[c6a72144-d434-4b15-a2bb-93639e4e24f7]]></guid>
-   <pubDate>Thu, 31 Mar 2022 11:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/931fd9c4-1c60-4949-85db-e74a6e1f88fc/cover-art/W41Xalf47AwHAGKZ8NFWFwWZDf4p6s4D421ATQH6.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2211</itunes:duration>
-  </item>
-  <item>
    <title><![CDATA[Daily News Brief for Thursday, March 31st, 2022 [Daily News Brief]]]></title>
    <link>https://app.dropwave.io/episode/e09e90eb-7e09-4037-bdf8-c78064ebe413/daily-news-brief-for-thursday-march-31st-2022.mp3</link>
    <description><![CDATA[<p class="p3" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';"><strong>Officials clear second Covid booster shots for those 50 and older, and some immunocompromised people.</strong></p>
@@ -3744,6 +3744,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>845</itunes:duration>
+  </item>
+  <item>
+   <title><![CDATA[Francis Schaeffer & Pre-Evangelism [Campus Preacher]]]></title>
+   <link>https://app.dropwave.io/episode/c6a72144-d434-4b15-a2bb-93639e4e24f7/francis-schaeffer-pre-evangelism.mp3</link>
+   <description><![CDATA[<p>Francis Schaeffer introduced me to the idea of pre-evangelism, which is an attempt to find a point of contact and tension in your neighbors non-Christian philosophy and then seeking to apply the Gospel to their life. This is a dialogue I had with a young woman on a campus, which is my attempt at some pre-evangelism.&nbsp;</p>]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Keith Darrell)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/c6a72144-d434-4b15-a2bb-93639e4e24f7/francis-schaeffer-pre-evangelism.mp3" length="2211" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[c6a72144-d434-4b15-a2bb-93639e4e24f7]]></guid>
+   <pubDate>Thu, 31 Mar 2022 11:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/931fd9c4-1c60-4949-85db-e74a6e1f88fc/cover-art/W41Xalf47AwHAGKZ8NFWFwWZDf4p6s4D421ATQH6.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2211</itunes:duration>
   </item>
   <item>
    <title><![CDATA[In Defense of Mysticism [The Pugcast]]]></title>
@@ -4133,19 +4146,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2043</itunes:duration>
-  </item>
-  <item>
-   <title><![CDATA[Psalm 63 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/cf7ebcbd-1330-48ab-aa6c-b80ed8eaa2d6/psalm-63.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/cf7ebcbd-1330-48ab-aa6c-b80ed8eaa2d6/psalm-63.mp3" length="322" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[cf7ebcbd-1330-48ab-aa6c-b80ed8eaa2d6]]></guid>
-   <pubDate>Sat, 26 Mar 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>322</itunes:duration>
   </item>
  </channel>
 </rss>
