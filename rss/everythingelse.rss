@@ -8,8 +8,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Fri, 06 May 2022 07:25:45 +0000</pubDate>
-  <lastBuildDate>Fri, 06 May 2022 07:25:45 +0000</lastBuildDate>
+  <pubDate>Fri, 06 May 2022 13:25:46 +0000</pubDate>
+  <lastBuildDate>Fri, 06 May 2022 13:25:46 +0000</lastBuildDate>
   <image>
    <url>https://prod-assets-spc1.nyc3.digitaloceanspaces.com/https%3A//is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -24,6 +24,19 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Acts 9:1-6 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/4024825d-2df4-4d31-9459-1c385cfbaf9f/acts-91-6.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/4024825d-2df4-4d31-9459-1c385cfbaf9f/acts-91-6.mp3" length="317" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[4024825d-2df4-4d31-9459-1c385cfbaf9f]]></guid>
+   <pubDate>Fri, 06 May 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>317</itunes:duration>
+  
+  </item><item>
    <title><![CDATA[We are made Male & Female [The Waterbreak]]]></title>
    <link>https://app.dropwave.io/episode/9650ef57-95c2-4da7-8d11-aa33e79c79b6/we-are-made-male-female.mp3</link>
    <description><![CDATA[]]></description>
@@ -717,19 +730,6 @@
    <itunes:duration>2749</itunes:duration>
   
   </item><item>
-   <title><![CDATA[Leviticus 24:17-22 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/7b26be8e-3c00-4d80-9071-29d49d942683/leviticus-2417-22.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/7b26be8e-3c00-4d80-9071-29d49d942683/leviticus-2417-22.mp3" length="328" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[7b26be8e-3c00-4d80-9071-29d49d942683]]></guid>
-   <pubDate>Thu, 21 Apr 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>328</itunes:duration>
-  
-  </item><item>
    <title><![CDATA[The Dumbest Generation Grows Up! : An Interview with Mark Bauerlein [The Pugcast]]]></title>
    <link>https://app.dropwave.io/episode/0b8f165e-89e3-45cb-ad85-fd740a2e0ab8/the-dumbest-generation-grows-up-an-interview-with-mark-bauerlein.mp3</link>
    <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">Today the Pugcast is joined by Mark Bauerlein, professor emeritus of English at Emory University and an editor at First Things. Mark made waves back in 2008 with his book, The Dumbest Generation: How the Digital Age Stupefies Young Americans and Jeopardizes Our Future (Or, Don&rsquo;t Trust Anyone under 30). He was accused of being a luddite, and an alarmist in those halcyon days of Web 2.0. Unfortunately for us all, he turned out to be right in many of his predictions. It wasn't so much that the millennials he describes were incorrigible so much as they were betrayed by their so-called educators and technophile utopians. Tune in and find out how bad things are and what can be done about it!</p>]]></description>
@@ -741,6 +741,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3689</itunes:duration>
+  
+  </item><item>
+   <title><![CDATA[Leviticus 24:17-22 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/7b26be8e-3c00-4d80-9071-29d49d942683/leviticus-2417-22.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/7b26be8e-3c00-4d80-9071-29d49d942683/leviticus-2417-22.mp3" length="328" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[7b26be8e-3c00-4d80-9071-29d49d942683]]></guid>
+   <pubDate>Thu, 21 Apr 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>328</itunes:duration>
   
   </item><item>
    <title><![CDATA[We the Patriots USA: Trying to save a young girl’s life [CrossPolitic Show]]]></title>
@@ -1144,6 +1157,19 @@
    <itunes:duration>1203</itunes:duration>
   
   </item><item>
+   <title><![CDATA[Luke 19:28-40 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/2cac7e6d-a287-4440-a2ba-50ed0d99d95c/luke-1928-40.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/2cac7e6d-a287-4440-a2ba-50ed0d99d95c/luke-1928-40.mp3" length="273" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[2cac7e6d-a287-4440-a2ba-50ed0d99d95c]]></guid>
+   <pubDate>Mon, 11 Apr 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>273</itunes:duration>
+  
+  </item><item>
    <title><![CDATA[TCND: Stress, Hollywood, and Osteen (Stinkbug on the Wall) [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/2ee3fd88-5345-4987-95be-4e5f92bdc66b/tcnd-stress-hollywood-and-osteen-stinkbug-on-the-wall.mp3</link>
    <description><![CDATA[<p>The Comedian and The Peaches are talking about heartrate and stress.&nbsp; &nbsp;Apparently, it's possible for your body to be stressed without your mind being aware of it. Who knew?</p>
@@ -1162,19 +1188,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2835</itunes:duration>
-  
-  </item><item>
-   <title><![CDATA[Luke 19:28-40 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/2cac7e6d-a287-4440-a2ba-50ed0d99d95c/luke-1928-40.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/2cac7e6d-a287-4440-a2ba-50ed0d99d95c/luke-1928-40.mp3" length="273" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[2cac7e6d-a287-4440-a2ba-50ed0d99d95c]]></guid>
-   <pubDate>Mon, 11 Apr 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>273</itunes:duration>
   
   </item><item>
    <title><![CDATA[Liberty Tour South Dakota: No Christ, No Freedom [CrossPolitic Show]]]></title>
@@ -1445,19 +1458,6 @@
    <itunes:duration>1084</itunes:duration>
   
   </item><item>
-   <title><![CDATA[John 12:1-8 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/b65cd9d3-44ae-4572-8a27-6d01defb5c17/john-121-8.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/b65cd9d3-44ae-4572-8a27-6d01defb5c17/john-121-8.mp3" length="308" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[b65cd9d3-44ae-4572-8a27-6d01defb5c17]]></guid>
-   <pubDate>Mon, 04 Apr 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>308</itunes:duration>
-  
-  </item><item>
    <title><![CDATA[TCND: Stay in Your Lane (Not the Boss of Me) [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/06764758-7dab-4d66-b69e-9b6aa48f8ba5/tcnd-stay-in-your-lane-not-the-boss-of-me.mp3</link>
    <description><![CDATA[<p>We're here at the table, Neighbor Pkarlgh! (And the kids are working busily nearby.) Join us while we talk about John's latest post on social media.&nbsp; Spoilers: this conversation does not go the way he expected...</p>
@@ -1478,6 +1478,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3012</itunes:duration>
+  
+  </item><item>
+   <title><![CDATA[John 12:1-8 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/b65cd9d3-44ae-4572-8a27-6d01defb5c17/john-121-8.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/b65cd9d3-44ae-4572-8a27-6d01defb5c17/john-121-8.mp3" length="308" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[b65cd9d3-44ae-4572-8a27-6d01defb5c17]]></guid>
+   <pubDate>Mon, 04 Apr 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>308</itunes:duration>
   
   </item><item>
    <title><![CDATA[Our Crisis in the Law & How to be Equipped to Fight Back w/ Jeff Shafer of The Hale Institute [CrossPolitic Show]]]></title>
@@ -1748,42 +1761,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>315</itunes:duration>
-  
-  </item><item>
-   <title><![CDATA[Raul Labrador for Idaho AG!! Ketanji Brown Jackson is a Black Woman? Dave Rubin Baby Hypocrisy [CrossPolitic Show]]]></title>
-   <link>https://app.dropwave.io/episode/76459f41-6a5f-42f9-a7c4-11b8008aa97f/raul-labrador-for-idaho-ag-ketanji-brown-jackson-is-a-black-woman-dave-rubin-baby-hypocrisy.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/76459f41-6a5f-42f9-a7c4-11b8008aa97f/raul-labrador-for-idaho-ag-ketanji-brown-jackson-is-a-black-woman-dave-rubin-baby-hypocrisy.mp3" length="4253" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[76459f41-6a5f-42f9-a7c4-11b8008aa97f]]></guid>
-   <pubDate>Mon, 28 Mar 2022 03:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>4253</itunes:duration>
-  
-  </item><item>
-   <title><![CDATA[Joe Boot, Theonomy and revenge of the beta males [The Rebel Podcast]]]></title>
-   <link>https://app.dropwave.io/episode/056e5efd-7b92-42a0-bdc2-47ff1d095c6b/joe-boot-theonomy-and-revenge-of-the-beta-males.mp3</link>
-   <description><![CDATA[<div dir="auto" style="font-size: 18px; font-family: -apple-system, HelveticaNeue;">P Nate and Pootie are back in Garage-Mahal ready to defend not only the theological orthodoxy of theonomy but of friend and mentor Dr. JOE Boot.</div>
-<div dir="auto" style="font-size: 18px; font-family: -apple-system, HelveticaNeue;">&nbsp;</div>
-<div dir="auto" style="font-size: 18px; font-family: -apple-system, HelveticaNeue;">A lot has been said over the last year and much criticism has been directed at Joe, the Institute and Theonomy as a whole. Is it warranted? Is theonomy dangerous? Do those hurling insults even understand the position?</div>
-<div dir="auto" style="font-size: 18px; font-family: -apple-system, HelveticaNeue;">&nbsp;</div>
-<div dir="auto" style="font-size: 18px; font-family: -apple-system, HelveticaNeue;">... or is it not really about theonomy at all?</div>
-<div dir="auto" style="font-size: 18px; font-family: -apple-system, HelveticaNeue;">&nbsp;</div>
-<div dir="auto" style="font-size: 18px; font-family: -apple-system, HelveticaNeue;">After recording this episode (but before we posted it) Joe and the boys at Ezra did their own podcast and rebuttal which can be found here:&nbsp;<a href="https://www.ezrainstitute.com/resource-library/podcast/more-objections-to-theonomy/">https://www.ezrainstitute.com/resource-library/podcast/more-objections-to-theonomy/</a></div>
-<div dir="auto" style="font-size: 18px; font-family: -apple-system, HelveticaNeue;">&nbsp;</div>
-<div dir="auto" style="font-size: 18px; font-family: -apple-system, HelveticaNeue;">To support the show you can become a Fight Laugh Feast Club Member here:&nbsp;<a style="color: #0078d4 !important;" href="http://flfnetwork.com/membership/">flfnetwork.com/membership/</a>&nbsp;</div>
-<div dir="auto" style="font-size: 18px; font-family: -apple-system, HelveticaNeue;">&nbsp;</div>
-<p><span dir="auto" style="font-size: 18px; font-family: -apple-system, HelveticaNeue;">You can also join the rebellion by sharing and inviting your friends to like the content on facebook:&nbsp;<a style="color: #0078d4 !important;" href="http://facebook.com/rebelpodcast">facebook.com/rebelpodcast</a>&nbsp;or by supporting us through patreon at&nbsp;<a style="color: #0078d4 !important;" href="http://patreon.com/reformedrebel">patreon.com/reformedrebel</a></span></p>]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Pastor Nate Wright & Chris Poots)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/056e5efd-7b92-42a0-bdc2-47ff1d095c6b/joe-boot-theonomy-and-revenge-of-the-beta-males.mp3" length="2043" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[056e5efd-7b92-42a0-bdc2-47ff1d095c6b]]></guid>
-   <pubDate>Sat, 26 Mar 2022 16:12:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2043</itunes:duration>
   </item>
  </channel>
 </rss>
