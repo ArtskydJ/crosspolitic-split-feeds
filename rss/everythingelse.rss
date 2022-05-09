@@ -8,8 +8,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 09 May 2022 13:25:44 +0000</pubDate>
-  <lastBuildDate>Mon, 09 May 2022 13:25:44 +0000</lastBuildDate>
+  <pubDate>Mon, 09 May 2022 19:25:45 +0000</pubDate>
+  <lastBuildDate>Mon, 09 May 2022 19:25:45 +0000</lastBuildDate>
   <image>
    <url>https://prod-assets-spc1.nyc3.digitaloceanspaces.com/https%3A//is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -24,6 +24,19 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Winning [In the Bullpen]]]></title>
+   <link>https://app.dropwave.io/episode/acd70c33-ee26-4a29-9f01-31b60d4186f5/winning.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/acd70c33-ee26-4a29-9f01-31b60d4186f5/winning.mp3" length="1106" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[acd70c33-ee26-4a29-9f01-31b60d4186f5]]></guid>
+   <pubDate>Mon, 09 May 2022 16:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1106</itunes:duration>
+  
+  </item><item>
    <title><![CDATA[TCND: An Unfocused Talk about Focus (Pair of Tongs) [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/32076654-16cc-42cf-9f94-d0b6d4c78af4/tcnd-an-unfocused-talk-about-focus.mp3</link>
    <description><![CDATA[<p>The Comedian's house is busy (as always).&nbsp; Let the 4-year-old explain why he "needs" to use tongs to handle his Elmo doll...&nbsp;</p>
@@ -336,19 +349,6 @@
    <itunes:duration>2296</itunes:duration>
   
   </item><item>
-   <title><![CDATA[John 21:15-17 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/d0d0336f-fde2-4739-8205-23352406a253/john-2115-17.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/d0d0336f-fde2-4739-8205-23352406a253/john-2115-17.mp3" length="342" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[d0d0336f-fde2-4739-8205-23352406a253]]></guid>
-   <pubDate>Mon, 02 May 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>342</itunes:duration>
-  
-  </item><item>
    <title><![CDATA[TCND: Harry Potter and Agreeing with Pagans (Don't Sell the Land) [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/1237fb91-8fe7-4452-98d0-eadfffe9c4a9/tcnd-harry-potter-and-agreeing-with-pagans-dont-sell-the-land.mp3</link>
    <description><![CDATA[<p>This episode is being uploaded late, due to tech difficulties. Sorry about that, Neighbor Pkarlgh!<br /><br />Our family is celebrating Cami's 11th birthday this week, but not everyone is excited about her party's theme.&nbsp; Is it okay for Christians to read stories about magic and witchcraft?... We discuss this briefly.&nbsp;<br /><br />Then:&nbsp; it's encouraging to know that God has been revealing pieces of his Truth to EVERY nation in EVERY era.&nbsp; But, when are we allowed to agree with the pagans?&nbsp; &nbsp;Or are we running the risk of compromising our faith in order to get along with more people?&nbsp; &nbsp;</p>
@@ -363,6 +363,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2810</itunes:duration>
+  
+  </item><item>
+   <title><![CDATA[John 21:15-17 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/d0d0336f-fde2-4739-8205-23352406a253/john-2115-17.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/d0d0336f-fde2-4739-8205-23352406a253/john-2115-17.mp3" length="342" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[d0d0336f-fde2-4739-8205-23352406a253]]></guid>
+   <pubDate>Mon, 02 May 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>342</itunes:duration>
   
   </item><item>
    <title><![CDATA[Mis-Inflation: The Truth about Inflation w/ Doug Wilson & David Bahnsen [CrossPolitic Show]]]></title>
@@ -1746,18 +1759,6 @@
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>647</itunes:duration>
   
-  </item><item>
-   <title><![CDATA[Psalm 32 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/08630c2b-1a27-465c-ae99-df9024ab88a1/psalm-32.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/08630c2b-1a27-465c-ae99-df9024ab88a1/psalm-32.mp3" length="304" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[08630c2b-1a27-465c-ae99-df9024ab88a1]]></guid>
-   <pubDate>Tue, 29 Mar 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>304</itunes:duration>
   </item>
  </channel>
 </rss>
