@@ -8,8 +8,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Tue, 10 May 2022 19:25:44 +0000</pubDate>
-  <lastBuildDate>Tue, 10 May 2022 19:25:44 +0000</lastBuildDate>
+  <pubDate>Wed, 11 May 2022 01:25:45 +0000</pubDate>
+  <lastBuildDate>Wed, 11 May 2022 01:25:45 +0000</lastBuildDate>
   <image>
    <url>https://prod-assets-spc1.nyc3.digitaloceanspaces.com/https%3A//is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -23,6 +23,19 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Rebuilding Culture w/Burke II [Choc Knox Unplugged]]]></title>
+   <link>https://app.dropwave.io/episode/a277d3e0-d449-4ffc-a053-352ad4926960/rebuilding-culture-wburke-ii.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/a277d3e0-d449-4ffc-a053-352ad4926960/rebuilding-culture-wburke-ii.mp3" length="8262" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[a277d3e0-d449-4ffc-a053-352ad4926960]]></guid>
+   <pubDate>Tue, 10 May 2022 21:57:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/6123b54f-ab49-406c-9cba-a39f6730fc76/cover-art/ARuuU8PixHGkhNvgtHIHIGGJjBUPNwgZEkuaGqzL.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>8262</itunes:duration>
+  </item>
   <item>
    <title><![CDATA[Vladimir [Resistance and Reformation]]]></title>
    <link>https://app.dropwave.io/episode/232cd2cf-604a-43ee-924e-6c0bc3368210/vladimir.mp3</link>
@@ -433,19 +446,6 @@
    <itunes:duration>1343</itunes:duration>
   </item>
   <item>
-   <title><![CDATA[Proverbs 23:29-35 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/35dd80c9-7cdc-4615-a1a4-b919534a4426/proverbs-2329-35.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/35dd80c9-7cdc-4615-a1a4-b919534a4426/proverbs-2329-35.mp3" length="313" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[35dd80c9-7cdc-4615-a1a4-b919534a4426]]></guid>
-   <pubDate>Thu, 05 May 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>313</itunes:duration>
-  </item>
-  <item>
    <title><![CDATA[The Medieval Mind of C. S. Lewis [The Pugcast]]]></title>
    <link>https://app.dropwave.io/episode/7f7ff506-24d0-4b40-ba06-5464783e440f/the-medieval-mind-of-c-s-lewis.mp3</link>
    <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">Today the Pugsters are happy to welcome Jason Baxter on the show! Jason is the author of a new book on C. S. Lewis entitled: The Medieval Mind of C. S. Lewis: How Great Books Shaped a Great Mind. Have you ever wondered why no one seems to come close to C. S. Lewis when it comes to apologetics and fiction (except J. R. R. Tolkien, of course). Jason Baxter knows why--C. S. Lewis had a medieval mind and all of his admirers have think like modern people. So, what does it mean to think like a Medieval man? Well, for one thing, you need to read old books, really old books. But that's just a start. Listen in and find out what else is involved. We hope you like the show!</p>
@@ -459,6 +459,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3870</itunes:duration>
+  </item>
+  <item>
+   <title><![CDATA[Proverbs 23:29-35 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/35dd80c9-7cdc-4615-a1a4-b919534a4426/proverbs-2329-35.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/35dd80c9-7cdc-4615-a1a4-b919534a4426/proverbs-2329-35.mp3" length="313" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[35dd80c9-7cdc-4615-a1a4-b919534a4426]]></guid>
+   <pubDate>Thu, 05 May 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>313</itunes:duration>
   </item>
   <item>
    <title><![CDATA[Rebuilding Culture w/Burke and Chaucer [Choc Knox Unplugged]]]></title>
@@ -859,6 +872,19 @@
    <itunes:duration>2296</itunes:duration>
   </item>
   <item>
+   <title><![CDATA[John 21:15-17 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/d0d0336f-fde2-4739-8205-23352406a253/john-2115-17.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/d0d0336f-fde2-4739-8205-23352406a253/john-2115-17.mp3" length="342" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[d0d0336f-fde2-4739-8205-23352406a253]]></guid>
+   <pubDate>Mon, 02 May 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>342</itunes:duration>
+  </item>
+  <item>
    <title><![CDATA[TCND: Harry Potter and Agreeing with Pagans (Don't Sell the Land) [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/1237fb91-8fe7-4452-98d0-eadfffe9c4a9/tcnd-harry-potter-and-agreeing-with-pagans-dont-sell-the-land.mp3</link>
    <description><![CDATA[<p>This episode is being uploaded late, due to tech difficulties. Sorry about that, Neighbor Pkarlgh!<br /><br />Our family is celebrating Cami's 11th birthday this week, but not everyone is excited about her party's theme.&nbsp; Is it okay for Christians to read stories about magic and witchcraft?... We discuss this briefly.&nbsp;<br /><br />Then:&nbsp; it's encouraging to know that God has been revealing pieces of his Truth to EVERY nation in EVERY era.&nbsp; But, when are we allowed to agree with the pagans?&nbsp; &nbsp;Or are we running the risk of compromising our faith in order to get along with more people?&nbsp; &nbsp;</p>
@@ -873,19 +899,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2810</itunes:duration>
-  </item>
-  <item>
-   <title><![CDATA[John 21:15-17 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/d0d0336f-fde2-4739-8205-23352406a253/john-2115-17.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/d0d0336f-fde2-4739-8205-23352406a253/john-2115-17.mp3" length="342" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[d0d0336f-fde2-4739-8205-23352406a253]]></guid>
-   <pubDate>Mon, 02 May 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>342</itunes:duration>
   </item>
   <item>
    <title><![CDATA[Mis-Inflation: The Truth about Inflation w/ Doug Wilson & David Bahnsen [CrossPolitic Show]]]></title>
@@ -912,6 +925,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>257</itunes:duration>
+  </item>
+  <item>
+   <title><![CDATA[Porn is Hate [Campus Preacher]]]></title>
+   <link>https://app.dropwave.io/episode/d445d759-e932-47c8-907a-abfb641affee/porn-is-hate.mp3</link>
+   <description><![CDATA[<p>Porn is ubiquitous in our culture. In this podcast, I have a couple discussions I have from campus on pornography.</p>]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/d445d759-e932-47c8-907a-abfb641affee/porn-is-hate.mp3" length="1180" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[d445d759-e932-47c8-907a-abfb641affee]]></guid>
+   <pubDate>Fri, 29 Apr 2022 11:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/931fd9c4-1c60-4949-85db-e74a6e1f88fc/cover-art/W41Xalf47AwHAGKZ8NFWFwWZDf4p6s4D421ATQH6.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1180</itunes:duration>
   </item>
   <item>
    <title><![CDATA[Daily News Brief for Friday, April 29th, 2022 [Daily News Brief]]]></title>
@@ -968,19 +994,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>974</itunes:duration>
-  </item>
-  <item>
-   <title><![CDATA[Porn is Hate [Campus Preacher]]]></title>
-   <link>https://app.dropwave.io/episode/d445d759-e932-47c8-907a-abfb641affee/porn-is-hate.mp3</link>
-   <description><![CDATA[<p>Porn is ubiquitous in our culture. In this podcast, I have a couple discussions I have from campus on pornography.</p>]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/d445d759-e932-47c8-907a-abfb641affee/porn-is-hate.mp3" length="1180" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[d445d759-e932-47c8-907a-abfb641affee]]></guid>
-   <pubDate>Fri, 29 Apr 2022 11:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/931fd9c4-1c60-4949-85db-e74a6e1f88fc/cover-art/W41Xalf47AwHAGKZ8NFWFwWZDf4p6s4D421ATQH6.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1180</itunes:duration>
   </item>
   <item>
    <title><![CDATA[1 Corinthians 15:58 [Up and Ready]]]></title>
@@ -1163,19 +1176,6 @@
    <itunes:duration>889</itunes:duration>
   </item>
   <item>
-   <title><![CDATA[Deuteronomy 17:14-20 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/f36628f1-7821-4046-9653-9d42ba0b7f2a/deuteronomy-1714-20.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/f36628f1-7821-4046-9653-9d42ba0b7f2a/deuteronomy-1714-20.mp3" length="344" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[f36628f1-7821-4046-9653-9d42ba0b7f2a]]></guid>
-   <pubDate>Thu, 28 Apr 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>344</itunes:duration>
-  </item>
-  <item>
    <title><![CDATA[Here Comes Transhumanism, Ready or Not! [The Pugcast]]]></title>
    <link>https://app.dropwave.io/episode/570ce03b-598a-4711-94b2-5792b7260d92/here-comes-transhumanism-ready-or-not.mp3</link>
    <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">Ever feel like an upgraded body would be good to have? You're not alone, and there are people who are ready to help--for a price. How about an extra 10 years of life, wouldn't that be nice? Why stop there? Why not an extra 20, or 100, or 10,000? Believe it or not, there are people who think that mortality is an engineering problem. Now here's another wrinkle, there are theologians that agree. What should we think about all of this? Today the Pugsters take up the topic of H+ (or Humanity 2.0).</p>]]></description>
@@ -1187,6 +1187,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3818</itunes:duration>
+  </item>
+  <item>
+   <title><![CDATA[Deuteronomy 17:14-20 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/f36628f1-7821-4046-9653-9d42ba0b7f2a/deuteronomy-1714-20.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/f36628f1-7821-4046-9653-9d42ba0b7f2a/deuteronomy-1714-20.mp3" length="344" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[f36628f1-7821-4046-9653-9d42ba0b7f2a]]></guid>
+   <pubDate>Thu, 28 Apr 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>344</itunes:duration>
   </item>
   <item>
    <title><![CDATA[Elon Musk saves Free Speech? Amazon Triggered w/ Matt Walsh Book [CrossPolitic Show]]]></title>
@@ -1609,6 +1622,19 @@
    <itunes:duration>1765</itunes:duration>
   </item>
   <item>
+   <title><![CDATA[John 20:30-31 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/4d2535a7-6761-41df-8806-ac09e4b4219f/john-2030-31.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/4d2535a7-6761-41df-8806-ac09e4b4219f/john-2030-31.mp3" length="278" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[4d2535a7-6761-41df-8806-ac09e4b4219f]]></guid>
+   <pubDate>Mon, 25 Apr 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>278</itunes:duration>
+  </item>
+  <item>
    <title><![CDATA[TCND: Why's Everyone Deconstructing? (Kylie Bikini) [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/489f19a7-553e-4391-83d5-77753cde265d/tcnd-why-is-everyone-deconstructing-kylie-bikini.mp3</link>
    <description><![CDATA[<p>The house is FULL of family today (especially noisy kids)--and we don't feel much like podcasting...&nbsp; But, we're doing it anyway!&nbsp; &nbsp;Tabby is at the table, and Megan grabs a mic later in the episode as well.&nbsp;</p>
@@ -1623,19 +1649,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3032</itunes:duration>
-  </item>
-  <item>
-   <title><![CDATA[John 20:30-31 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/4d2535a7-6761-41df-8806-ac09e4b4219f/john-2030-31.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/4d2535a7-6761-41df-8806-ac09e4b4219f/john-2030-31.mp3" length="278" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[4d2535a7-6761-41df-8806-ac09e4b4219f]]></guid>
-   <pubDate>Mon, 25 Apr 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>278</itunes:duration>
   </item>
   <item>
    <title><![CDATA[James White & Jared Longshore in Studio! Christian Sacrifice - The Best Defense is a Good Offense [CrossPolitic Show]]]></title>
@@ -1919,19 +1932,6 @@
    <itunes:duration>2749</itunes:duration>
   </item>
   <item>
-   <title><![CDATA[Leviticus 24:17-22 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/7b26be8e-3c00-4d80-9071-29d49d942683/leviticus-2417-22.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/7b26be8e-3c00-4d80-9071-29d49d942683/leviticus-2417-22.mp3" length="328" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[7b26be8e-3c00-4d80-9071-29d49d942683]]></guid>
-   <pubDate>Thu, 21 Apr 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>328</itunes:duration>
-  </item>
-  <item>
    <title><![CDATA[The Dumbest Generation Grows Up! : An Interview with Mark Bauerlein [The Pugcast]]]></title>
    <link>https://app.dropwave.io/episode/0b8f165e-89e3-45cb-ad85-fd740a2e0ab8/the-dumbest-generation-grows-up-an-interview-with-mark-bauerlein.mp3</link>
    <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">Today the Pugcast is joined by Mark Bauerlein, professor emeritus of English at Emory University and an editor at First Things. Mark made waves back in 2008 with his book, The Dumbest Generation: How the Digital Age Stupefies Young Americans and Jeopardizes Our Future (Or, Don&rsquo;t Trust Anyone under 30). He was accused of being a luddite, and an alarmist in those halcyon days of Web 2.0. Unfortunately for us all, he turned out to be right in many of his predictions. It wasn't so much that the millennials he describes were incorrigible so much as they were betrayed by their so-called educators and technophile utopians. Tune in and find out how bad things are and what can be done about it!</p>]]></description>
@@ -1943,6 +1943,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3689</itunes:duration>
+  </item>
+  <item>
+   <title><![CDATA[Leviticus 24:17-22 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/7b26be8e-3c00-4d80-9071-29d49d942683/leviticus-2417-22.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/7b26be8e-3c00-4d80-9071-29d49d942683/leviticus-2417-22.mp3" length="328" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[7b26be8e-3c00-4d80-9071-29d49d942683]]></guid>
+   <pubDate>Thu, 21 Apr 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>328</itunes:duration>
   </item>
   <item>
    <title><![CDATA[We the Patriots USA: Trying to save a young girl’s life [CrossPolitic Show]]]></title>
@@ -2284,6 +2297,19 @@
    <itunes:duration>1738</itunes:duration>
   </item>
   <item>
+   <title><![CDATA[Luke 24:44-49 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/b632b7f0-bc93-466b-ac44-c64dc4cbd13a/luke-2444-49.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/b632b7f0-bc93-466b-ac44-c64dc4cbd13a/luke-2444-49.mp3" length="285" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[b632b7f0-bc93-466b-ac44-c64dc4cbd13a]]></guid>
+   <pubDate>Mon, 18 Apr 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>285</itunes:duration>
+  </item>
+  <item>
    <title><![CDATA[TCND: Traffic and CS Lewis Talks Emotionalism (It Is Done) [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/a0fac868-5082-4445-bcca-cfe305dc2e04/tcnd-traffic-and-cs-lewis-talks-emotionalism-it-is-done.mp3</link>
    <description><![CDATA[<p>The Podcast Ninja (Luke) is at the table today.&nbsp; We begin by talking about how much fun comedian's have when they're driving about 10 hours, to and from a show.&nbsp;</p>
@@ -2301,19 +2327,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2854</itunes:duration>
-  </item>
-  <item>
-   <title><![CDATA[Luke 24:44-49 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/b632b7f0-bc93-466b-ac44-c64dc4cbd13a/luke-2444-49.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/b632b7f0-bc93-466b-ac44-c64dc4cbd13a/luke-2444-49.mp3" length="285" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[b632b7f0-bc93-466b-ac44-c64dc4cbd13a]]></guid>
-   <pubDate>Mon, 18 Apr 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>285</itunes:duration>
   </item>
   <item>
    <title><![CDATA[He is Risen! Discipleship & Immigration, Elon Musk w/ Classical Conversations [CrossPolitic Show]]]></title>
@@ -3046,6 +3059,19 @@
    <itunes:duration>1203</itunes:duration>
   </item>
   <item>
+   <title><![CDATA[Luke 19:28-40 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/2cac7e6d-a287-4440-a2ba-50ed0d99d95c/luke-1928-40.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/2cac7e6d-a287-4440-a2ba-50ed0d99d95c/luke-1928-40.mp3" length="273" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[2cac7e6d-a287-4440-a2ba-50ed0d99d95c]]></guid>
+   <pubDate>Mon, 11 Apr 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>273</itunes:duration>
+  </item>
+  <item>
    <title><![CDATA[TCND: Stress, Hollywood, and Osteen (Stinkbug on the Wall) [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/2ee3fd88-5345-4987-95be-4e5f92bdc66b/tcnd-stress-hollywood-and-osteen-stinkbug-on-the-wall.mp3</link>
    <description><![CDATA[<p>The Comedian and The Peaches are talking about heartrate and stress.&nbsp; &nbsp;Apparently, it's possible for your body to be stressed without your mind being aware of it. Who knew?</p>
@@ -3064,19 +3090,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2835</itunes:duration>
-  </item>
-  <item>
-   <title><![CDATA[Luke 19:28-40 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/2cac7e6d-a287-4440-a2ba-50ed0d99d95c/luke-1928-40.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/2cac7e6d-a287-4440-a2ba-50ed0d99d95c/luke-1928-40.mp3" length="273" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[2cac7e6d-a287-4440-a2ba-50ed0d99d95c]]></guid>
-   <pubDate>Mon, 11 Apr 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>273</itunes:duration>
   </item>
   <item>
    <title><![CDATA[Liberty Tour South Dakota: No Christ, No Freedom [CrossPolitic Show]]]></title>
@@ -3265,19 +3278,6 @@
    <itunes:duration>782</itunes:duration>
   </item>
   <item>
-   <title><![CDATA[Proverbs 4:20-27 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/b80f8539-db1f-4ad8-ada3-a7da4a22d2ef/proverbs-420-27.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/b80f8539-db1f-4ad8-ada3-a7da4a22d2ef/proverbs-420-27.mp3" length="287" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[b80f8539-db1f-4ad8-ada3-a7da4a22d2ef]]></guid>
-   <pubDate>Thu, 07 Apr 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>287</itunes:duration>
-  </item>
-  <item>
    <title><![CDATA[Varieties of Relativism [The Pugcast]]]></title>
    <link>https://app.dropwave.io/episode/d7a2521d-8879-4920-b4f7-7d3defa0a798/varieties-of-relativism.mp3</link>
    <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">Tom introduces one of the driving assumptions that is underwriting the flux and chaos of current social trends: the assumption that truth is relative, perspectival, unable to be attained apart from our individual or group filters. The guys join in with many historical and contemporary insights into some key figures and ideas which have played into the rise and dominance of contemporary relativism and they set forth some initial steps in engaging it from a rich Christian vision.</p>
@@ -3292,6 +3292,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>4127</itunes:duration>
+  </item>
+  <item>
+   <title><![CDATA[Proverbs 4:20-27 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/b80f8539-db1f-4ad8-ada3-a7da4a22d2ef/proverbs-420-27.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/b80f8539-db1f-4ad8-ada3-a7da4a22d2ef/proverbs-420-27.mp3" length="287" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[b80f8539-db1f-4ad8-ada3-a7da4a22d2ef]]></guid>
+   <pubDate>Thu, 07 Apr 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>287</itunes:duration>
   </item>
   <item>
    <title><![CDATA[The Patriarchy Podcast: Above All, Part 1 (Ep 66) [The Patriarchy Podcast]]]></title>
@@ -4001,6 +4014,19 @@
    <itunes:duration>3044</itunes:duration>
   </item>
   <item>
+   <title><![CDATA[Francis Schaeffer & Pre-Evangelism [Campus Preacher]]]></title>
+   <link>https://app.dropwave.io/episode/c6a72144-d434-4b15-a2bb-93639e4e24f7/francis-schaeffer-pre-evangelism.mp3</link>
+   <description><![CDATA[<p>Francis Schaeffer introduced me to the idea of pre-evangelism, which is an attempt to find a point of contact and tension in your neighbors non-Christian philosophy and then seeking to apply the Gospel to their life. This is a dialogue I had with a young woman on a campus, which is my attempt at some pre-evangelism.&nbsp;</p>]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Keith Darrell)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/c6a72144-d434-4b15-a2bb-93639e4e24f7/francis-schaeffer-pre-evangelism.mp3" length="2211" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[c6a72144-d434-4b15-a2bb-93639e4e24f7]]></guid>
+   <pubDate>Thu, 31 Mar 2022 11:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/931fd9c4-1c60-4949-85db-e74a6e1f88fc/cover-art/W41Xalf47AwHAGKZ8NFWFwWZDf4p6s4D421ATQH6.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2211</itunes:duration>
+  </item>
+  <item>
    <title><![CDATA[Daily News Brief for Thursday, March 31st, 2022 [Daily News Brief]]]></title>
    <link>https://app.dropwave.io/episode/e09e90eb-7e09-4037-bdf8-c78064ebe413/daily-news-brief-for-thursday-march-31st-2022.mp3</link>
    <description><![CDATA[<p class="p3" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';"><strong>Officials clear second Covid booster shots for those 50 and older, and some immunocompromised people.</strong></p>
@@ -4027,19 +4053,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>845</itunes:duration>
-  </item>
-  <item>
-   <title><![CDATA[Francis Schaeffer & Pre-Evangelism [Campus Preacher]]]></title>
-   <link>https://app.dropwave.io/episode/c6a72144-d434-4b15-a2bb-93639e4e24f7/francis-schaeffer-pre-evangelism.mp3</link>
-   <description><![CDATA[<p>Francis Schaeffer introduced me to the idea of pre-evangelism, which is an attempt to find a point of contact and tension in your neighbors non-Christian philosophy and then seeking to apply the Gospel to their life. This is a dialogue I had with a young woman on a campus, which is my attempt at some pre-evangelism.&nbsp;</p>]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Keith Darrell)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/c6a72144-d434-4b15-a2bb-93639e4e24f7/francis-schaeffer-pre-evangelism.mp3" length="2211" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[c6a72144-d434-4b15-a2bb-93639e4e24f7]]></guid>
-   <pubDate>Thu, 31 Mar 2022 11:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/931fd9c4-1c60-4949-85db-e74a6e1f88fc/cover-art/W41Xalf47AwHAGKZ8NFWFwWZDf4p6s4D421ATQH6.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2211</itunes:duration>
   </item>
   <item>
    <title><![CDATA[In Defense of Mysticism [The Pugcast]]]></title>
@@ -4092,105 +4105,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/1c3a97bd-65b0-4aec-bb35-3a1b6eec5d2c/cover-art/4rDIhLUsGj1xuXpLJYNdtwtbungA78glNHA7dOd9.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3321</itunes:duration>
-  </item>
-  <item>
-   <title><![CDATA[Daily News Brief for Wednesday, March 30th, 2022 [Daily News Brief]]]></title>
-   <link>https://app.dropwave.io/episode/c8d5e7ed-d422-4c9b-8142-30c67ed5fc9e/daily-news-brief-for-wednesday-march-30th-2022.mp3</link>
-   <description><![CDATA[<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Daily News Brief for Wednesday March 30th, 2022</span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">As you share this news brief and join our club at FLFNetwork.com, make sure you tell your friends about us. Sending a magazine subscription to the Whitehouse would be a big help to us:)&nbsp;</span></p>
-<p><strong id="docs-internal-guid-a3fbb9db-7fff-f6a2-13de-47a4b17d72e7" style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Iron Apples DNB:&nbsp;</span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The world in which we live is moving towards total techno tyranny at an incredible rate. This tyranny includes spying, censorship, data theft all through electronic means. Iron Apples is a small cybersecurity consultancy firm seeking to give churches, organizations, businesses, schools and individuals the education, resources and tools needed to be able to circumvent techno tyranny. Over the next year, Iron Apples will be hosting a series of virtual meetings to inform, educate and equip attendees with actual solutions to the problem we find ourselves in. Visit ironapples.com, and click events, in the bottom right corner of their site, to sign up today! That&rsquo;s ironapples.com.&nbsp;</span></p>
-<p><strong style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">NFL To Require All 32 Teams To Hire Minority Offensive Assistant Coach For 2022 Season</span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><a style="text-decoration: none;" href="https://www.dailywire.com/news/report-nfl-to-require-all-32-teams-to-hire-minority-offensive-assistant-coach-for-2022-season"><span style="font-size: 11pt; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: underline; text-decoration-skip: none; vertical-align: baseline; white-space: pre-wrap;">https://www.dailywire.com/news/report-nfl-to-require-all-32-teams-to-hire-minority-offensive-assistant-coach-for-2022-season</span></a></p>
-<p><strong style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">&ldquo;On Monday, the NFL announced that every team will be required to hire a minority assistant coach on the offensive staff, according to NFL.com. The individual can be a minority or a female, and will be signed to a one-year deal, partially paid from a league-wide fund.</span></p>
-<p><strong style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">&ldquo;It&rsquo;s a recognition that at the moment, when you look at stepping stones for a head coach, they are the coordinator positions,&rdquo; said Pittsburgh Steelers owner Art Rooney II, chairman of the NFL Diversity, Equity and Inclusion committee. &ldquo;We clearly have a trend where coaches are coming from the offensive side of the ball in recent years, and we clearly do not have as many minorities in the offensive coordinator [job].&rdquo;</span></p>
-<p><strong style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Earlier in the day, Pittsburgh Steelers Head Coach Mike Tomlin &mdash; who hired Flores to his staff during the offseason &mdash; expressed doubt that the new measures would have an impact on increasing the number of diversity hires in the NFL coaching ranks.&nbsp;</span></p>
-<p><strong style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">&ldquo;I haven&rsquo;t been in any discussions, and, no, I don&rsquo;t have a level of confidence that would lead me to believe that things are going to be better,&rdquo; Tomlin said. &ldquo;I&rsquo;m more of a show-me guy as opposed to a guy that sits around and talks about things.&rdquo;</span></p>
-<p><strong style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Also on Monday, the league announced the creation of the NFL Diversity Advisory Committee.&nbsp;</span></p>
-<p><strong style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">&ldquo;Today, the National Football League (NFL) announced the creation of the NFL Diversity Advisory Committee, following its pledge last month to retain outside experts to review the league&rsquo;s diversity policies and practices,&rdquo; the NFL said in a press release. &ldquo;The six-member committee will lend its expert, external perspective on industry best practices and will evaluate league and club diversity, equity and inclusion (DEI) strategies and initiatives, including all hiring processes, policies and procedures, with a primary focus on senior-level coach and front office personnel positions.&rdquo;</span></p>
-<p><strong style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Let me just say this. All this diversity and inclusion stuff has not solved any of the problems that they originally set out to solve. Also, how insulting and belittling is this forced hire. How do they know they got the job based on their abilities and not based on the color of their skin.&nbsp;</span></p>
-<p><strong style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Judgment in Finnish MP&rsquo;s Bible-tweet trial expected on 30th March</span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><a style="text-decoration: none;" href="https://adfinternational.org/aviso-judgment-in-finnish-mps-bible-tweet-trial-expected-on-30th-march/"><span style="font-size: 11pt; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: underline; text-decoration-skip: none; vertical-align: baseline; white-space: pre-wrap;">https://adfinternational.org/aviso-judgment-in-finnish-mps-bible-tweet-trial-expected-on-30th-march/</span></a></p>
-<p><strong style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">According to ADF International:&nbsp;</span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">&ldquo;A Finnish court is expected to rule on the Finnish MP P&auml;ivi R&auml;s&auml;nen and Bishop Juhana Pohjola&rsquo;s free speech case on 30th March. Both stand accused of having engaged in &ldquo;hate speech&rdquo; for publicly sharing their faith-based beliefs. The former Minister of the Interior had voiced her convictions on marriage and sexual ethics, in a 2019 tweet, a 2019 radio debate, and a 2004 pamphlet. The bishop faces charges for publishing R&auml;s&auml;nen&rsquo;s pamphlet. Their case garnered global media attention this year, as human rights experts voiced concern over the threat this case poses to free speech in Finland.&nbsp;</span></p>
-<p><strong style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">&ldquo;In a free society, everyone should be allowed to share their beliefs without fear of censorship. This is the foundation of every free and democratic society. We hope the Helsinki District Court will uphold this fundamental freedom when it rules on this case. Criminalizing speech through so-called &lsquo;hate-speech&rsquo; laws shuts down important public debates and poses a grave threat to our democracies,&rdquo; said Paul Coleman, Executive Director of ADF International and author of &lsquo;Censored: How European Hate Speech Laws are Threatening Freedom of Speech&rsquo;.&nbsp;</span></p>
-<p><strong style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">In the last two years, R&auml;s&auml;nen attended several lengthy police interrogations about her Christian beliefs &ndash; including being frequently asked by the police to explain her understanding of the Bible. In April 2021, Finland&rsquo;s Prosecutor General had brought three criminal charges against R&auml;s&auml;nen. Two of the three charges R&auml;s&auml;nen faced had come after the police made strong recommendations not to continue the prosecution. R&auml;s&auml;nen&rsquo;s statements also did not violate the policies of Twitter or the national broadcaster, which is why they remained freely available on their platforms.</span></p>
-<p><strong style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">ADF International will host a press conference after the verdict is announced on 30th March at 16:00 CEST. Dr. P&auml;ivi R&auml;s&auml;nen, MP, Paul Coleman, Executive Director of ADF International, and Lorc&aacute;n Price, Legal Counsel for ADF International will be available for questions after their statements. Please register here to access the Zoom link: https://adfinternational.org/paivi-press-conference-invitation/ &ldquo;</span></p>
-<p><strong style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">In other news President Biden identifies himself as a capitalist and his capitalist pronouns are Greed/2+2=5.&nbsp;</span></p>
-<p><strong style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Roll whole clip: </span><a style="text-decoration: none;" href="https://twitter.com/Breaking911/status/1508545216927735814"><span style="font-size: 11pt; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: underline; text-decoration-skip: none; vertical-align: baseline; white-space: pre-wrap;">https://twitter.com/Breaking911/status/1508545216927735814</span></a></p>
-<p><strong style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">&ldquo;Pay your fair share&rdquo;. Why is it that a billionaire is greedy and our federal government, who oversees a four Trillion dollar budget, is not greedy?&nbsp;</span></p>
-<p><strong style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Rapid City Plug</span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">We hope to see you at our live show April 7th in Rapid City with Uncle Gary, and our opener Comedian John Branya. We will have a full day workshop on God and Government, and then that night comedian John Branyan will open our live show, and then we will go right into CrossPolitic&rsquo;s ESPN meets Johnny Cash meets Uncle Gary wrestling match. Sign up here: https://crosspolitic.com/rapid-city/ and we will see you there. And if you want to sponsor the event, reach out to us at contact@FightLaughFeast.com and we will connect you with the event planner. It could potentially land you tickets to having dinner with us.&nbsp;</span></p>
-<p><strong style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Washington state plans to ban most non-electric vehicles by 2030</span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><a style="text-decoration: none;" href="https://www.nbcnews.com/news/us-news/washington-state-plans-ban-non-electric-vehicles-2030-rcna21683"><span style="font-size: 11pt; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: underline; text-decoration-skip: none; vertical-align: baseline; white-space: pre-wrap;">https://www.nbcnews.com/news/us-news/washington-state-plans-ban-non-electric-vehicles-2030-rcna21683</span></a></p>
-<p><strong style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">File this article under, please liberals do more of this.&nbsp;</span></p>
-<p><strong style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">According to NBC News:&nbsp;</span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">&ldquo;Washington state plans to ban most non-electric vehicles by 2030, according to a newly signed bill by Gov. Jay Inslee.</span></p>
-<p><strong style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The bill says that all vehicles of the model year 2030 or later that are sold, purchased, or registered in the state must be electric.</span></p>
-<p><strong style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The bill covers a lot of transportation issues in the state and is a part of a larger $16.9 billion transportation package called &ldquo;Move Ahead Washington," which Inslee described as a way to create more efficient transportation options.</span></p>
-<p><strong style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">"Transportation is our state&rsquo;s largest source of greenhouse gas emissions. There is no way to talk about climate change without talking about transportation," Inslee said. "This package will move us away from the transportation system our grandparents imagined and towards the transportation system our grandchildren dream of."</span></p>
-<p><strong style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Also included in the transportation package is funding for four new hybrid-electric ferries, thousands of electric vehicle charging stations, 25 transit electrification projects across the state, as well as free fares for riders 18 and younger on public transportation systems, according to a Medium post the governor wrote on Friday.&rdquo;</span></p>
-<p><strong style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">As Garrison reported on yesterday, the Don&rsquo;t Say Gay Bill Drama Continues&hellip;</span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Roll Clip: </span><a style="text-decoration: none;" href="https://www.dailywire.com/news/gay-florida-kindergarten-teacher-worries-on-msnbc-he-wont-be-able-to-share-his-love-life-with-kids-anymore"><span style="font-size: 11pt; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: underline; text-decoration-skip: none; vertical-align: baseline; white-space: pre-wrap;">https://www.dailywire.com/news/gay-florida-kindergarten-teacher-worries-on-msnbc-he-wont-be-able-to-share-his-love-life-with-kids-anymore</span></a></p>
-<p><strong style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">A couple things here. Of course you are not to be trusted. You are going against God and against creation, and what you are doing is harming your soul.&nbsp; Secondly, The left are absolutely lying and misrepresenting this bill. This bill is not outlawying you from talking about paddle boarding trips. This bill is outlawing you from grooming students. The word &ldquo;gay&rdquo; is not even mentionened in the bill. This is how the left are the liars we deserve, and anything that touches up to their worldview, they will attack, malign, and even slap you in the face like Will Smith.&nbsp;</span></p>
-<p><strong style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">File this next one under Republican Governors are cowards:</span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Utah's Republican Governor Vetoes Bill Banning Men From Women's Sports, Utah Legislature Overturns The Veto</span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><a style="text-decoration: none;" href="https://notthebee.com/article/utahs-republican-governor-vetoed-a-bill-banning-men-from-womens-sports-utah-legislature-overturns-the-veto"><span style="font-size: 11pt; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: underline; text-decoration-skip: none; vertical-align: baseline; white-space: pre-wrap;">https://notthebee.com/article/utahs-republican-governor-vetoed-a-bill-banning-men-from-womens-sports-utah-legislature-overturns-the-veto</span></a></p>
-<p><strong style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">According to the Bee:</span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">&ldquo;After Utah Governor Spencer Cox, who included his pronouns in his Instagram account, cowardly vetoed a bill that would prevent men from competing in women's sports under the guise of transgenderism, the Utah legislature stood up and defied the RINO governor.&rdquo;</span></p>
-<p><strong style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">From the Washington Times:</span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">&ldquo;The Utah State Legislature voted Friday to override Republican Gov. Spencer Cox's veto of a bill barring male-born athletes from girls' scholastic sports, becoming the 12th state to pass legislation to address rising concerns over transgender competitors in female athletics.</span></p>
-<p><strong style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The Senate voted 21-8 and the House voted 56-18 to override the governor's veto, clearing the required threshold of a two-thirds majority in both chambers in what was a widely anticipated outcome.</span></p>
-<p><strong style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The bill sponsored by Republican state Rep. Kera Birkeland requires public schools and private schools that compete against public schools to designate sports as male, female or co-ed. Male-born students are banned from competing on girls' teams.&rdquo;</span></p>
-<p><strong style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">&ldquo;The Democrat opposition to the bill, as cited in the Washington Times, shows how far detached from reality the left is:</span></p>
-<p><strong style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Democratic state Rep. Brian King argued that "things are simply not black and white in terms of gender orientation, sexual orientation, gender identification."</span></p>
-<p><strong style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">"It's simply not accurate to say that girls are girls and boys are boys, and never the two shall meet," he said. "There is in fact a lot that is unknown."</span></p>
-<p><strong style="font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: #000000; color: #000000; font-weight: normal;">&nbsp;</strong></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Closing</span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">This is Gabriel Rench with Crosspolitic News. Support Rowdy Christian media by joining our club at fightlaughfeast.com, downloading our App, and head to our annual Fight Laugh Feast Events. With your partnership, together we will fight outdated and compromised media, engage news and politics with the gospel, and replace lies and darkness with truth and light. Go to fightlaughfeast.com to take all these actions. Have a great day. Lord bless&nbsp;</span></p>]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/c8d5e7ed-d422-4c9b-8142-30c67ed5fc9e/daily-news-brief-for-wednesday-march-30th-2022.mp3" length="960" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[c8d5e7ed-d422-4c9b-8142-30c67ed5fc9e]]></guid>
-   <pubDate>Wed, 30 Mar 2022 11:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>960</itunes:duration>
   </item>
  </channel>
 </rss>
