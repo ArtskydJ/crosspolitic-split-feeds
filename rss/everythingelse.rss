@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 16 May 2022 13:25:45 +0000</pubDate>
-  <lastBuildDate>Mon, 16 May 2022 13:25:45 +0000</lastBuildDate>
+  <pubDate>Mon, 16 May 2022 19:25:46 +0000</pubDate>
+  <lastBuildDate>Mon, 16 May 2022 19:25:46 +0000</lastBuildDate>
   <image>
    <url>https://prod-assets-spc1.nyc3.digitaloceanspaces.com/https%3A//is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -26,6 +26,19 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Developing [In the Bullpen]]]></title>
+   <link>https://app.dropwave.io/episode/eb571e42-d6a2-4539-a505-38fb0182ad97/developing.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/eb571e42-d6a2-4539-a505-38fb0182ad97/developing.mp3" length="1701" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[eb571e42-d6a2-4539-a505-38fb0182ad97]]></guid>
+   <pubDate>Mon, 16 May 2022 16:15:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1701</itunes:duration>
+  
+  </item><item>
    <title><![CDATA[TCND: On Stage Disasters and Parenting Bad Moods (Show Must Go On) [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/9f2a79f0-e65c-4c2e-ba7b-ae0351ee8dd6/on-stage-disasters-and-parenting-bad-moods-show-must-go-on.mp3</link>
    <description><![CDATA[<p>Welcome to the table, Neighbor! Go ahead and take the Peaches' seat because she's not using it much.&nbsp; There's too much parenting to do!<br /><br />Meanwhile, John wants to tell you about some of his terrible experiences with comedy shows this week.&nbsp; (But, really, the terrible shows make for the best stories.)<br /><br />Also--we got an email this week. Thanks for sending us details about your childlike joys!&nbsp;</p>
@@ -1784,7 +1797,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1831</itunes:duration>
-  
   </item>
  </channel>
 </rss>
