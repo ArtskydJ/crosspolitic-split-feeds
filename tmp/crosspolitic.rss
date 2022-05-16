@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 16 May 2022 01:25:44 +0000</pubDate>
-  <lastBuildDate>Mon, 16 May 2022 01:25:44 +0000</lastBuildDate>
+  <pubDate>Mon, 16 May 2022 07:25:44 +0000</pubDate>
+  <lastBuildDate>Mon, 16 May 2022 07:25:44 +0000</lastBuildDate>
   <image>
    <url>https://prod-assets-spc1.nyc3.digitaloceanspaces.com/https%3A//is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -25,6 +25,19 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[The Battle for the American Mind w/ ACCS President David Goodwin in Studio! [CrossPolitic Show]]]></title>
+   <link>https://app.dropwave.io/episode/fa3a4a87-cae4-4905-b4a4-5ab680e500ae/the-battle-for-the-american-mind-w-accs-president-david-goodwin-in-studio.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/fa3a4a87-cae4-4905-b4a4-5ab680e500ae/the-battle-for-the-american-mind-w-accs-president-david-goodwin-in-studio.mp3" length="3989" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[fa3a4a87-cae4-4905-b4a4-5ab680e500ae]]></guid>
+   <pubDate>Mon, 16 May 2022 02:30:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3989</itunes:duration>
+  </item>
   <item>
    <title><![CDATA[Revelation 7:9-12 [Up and Ready]]]></title>
    <link>https://app.dropwave.io/episode/36b6e475-cc0a-41ed-be7b-c14ae452be99/revelation-79-12.mp3</link>
@@ -940,6 +953,19 @@
    <itunes:duration>1343</itunes:duration>
   </item>
   <item>
+   <title><![CDATA[Proverbs 23:29-35 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/35dd80c9-7cdc-4615-a1a4-b919534a4426/proverbs-2329-35.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/35dd80c9-7cdc-4615-a1a4-b919534a4426/proverbs-2329-35.mp3" length="313" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[35dd80c9-7cdc-4615-a1a4-b919534a4426]]></guid>
+   <pubDate>Thu, 05 May 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>313</itunes:duration>
+  </item>
+  <item>
    <title><![CDATA[The Medieval Mind of C. S. Lewis [The Pugcast]]]></title>
    <link>https://app.dropwave.io/episode/7f7ff506-24d0-4b40-ba06-5464783e440f/the-medieval-mind-of-c-s-lewis.mp3</link>
    <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">Today the Pugsters are happy to welcome Jason Baxter on the show! Jason is the author of a new book on C. S. Lewis entitled: The Medieval Mind of C. S. Lewis: How Great Books Shaped a Great Mind. Have you ever wondered why no one seems to come close to C. S. Lewis when it comes to apologetics and fiction (except J. R. R. Tolkien, of course). Jason Baxter knows why--C. S. Lewis had a medieval mind and all of his admirers have think like modern people. So, what does it mean to think like a Medieval man? Well, for one thing, you need to read old books, really old books. But that's just a start. Listen in and find out what else is involved. We hope you like the show!</p>
@@ -953,19 +979,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3870</itunes:duration>
-  </item>
-  <item>
-   <title><![CDATA[Proverbs 23:29-35 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/35dd80c9-7cdc-4615-a1a4-b919534a4426/proverbs-2329-35.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/35dd80c9-7cdc-4615-a1a4-b919534a4426/proverbs-2329-35.mp3" length="313" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[35dd80c9-7cdc-4615-a1a4-b919534a4426]]></guid>
-   <pubDate>Thu, 05 May 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>313</itunes:duration>
   </item>
   <item>
    <title><![CDATA[Rebuilding Culture w/Burke and Chaucer [Choc Knox Unplugged]]]></title>
@@ -1670,19 +1683,6 @@
    <itunes:duration>889</itunes:duration>
   </item>
   <item>
-   <title><![CDATA[Here Comes Transhumanism, Ready or Not! [The Pugcast]]]></title>
-   <link>https://app.dropwave.io/episode/570ce03b-598a-4711-94b2-5792b7260d92/here-comes-transhumanism-ready-or-not.mp3</link>
-   <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">Ever feel like an upgraded body would be good to have? You're not alone, and there are people who are ready to help--for a price. How about an extra 10 years of life, wouldn't that be nice? Why stop there? Why not an extra 20, or 100, or 10,000? Believe it or not, there are people who think that mortality is an engineering problem. Now here's another wrinkle, there are theologians that agree. What should we think about all of this? Today the Pugsters take up the topic of H+ (or Humanity 2.0).</p>]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/570ce03b-598a-4711-94b2-5792b7260d92/here-comes-transhumanism-ready-or-not.mp3" length="3818" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[570ce03b-598a-4711-94b2-5792b7260d92]]></guid>
-   <pubDate>Thu, 28 Apr 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3818</itunes:duration>
-  </item>
-  <item>
    <title><![CDATA[Deuteronomy 17:14-20 [Up and Ready]]]></title>
    <link>https://app.dropwave.io/episode/f36628f1-7821-4046-9653-9d42ba0b7f2a/deuteronomy-1714-20.mp3</link>
    <description><![CDATA[]]></description>
@@ -1694,6 +1694,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>344</itunes:duration>
+  </item>
+  <item>
+   <title><![CDATA[Here Comes Transhumanism, Ready or Not! [The Pugcast]]]></title>
+   <link>https://app.dropwave.io/episode/570ce03b-598a-4711-94b2-5792b7260d92/here-comes-transhumanism-ready-or-not.mp3</link>
+   <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">Ever feel like an upgraded body would be good to have? You're not alone, and there are people who are ready to help--for a price. How about an extra 10 years of life, wouldn't that be nice? Why stop there? Why not an extra 20, or 100, or 10,000? Believe it or not, there are people who think that mortality is an engineering problem. Now here's another wrinkle, there are theologians that agree. What should we think about all of this? Today the Pugsters take up the topic of H+ (or Humanity 2.0).</p>]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/570ce03b-598a-4711-94b2-5792b7260d92/here-comes-transhumanism-ready-or-not.mp3" length="3818" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[570ce03b-598a-4711-94b2-5792b7260d92]]></guid>
+   <pubDate>Thu, 28 Apr 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3818</itunes:duration>
   </item>
   <item>
    <title><![CDATA[Elon Musk saves Free Speech? Amazon Triggered w/ Matt Walsh Book [CrossPolitic Show]]]></title>
@@ -1871,19 +1884,6 @@
    <itunes:duration>3739</itunes:duration>
   </item>
   <item>
-   <title><![CDATA[Myth [Resistance and Reformation]]]></title>
-   <link>https://app.dropwave.io/episode/c789087b-3341-4ac1-a925-6163357ed2f4/myth.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Dr. George Grant)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/c789087b-3341-4ac1-a925-6163357ed2f4/myth.mp3" length="633" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[c789087b-3341-4ac1-a925-6163357ed2f4]]></guid>
-   <pubDate>Tue, 26 Apr 2022 11:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>633</itunes:duration>
-  </item>
-  <item>
    <title><![CDATA[Daily News Brief for Tuesday, April 26th, 2022 [Daily News Brief]]]></title>
    <link>https://app.dropwave.io/episode/3fd3e0a3-6d01-480b-a791-347d59f2dab1/daily-news-brief-for-tuesday-april-26th-2022.mp3</link>
    <description><![CDATA[<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">&hellip; and more on today&rsquo;s CrossPolitic Daily News Brief. This is Toby Sumpter. Today is Tuesday, April 26, 2022.&nbsp;</span></p>
@@ -1984,6 +1984,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1334</itunes:duration>
+  </item>
+  <item>
+   <title><![CDATA[Myth [Resistance and Reformation]]]></title>
+   <link>https://app.dropwave.io/episode/c789087b-3341-4ac1-a925-6163357ed2f4/myth.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Dr. George Grant)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/c789087b-3341-4ac1-a925-6163357ed2f4/myth.mp3" length="633" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[c789087b-3341-4ac1-a925-6163357ed2f4]]></guid>
+   <pubDate>Tue, 26 Apr 2022 11:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>633</itunes:duration>
   </item>
   <item>
    <title><![CDATA[Numbers 25:1-3 [Up and Ready]]]></title>
@@ -3553,6 +3566,19 @@
    <itunes:duration>1203</itunes:duration>
   </item>
   <item>
+   <title><![CDATA[Luke 19:28-40 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/2cac7e6d-a287-4440-a2ba-50ed0d99d95c/luke-1928-40.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/2cac7e6d-a287-4440-a2ba-50ed0d99d95c/luke-1928-40.mp3" length="273" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[2cac7e6d-a287-4440-a2ba-50ed0d99d95c]]></guid>
+   <pubDate>Mon, 11 Apr 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>273</itunes:duration>
+  </item>
+  <item>
    <title><![CDATA[TCND: Stress, Hollywood, and Osteen (Stinkbug on the Wall) [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/2ee3fd88-5345-4987-95be-4e5f92bdc66b/tcnd-stress-hollywood-and-osteen-stinkbug-on-the-wall.mp3</link>
    <description><![CDATA[<p>The Comedian and The Peaches are talking about heartrate and stress.&nbsp; &nbsp;Apparently, it's possible for your body to be stressed without your mind being aware of it. Who knew?</p>
@@ -3571,19 +3597,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2835</itunes:duration>
-  </item>
-  <item>
-   <title><![CDATA[Luke 19:28-40 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/2cac7e6d-a287-4440-a2ba-50ed0d99d95c/luke-1928-40.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/2cac7e6d-a287-4440-a2ba-50ed0d99d95c/luke-1928-40.mp3" length="273" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[2cac7e6d-a287-4440-a2ba-50ed0d99d95c]]></guid>
-   <pubDate>Mon, 11 Apr 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>273</itunes:duration>
   </item>
   <item>
    <title><![CDATA[Liberty Tour South Dakota: No Christ, No Freedom [CrossPolitic Show]]]></title>
@@ -4285,19 +4298,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/9a91d446-3705-4f98-82b1-d7b3694992a6/cover-art/xe6REFEoqrGFOgYTaBYdk0KmlmmyDAl01AEOu3Q4.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1273</itunes:duration>
-  </item>
-  <item>
-   <title><![CDATA[Are You Ready? [In the Bullpen]]]></title>
-   <link>https://app.dropwave.io/episode/52ef9b4b-8c85-4393-ac6e-27621734415e/are-you-ready.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/52ef9b4b-8c85-4393-ac6e-27621734415e/are-you-ready.mp3" length="1084" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[52ef9b4b-8c85-4393-ac6e-27621734415e]]></guid>
-   <pubDate>Mon, 04 Apr 2022 16:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1084</itunes:duration>
   </item>
  </channel>
 </rss>
