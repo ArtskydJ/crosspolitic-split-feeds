@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Sat, 21 May 2022 07:25:46 +0000</pubDate>
-  <lastBuildDate>Sat, 21 May 2022 07:25:46 +0000</lastBuildDate>
+  <pubDate>Sat, 21 May 2022 13:25:49 +0000</pubDate>
+  <lastBuildDate>Sat, 21 May 2022 13:25:49 +0000</lastBuildDate>
   <image>
    <url>https://prod-assets-spc1.nyc3.digitaloceanspaces.com/https%3A//is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -26,6 +26,19 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Revelation 21:1-6 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/c7f68f9e-e7ff-4ccc-b583-858d74ae5f1c/revelation-211-6.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/c7f68f9e-e7ff-4ccc-b583-858d74ae5f1c/revelation-211-6.mp3" length="346" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[c7f68f9e-e7ff-4ccc-b583-858d74ae5f1c]]></guid>
+   <pubDate>Sat, 21 May 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>346</itunes:duration>
+  
+  </item><item>
    <title><![CDATA[Deuteronomy 20:1-4 [Up and Ready]]]></title>
    <link>https://app.dropwave.io/episode/f428dcb4-5400-445c-a422-0c5ee88c2139/deuteronomy-201-4.mp3</link>
    <description><![CDATA[]]></description>
@@ -95,19 +108,6 @@
    <itunes:duration>3979</itunes:duration>
   
   </item><item>
-   <title><![CDATA[Acts 11:17-18 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/05892cdb-ecab-406f-9fb8-e673f39491ab/acts-1117-18.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/05892cdb-ecab-406f-9fb8-e673f39491ab/acts-1117-18.mp3" length="264" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[05892cdb-ecab-406f-9fb8-e673f39491ab]]></guid>
-   <pubDate>Thu, 19 May 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>264</itunes:duration>
-  
-  </item><item>
    <title><![CDATA[TCND BONUS CONTENT,  Starving Comics Impersonations and Accents [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/bb0dc72b-5304-450f-b381-84744d2688d6/tcnd-bonus-content-starving-comics-impersonations-and-accents.mp3</link>
    <description><![CDATA[<p>Every Sunday evening, at 7:00pm Eastern Time, John Branyan and his funny friends host a LIVE comedy show on YouTube.&nbsp; If you're not watching the Starving Comics Quarantine Show, here's what you've been missing...</p>
@@ -122,6 +122,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/hAhAjPXUdrlSQwjTKdMyxTuxGlHNT6ufw6Hp5spc.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2846</itunes:duration>
+  
+  </item><item>
+   <title><![CDATA[Acts 11:17-18 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/05892cdb-ecab-406f-9fb8-e673f39491ab/acts-1117-18.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/05892cdb-ecab-406f-9fb8-e673f39491ab/acts-1117-18.mp3" length="264" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[05892cdb-ecab-406f-9fb8-e673f39491ab]]></guid>
+   <pubDate>Thu, 19 May 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>264</itunes:duration>
   
   </item><item>
    <title><![CDATA[What Is Post Millennialism? [The Rebel Podcast]]]></title>
@@ -196,19 +209,6 @@
    <itunes:duration>1701</itunes:duration>
   
   </item><item>
-   <title><![CDATA[Isaiah 55:6-11 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/10e12b05-3027-45b1-b2a1-108bac780634/isaiah-556-11.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/10e12b05-3027-45b1-b2a1-108bac780634/isaiah-556-11.mp3" length="218" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[10e12b05-3027-45b1-b2a1-108bac780634]]></guid>
-   <pubDate>Mon, 16 May 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>218</itunes:duration>
-  
-  </item><item>
    <title><![CDATA[TCND: On Stage Disasters and Parenting Bad Moods (Show Must Go On) [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/9f2a79f0-e65c-4c2e-ba7b-ae0351ee8dd6/on-stage-disasters-and-parenting-bad-moods-show-must-go-on.mp3</link>
    <description><![CDATA[<p>Welcome to the table, Neighbor! Go ahead and take the Peaches' seat because she's not using it much.&nbsp; There's too much parenting to do!<br /><br />Meanwhile, John wants to tell you about some of his terrible experiences with comedy shows this week.&nbsp; (But, really, the terrible shows make for the best stories.)<br /><br />Also--we got an email this week. Thanks for sending us details about your childlike joys!&nbsp;</p>
@@ -221,6 +221,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2761</itunes:duration>
+  
+  </item><item>
+   <title><![CDATA[Isaiah 55:6-11 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/10e12b05-3027-45b1-b2a1-108bac780634/isaiah-556-11.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/10e12b05-3027-45b1-b2a1-108bac780634/isaiah-556-11.mp3" length="218" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[10e12b05-3027-45b1-b2a1-108bac780634]]></guid>
+   <pubDate>Mon, 16 May 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>218</itunes:duration>
   
   </item><item>
    <title><![CDATA[The Battle for the American Mind w/ ACCS President David Goodwin in Studio! [CrossPolitic Show]]]></title>
@@ -326,6 +339,23 @@
    <itunes:duration>1078</itunes:duration>
   
   </item><item>
+   <title><![CDATA[BONUS CONTENT: Fear of the Educated Public [The Comedian Next Door]]]></title>
+   <link>https://app.dropwave.io/episode/dba3df45-be8f-45d4-bbe5-045795d2bd18/bonus-content-fear-of-the-educated-public.mp3</link>
+   <description><![CDATA[<p>This week's Bonus Conversation has to do with all things education.&nbsp; The Peaches doesn't know which is more outside of her control:&nbsp; her ability to sleep at night, or her ability to make her son do his schoolwork...</p>
+<p>In our community, most of our brothers and sisters in Christ are NOT familiar with the philosophy of education that is commonplace among people in the Fight Laugh Feast Network.&nbsp; &nbsp;We don't have a church full of Christians who "get it," and that feels discouraging sometimes.&nbsp;</p>
+<p>Here's an analogy about painting a garage that might feel relatable...</p>
+<p>It's difficult to help others educate their children in Christian orthodoxy, when the parents were ALSO products of public school.&nbsp; How to we even begin to unpack all the misunderstandings and bad assumptions?</p>
+<p>You can reach out to us by emailing nextdoor@johnbranyan.com.&nbsp; Also, visit flfnetwork.com to get more information about the Fight Laugh Feast Conference. (That's coming up in October. Be there or be square!)&nbsp;</p>]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/dba3df45-be8f-45d4-bbe5-045795d2bd18/bonus-content-fear-of-the-educated-public.mp3" length="2211" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[dba3df45-be8f-45d4-bbe5-045795d2bd18]]></guid>
+   <pubDate>Thu, 12 May 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2211</itunes:duration>
+  
+  </item><item>
    <title><![CDATA[The Importance of Story: A Conversation with Moira Greyland Peat and Rachel Fulton Brown [The Pugcast]]]></title>
    <link>https://app.dropwave.io/episode/b8513bb8-2ef8-43e9-b549-1446864e95af/the-importance-of-story-a-conversation-with-moira-greyland-peat-and-rachel-fulton-brown.mp3</link>
    <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">In this episode, Moira Greyland Peat and Rachel Fulton Brown return for the first time together as Pugcast guests to explore the importance of story and imaginative fiction as a vehicle for communicating truth in ways that can transcend nonfiction. Along the way, Moira, Rachel, and the Pugsters talk about what makes stories fail, the impact of substituting ideology for truth in pop culture, the relevance of these ideas to music, and a host of related ideas.</p>
@@ -356,23 +386,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>283</itunes:duration>
-  
-  </item><item>
-   <title><![CDATA[BONUS CONTENT: Fear of the Educated Public [The Comedian Next Door]]]></title>
-   <link>https://app.dropwave.io/episode/dba3df45-be8f-45d4-bbe5-045795d2bd18/bonus-content-fear-of-the-educated-public.mp3</link>
-   <description><![CDATA[<p>This week's Bonus Conversation has to do with all things education.&nbsp; The Peaches doesn't know which is more outside of her control:&nbsp; her ability to sleep at night, or her ability to make her son do his schoolwork...</p>
-<p>In our community, most of our brothers and sisters in Christ are NOT familiar with the philosophy of education that is commonplace among people in the Fight Laugh Feast Network.&nbsp; &nbsp;We don't have a church full of Christians who "get it," and that feels discouraging sometimes.&nbsp;</p>
-<p>Here's an analogy about painting a garage that might feel relatable...</p>
-<p>It's difficult to help others educate their children in Christian orthodoxy, when the parents were ALSO products of public school.&nbsp; How to we even begin to unpack all the misunderstandings and bad assumptions?</p>
-<p>You can reach out to us by emailing nextdoor@johnbranyan.com.&nbsp; Also, visit flfnetwork.com to get more information about the Fight Laugh Feast Conference. (That's coming up in October. Be there or be square!)&nbsp;</p>]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/dba3df45-be8f-45d4-bbe5-045795d2bd18/bonus-content-fear-of-the-educated-public.mp3" length="2211" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[dba3df45-be8f-45d4-bbe5-045795d2bd18]]></guid>
-   <pubDate>Thu, 12 May 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2211</itunes:duration>
   
   </item><item>
    <title><![CDATA[Story Real Estate! Changing the Real Estate Game! [CrossPolitic Show]]]></title>
@@ -490,19 +503,6 @@
    <itunes:duration>1106</itunes:duration>
   
   </item><item>
-   <title><![CDATA[John 10:22-30 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/cef5ed3d-ebf0-4dc0-b13b-4dedc7830839/john-1022-30.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/cef5ed3d-ebf0-4dc0-b13b-4dedc7830839/john-1022-30.mp3" length="322" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[cef5ed3d-ebf0-4dc0-b13b-4dedc7830839]]></guid>
-   <pubDate>Mon, 09 May 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>322</itunes:duration>
-  
-  </item><item>
    <title><![CDATA[TCND: An Unfocused Talk about Focus (Pair of Tongs) [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/32076654-16cc-42cf-9f94-d0b6d4c78af4/tcnd-an-unfocused-talk-about-focus.mp3</link>
    <description><![CDATA[<p>The Comedian's house is busy (as always).&nbsp; Let the 4-year-old explain why he "needs" to use tongs to handle his Elmo doll...&nbsp;</p>
@@ -520,6 +520,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2833</itunes:duration>
+  
+  </item><item>
+   <title><![CDATA[John 10:22-30 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/cef5ed3d-ebf0-4dc0-b13b-4dedc7830839/john-1022-30.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/cef5ed3d-ebf0-4dc0-b13b-4dedc7830839/john-1022-30.mp3" length="322" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[cef5ed3d-ebf0-4dc0-b13b-4dedc7830839]]></guid>
+   <pubDate>Mon, 09 May 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>322</itunes:duration>
   
   </item><item>
    <title><![CDATA[How We Got Here & What to Do! Dr. George Grant, Jeff Durbin, David Fowler, & Bradley Pierce [CrossPolitic Show]]]></title>
@@ -802,19 +815,6 @@
    <itunes:duration>2296</itunes:duration>
   
   </item><item>
-   <title><![CDATA[John 21:15-17 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/d0d0336f-fde2-4739-8205-23352406a253/john-2115-17.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/d0d0336f-fde2-4739-8205-23352406a253/john-2115-17.mp3" length="342" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[d0d0336f-fde2-4739-8205-23352406a253]]></guid>
-   <pubDate>Mon, 02 May 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>342</itunes:duration>
-  
-  </item><item>
    <title><![CDATA[TCND: Harry Potter and Agreeing with Pagans (Don't Sell the Land) [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/1237fb91-8fe7-4452-98d0-eadfffe9c4a9/tcnd-harry-potter-and-agreeing-with-pagans-dont-sell-the-land.mp3</link>
    <description><![CDATA[<p>This episode is being uploaded late, due to tech difficulties. Sorry about that, Neighbor Pkarlgh!<br /><br />Our family is celebrating Cami's 11th birthday this week, but not everyone is excited about her party's theme.&nbsp; Is it okay for Christians to read stories about magic and witchcraft?... We discuss this briefly.&nbsp;<br /><br />Then:&nbsp; it's encouraging to know that God has been revealing pieces of his Truth to EVERY nation in EVERY era.&nbsp; But, when are we allowed to agree with the pagans?&nbsp; &nbsp;Or are we running the risk of compromising our faith in order to get along with more people?&nbsp; &nbsp;</p>
@@ -829,6 +829,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2810</itunes:duration>
+  
+  </item><item>
+   <title><![CDATA[John 21:15-17 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/d0d0336f-fde2-4739-8205-23352406a253/john-2115-17.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/d0d0336f-fde2-4739-8205-23352406a253/john-2115-17.mp3" length="342" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[d0d0336f-fde2-4739-8205-23352406a253]]></guid>
+   <pubDate>Mon, 02 May 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>342</itunes:duration>
   
   </item><item>
    <title><![CDATA[Mis-Inflation: The Truth about Inflation w/ Doug Wilson & David Bahnsen [CrossPolitic Show]]]></title>
@@ -945,19 +958,6 @@
    <itunes:duration>1538</itunes:duration>
   
   </item><item>
-   <title><![CDATA[Deuteronomy 17:14-20 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/f36628f1-7821-4046-9653-9d42ba0b7f2a/deuteronomy-1714-20.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/f36628f1-7821-4046-9653-9d42ba0b7f2a/deuteronomy-1714-20.mp3" length="344" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[f36628f1-7821-4046-9653-9d42ba0b7f2a]]></guid>
-   <pubDate>Thu, 28 Apr 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>344</itunes:duration>
-  
-  </item><item>
    <title><![CDATA[Here Comes Transhumanism, Ready or Not! [The Pugcast]]]></title>
    <link>https://app.dropwave.io/episode/570ce03b-598a-4711-94b2-5792b7260d92/here-comes-transhumanism-ready-or-not.mp3</link>
    <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">Ever feel like an upgraded body would be good to have? You're not alone, and there are people who are ready to help--for a price. How about an extra 10 years of life, wouldn't that be nice? Why stop there? Why not an extra 20, or 100, or 10,000? Believe it or not, there are people who think that mortality is an engineering problem. Now here's another wrinkle, there are theologians that agree. What should we think about all of this? Today the Pugsters take up the topic of H+ (or Humanity 2.0).</p>]]></description>
@@ -969,6 +969,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3818</itunes:duration>
+  
+  </item><item>
+   <title><![CDATA[Deuteronomy 17:14-20 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/f36628f1-7821-4046-9653-9d42ba0b7f2a/deuteronomy-1714-20.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/f36628f1-7821-4046-9653-9d42ba0b7f2a/deuteronomy-1714-20.mp3" length="344" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[f36628f1-7821-4046-9653-9d42ba0b7f2a]]></guid>
+   <pubDate>Thu, 28 Apr 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>344</itunes:duration>
   
   </item><item>
    <title><![CDATA[Elon Musk saves Free Speech? Amazon Triggered w/ Matt Walsh Book [CrossPolitic Show]]]></title>
@@ -1118,6 +1131,19 @@
    <itunes:duration>1765</itunes:duration>
   
   </item><item>
+   <title><![CDATA[John 20:30-31 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/4d2535a7-6761-41df-8806-ac09e4b4219f/john-2030-31.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/4d2535a7-6761-41df-8806-ac09e4b4219f/john-2030-31.mp3" length="278" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[4d2535a7-6761-41df-8806-ac09e4b4219f]]></guid>
+   <pubDate>Mon, 25 Apr 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>278</itunes:duration>
+  
+  </item><item>
    <title><![CDATA[TCND: Why's Everyone Deconstructing? (Kylie Bikini) [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/489f19a7-553e-4391-83d5-77753cde265d/tcnd-why-is-everyone-deconstructing-kylie-bikini.mp3</link>
    <description><![CDATA[<p>The house is FULL of family today (especially noisy kids)--and we don't feel much like podcasting...&nbsp; But, we're doing it anyway!&nbsp; &nbsp;Tabby is at the table, and Megan grabs a mic later in the episode as well.&nbsp;</p>
@@ -1132,19 +1158,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3032</itunes:duration>
-  
-  </item><item>
-   <title><![CDATA[John 20:30-31 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/4d2535a7-6761-41df-8806-ac09e4b4219f/john-2030-31.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/4d2535a7-6761-41df-8806-ac09e4b4219f/john-2030-31.mp3" length="278" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[4d2535a7-6761-41df-8806-ac09e4b4219f]]></guid>
-   <pubDate>Mon, 25 Apr 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>278</itunes:duration>
   
   </item><item>
    <title><![CDATA[James White & Jared Longshore in Studio! Christian Sacrifice - The Best Defense is a Good Offense [CrossPolitic Show]]]></title>
@@ -1268,19 +1281,6 @@
    <itunes:duration>2749</itunes:duration>
   
   </item><item>
-   <title><![CDATA[Leviticus 24:17-22 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/7b26be8e-3c00-4d80-9071-29d49d942683/leviticus-2417-22.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/7b26be8e-3c00-4d80-9071-29d49d942683/leviticus-2417-22.mp3" length="328" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[7b26be8e-3c00-4d80-9071-29d49d942683]]></guid>
-   <pubDate>Thu, 21 Apr 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>328</itunes:duration>
-  
-  </item><item>
    <title><![CDATA[The Dumbest Generation Grows Up! : An Interview with Mark Bauerlein [The Pugcast]]]></title>
    <link>https://app.dropwave.io/episode/0b8f165e-89e3-45cb-ad85-fd740a2e0ab8/the-dumbest-generation-grows-up-an-interview-with-mark-bauerlein.mp3</link>
    <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">Today the Pugcast is joined by Mark Bauerlein, professor emeritus of English at Emory University and an editor at First Things. Mark made waves back in 2008 with his book, The Dumbest Generation: How the Digital Age Stupefies Young Americans and Jeopardizes Our Future (Or, Don&rsquo;t Trust Anyone under 30). He was accused of being a luddite, and an alarmist in those halcyon days of Web 2.0. Unfortunately for us all, he turned out to be right in many of his predictions. It wasn't so much that the millennials he describes were incorrigible so much as they were betrayed by their so-called educators and technophile utopians. Tune in and find out how bad things are and what can be done about it!</p>]]></description>
@@ -1292,6 +1292,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3689</itunes:duration>
+  
+  </item><item>
+   <title><![CDATA[Leviticus 24:17-22 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/7b26be8e-3c00-4d80-9071-29d49d942683/leviticus-2417-22.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/7b26be8e-3c00-4d80-9071-29d49d942683/leviticus-2417-22.mp3" length="328" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[7b26be8e-3c00-4d80-9071-29d49d942683]]></guid>
+   <pubDate>Thu, 21 Apr 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>328</itunes:duration>
   
   </item><item>
    <title><![CDATA[We the Patriots USA: Trying to save a young girl’s life [CrossPolitic Show]]]></title>
@@ -1400,19 +1413,6 @@
    <itunes:duration>1738</itunes:duration>
   
   </item><item>
-   <title><![CDATA[Luke 24:44-49 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/b632b7f0-bc93-466b-ac44-c64dc4cbd13a/luke-2444-49.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/b632b7f0-bc93-466b-ac44-c64dc4cbd13a/luke-2444-49.mp3" length="285" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[b632b7f0-bc93-466b-ac44-c64dc4cbd13a]]></guid>
-   <pubDate>Mon, 18 Apr 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>285</itunes:duration>
-  
-  </item><item>
    <title><![CDATA[TCND: Traffic and CS Lewis Talks Emotionalism (It Is Done) [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/a0fac868-5082-4445-bcca-cfe305dc2e04/tcnd-traffic-and-cs-lewis-talks-emotionalism-it-is-done.mp3</link>
    <description><![CDATA[<p>The Podcast Ninja (Luke) is at the table today.&nbsp; We begin by talking about how much fun comedian's have when they're driving about 10 hours, to and from a show.&nbsp;</p>
@@ -1430,6 +1430,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2854</itunes:duration>
+  
+  </item><item>
+   <title><![CDATA[Luke 24:44-49 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/b632b7f0-bc93-466b-ac44-c64dc4cbd13a/luke-2444-49.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/b632b7f0-bc93-466b-ac44-c64dc4cbd13a/luke-2444-49.mp3" length="285" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[b632b7f0-bc93-466b-ac44-c64dc4cbd13a]]></guid>
+   <pubDate>Mon, 18 Apr 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>285</itunes:duration>
   
   </item><item>
    <title><![CDATA[He is Risen! Discipleship & Immigration, Elon Musk w/ Classical Conversations [CrossPolitic Show]]]></title>
@@ -1849,19 +1862,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/a26ffadb-00d7-4e2e-af1b-d1e289ddbc9d/cover-art/dQQ7XaAzlDtUxnu6MfEjjMZYjXFJ4mlfcCkRtb4k.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3639</itunes:duration>
-  
-  </item><item>
-   <title><![CDATA[The Slap Heard Around The World [The Doane Cast]]]></title>
-   <link>https://app.dropwave.io/episode/7cbc9540-e114-4283-9c0a-9b2ff5376433/the-slap-heard-around-the-world.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/7cbc9540-e114-4283-9c0a-9b2ff5376433/the-slap-heard-around-the-world.mp3" length="3774" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[7cbc9540-e114-4283-9c0a-9b2ff5376433]]></guid>
-   <pubDate>Wed, 06 Apr 2022 22:33:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/9a91d446-3705-4f98-82b1-d7b3694992a6/cover-art/xe6REFEoqrGFOgYTaBYdk0KmlmmyDAl01AEOu3Q4.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3774</itunes:duration>
   </item>
  </channel>
 </rss>
