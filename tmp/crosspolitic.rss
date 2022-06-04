@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Sat, 04 Jun 2022 01:25:44 +0000</pubDate>
-  <lastBuildDate>Sat, 04 Jun 2022 01:25:44 +0000</lastBuildDate>
+  <pubDate>Sat, 04 Jun 2022 07:25:44 +0000</pubDate>
+  <lastBuildDate>Sat, 04 Jun 2022 07:25:44 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -25,6 +25,19 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Don’t Let Them Take Your Worship - The Gospel in The Government w/ Jarrin Jackson [CrossPolitic Show]]]></title>
+   <link>https://app.dropwave.io/episode/f2587560-ac22-4db3-9111-9d2c1019c638/dont-let-them-take-your-worship-the-gospel-in-the-government-w-jarrin-jackson.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/f2587560-ac22-4db3-9111-9d2c1019c638/dont-let-them-take-your-worship-the-gospel-in-the-government-w-jarrin-jackson.mp3" length="1877" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[f2587560-ac22-4db3-9111-9d2c1019c638]]></guid>
+   <pubDate>Sat, 04 Jun 2022 01:30:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1877</itunes:duration>
+  </item>
   <item>
    <title><![CDATA[Daily News Brief for Friday, June 3rd, 2022 [Daily News Brief]]]></title>
    <link>https://app.dropwave.io/episode/e047333b-58d5-4a18-aa2b-a1ca66078cd7/daily-news-brief-for-friday-june-3rd-2022.mp3</link>
@@ -3361,19 +3374,6 @@
    <itunes:duration>889</itunes:duration>
   </item>
   <item>
-   <title><![CDATA[Deuteronomy 17:14-20 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/f36628f1-7821-4046-9653-9d42ba0b7f2a/deuteronomy-1714-20.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/f36628f1-7821-4046-9653-9d42ba0b7f2a/deuteronomy-1714-20.mp3" length="344" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[f36628f1-7821-4046-9653-9d42ba0b7f2a]]></guid>
-   <pubDate>Thu, 28 Apr 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>344</itunes:duration>
-  </item>
-  <item>
    <title><![CDATA[Here Comes Transhumanism, Ready or Not! [The Pugcast]]]></title>
    <link>https://app.dropwave.io/episode/570ce03b-598a-4711-94b2-5792b7260d92/here-comes-transhumanism-ready-or-not.mp3</link>
    <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">Ever feel like an upgraded body would be good to have? You're not alone, and there are people who are ready to help--for a price. How about an extra 10 years of life, wouldn't that be nice? Why stop there? Why not an extra 20, or 100, or 10,000? Believe it or not, there are people who think that mortality is an engineering problem. Now here's another wrinkle, there are theologians that agree. What should we think about all of this? Today the Pugsters take up the topic of H+ (or Humanity 2.0).</p>]]></description>
@@ -3385,6 +3385,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3818</itunes:duration>
+  </item>
+  <item>
+   <title><![CDATA[Deuteronomy 17:14-20 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/f36628f1-7821-4046-9653-9d42ba0b7f2a/deuteronomy-1714-20.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/f36628f1-7821-4046-9653-9d42ba0b7f2a/deuteronomy-1714-20.mp3" length="344" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[f36628f1-7821-4046-9653-9d42ba0b7f2a]]></guid>
+   <pubDate>Thu, 28 Apr 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>344</itunes:duration>
   </item>
   <item>
    <title><![CDATA[Elon Musk saves Free Speech? Amazon Triggered w/ Matt Walsh Book [CrossPolitic Show]]]></title>
@@ -4033,19 +4046,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1603</itunes:duration>
-  </item>
-  <item>
-   <title><![CDATA[The Dispensational House is Divided [Heavy Lifting with Uncle Gary]]]></title>
-   <link>https://app.dropwave.io/episode/f88c6959-4bb8-4926-9939-23cd34cfcb2d/the-dispensational-house-is-divided.mp3</link>
-   <description><![CDATA[<p>Gary discusses the history of a recently re-issued book called <em>House Divided: The break-up of Dispensational Theology</em>. This book is a response to many other works and is written by Greg Bahnsen and Kenneth Gentry. <em>House Divided</em> is necessary reading for all Christians, because it lays out in great detail the Reformed and Postmillennial approaches to the Scriptures using lots and lots of Bible passages. It is a theological tour de force and it's available in print once again.</p>]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Gary DeMar)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/f88c6959-4bb8-4926-9939-23cd34cfcb2d/the-dispensational-house-is-divided.mp3" length="1639" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[f88c6959-4bb8-4926-9939-23cd34cfcb2d]]></guid>
-   <pubDate>Thu, 21 Apr 2022 21:29:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/dDQtTWkIc4EkdjSKuPXmrwBoqGcAaybOJpgvu579.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1639</itunes:duration>
   </item>
  </channel>
 </rss>
