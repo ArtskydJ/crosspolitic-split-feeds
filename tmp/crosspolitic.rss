@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 06 Jun 2022 01:25:45 +0000</pubDate>
-  <lastBuildDate>Mon, 06 Jun 2022 01:25:45 +0000</lastBuildDate>
+  <pubDate>Mon, 06 Jun 2022 07:25:48 +0000</pubDate>
+  <lastBuildDate>Mon, 06 Jun 2022 07:25:48 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -25,6 +25,19 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Sunday Waterbreak! Limp Wristed Conservatism Will Not Do w/ Aaron Renn, Rod Martin, Jacob Daniel, & John Branyan [The Waterbreak]]]></title>
+   <link>https://app.dropwave.io/episode/b452402a-88c5-408a-9a1d-e16d95158135/sunday-waterbreak-limp-wristed-conservatism-will-not-do-w-aaron-renn-rod-martin-jacob-daniel-john-branyan.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/b452402a-88c5-408a-9a1d-e16d95158135/sunday-waterbreak-limp-wristed-conservatism-will-not-do-w-aaron-renn-rod-martin-jacob-daniel-john-branyan.mp3" length="2860" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[b452402a-88c5-408a-9a1d-e16d95158135]]></guid>
+   <pubDate>Mon, 06 Jun 2022 02:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/0a3dee73-38ca-4cc7-b0dc-e72b0074106c/cover-art/JVKmUbWmpvy1I1dXtdnFmkLrwXwvOHXH1IvXeh1i.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2860</itunes:duration>
+  </item>
   <item>
    <title><![CDATA[Barbara Kay: How Trans Activism is Destroying Women,Children, and Sport [Open Mike with Michael Thiessen]]]></title>
    <link>https://app.dropwave.io/episode/69ad8f9c-d19e-41c4-abf5-933d8e008ac9/barbara-kay-how-trans-activism-is-destroying-womenchildren-and-sport.mp3</link>
@@ -4041,19 +4054,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1181</itunes:duration>
-  </item>
-  <item>
-   <title><![CDATA[1 Corinthians 5:6-8 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/d5fe6165-ded2-47c4-a9c6-a6b50d370eac/1-corinthians-56-8.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/d5fe6165-ded2-47c4-a9c6-a6b50d370eac/1-corinthians-56-8.mp3" length="346" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[d5fe6165-ded2-47c4-a9c6-a6b50d370eac]]></guid>
-   <pubDate>Fri, 22 Apr 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>346</itunes:duration>
   </item>
  </channel>
 </rss>
