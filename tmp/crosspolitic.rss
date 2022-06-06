@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 06 Jun 2022 13:25:48 +0000</pubDate>
-  <lastBuildDate>Mon, 06 Jun 2022 13:25:48 +0000</lastBuildDate>
+  <pubDate>Mon, 06 Jun 2022 19:25:46 +0000</pubDate>
+  <lastBuildDate>Mon, 06 Jun 2022 19:25:46 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -25,6 +25,19 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Parade Route [In the Bullpen]]]></title>
+   <link>https://app.dropwave.io/episode/2c8e8e29-c6a7-42d4-ad40-bdf4b837be6b/parade-route.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/2c8e8e29-c6a7-42d4-ad40-bdf4b837be6b/parade-route.mp3" length="1291" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[2c8e8e29-c6a7-42d4-ad40-bdf4b837be6b]]></guid>
+   <pubDate>Mon, 06 Jun 2022 16:05:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1291</itunes:duration>
+  </item>
   <item>
    <title><![CDATA[TCND: The One That's All About Change (Meet Our New Minion) [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/e6a001cf-c3cd-46de-8429-86370dede1fe/tcnd-breakfast-at-epiphanies-meet-our-new-minion.mp3</link>
@@ -3931,19 +3944,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>278</itunes:duration>
-  </item>
-  <item>
-   <title><![CDATA[James White & Jared Longshore in Studio! Christian Sacrifice - The Best Defense is a Good Offense [CrossPolitic Show]]]></title>
-   <link>https://app.dropwave.io/episode/7c8a5817-23b8-4e91-89c4-725f769b63da/james-white-jared-longshore-in-studio-christian-sacrifice-the-best-defense-is-a-good-offense.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/7c8a5817-23b8-4e91-89c4-725f769b63da/james-white-jared-longshore-in-studio-christian-sacrifice-the-best-defense-is-a-good-offense.mp3" length="4043" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[7c8a5817-23b8-4e91-89c4-725f769b63da]]></guid>
-   <pubDate>Mon, 25 Apr 2022 02:55:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/9SyiPgccBetKaoe6UvgLX8gva5uYuNTjwIitcOXQ.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>4043</itunes:duration>
   </item>
  </channel>
 </rss>
