@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Tue, 07 Jun 2022 13:25:48 +0000</pubDate>
-  <lastBuildDate>Tue, 07 Jun 2022 13:25:48 +0000</lastBuildDate>
+  <pubDate>Tue, 07 Jun 2022 19:25:46 +0000</pubDate>
+  <lastBuildDate>Tue, 07 Jun 2022 19:25:46 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -26,6 +26,19 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Books [Resistance and Reformation]]]></title>
+   <link>https://app.dropwave.io/episode/940d6ce9-b568-47c8-8b9a-4043334b26cf/books.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/940d6ce9-b568-47c8-8b9a-4043334b26cf/books.mp3" length="593" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[940d6ce9-b568-47c8-8b9a-4043334b26cf]]></guid>
+   <pubDate>Tue, 07 Jun 2022 16:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>593</itunes:duration>
+  
+  </item><item>
    <title><![CDATA[Pootie Plays The Prophet [The Rebel Podcast]]]></title>
    <link>https://app.dropwave.io/episode/c3c7145d-4a9f-4f40-bbfe-dba17d88b03e/pootie-plays-the-prophet.mp3</link>
    <description><![CDATA[<p class="MsoNormal" style="margin: 0cm; font-size: 11pt; font-family: Calibri, sans-serif;">One of the questions we seem to get a lot these days is a speculative question asking what we think the next several years/ decades will look like in North America, and more specifically here in Canada.</p>
@@ -1916,7 +1929,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>633</itunes:duration>
-  
   </item>
  </channel>
 </rss>
