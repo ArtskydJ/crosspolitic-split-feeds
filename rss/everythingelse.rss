@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Tue, 14 Jun 2022 07:25:46 +0000</pubDate>
-  <lastBuildDate>Tue, 14 Jun 2022 07:25:46 +0000</lastBuildDate>
+  <pubDate>Tue, 14 Jun 2022 13:25:48 +0000</pubDate>
+  <lastBuildDate>Tue, 14 Jun 2022 13:25:48 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -26,6 +26,19 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Psalm 8:1 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/93cab1b7-46a7-41d2-add9-da0217339851/psalm-81.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/93cab1b7-46a7-41d2-add9-da0217339851/psalm-81.mp3" length="268" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[93cab1b7-46a7-41d2-add9-da0217339851]]></guid>
+   <pubDate>Tue, 14 Jun 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>268</itunes:duration>
+  
+  </item><item>
    <title><![CDATA[The Patriarchy Podcast: Hath God Said? (Responding to Pastor Jeremy Duncan of Commons Church) (Ep 71) [The Patriarchy Podcast]]]></title>
    <link>https://app.dropwave.io/episode/b5f36a79-9f16-4d4c-8f21-6578d6d27da6/the-patriarchy-podcast-hath-god-said-responding-to-pastor-jeremy-duncan-of-commons-church-ep-71.mp3</link>
    <description><![CDATA[<p class="p1">On this episode, Tony &amp; Joseph respond to the video "Has 'Homosexual' always been in the Bible?" (<a href="https://youtu.be/wtCuLo-MGS4">https://youtu.be/wtCuLo-MGS4</a>) by Pastor Jeremy Duncan of Commons Church.</p>
@@ -1074,19 +1087,6 @@
    <itunes:duration>1081</itunes:duration>
   
   </item><item>
-   <title><![CDATA[Acts 1:1-11 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/7d7818d8-d0b6-4398-8c95-021e9d439783/acts-11-11.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/7d7818d8-d0b6-4398-8c95-021e9d439783/acts-11-11.mp3" length="367" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[7d7818d8-d0b6-4398-8c95-021e9d439783]]></guid>
-   <pubDate>Thu, 26 May 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>367</itunes:duration>
-  
-  </item><item>
    <title><![CDATA[Truth and Falsehood In a Lying Age [The Pugcast]]]></title>
    <link>https://app.dropwave.io/episode/b93dbf20-ecac-42d1-8392-a3010eb857eb/truth-and-falsehood-in-a-lying-age.mp3</link>
    <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">On today&rsquo;s show the guys unpack aspects of contemporary culture and its move away from ontological truth. Language, once it&rsquo;s detached from referencing the real, becomes a field of competing power plays and conflict. How are Christians to enact truthfulness, avoid falsehood in their discernment of truth, and speak the truth as it become increasingly costly to do so? The Pugsters consider such questions and various ways forward.</p>]]></description>
@@ -1098,6 +1098,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3554</itunes:duration>
+  
+  </item><item>
+   <title><![CDATA[Acts 1:1-11 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/7d7818d8-d0b6-4398-8c95-021e9d439783/acts-11-11.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/7d7818d8-d0b6-4398-8c95-021e9d439783/acts-11-11.mp3" length="367" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[7d7818d8-d0b6-4398-8c95-021e9d439783]]></guid>
+   <pubDate>Thu, 26 May 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>367</itunes:duration>
   
   </item><item>
    <title><![CDATA[TCND: BONUS CONTENT, Leaving Atlanta and What's Missing [The Comedian Next Door]]]></title>
@@ -1602,19 +1615,6 @@
    <itunes:duration>1078</itunes:duration>
   
   </item><item>
-   <title><![CDATA[1 Kings 22:13-14 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/c10413f6-498a-4b65-88c7-a9149862f070/1-kings-2213-14.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/c10413f6-498a-4b65-88c7-a9149862f070/1-kings-2213-14.mp3" length="283" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[c10413f6-498a-4b65-88c7-a9149862f070]]></guid>
-   <pubDate>Thu, 12 May 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>283</itunes:duration>
-  
-  </item><item>
    <title><![CDATA[The Importance of Story: A Conversation with Moira Greyland Peat and Rachel Fulton Brown [The Pugcast]]]></title>
    <link>https://app.dropwave.io/episode/b8513bb8-2ef8-43e9-b549-1446864e95af/the-importance-of-story-a-conversation-with-moira-greyland-peat-and-rachel-fulton-brown.mp3</link>
    <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">In this episode, Moira Greyland Peat and Rachel Fulton Brown return for the first time together as Pugcast guests to explore the importance of story and imaginative fiction as a vehicle for communicating truth in ways that can transcend nonfiction. Along the way, Moira, Rachel, and the Pugsters talk about what makes stories fail, the impact of substituting ideology for truth in pop culture, the relevance of these ideas to music, and a host of related ideas.</p>
@@ -1632,6 +1632,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>4037</itunes:duration>
+  
+  </item><item>
+   <title><![CDATA[1 Kings 22:13-14 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/c10413f6-498a-4b65-88c7-a9149862f070/1-kings-2213-14.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/c10413f6-498a-4b65-88c7-a9149862f070/1-kings-2213-14.mp3" length="283" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[c10413f6-498a-4b65-88c7-a9149862f070]]></guid>
+   <pubDate>Thu, 12 May 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>283</itunes:duration>
   
   </item><item>
    <title><![CDATA[BONUS CONTENT: Fear of the Educated Public [The Comedian Next Door]]]></title>
@@ -1899,19 +1912,6 @@
    <itunes:duration>1343</itunes:duration>
   
   </item><item>
-   <title><![CDATA[Proverbs 23:29-35 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/35dd80c9-7cdc-4615-a1a4-b919534a4426/proverbs-2329-35.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/35dd80c9-7cdc-4615-a1a4-b919534a4426/proverbs-2329-35.mp3" length="313" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[35dd80c9-7cdc-4615-a1a4-b919534a4426]]></guid>
-   <pubDate>Thu, 05 May 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>313</itunes:duration>
-  
-  </item><item>
    <title><![CDATA[The Medieval Mind of C. S. Lewis [The Pugcast]]]></title>
    <link>https://app.dropwave.io/episode/7f7ff506-24d0-4b40-ba06-5464783e440f/the-medieval-mind-of-c-s-lewis.mp3</link>
    <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">Today the Pugsters are happy to welcome Jason Baxter on the show! Jason is the author of a new book on C. S. Lewis entitled: The Medieval Mind of C. S. Lewis: How Great Books Shaped a Great Mind. Have you ever wondered why no one seems to come close to C. S. Lewis when it comes to apologetics and fiction (except J. R. R. Tolkien, of course). Jason Baxter knows why--C. S. Lewis had a medieval mind and all of his admirers have think like modern people. So, what does it mean to think like a Medieval man? Well, for one thing, you need to read old books, really old books. But that's just a start. Listen in and find out what else is involved. We hope you like the show!</p>
@@ -1925,6 +1925,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3870</itunes:duration>
+  
+  </item><item>
+   <title><![CDATA[Proverbs 23:29-35 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/35dd80c9-7cdc-4615-a1a4-b919534a4426/proverbs-2329-35.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/35dd80c9-7cdc-4615-a1a4-b919534a4426/proverbs-2329-35.mp3" length="313" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[35dd80c9-7cdc-4615-a1a4-b919534a4426]]></guid>
+   <pubDate>Thu, 05 May 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>313</itunes:duration>
   
   </item><item>
    <title><![CDATA[Rebuilding Culture w/Burke and Chaucer [Choc Knox Unplugged]]]></title>
@@ -1967,23 +1980,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/58bf63b8-9b92-43c0-b0e8-9c895ea5671c/cover-art/ml1BWbZV0vLmewnil7TVquUlZ9gJt0tkQL8N8Y8S.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1418</itunes:duration>
-  
-  </item><item>
-   <title><![CDATA[Every Social Order is a Theocracy [The Ezra Institute Podcast for Cultural Reformation]]]></title>
-   <link>https://app.dropwave.io/episode/25fb920e-d47a-484b-832c-e9ffbe4b7d4e/every-social-order-is-a-theocracy.mp3</link>
-   <description><![CDATA[<p style="box-sizing: border-box; overflow-wrap: break-word; margin: 0px 0px 10px; color: #212529; font-family: effra, Verdana, Arial, sans-serif; font-size: 18px; background-color: #ffffff;">On this episode we conclude our overview of Joe Boot&rsquo;s newest book, Ruler of Kings, and explain how the concept of heresy applies to political and social life outside of the church. We also lay out the difference between theocracy and ecclesiocracy, and describe how every society, from revolutionary France to modern North America, has a god-concept that demands ultimate allegiance.</p>
-<p style="box-sizing: border-box; overflow-wrap: break-word; margin: 0px 0px 10px; color: #212529; font-family: effra, Verdana, Arial, sans-serif; font-size: 18px; background-color: #ffffff;">Visit Ezra Press and save 20% off&nbsp;<a style="box-sizing: border-box; background-color: transparent; color: #72bf44; text-decoration-line: none;" href="https://ezrapress.ca/products/ruler-of-kings-toward-a-christian-vision-of-government" target="_blank" rel="noreferrer noopener">Ruler of Kings</a>&nbsp;until next Wednesday.</p>
-<p style="box-sizing: border-box; overflow-wrap: break-word; margin: 0px 0px 10px; color: #212529; font-family: effra, Verdana, Arial, sans-serif; font-size: 18px; background-color: #ffffff;">Get tickets for the Mission of God conference&nbsp;<a style="box-sizing: border-box; background-color: transparent; color: #72bf44; text-decoration-line: none;" href="https://www.ezrainstitute.com/training-programs/mission-of-god-conference-2022/" target="_blank" rel="noreferrer noopener">East</a>, and&nbsp;<a style="box-sizing: border-box; background-color: transparent; color: #72bf44; text-decoration-line: none;" href="https://www.ezrainstitute.com/training-programs/mission-of-god-conference-west-2022/" target="_blank" rel="noreferrer noopener">West</a>&nbsp;on the Ezra Institute website.</p>
-<p style="box-sizing: border-box; overflow-wrap: break-word; margin: 0px 0px 10px; color: #212529; font-family: effra, Verdana, Arial, sans-serif; font-size: 18px; background-color: #ffffff;">We&rsquo;re live-testing the Ezra Learning Portal now!&nbsp;<a style="box-sizing: border-box; background-color: transparent; color: #72bf44; text-decoration-line: none;" href="https://www.ezrainstitute.com/connect/contact/" target="_blank" rel="noreferrer noopener" data-type="URL" data-id="/connect/contact/">Drop us a note</a>&nbsp;at the Ezra Institute website if you&rsquo;d like to be a tester and help improve this brand-new service.</p>]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Joe Boot, Ryan Eras, Nathan Oblak)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/25fb920e-d47a-484b-832c-e9ffbe4b7d4e/every-social-order-is-a-theocracy.mp3" length="2735" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[25fb920e-d47a-484b-832c-e9ffbe4b7d4e]]></guid>
-   <pubDate>Wed, 04 May 2022 14:31:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/1c3a97bd-65b0-4aec-bb35-3a1b6eec5d2c/cover-art/4rDIhLUsGj1xuXpLJYNdtwtbungA78glNHA7dOd9.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2735</itunes:duration>
-  
   </item>
  </channel>
 </rss>
