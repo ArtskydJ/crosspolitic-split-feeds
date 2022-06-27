@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 27 Jun 2022 13:25:58 +0000</pubDate>
-  <lastBuildDate>Mon, 27 Jun 2022 13:25:58 +0000</lastBuildDate>
+  <pubDate>Mon, 27 Jun 2022 19:25:57 +0000</pubDate>
+  <lastBuildDate>Mon, 27 Jun 2022 19:25:57 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -26,6 +26,19 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Cheers, Tears, and Fears [In the Bullpen]]]></title>
+   <link>https://app.dropwave.io/episode/0581ae88-3a9f-472c-ad95-c8c41617d236/cheers-tears-and-fears.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/0581ae88-3a9f-472c-ad95-c8c41617d236/cheers-tears-and-fears.mp3" length="1578" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[0581ae88-3a9f-472c-ad95-c8c41617d236]]></guid>
+   <pubDate>Mon, 27 Jun 2022 16:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1578</itunes:duration>
+  
+  </item><item>
    <title><![CDATA[TCND: Family Camp Prep plus Lemon Balm (Cookie Nightmares) [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/60e27432-ad84-4b39-b679-3050fdf6b25a/tcnd-family-camp-prep-plus-lemon-balm-cookie-nightmares.mp3</link>
    <description><![CDATA[<p>John and the Peaches are sitting at the table with mugs of tea. But no sugar for John, Please! He is deeply invested in a fad diet--and it's taking over his dreams.&nbsp;</p>
@@ -1940,19 +1953,6 @@
    <itunes:duration>1081</itunes:duration>
   
   </item><item>
-   <title><![CDATA[Truth and Falsehood In a Lying Age [The Pugcast]]]></title>
-   <link>https://app.dropwave.io/episode/b93dbf20-ecac-42d1-8392-a3010eb857eb/truth-and-falsehood-in-a-lying-age.mp3</link>
-   <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">On today&rsquo;s show the guys unpack aspects of contemporary culture and its move away from ontological truth. Language, once it&rsquo;s detached from referencing the real, becomes a field of competing power plays and conflict. How are Christians to enact truthfulness, avoid falsehood in their discernment of truth, and speak the truth as it become increasingly costly to do so? The Pugsters consider such questions and various ways forward.</p>]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/b93dbf20-ecac-42d1-8392-a3010eb857eb/truth-and-falsehood-in-a-lying-age.mp3" length="3554" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[b93dbf20-ecac-42d1-8392-a3010eb857eb]]></guid>
-   <pubDate>Thu, 26 May 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3554</itunes:duration>
-  
-  </item><item>
    <title><![CDATA[Acts 1:1-11 [Up and Ready]]]></title>
    <link>https://app.dropwave.io/episode/7d7818d8-d0b6-4398-8c95-021e9d439783/acts-11-11.mp3</link>
    <description><![CDATA[]]></description>
@@ -1964,6 +1964,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>367</itunes:duration>
+  
+  </item><item>
+   <title><![CDATA[Truth and Falsehood In a Lying Age [The Pugcast]]]></title>
+   <link>https://app.dropwave.io/episode/b93dbf20-ecac-42d1-8392-a3010eb857eb/truth-and-falsehood-in-a-lying-age.mp3</link>
+   <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">On today&rsquo;s show the guys unpack aspects of contemporary culture and its move away from ontological truth. Language, once it&rsquo;s detached from referencing the real, becomes a field of competing power plays and conflict. How are Christians to enact truthfulness, avoid falsehood in their discernment of truth, and speak the truth as it become increasingly costly to do so? The Pugsters consider such questions and various ways forward.</p>]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/b93dbf20-ecac-42d1-8392-a3010eb857eb/truth-and-falsehood-in-a-lying-age.mp3" length="3554" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[b93dbf20-ecac-42d1-8392-a3010eb857eb]]></guid>
+   <pubDate>Thu, 26 May 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3554</itunes:duration>
   
   </item><item>
    <title><![CDATA[TCND: BONUS CONTENT, Leaving Atlanta and What's Missing [The Comedian Next Door]]]></title>
@@ -2064,19 +2077,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>534</itunes:duration>
-  
-  </item><item>
-   <title><![CDATA[Psalm 67 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/aaa217a2-2f2a-4d61-b200-e3e34e05d45b/psalm-67.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/aaa217a2-2f2a-4d61-b200-e3e34e05d45b/psalm-67.mp3" length="286" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[aaa217a2-2f2a-4d61-b200-e3e34e05d45b]]></guid>
-   <pubDate>Tue, 24 May 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>286</itunes:duration>
   </item>
  </channel>
 </rss>
