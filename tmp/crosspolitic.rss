@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 04 Jul 2022 13:25:46 +0000</pubDate>
-  <lastBuildDate>Mon, 04 Jul 2022 13:25:46 +0000</lastBuildDate>
+  <pubDate>Mon, 04 Jul 2022 19:25:41 +0000</pubDate>
+  <lastBuildDate>Mon, 04 Jul 2022 19:25:41 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -25,6 +25,19 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Let Freedom Ring [In the Bullpen]]]></title>
+   <link>https://app.dropwave.io/episode/6c8ee263-9fd4-467b-adc6-8d3a517e3e34/let-freedom-ring.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/6c8ee263-9fd4-467b-adc6-8d3a517e3e34/let-freedom-ring.mp3" length="1586" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[6c8ee263-9fd4-467b-adc6-8d3a517e3e34]]></guid>
+   <pubDate>Mon, 04 Jul 2022 16:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1586</itunes:duration>
+  </item>
   <item>
    <title><![CDATA[TCND:  Bubble Joy and Women Aren't Funny (Zoom Out!) [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/1fbd7b34-e040-4e44-b2ed-8fe75ea83a2c/tcnd-bubble-joy-and-women-arent-funny-zoom-out.mp3</link>
@@ -3124,19 +3137,6 @@
    <itunes:duration>2638</itunes:duration>
   </item>
   <item>
-   <title><![CDATA[TCND: BONUS, Starving Comics' Chubby Bruce Introduction [The Comedian Next Door]]]></title>
-   <link>https://app.dropwave.io/episode/2c032f9d-1a00-4e67-b6d7-552ac9f2f0c8/tcnd-starving-comics-chubby-bruce-introductory-episode.mp3</link>
-   <description><![CDATA[<p>Every Sunday at 7:00pm Eastern time, four Christian entertainers host a LIVE YouTube event called the Starving Comics Quarantine Show.&nbsp; If you have been missing these, here's an audio sample to give you the idea.<br /><br />The first 3-4 minutes of this episode make up the "sound check" portion. You'll hear the hosts talk all over each other, thanks to the internet delay and the fact that Juan DeVevo is calling in from the road with his tiny little band called Casting Crowns.&nbsp;<br /><br />John thomas Oaks and Brian Apprille also join John Branyan to talk about Star Spangled Ding Dongs and Chubby Bruce.&nbsp; &nbsp;Trust us when we tell you that both of these things are significant to regular viewers of SCQS, so tune in and get caught up!&nbsp;<br /><br />To support SCQS and other content from John Branyan Comedy, visit johnbranyan.com and become a clique member! Also, you can follow John Branyan on YouTube and set your notifications to remind you when he goes LIVE.&nbsp;&nbsp;</p>]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/2c032f9d-1a00-4e67-b6d7-552ac9f2f0c8/tcnd-starving-comics-chubby-bruce-introductory-episode.mp3" length="2846" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[2c032f9d-1a00-4e67-b6d7-552ac9f2f0c8]]></guid>
-   <pubDate>Thu, 09 Jun 2022 11:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2846</itunes:duration>
-  </item>
-  <item>
    <title><![CDATA[Daily News Brief for Thursday, June 9th, 2022 [Daily News Brief]]]></title>
    <link>https://app.dropwave.io/episode/3133c55b-3da5-4c07-94ff-94ee17e3e922/daily-news-brief-for-thursday-june-9th-2022.mp3</link>
    <description><![CDATA[<p style="margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">Modern new covid shot 5x better</p>
@@ -3161,6 +3161,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>753</itunes:duration>
+  </item>
+  <item>
+   <title><![CDATA[TCND: BONUS, Starving Comics' Chubby Bruce Introduction [The Comedian Next Door]]]></title>
+   <link>https://app.dropwave.io/episode/2c032f9d-1a00-4e67-b6d7-552ac9f2f0c8/tcnd-starving-comics-chubby-bruce-introductory-episode.mp3</link>
+   <description><![CDATA[<p>Every Sunday at 7:00pm Eastern time, four Christian entertainers host a LIVE YouTube event called the Starving Comics Quarantine Show.&nbsp; If you have been missing these, here's an audio sample to give you the idea.<br /><br />The first 3-4 minutes of this episode make up the "sound check" portion. You'll hear the hosts talk all over each other, thanks to the internet delay and the fact that Juan DeVevo is calling in from the road with his tiny little band called Casting Crowns.&nbsp;<br /><br />John thomas Oaks and Brian Apprille also join John Branyan to talk about Star Spangled Ding Dongs and Chubby Bruce.&nbsp; &nbsp;Trust us when we tell you that both of these things are significant to regular viewers of SCQS, so tune in and get caught up!&nbsp;<br /><br />To support SCQS and other content from John Branyan Comedy, visit johnbranyan.com and become a clique member! Also, you can follow John Branyan on YouTube and set your notifications to remind you when he goes LIVE.&nbsp;&nbsp;</p>]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/2c032f9d-1a00-4e67-b6d7-552ac9f2f0c8/tcnd-starving-comics-chubby-bruce-introductory-episode.mp3" length="2846" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[2c032f9d-1a00-4e67-b6d7-552ac9f2f0c8]]></guid>
+   <pubDate>Thu, 09 Jun 2022 11:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2846</itunes:duration>
   </item>
   <item>
    <title><![CDATA[God and History in Acts and The Academy [The Pugcast]]]></title>
@@ -3242,19 +3255,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/1c3a97bd-65b0-4aec-bb35-3a1b6eec5d2c/cover-art/4rDIhLUsGj1xuXpLJYNdtwtbungA78glNHA7dOd9.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3373</itunes:duration>
-  </item>
-  <item>
-   <title><![CDATA[Campus Preacher Brother Jed with Tom Short [Campus Preacher]]]></title>
-   <link>https://app.dropwave.io/episode/8b2c5c5d-66b2-448e-9d52-978d6b9c54b6/campus-preacher-brother-jed-with-tom-short.mp3</link>
-   <description><![CDATA[<p>This is part 1 of 2 on the life of Campus Preacher Jed Smock.&nbsp;<br /><br />Note: I have no outro in this episode, so it ends abruptly, but we will pick it up next week.</p>]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Keith Darrell)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/8b2c5c5d-66b2-448e-9d52-978d6b9c54b6/campus-preacher-brother-jed-with-tom-short.mp3" length="2406" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[8b2c5c5d-66b2-448e-9d52-978d6b9c54b6]]></guid>
-   <pubDate>Wed, 08 Jun 2022 11:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/931fd9c4-1c60-4949-85db-e74a6e1f88fc/cover-art/W41Xalf47AwHAGKZ8NFWFwWZDf4p6s4D421ATQH6.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2406</itunes:duration>
   </item>
   <item>
    <title><![CDATA[Daily News Brief for Wednesday, June 8th, 2022 [Daily News Brief]]]></title>
@@ -3359,6 +3359,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1117</itunes:duration>
+  </item>
+  <item>
+   <title><![CDATA[Campus Preacher Brother Jed with Tom Short [Campus Preacher]]]></title>
+   <link>https://app.dropwave.io/episode/8b2c5c5d-66b2-448e-9d52-978d6b9c54b6/campus-preacher-brother-jed-with-tom-short.mp3</link>
+   <description><![CDATA[<p>This is part 1 of 2 on the life of Campus Preacher Jed Smock.&nbsp;<br /><br />Note: I have no outro in this episode, so it ends abruptly, but we will pick it up next week.</p>]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Keith Darrell)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/8b2c5c5d-66b2-448e-9d52-978d6b9c54b6/campus-preacher-brother-jed-with-tom-short.mp3" length="2406" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[8b2c5c5d-66b2-448e-9d52-978d6b9c54b6]]></guid>
+   <pubDate>Wed, 08 Jun 2022 11:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/931fd9c4-1c60-4949-85db-e74a6e1f88fc/cover-art/W41Xalf47AwHAGKZ8NFWFwWZDf4p6s4D421ATQH6.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2406</itunes:duration>
   </item>
   <item>
    <title><![CDATA[Romans 13:8-10 [Up and Ready]]]></title>
@@ -4191,19 +4204,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>325</itunes:duration>
-  </item>
-  <item>
-   <title><![CDATA[Trudeau continues to Break Canada - Military tries to Break the Constitution [CrossPolitic Show]]]></title>
-   <link>https://app.dropwave.io/episode/d64d9370-52db-4e21-905a-c803a9223ba2/trudeau-continues-to-break-canada-military-tries-to-break-the-constitution.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/d64d9370-52db-4e21-905a-c803a9223ba2/trudeau-continues-to-break-canada-military-tries-to-break-the-constitution.mp3" length="1885" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[d64d9370-52db-4e21-905a-c803a9223ba2]]></guid>
-   <pubDate>Wed, 01 Jun 2022 01:30:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1885</itunes:duration>
   </item>
  </channel>
 </rss>

@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 04 Jul 2022 13:25:46 +0000</pubDate>
-  <lastBuildDate>Mon, 04 Jul 2022 13:25:46 +0000</lastBuildDate>
+  <pubDate>Mon, 04 Jul 2022 19:25:41 +0000</pubDate>
+  <lastBuildDate>Mon, 04 Jul 2022 19:25:41 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -26,6 +26,19 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Let Freedom Ring [In the Bullpen]]]></title>
+   <link>https://app.dropwave.io/episode/6c8ee263-9fd4-467b-adc6-8d3a517e3e34/let-freedom-ring.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/6c8ee263-9fd4-467b-adc6-8d3a517e3e34/let-freedom-ring.mp3" length="1586" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[6c8ee263-9fd4-467b-adc6-8d3a517e3e34]]></guid>
+   <pubDate>Mon, 04 Jul 2022 16:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1586</itunes:duration>
+  
+  </item><item>
    <title><![CDATA[TCND:  Bubble Joy and Women Aren't Funny (Zoom Out!) [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/1fbd7b34-e040-4e44-b2ed-8fe75ea83a2c/tcnd-bubble-joy-and-women-arent-funny-zoom-out.mp3</link>
    <description><![CDATA[<p>Hey, Neighbor! Pull up a chair because we've got a cute story about kids at the Bubble Show.&nbsp; The Kingdom of Heaven is made up of such as these...</p>
@@ -2074,19 +2087,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>325</itunes:duration>
-  
-  </item><item>
-   <title><![CDATA[Trudeau continues to Break Canada - Military tries to Break the Constitution [CrossPolitic Show]]]></title>
-   <link>https://app.dropwave.io/episode/d64d9370-52db-4e21-905a-c803a9223ba2/trudeau-continues-to-break-canada-military-tries-to-break-the-constitution.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/d64d9370-52db-4e21-905a-c803a9223ba2/trudeau-continues-to-break-canada-military-tries-to-break-the-constitution.mp3" length="1885" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[d64d9370-52db-4e21-905a-c803a9223ba2]]></guid>
-   <pubDate>Wed, 01 Jun 2022 01:30:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1885</itunes:duration>
   </item>
  </channel>
 </rss>
