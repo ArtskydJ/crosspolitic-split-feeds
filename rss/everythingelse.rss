@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Thu, 07 Jul 2022 13:25:45 +0000</pubDate>
-  <lastBuildDate>Thu, 07 Jul 2022 13:25:45 +0000</lastBuildDate>
+  <pubDate>Thu, 07 Jul 2022 19:25:42 +0000</pubDate>
+  <lastBuildDate>Thu, 07 Jul 2022 19:25:42 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -26,6 +26,19 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[The Most Reluctant Convert [The Pugcast]]]></title>
+   <link>https://app.dropwave.io/episode/3bf15784-1b8c-42d8-91c6-05f00c890b6b/the-most-reluctant-convert.mp3</link>
+   <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">This week, the Pug has a special guest, Max McLean, the founder of the Fellowship for the Performing Arts. Max has brought to the stage &ldquo;The Screwtape Letters,&rdquo; &ldquo;The Great Divorce,&rdquo; and &ldquo;The Most Reluctant Convert,&rdquo; the story of C.S. Lewis&rsquo;s conversion; most recently staring in a film adaptation of the last of these. For the first half hour of the show the pugsters spoke with Max about his work and C.S. Lewis, but continued the conversation after Max left for another interview.</p>]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/3bf15784-1b8c-42d8-91c6-05f00c890b6b/the-most-reluctant-convert.mp3" length="3658" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[3bf15784-1b8c-42d8-91c6-05f00c890b6b]]></guid>
+   <pubDate>Thu, 07 Jul 2022 15:51:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3658</itunes:duration>
+  
+  </item><item>
    <title><![CDATA[TCND: BONUS CONTENT, Car Chronicles, Part 1 [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/62ec6c3a-1484-4910-9e42-4decde633201/tcnd-bonus-content-car-chronicles-part-1.mp3</link>
    <description><![CDATA[<p>This week, jump in the car with the Comedian, John Branyan, and his son-in-law, Luke McKinney. We're traveling down to Atlanta from Indianapolis, which means there's plenty of time for thinking and chatting. Ignore the road noise, and make sure you're buckled properly.&nbsp;</p>
@@ -2119,19 +2132,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>266</itunes:duration>
-  
-  </item><item>
-   <title><![CDATA[Don’t Let Them Take Your Worship - The Gospel in The Government w/ Jarrin Jackson [CrossPolitic Show]]]></title>
-   <link>https://app.dropwave.io/episode/f2587560-ac22-4db3-9111-9d2c1019c638/dont-let-them-take-your-worship-the-gospel-in-the-government-w-jarrin-jackson.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/f2587560-ac22-4db3-9111-9d2c1019c638/dont-let-them-take-your-worship-the-gospel-in-the-government-w-jarrin-jackson.mp3" length="1877" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[f2587560-ac22-4db3-9111-9d2c1019c638]]></guid>
-   <pubDate>Sat, 04 Jun 2022 01:30:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1877</itunes:duration>
   </item>
  </channel>
 </rss>
