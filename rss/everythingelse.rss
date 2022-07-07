@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Wed, 06 Jul 2022 19:25:42 +0000</pubDate>
-  <lastBuildDate>Wed, 06 Jul 2022 19:25:42 +0000</lastBuildDate>
+  <pubDate>Thu, 07 Jul 2022 01:26:15 +0000</pubDate>
+  <lastBuildDate>Thu, 07 Jul 2022 01:26:15 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -26,6 +26,19 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[“Reproductive Rights” by Biden & Political Turmoil + Calling on God (Psalm 3) - Beer & Psalms [CrossPolitic Show]]]></title>
+   <link>https://app.dropwave.io/episode/4b796afe-6e74-479b-9219-1c1a5c783c8f/reproductive-rights-by-biden-political-turmoil-calling-on-god-psalm-3-beer-psalms.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/4b796afe-6e74-479b-9219-1c1a5c783c8f/reproductive-rights-by-biden-political-turmoil-calling-on-god-psalm-3-beer-psalms.mp3" length="1963" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[4b796afe-6e74-479b-9219-1c1a5c783c8f]]></guid>
+   <pubDate>Thu, 07 Jul 2022 01:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1963</itunes:duration>
+  
+  </item><item>
    <title><![CDATA[Dr. Story Takes Questions about Childhood Vaccinations [Mere Medicine]]]></title>
    <link>https://app.dropwave.io/episode/4a7a56cc-c04e-4001-bfcc-5bfce609a9c4/dr-story-takes-questions-about-childhood-vaccinations.mp3</link>
    <description><![CDATA[]]></description>
@@ -2112,19 +2125,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1821</itunes:duration>
-  
-  </item><item>
-   <title><![CDATA[The Rise and Fall of The Gospel Coalition  -  Chapter 3: The Grift [The Rise and Fall of Gospel Coalition]]]></title>
-   <link>https://app.dropwave.io/episode/5a94fdf1-cc72-4299-a965-4a9e6b8fbeb6/the-rise-and-fall-of-the-gospel-coalition-chapter-3-the-grift.mp3</link>
-   <description><![CDATA[<p>This is how they do their deeds.&nbsp;</p>]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/5a94fdf1-cc72-4299-a965-4a9e6b8fbeb6/the-rise-and-fall-of-the-gospel-coalition-chapter-3-the-grift.mp3" length="3005" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[5a94fdf1-cc72-4299-a965-4a9e6b8fbeb6]]></guid>
-   <pubDate>Thu, 02 Jun 2022 20:08:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/3fc7b70e-b27d-48fa-8a7a-ff55ec2a2420/cover-art/nrJwhnX5CrCMugvwrF70aw8I4mjBudrSubQvPfbn.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3005</itunes:duration>
   </item>
  </channel>
 </rss>
