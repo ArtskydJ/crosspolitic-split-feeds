@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Fri, 08 Jul 2022 01:25:42 +0000</pubDate>
-  <lastBuildDate>Fri, 08 Jul 2022 01:25:42 +0000</lastBuildDate>
+  <pubDate>Fri, 08 Jul 2022 07:25:50 +0000</pubDate>
+  <lastBuildDate>Fri, 08 Jul 2022 07:25:50 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -26,6 +26,19 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Crisis Pregnancy Centers - Potency of a Christian Family - No Room for False Worship [CrossPolitic Show]]]></title>
+   <link>https://app.dropwave.io/episode/db895914-c5ed-42c9-99dd-aee49dd8ec86/crisis-pregnancy-centers-potency-of-a-christian-family-no-room-for-false-worship.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/db895914-c5ed-42c9-99dd-aee49dd8ec86/crisis-pregnancy-centers-potency-of-a-christian-family-no-room-for-false-worship.mp3" length="1922" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[db895914-c5ed-42c9-99dd-aee49dd8ec86]]></guid>
+   <pubDate>Fri, 08 Jul 2022 01:30:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1922</itunes:duration>
+  
+  </item><item>
    <title><![CDATA[Freedom Fighters Arrested in the NeverEnding Covid Story! [Liberty Dispatch]]]></title>
    <link>https://app.dropwave.io/episode/7b0a1cd5-7243-4944-9cfd-7db94dcdca07/freedom-fighters-arrested-in-the-neverending-covid-story.mp3</link>
    <description><![CDATA[<p class="media-description" style="font-size: 1.3rem; line-height: 2rem; margin: 1rem 0px; overflow-wrap: break-word; color: #333333; font-family: sans-serif; scroll-behavior: auto !important;">Tune in as host Andrew DeBartolo examines the second arrest and bail hearing of Freedom Convoy organizer Tamara Lich, the potential court-martial for 28-year veteran James Topp, and the claim from Health Minister Duclos that our Covid-19 vaccinations must be up-to-date every 9 months.</p>
@@ -2137,19 +2150,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2973</itunes:duration>
-  
-  </item><item>
-   <title><![CDATA[Acts 2:14-21 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/a2706b3d-f41e-4474-984f-72f669d4eeea/acts-214-21.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/a2706b3d-f41e-4474-984f-72f669d4eeea/acts-214-21.mp3" length="321" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[a2706b3d-f41e-4474-984f-72f669d4eeea]]></guid>
-   <pubDate>Mon, 06 Jun 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>321</itunes:duration>
   </item>
  </channel>
 </rss>
