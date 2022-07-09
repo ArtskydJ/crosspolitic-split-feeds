@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Sat, 09 Jul 2022 01:25:43 +0000</pubDate>
-  <lastBuildDate>Sat, 09 Jul 2022 01:25:43 +0000</lastBuildDate>
+  <pubDate>Sat, 09 Jul 2022 07:25:41 +0000</pubDate>
+  <lastBuildDate>Sat, 09 Jul 2022 07:25:41 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -26,6 +26,19 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Jordan Peterson & Dave Rubin Acting Trans in Parenting + The Eugenics Connection [CrossPolitic Show]]]></title>
+   <link>https://app.dropwave.io/episode/568531ee-caa9-439f-861f-ff2965291810/jordan-peterson-dave-rubin-acting-trans-in-parenting-the-eugenics-connection.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/568531ee-caa9-439f-861f-ff2965291810/jordan-peterson-dave-rubin-acting-trans-in-parenting-the-eugenics-connection.mp3" length="2081" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[568531ee-caa9-439f-861f-ff2965291810]]></guid>
+   <pubDate>Sat, 09 Jul 2022 01:30:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2081</itunes:duration>
+  
+  </item><item>
    <title><![CDATA[Colossians 1:9-12 [Up and Ready]]]></title>
    <link>https://app.dropwave.io/episode/d3d6e32f-7c3d-4371-a0d2-dde8003eadc6/colossians-19-12.mp3</link>
    <description><![CDATA[]]></description>
@@ -2132,7 +2145,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1838</itunes:duration>
-  
   </item>
  </channel>
 </rss>
