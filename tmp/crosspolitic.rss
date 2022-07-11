@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 11 Jul 2022 01:25:43 +0000</pubDate>
-  <lastBuildDate>Mon, 11 Jul 2022 01:25:43 +0000</lastBuildDate>
+  <pubDate>Mon, 11 Jul 2022 07:25:44 +0000</pubDate>
+  <lastBuildDate>Mon, 11 Jul 2022 07:25:44 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -25,6 +25,19 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Reclaiming a Conservatism in Media w/ Cade Foehner [The Waterbreak]]]></title>
+   <link>https://app.dropwave.io/episode/cdb7a36c-fbf6-47c3-8ae5-a085dc0e3e45/reclaiming-a-conservatism-in-media.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/cdb7a36c-fbf6-47c3-8ae5-a085dc0e3e45/reclaiming-a-conservatism-in-media.mp3" length="3071" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[cdb7a36c-fbf6-47c3-8ae5-a085dc0e3e45]]></guid>
+   <pubDate>Mon, 11 Jul 2022 02:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/0a3dee73-38ca-4cc7-b0dc-e72b0074106c/cover-art/JVKmUbWmpvy1I1dXtdnFmkLrwXwvOHXH1IvXeh1i.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3071</itunes:duration>
+  </item>
   <item>
    <title><![CDATA[Julie Ponesse: The Ethical Case Against ”Vaccine” Coercion [Open Mike with Michael Thiessen]]]></title>
    <link>https://app.dropwave.io/episode/301b01eb-cd61-4c90-82c1-b947790a0a41/julie-ponesse-the-ethical-case-against-vaccine-coercion.mp3</link>
@@ -385,19 +398,6 @@
    <itunes:duration>1963</itunes:duration>
   </item>
   <item>
-   <title><![CDATA[Dr. Story Takes Questions about Childhood Vaccinations [Mere Medicine]]]></title>
-   <link>https://app.dropwave.io/episode/4a7a56cc-c04e-4001-bfcc-5bfce609a9c4/dr-story-takes-questions-about-childhood-vaccinations.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/4a7a56cc-c04e-4001-bfcc-5bfce609a9c4/dr-story-takes-questions-about-childhood-vaccinations.mp3" length="2014" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[4a7a56cc-c04e-4001-bfcc-5bfce609a9c4]]></guid>
-   <pubDate>Wed, 06 Jul 2022 16:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/58bf63b8-9b92-43c0-b0e8-9c895ea5671c/cover-art/ml1BWbZV0vLmewnil7TVquUlZ9gJt0tkQL8N8Y8S.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2014</itunes:duration>
-  </item>
-  <item>
    <title><![CDATA[1776 [Resistance and Reformation]]]></title>
    <link>https://app.dropwave.io/episode/f77c8065-3935-40ae-8136-a89b72f63659/1776.mp3</link>
    <description><![CDATA[]]></description>
@@ -409,6 +409,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>591</itunes:duration>
+  </item>
+  <item>
+   <title><![CDATA[Dr. Story Takes Questions about Childhood Vaccinations [Mere Medicine]]]></title>
+   <link>https://app.dropwave.io/episode/4a7a56cc-c04e-4001-bfcc-5bfce609a9c4/dr-story-takes-questions-about-childhood-vaccinations.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/4a7a56cc-c04e-4001-bfcc-5bfce609a9c4/dr-story-takes-questions-about-childhood-vaccinations.mp3" length="2014" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[4a7a56cc-c04e-4001-bfcc-5bfce609a9c4]]></guid>
+   <pubDate>Wed, 06 Jul 2022 16:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/58bf63b8-9b92-43c0-b0e8-9c895ea5671c/cover-art/ml1BWbZV0vLmewnil7TVquUlZ9gJt0tkQL8N8Y8S.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2014</itunes:duration>
   </item>
   <item>
    <title><![CDATA[Daily News Brief for Wednesday, July 6th, 2022 [Daily News Brief]]]></title>
@@ -2875,6 +2888,19 @@
    <itunes:duration>2733</itunes:duration>
   </item>
   <item>
+   <title><![CDATA[TCND: BONUS, Starving Comics' Copyrights and Talking Points [The Comedian Next Door]]]></title>
+   <link>https://app.dropwave.io/episode/277c19f7-fc7a-4bf7-bf70-c58ec8a20715/tcnd-bonus-starving-comics-copyrights-and-talking-points.mp3</link>
+   <description><![CDATA[<p>Every Sunday at 7:00pm Eastern, four Christian entertainers host the best LIVE YouTube event of the whole week! It's called the Starving Comics Quarantine Show.&nbsp;<br /><br />If you haven't been tuning in for the live broadcasts, here's a little sample of what you've been missing...<br /><br />On today's episode, we're trying not to violate YouTube's dumb copyright laws. Let us tell you our tale of woe about how we keep getting flagged for our parodies, which are supposed to be protected under Fair Use. Then, later, we play a new game where we have to deliver inspiring speeches, using a slideshow we've never seen before.&nbsp; <br /><br />It's better when you can SEE the action, so you should tune in next Sunday on John Branyan's YouTube channel and be part of the show.&nbsp;</p>]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/277c19f7-fc7a-4bf7-bf70-c58ec8a20715/tcnd-bonus-starving-comics-copyrights-and-talking-points.mp3" length="2846" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[277c19f7-fc7a-4bf7-bf70-c58ec8a20715]]></guid>
+   <pubDate>Thu, 16 Jun 2022 11:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2846</itunes:duration>
+  </item>
+  <item>
    <title><![CDATA[Daily News Brief for Thursday, June 16th, 2022 [Daily News Brief]]]></title>
    <link>https://app.dropwave.io/episode/2b6f276f-9b12-4359-adb1-25fca34e47df/daily-news-brief-for-thursday-june-16th-2022.mp3</link>
    <description><![CDATA[<p dir="ltr" style="line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: 'Times New Roman'; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;">Boniface Woodworking LLC:&nbsp;</span></p>
@@ -2913,19 +2939,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>716</itunes:duration>
-  </item>
-  <item>
-   <title><![CDATA[TCND: BONUS, Starving Comics' Copyrights and Talking Points [The Comedian Next Door]]]></title>
-   <link>https://app.dropwave.io/episode/277c19f7-fc7a-4bf7-bf70-c58ec8a20715/tcnd-bonus-starving-comics-copyrights-and-talking-points.mp3</link>
-   <description><![CDATA[<p>Every Sunday at 7:00pm Eastern, four Christian entertainers host the best LIVE YouTube event of the whole week! It's called the Starving Comics Quarantine Show.&nbsp;<br /><br />If you haven't been tuning in for the live broadcasts, here's a little sample of what you've been missing...<br /><br />On today's episode, we're trying not to violate YouTube's dumb copyright laws. Let us tell you our tale of woe about how we keep getting flagged for our parodies, which are supposed to be protected under Fair Use. Then, later, we play a new game where we have to deliver inspiring speeches, using a slideshow we've never seen before.&nbsp; <br /><br />It's better when you can SEE the action, so you should tune in next Sunday on John Branyan's YouTube channel and be part of the show.&nbsp;</p>]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/277c19f7-fc7a-4bf7-bf70-c58ec8a20715/tcnd-bonus-starving-comics-copyrights-and-talking-points.mp3" length="2846" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[277c19f7-fc7a-4bf7-bf70-c58ec8a20715]]></guid>
-   <pubDate>Thu, 16 Jun 2022 11:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2846</itunes:duration>
   </item>
   <item>
    <title><![CDATA[Secular and Nihilistic Eschatologies and Political Theologies [The Pugcast]]]></title>
@@ -3793,19 +3806,6 @@
    <itunes:duration>2638</itunes:duration>
   </item>
   <item>
-   <title><![CDATA[TCND: BONUS, Starving Comics' Chubby Bruce Introduction [The Comedian Next Door]]]></title>
-   <link>https://app.dropwave.io/episode/2c032f9d-1a00-4e67-b6d7-552ac9f2f0c8/tcnd-starving-comics-chubby-bruce-introductory-episode.mp3</link>
-   <description><![CDATA[<p>Every Sunday at 7:00pm Eastern time, four Christian entertainers host a LIVE YouTube event called the Starving Comics Quarantine Show.&nbsp; If you have been missing these, here's an audio sample to give you the idea.<br /><br />The first 3-4 minutes of this episode make up the "sound check" portion. You'll hear the hosts talk all over each other, thanks to the internet delay and the fact that Juan DeVevo is calling in from the road with his tiny little band called Casting Crowns.&nbsp;<br /><br />John thomas Oaks and Brian Apprille also join John Branyan to talk about Star Spangled Ding Dongs and Chubby Bruce.&nbsp; &nbsp;Trust us when we tell you that both of these things are significant to regular viewers of SCQS, so tune in and get caught up!&nbsp;<br /><br />To support SCQS and other content from John Branyan Comedy, visit johnbranyan.com and become a clique member! Also, you can follow John Branyan on YouTube and set your notifications to remind you when he goes LIVE.&nbsp;&nbsp;</p>]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/2c032f9d-1a00-4e67-b6d7-552ac9f2f0c8/tcnd-starving-comics-chubby-bruce-introductory-episode.mp3" length="2846" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[2c032f9d-1a00-4e67-b6d7-552ac9f2f0c8]]></guid>
-   <pubDate>Thu, 09 Jun 2022 11:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2846</itunes:duration>
-  </item>
-  <item>
    <title><![CDATA[Daily News Brief for Thursday, June 9th, 2022 [Daily News Brief]]]></title>
    <link>https://app.dropwave.io/episode/3133c55b-3da5-4c07-94ff-94ee17e3e922/daily-news-brief-for-thursday-june-9th-2022.mp3</link>
    <description><![CDATA[<p style="margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">Modern new covid shot 5x better</p>
@@ -3830,6 +3830,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>753</itunes:duration>
+  </item>
+  <item>
+   <title><![CDATA[TCND: BONUS, Starving Comics' Chubby Bruce Introduction [The Comedian Next Door]]]></title>
+   <link>https://app.dropwave.io/episode/2c032f9d-1a00-4e67-b6d7-552ac9f2f0c8/tcnd-starving-comics-chubby-bruce-introductory-episode.mp3</link>
+   <description><![CDATA[<p>Every Sunday at 7:00pm Eastern time, four Christian entertainers host a LIVE YouTube event called the Starving Comics Quarantine Show.&nbsp; If you have been missing these, here's an audio sample to give you the idea.<br /><br />The first 3-4 minutes of this episode make up the "sound check" portion. You'll hear the hosts talk all over each other, thanks to the internet delay and the fact that Juan DeVevo is calling in from the road with his tiny little band called Casting Crowns.&nbsp;<br /><br />John thomas Oaks and Brian Apprille also join John Branyan to talk about Star Spangled Ding Dongs and Chubby Bruce.&nbsp; &nbsp;Trust us when we tell you that both of these things are significant to regular viewers of SCQS, so tune in and get caught up!&nbsp;<br /><br />To support SCQS and other content from John Branyan Comedy, visit johnbranyan.com and become a clique member! Also, you can follow John Branyan on YouTube and set your notifications to remind you when he goes LIVE.&nbsp;&nbsp;</p>]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/2c032f9d-1a00-4e67-b6d7-552ac9f2f0c8/tcnd-starving-comics-chubby-bruce-introductory-episode.mp3" length="2846" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[2c032f9d-1a00-4e67-b6d7-552ac9f2f0c8]]></guid>
+   <pubDate>Thu, 09 Jun 2022 11:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2846</itunes:duration>
   </item>
   <item>
    <title><![CDATA[God and History in Acts and The Academy [The Pugcast]]]></title>
@@ -4239,27 +4252,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>812</itunes:duration>
-  </item>
-  <item>
-   <title><![CDATA[Pootie Plays The Prophet [The Rebel Podcast]]]></title>
-   <link>https://app.dropwave.io/episode/c3c7145d-4a9f-4f40-bbfe-dba17d88b03e/pootie-plays-the-prophet.mp3</link>
-   <description><![CDATA[<p class="MsoNormal" style="margin: 0cm; font-size: 11pt; font-family: Calibri, sans-serif;">One of the questions we seem to get a lot these days is a speculative question asking what we think the next several years/ decades will look like in North America, and more specifically here in Canada.</p>
-<p class="MsoNormal" style="margin: 0cm; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
-<p class="MsoNormal" style="margin: 0cm; font-size: 11pt; font-family: Calibri, sans-serif;">It is no secret that things have been rough. The last two years we have seen: Lockdowns that not only caused depression, anxiety, domestic abuse, drug overdose, pornography addiction and a host of other issues to skyrocket, but we saw the doors to churches closed so those affected could not get the help they needed; Government overreach and corruption sail to new heights; Small businesses destroyed, livelihoods taken, critical race theory infect every area of social, educational and political life, vaccine mandates take away freedom over invasive medical decisions and the list goes on...</p>
-<p class="MsoNormal" style="margin: 0cm; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
-<p class="MsoNormal" style="margin: 0cm; font-size: 11pt; font-family: Calibri, sans-serif;">First of all how does this trajectory fit together with a theology of historical optimism? And secondly, how do we see the next few years playing out in the culture?</p>
-<p class="MsoNormal" style="margin: 0cm; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
-<p class="MsoNormal" style="margin: 0cm; font-size: 11pt; font-family: Calibri, sans-serif;">To support the show you can become a Fight Laugh Feast Club Member here:&nbsp;<a style="color: blue;" href="http://flfnetwork.com/membership/">flfnetwork.com/membership/</a></p>
-<p class="MsoNormal" style="margin: 0cm; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
-<p class="MsoNormal" style="margin: 0cm; font-size: 11pt; font-family: Calibri, sans-serif;">You can also join the rebellion by sharing and inviting your friends to like the content on facebook:&nbsp;<a style="color: blue;" href="http://facebook.com/rebelpodcast">facebook.com/rebelpodcast</a>&nbsp;or by supporting us through patreon at&nbsp;<a style="color: blue;" href="http://patreon.com/reformedrebel">patreon.com/reformedrebel</a></p>]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (pastor Nate & Chris - The Rebels)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/c3c7145d-4a9f-4f40-bbfe-dba17d88b03e/pootie-plays-the-prophet.mp3" length="1691" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[c3c7145d-4a9f-4f40-bbfe-dba17d88b03e]]></guid>
-   <pubDate>Tue, 07 Jun 2022 10:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1691</itunes:duration>
   </item>
  </channel>
 </rss>
