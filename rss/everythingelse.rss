@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Tue, 12 Jul 2022 07:25:43 +0000</pubDate>
-  <lastBuildDate>Tue, 12 Jul 2022 07:25:43 +0000</lastBuildDate>
+  <pubDate>Tue, 12 Jul 2022 13:25:42 +0000</pubDate>
+  <lastBuildDate>Tue, 12 Jul 2022 13:25:42 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -26,6 +26,19 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Amos 8:11-14 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/35337989-9af1-4718-843c-8fc4c9c68a60/amos-811-14.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/35337989-9af1-4718-843c-8fc4c9c68a60/amos-811-14.mp3" length="261" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[35337989-9af1-4718-843c-8fc4c9c68a60]]></guid>
+   <pubDate>Tue, 12 Jul 2022 09:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>261</itunes:duration>
+  
+  </item><item>
    <title><![CDATA[Harris’ Face the Nation: Civil Rights for All (No Babies); Youngkin Tries His Best to be a Democrat [CrossPolitic Show]]]></title>
    <link>https://app.dropwave.io/episode/b2333434-fc2b-4f60-acab-af14ca98d496/harris-face-the-nation-civil-rights-for-all-no-babies-youngkin-tries-his-best-to-be-a-democrat.mp3</link>
    <description><![CDATA[]]></description>
@@ -302,19 +315,6 @@
    <itunes:duration>1963</itunes:duration>
   
   </item><item>
-   <title><![CDATA[Dr. Story Takes Questions about Childhood Vaccinations [Mere Medicine]]]></title>
-   <link>https://app.dropwave.io/episode/4a7a56cc-c04e-4001-bfcc-5bfce609a9c4/dr-story-takes-questions-about-childhood-vaccinations.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/4a7a56cc-c04e-4001-bfcc-5bfce609a9c4/dr-story-takes-questions-about-childhood-vaccinations.mp3" length="2014" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[4a7a56cc-c04e-4001-bfcc-5bfce609a9c4]]></guid>
-   <pubDate>Wed, 06 Jul 2022 16:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/58bf63b8-9b92-43c0-b0e8-9c895ea5671c/cover-art/ml1BWbZV0vLmewnil7TVquUlZ9gJt0tkQL8N8Y8S.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2014</itunes:duration>
-  
-  </item><item>
    <title><![CDATA[1776 [Resistance and Reformation]]]></title>
    <link>https://app.dropwave.io/episode/f77c8065-3935-40ae-8136-a89b72f63659/1776.mp3</link>
    <description><![CDATA[]]></description>
@@ -326,6 +326,19 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>591</itunes:duration>
+  
+  </item><item>
+   <title><![CDATA[Dr. Story Takes Questions about Childhood Vaccinations [Mere Medicine]]]></title>
+   <link>https://app.dropwave.io/episode/4a7a56cc-c04e-4001-bfcc-5bfce609a9c4/dr-story-takes-questions-about-childhood-vaccinations.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/4a7a56cc-c04e-4001-bfcc-5bfce609a9c4/dr-story-takes-questions-about-childhood-vaccinations.mp3" length="2014" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[4a7a56cc-c04e-4001-bfcc-5bfce609a9c4]]></guid>
+   <pubDate>Wed, 06 Jul 2022 16:00:00 +0000</pubDate>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/58bf63b8-9b92-43c0-b0e8-9c895ea5671c/cover-art/ml1BWbZV0vLmewnil7TVquUlZ9gJt0tkQL8N8Y8S.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2014</itunes:duration>
   
   </item><item>
    <title><![CDATA[Roe v. Wade and the Image of God [The Ezra Institute Podcast for Cultural Reformation]]]></title>
@@ -2100,31 +2113,6 @@
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3373</itunes:duration>
   
-  </item><item>
-   <title><![CDATA[Campus Preacher Brother Jed with Tom Short [Campus Preacher]]]></title>
-   <link>https://app.dropwave.io/episode/8b2c5c5d-66b2-448e-9d52-978d6b9c54b6/campus-preacher-brother-jed-with-tom-short.mp3</link>
-   <description><![CDATA[<p>This is part 1 of 2 on the life of Campus Preacher Jed Smock.&nbsp;<br /><br />Note: I have no outro in this episode, so it ends abruptly, but we will pick it up next week.</p>]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Keith Darrell)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/8b2c5c5d-66b2-448e-9d52-978d6b9c54b6/campus-preacher-brother-jed-with-tom-short.mp3" length="2406" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[8b2c5c5d-66b2-448e-9d52-978d6b9c54b6]]></guid>
-   <pubDate>Wed, 08 Jun 2022 11:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/931fd9c4-1c60-4949-85db-e74a6e1f88fc/cover-art/W41Xalf47AwHAGKZ8NFWFwWZDf4p6s4D421ATQH6.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2406</itunes:duration>
-  
-  </item><item>
-   <title><![CDATA[Romans 13:8-10 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/65da7cea-689a-4f21-aada-dd23a1c72dbd/romans-138-10.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/65da7cea-689a-4f21-aada-dd23a1c72dbd/romans-138-10.mp3" length="274" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[65da7cea-689a-4f21-aada-dd23a1c72dbd]]></guid>
-   <pubDate>Wed, 08 Jun 2022 09:00:00 +0000</pubDate>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>274</itunes:duration>
   </item>
  </channel>
 </rss>
