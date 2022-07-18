@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 18 Jul 2022 13:25:44 +0000</pubDate>
-  <lastBuildDate>Mon, 18 Jul 2022 13:25:44 +0000</lastBuildDate>
+  <pubDate>Mon, 18 Jul 2022 19:25:45 +0000</pubDate>
+  <lastBuildDate>Mon, 18 Jul 2022 19:25:45 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -26,6 +26,20 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Join the Festivities [In the Bullpen]]]></title>
+   <link>https://app.dropwave.io/episode/925a9612-6391-4d58-b62c-d2e214da1f0c/join-the-festivities.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/925a9612-6391-4d58-b62c-d2e214da1f0c/join-the-festivities.mp3" length="1495" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[925a9612-6391-4d58-b62c-d2e214da1f0c]]></guid>
+   <pubDate>Mon, 18 Jul 2022 16:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1495</itunes:duration>
+  
+  </item><item>
    <title><![CDATA[TCND: Emotional Maturity and Ethical Problems (Save the Scientists!) [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/12555ec1-4060-4e10-91c5-865763bbb81a/tcnd-emotional-maturity-and-ethical-problems-save-the-scientists.mp3</link>
    <description><![CDATA[<p>Welcome to the table at the Comedian's house...and welcome to "Kokomo Beach" as well.&nbsp;<br />We've been doing some hard work managing our emotions lately...&nbsp;&nbsp;</p>
@@ -717,20 +731,6 @@
    <itunes:duration>1963</itunes:duration>
   
   </item><item>
-   <title><![CDATA[Dr. Story Takes Questions about Childhood Vaccinations [Mere Medicine]]]></title>
-   <link>https://app.dropwave.io/episode/4a7a56cc-c04e-4001-bfcc-5bfce609a9c4/dr-story-takes-questions-about-childhood-vaccinations.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/4a7a56cc-c04e-4001-bfcc-5bfce609a9c4/dr-story-takes-questions-about-childhood-vaccinations.mp3" length="2014" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[4a7a56cc-c04e-4001-bfcc-5bfce609a9c4]]></guid>
-   <pubDate>Wed, 06 Jul 2022 16:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/58bf63b8-9b92-43c0-b0e8-9c895ea5671c/cover-art/ml1BWbZV0vLmewnil7TVquUlZ9gJt0tkQL8N8Y8S.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2014</itunes:duration>
-  
-  </item><item>
    <title><![CDATA[1776 [Resistance and Reformation]]]></title>
    <link>https://app.dropwave.io/episode/f77c8065-3935-40ae-8136-a89b72f63659/1776.mp3</link>
    <description><![CDATA[]]></description>
@@ -743,6 +743,20 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>591</itunes:duration>
+  
+  </item><item>
+   <title><![CDATA[Dr. Story Takes Questions about Childhood Vaccinations [Mere Medicine]]]></title>
+   <link>https://app.dropwave.io/episode/4a7a56cc-c04e-4001-bfcc-5bfce609a9c4/dr-story-takes-questions-about-childhood-vaccinations.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/4a7a56cc-c04e-4001-bfcc-5bfce609a9c4/dr-story-takes-questions-about-childhood-vaccinations.mp3" length="2014" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[4a7a56cc-c04e-4001-bfcc-5bfce609a9c4]]></guid>
+   <pubDate>Wed, 06 Jul 2022 16:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/58bf63b8-9b92-43c0-b0e8-9c895ea5671c/cover-art/ml1BWbZV0vLmewnil7TVquUlZ9gJt0tkQL8N8Y8S.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2014</itunes:duration>
   
   </item><item>
    <title><![CDATA[Roe v. Wade and the Image of God [The Ezra Institute Podcast for Cultural Reformation]]]></title>
@@ -1061,20 +1075,6 @@
    <itunes:duration>2846</itunes:duration>
   
   </item><item>
-   <title><![CDATA[C. S. Lewis and Miracles [The Pugcast]]]></title>
-   <link>https://app.dropwave.io/episode/7f9a2c67-09af-4529-b340-fc5c440e9d03/c-s-lewis-and-miracles.mp3</link>
-   <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">We wouldn&rsquo;t have Christianity without miracles, and one miracle in particular&mdash;the resurrection and ascension of Jesus of Nazareth. Odd then, isn&rsquo;t it, that not so long ago, there were some people who said that we could? C. S. Lewis knew that was nonsense, and he set out in his great book, &ldquo;Miracles,&rdquo; to set down a case for miracles in general, and specifically, the miracles that gave us Christianity. Join the Pugcast in this episode as they discuss C. S. Lewis and Miracles.</p>]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/7f9a2c67-09af-4529-b340-fc5c440e9d03/c-s-lewis-and-miracles.mp3" length="3940" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[7f9a2c67-09af-4529-b340-fc5c440e9d03]]></guid>
-   <pubDate>Thu, 30 Jun 2022 09:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3940</itunes:duration>
-  
-  </item><item>
    <title><![CDATA[2 Kings 2:9-14 [Up and Ready]]]></title>
    <link>https://app.dropwave.io/episode/ad3be8d1-dc4f-4ad3-8d95-8b1cf4250566/2-kings-29-14.mp3</link>
    <description><![CDATA[]]></description>
@@ -1087,6 +1087,20 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>347</itunes:duration>
+  
+  </item><item>
+   <title><![CDATA[C. S. Lewis and Miracles [The Pugcast]]]></title>
+   <link>https://app.dropwave.io/episode/7f9a2c67-09af-4529-b340-fc5c440e9d03/c-s-lewis-and-miracles.mp3</link>
+   <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">We wouldn&rsquo;t have Christianity without miracles, and one miracle in particular&mdash;the resurrection and ascension of Jesus of Nazareth. Odd then, isn&rsquo;t it, that not so long ago, there were some people who said that we could? C. S. Lewis knew that was nonsense, and he set out in his great book, &ldquo;Miracles,&rdquo; to set down a case for miracles in general, and specifically, the miracles that gave us Christianity. Join the Pugcast in this episode as they discuss C. S. Lewis and Miracles.</p>]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/7f9a2c67-09af-4529-b340-fc5c440e9d03/c-s-lewis-and-miracles.mp3" length="3940" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[7f9a2c67-09af-4529-b340-fc5c440e9d03]]></guid>
+   <pubDate>Thu, 30 Jun 2022 09:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3940</itunes:duration>
   
   </item><item>
    <title><![CDATA[Matthew and Revelation [Heavy Lifting with Uncle Gary]]]></title>
@@ -2243,20 +2257,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1983</itunes:duration>
-  
-  </item><item>
-   <title><![CDATA[Psalm 8:1 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/93cab1b7-46a7-41d2-add9-da0217339851/psalm-81.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/93cab1b7-46a7-41d2-add9-da0217339851/psalm-81.mp3" length="268" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[93cab1b7-46a7-41d2-add9-da0217339851]]></guid>
-   <pubDate>Tue, 14 Jun 2022 09:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>268</itunes:duration>
   </item>
  </channel>
 </rss>
