@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 25 Jul 2022 13:25:42 +0000</pubDate>
-  <lastBuildDate>Mon, 25 Jul 2022 13:25:42 +0000</lastBuildDate>
+  <pubDate>Mon, 25 Jul 2022 19:25:41 +0000</pubDate>
+  <lastBuildDate>Mon, 25 Jul 2022 19:25:41 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -26,6 +26,20 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Sources Say [In the Bullpen]]]></title>
+   <link>https://app.dropwave.io/episode/597709d0-4e2b-44e4-a1ff-91313fab995a/sources-say.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/597709d0-4e2b-44e4-a1ff-91313fab995a/sources-say.mp3" length="1419" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[597709d0-4e2b-44e4-a1ff-91313fab995a]]></guid>
+   <pubDate>Mon, 25 Jul 2022 16:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1419</itunes:duration>
+  
+  </item><item>
    <title><![CDATA[TCND: Chat with Juan DeVevo (John HATES Worship Music) [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/9bb9a64a-c0fb-4edb-9ee1-4490ee9bbc81/tcnd-chat-with-juan-devevo-john-hates-worship-music.mp3</link>
    <description><![CDATA[<p>We're not at the kitchen table today...we're in front of our computer screens, video-chatting with our friend, Juan DeVevo.&nbsp; It takes us forever to introduce him and the topic--so please bear with us while we shoot the breeze.&nbsp;<br /><br />Juan is a founding member and "Stage Left Guitar Player" for Casting Crowns. So, let's talk about worship music.&nbsp; (And don't forget to give us two things you LOVE every time you say something you "hate.")<br /><br />What does John have against modern praise music? What would it take to win him over?<br /><br />Also--what does this have to do with chicken nuggets?</p>
@@ -1233,20 +1247,6 @@
    <itunes:duration>1963</itunes:duration>
   
   </item><item>
-   <title><![CDATA[Dr. Story Takes Questions about Childhood Vaccinations [Mere Medicine]]]></title>
-   <link>https://app.dropwave.io/episode/4a7a56cc-c04e-4001-bfcc-5bfce609a9c4/dr-story-takes-questions-about-childhood-vaccinations.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/4a7a56cc-c04e-4001-bfcc-5bfce609a9c4/dr-story-takes-questions-about-childhood-vaccinations.mp3" length="2014" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[4a7a56cc-c04e-4001-bfcc-5bfce609a9c4]]></guid>
-   <pubDate>Wed, 06 Jul 2022 16:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/58bf63b8-9b92-43c0-b0e8-9c895ea5671c/cover-art/ml1BWbZV0vLmewnil7TVquUlZ9gJt0tkQL8N8Y8S.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2014</itunes:duration>
-  
-  </item><item>
    <title><![CDATA[1776 [Resistance and Reformation]]]></title>
    <link>https://app.dropwave.io/episode/f77c8065-3935-40ae-8136-a89b72f63659/1776.mp3</link>
    <description><![CDATA[]]></description>
@@ -1259,6 +1259,20 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>591</itunes:duration>
+  
+  </item><item>
+   <title><![CDATA[Dr. Story Takes Questions about Childhood Vaccinations [Mere Medicine]]]></title>
+   <link>https://app.dropwave.io/episode/4a7a56cc-c04e-4001-bfcc-5bfce609a9c4/dr-story-takes-questions-about-childhood-vaccinations.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/4a7a56cc-c04e-4001-bfcc-5bfce609a9c4/dr-story-takes-questions-about-childhood-vaccinations.mp3" length="2014" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[4a7a56cc-c04e-4001-bfcc-5bfce609a9c4]]></guid>
+   <pubDate>Wed, 06 Jul 2022 16:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/58bf63b8-9b92-43c0-b0e8-9c895ea5671c/cover-art/ml1BWbZV0vLmewnil7TVquUlZ9gJt0tkQL8N8Y8S.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2014</itunes:duration>
   
   </item><item>
    <title><![CDATA[Roe v. Wade and the Image of God [The Ezra Institute Podcast for Cultural Reformation]]]></title>
@@ -2278,19 +2292,6 @@
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>5986</itunes:duration>
   
-  </item><item>
-   <title><![CDATA[1 Kings 19:9-10 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/77de1778-daf1-46d8-9b6b-bfa52de357d4/1-kings-199-10.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/77de1778-daf1-46d8-9b6b-bfa52de357d4/1-kings-199-10.mp3" length="283" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[77de1778-daf1-46d8-9b6b-bfa52de357d4]]></guid>
-   <pubDate>Tue, 21 Jun 2022 09:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>283</itunes:duration>
   </item>
  </channel>
 </rss>
