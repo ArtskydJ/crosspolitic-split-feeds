@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Tue, 26 Jul 2022 13:25:42 +0000</pubDate>
-  <lastBuildDate>Tue, 26 Jul 2022 13:25:42 +0000</lastBuildDate>
+  <pubDate>Tue, 26 Jul 2022 19:25:46 +0000</pubDate>
+  <lastBuildDate>Tue, 26 Jul 2022 19:25:46 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Buchan [Resistance and Reformation]]]></title>
+   <link>https://app.dropwave.io/episode/8435595e-ba9f-402f-ae29-6c7930fac7c7/buchan.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/8435595e-ba9f-402f-ae29-6c7930fac7c7/buchan.mp3" length="613" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[8435595e-ba9f-402f-ae29-6c7930fac7c7]]></guid>
+   <pubDate>Tue, 26 Jul 2022 16:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>613</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Daily News Brief for Tuesday, July 26th, 2022 [Daily News Brief]]]></title>
    <link>https://app.dropwave.io/episode/99802597-1bf7-4344-b7f5-7cac9140c39d/daily-news-brief-for-tuesday-july-26th-2022.mp3</link>
@@ -183,6 +198,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1207</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[The Pro Life Way Of Life [The Rebel Podcast]]]></title>
@@ -199,6 +215,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2808</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Ecclesiastes 2:18-23 [Up and Ready]]]></title>
@@ -213,6 +230,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>283</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Sodom and Gomorrah is Trending & The Failure of Journalism [CrossPolitic Show]]]></title>
@@ -227,6 +245,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1774</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Daily News Brief for Monday, July 25th, 2022 [Daily News Brief]]]></title>
@@ -368,6 +387,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>881</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Sources Say [In the Bullpen]]]></title>
@@ -382,6 +402,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1419</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[TCND: Chat with Juan DeVevo (John HATES Worship Music) [The Comedian Next Door]]]></title>
@@ -398,6 +419,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>4367</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Luke 12:13-21 [Up and Ready]]]></title>
@@ -412,6 +434,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>303</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Restoring the Ruins- Justice Thomas Show How to Repair the U.S. Constitution [God, Law, and Liberty]]]></title>
@@ -426,6 +449,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/467f99a9-2921-459a-b63d-9710f4355795/cover-art/y26og8sWsKrk1Vo9fXdkoPq657KpHxn5IIdruXmr.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1897</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[The Covid Crackdown: Are you a Reinforcement, or a Refugee? [The Waterbreak]]]></title>
@@ -498,6 +522,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/0a3dee73-38ca-4cc7-b0dc-e72b0074106c/cover-art/JVKmUbWmpvy1I1dXtdnFmkLrwXwvOHXH1IvXeh1i.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2938</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Andrew Lawton: Canada’s Biggest Bookseller Won’t Carry His Best-Selling Book!?! [Open Mike with Michael Thiessen]]]></title>
@@ -527,6 +552,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/a313a937-1864-4720-a5eb-4fe53c91d48d/cover-art/uUheeW63MRtlJ15cfD2JSiW4qu9YifPAUxqcvBE5.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3515</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Psalm 85:1-7 [Up and Ready]]]></title>
@@ -541,6 +567,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>299</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Contraception as Chemical Crime - Abortion & The Free Sex Lie - Weekly Wrap Up w/ Pastor Toby [CrossPolitic Show]]]></title>
@@ -555,6 +582,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1903</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Dutch Farmers Fight Back and How We Can Too [Liberty Dispatch]]]></title>
@@ -604,6 +632,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/69893365-4165-4498-b0ac-e9ddf57a000f/cover-art/E86eLfK3NgjrpuXtk9kW9Qv6KcfzQpkJpToltreR.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>4356</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Daily News Brief for Friday, July 22nd, 2022 [Daily News Brief]]]></title>
@@ -671,6 +700,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1048</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Colossians 2:16-19 [Up and Ready]]]></title>
@@ -685,6 +715,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>297</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Biden is Sick, Climate Change, The Fugitive Marriage Act = Biblical Land Curses? [CrossPolitic Show]]]></title>
@@ -699,6 +730,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1873</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Advice for Young Men & The Women Who Love Them [Leadership Now Podcast]]]></title>
@@ -715,6 +747,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/3312a6b0-2b88-4186-bfdd-e9c55d3d7e0f/cover-art/DJmJxOQEoRfGbs693sV6kEnKEGWstWUfdEXbQra8.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3973</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Joe Rigney and Welcome to Negative World! [The Pugcast]]]></title>
@@ -732,6 +765,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>657</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Audience and Timing [Heavy Lifting with Uncle Gary]]]></title>
@@ -746,6 +780,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/T01QrRG9gdN3S9vRvioONHILnE3wDjv7Yvn78osM.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1235</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Daily News Brief for Thursday, July 21st, 2022 [Daily News Brief]]]></title>
@@ -891,6 +926,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1049</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[TCND: BONUS, Anita Renfroe on the Starving Comics' Show [The Comedian Next Door]]]></title>
@@ -908,6 +944,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2846</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Justice and Reality [The Pugcast]]]></title>
@@ -927,6 +964,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3748</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Genesis 18:19 [Up and Ready]]]></title>
@@ -941,6 +979,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>281</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Energy & Commerce Committee Talks Abortion - “The Respect for Marriage Act” Observed - Beer & Ps. 19 [CrossPolitic Show]]]></title>
@@ -955,6 +994,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1866</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Taking a deeper dive: What about birth control? [Mere Medicine]]]></title>
@@ -972,6 +1012,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/58bf63b8-9b92-43c0-b0e8-9c895ea5671c/cover-art/ml1BWbZV0vLmewnil7TVquUlZ9gJt0tkQL8N8Y8S.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1586</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Daily News Brief for Wednesday, July 20th, 2022 [Daily News Brief]]]></title>
@@ -1078,6 +1119,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>962</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Romans 15:14-21 [Up and Ready]]]></title>
@@ -1092,6 +1134,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>321</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Economics and Investing w/Jonathan Wellum [The Ezra Institute Podcast for Cultural Reformation]]]></title>
@@ -1108,6 +1151,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/1c3a97bd-65b0-4aec-bb35-3a1b6eec5d2c/cover-art/4rDIhLUsGj1xuXpLJYNdtwtbungA78glNHA7dOd9.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2923</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Carl Jung, Jordan Peterson, And a Lunatic Culture. [Choc Knox Unplugged]]]></title>
@@ -1122,6 +1166,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/6123b54f-ab49-406c-9cba-a39f6730fc76/cover-art/ARuuU8PixHGkhNvgtHIHIGGJjBUPNwgZEkuaGqzL.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>7192</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Naomi Wolf on CrossPolitic - The Bodies of Others - Stolen Rights are Never Returned [CrossPolitic Show]]]></title>
@@ -1136,6 +1181,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1692</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Evangelical Feminism, Gender Roles & Traditional Marriage [The Rebel Podcast]]]></title>
@@ -1152,6 +1198,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1974</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Daily News Brief for Tuesday, July 19th, 2022 [Daily News Brief]]]></title>
@@ -1294,6 +1341,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1042</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Hosea 1:2-10 [Up and Ready]]]></title>
@@ -1308,6 +1356,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>375</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[The Patriarchy Podcast: White Boy Summer (Ep 73) [The Patriarchy Podcast]]]></title>
@@ -1330,6 +1379,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/a26ffadb-00d7-4e2e-af1b-d1e289ddbc9d/cover-art/tOkOvpRKcnl8DuDoU2dM4EpQuQo6Vm6qTX8JeiZC.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>4011</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Pro-Life = Socialism? Industry & Christianity: Is the Marketplace Neutral? [CrossPolitic Show]]]></title>
@@ -1344,6 +1394,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1909</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Daily News Brief for Monday, July 18th, 2022 [Daily News Brief]]]></title>
@@ -1495,6 +1546,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1001</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Join the Festivities [In the Bullpen]]]></title>
@@ -1509,6 +1561,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1495</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[TCND: Emotional Maturity and Ethical Problems (Save the Scientists!) [The Comedian Next Door]]]></title>
@@ -1525,6 +1578,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2851</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Luke 11:9-13 [Up and Ready]]]></title>
@@ -1539,6 +1593,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>278</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Why Conservatives are Losing the Culture War [The Waterbreak]]]></title>
@@ -1552,6 +1607,7 @@
    <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/0a3dee73-38ca-4cc7-b0dc-e72b0074106c/cover-art/JVKmUbWmpvy1I1dXtdnFmkLrwXwvOHXH1IvXeh1i.jpg"/>
    <itunes:explicit>No</itunes:explicit>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[This Week Recap w/ Pastor Toby! Jordan Peterson’s Message to Christians (& Muslims?) [CrossPolitic Show]]]></title>
@@ -1566,6 +1622,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1730</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[God's Good Design for Human Sexuality w/Dr. Robert Gagnon [Open Mike with Michael Thiessen]]]></title>
@@ -1595,6 +1652,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/a313a937-1864-4720-a5eb-4fe53c91d48d/cover-art/uUheeW63MRtlJ15cfD2JSiW4qu9YifPAUxqcvBE5.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>6603</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[I Believed The Sex Abuse Allegation - What Difference Does That Make? [AD on FLF Network]]]></title>
@@ -1609,6 +1667,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/e985f24f-d823-4e20-b87a-9e2fa86624f5/cover-art/me0OCTvDSY04mcI5sI97SZ3jsUtDXyHr5ExQtpr2.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1214</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Psalm 15 [Up and Ready]]]></title>
@@ -1623,6 +1682,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>294</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Happy Birthday North America...It’s Time to Fight for Freedom...Again [The Liberty Lounge with Tim Tysoe]]]></title>
@@ -1643,6 +1703,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/cb64b0f2-c51c-4623-a58f-d1c449f7707d/cover-art/wbZaR5UJceV48ep0M9SHyfLKcugKEZ0Qog1N2lqx.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>4535</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Stopping Mission Drift in Christian Institutions [Leadership Now Podcast]]]></title>
@@ -1663,6 +1724,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/3312a6b0-2b88-4186-bfdd-e9c55d3d7e0f/cover-art/DJmJxOQEoRfGbs693sV6kEnKEGWstWUfdEXbQra8.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3732</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Restoring the Ruins— What is Common Law and Why Even Care? [God, Law, and Liberty]]]></title>
@@ -1677,6 +1739,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/467f99a9-2921-459a-b63d-9710f4355795/cover-art/y26og8sWsKrk1Vo9fXdkoPq657KpHxn5IIdruXmr.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1865</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Colossians 1:24-28 [Up and Ready]]]></title>
@@ -1691,6 +1754,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>311</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Oh Canada! How to Lead a Godly Church in an Ungodly Land [CrossPolitic Show]]]></title>
@@ -1705,6 +1769,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1753</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Aaron Renn and Welcome to Negative World! [The Pugcast]]]></title>
@@ -1721,6 +1786,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>446</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[TCND: BONUS CONTENT, Car Chronicles (Part 2) [The Comedian Next Door]]]></title>
@@ -1737,6 +1803,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3378</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Daily News Brief for Thursday, July 14th, 2022 [Daily News Brief]]]></title>
@@ -1881,6 +1948,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1011</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Genesis 18:1-12 [Up and Ready]]]></title>
@@ -1895,6 +1963,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>357</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Christian Wayfaring [The Pugcast]]]></title>
@@ -1914,6 +1983,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3895</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Beer! Psalms! Berkeley Prof. vs Sen. Hawley - Transphobic Senator? Roe v Wade & Black Community [CrossPolitic Show]]]></title>
@@ -1928,6 +1998,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1915</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[The Beasts and the Millennium [Heavy Lifting with Uncle Gary]]]></title>
@@ -1942,6 +2013,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/zBycLa7g4H6IwJaBmjODFxP8HlfgP8nlMDQhsk14.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1293</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Why did Dr and Mrs Story stop using birth control? [Mere Medicine]]]></title>
@@ -1960,6 +2032,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/58bf63b8-9b92-43c0-b0e8-9c895ea5671c/cover-art/ml1BWbZV0vLmewnil7TVquUlZ9gJt0tkQL8N8Y8S.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2198</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[The Great Commission w/ Dale Partridge [The Ezra Institute Podcast for Cultural Reformation]]]></title>
@@ -1977,6 +2050,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/1c3a97bd-65b0-4aec-bb35-3a1b6eec5d2c/cover-art/4rDIhLUsGj1xuXpLJYNdtwtbungA78glNHA7dOd9.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2671</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Daily News Brief for Wednesday, July 13th, 2022 [Daily News Brief]]]></title>
@@ -2106,6 +2180,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1060</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Romans 15:7-13 [Up and Ready]]]></title>
@@ -2120,6 +2195,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>281</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Women’s Reproductive Health: Biden’s Executive Order, Ectopic Pregnancies, & Maternal Mortality [CrossPolitic Show]]]></title>
@@ -2134,6 +2210,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1784</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[How To Speak Up On Facebook [The Rebel Podcast]]]></title>
@@ -2152,6 +2229,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1922</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Bryan [Resistance and Reformation]]]></title>
@@ -2166,6 +2244,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>524</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Daily News Brief for Tuesday, July 12th, 2022 [Daily News Brief]]]></title>
@@ -2277,6 +2356,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>774</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Amos 8:11-14 [Up and Ready]]]></title>
@@ -2291,6 +2371,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>261</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Harris’ Face the Nation: Civil Rights for All (No Babies); Youngkin Tries His Best to be a Democrat [CrossPolitic Show]]]></title>
@@ -2305,6 +2386,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1882</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Daily News Brief for Monday, July 11th, 2022 [Daily News Brief]]]></title>
@@ -2432,6 +2514,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>726</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Star Power [In the Bullpen]]]></title>
@@ -2446,6 +2529,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1726</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[TCND: Family Trip from Hell...or Heaven (Firework Finale) [The Comedian Next Door]]]></title>
@@ -2461,6 +2545,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2614</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Luke 10:38-42 [Up and Ready]]]></title>
@@ -2475,6 +2560,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>283</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Reclaiming a Conservatism in Media w/ Cade Foehner [The Waterbreak]]]></title>
@@ -2489,6 +2575,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/0a3dee73-38ca-4cc7-b0dc-e72b0074106c/cover-art/JVKmUbWmpvy1I1dXtdnFmkLrwXwvOHXH1IvXeh1i.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3071</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Julie Ponesse: The Ethical Case Against ”Vaccine” Coercion [Open Mike with Michael Thiessen]]]></title>
@@ -2518,6 +2605,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/a313a937-1864-4720-a5eb-4fe53c91d48d/cover-art/uUheeW63MRtlJ15cfD2JSiW4qu9YifPAUxqcvBE5.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>4061</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Psalm 82 [Up and Ready]]]></title>
@@ -2532,6 +2620,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>318</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Jordan Peterson & Dave Rubin Acting Trans in Parenting + The Eugenics Connection [CrossPolitic Show]]]></title>
@@ -2546,6 +2635,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2081</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Daily News Brief for Friday, July 8th, 2022 [Daily News Brief]]]></title>
@@ -2659,6 +2749,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>770</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Colossians 1:9-12 [Up and Ready]]]></title>
@@ -2673,6 +2764,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>274</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Crisis Pregnancy Centers - Potency of a Christian Family - No Room for False Worship [CrossPolitic Show]]]></title>
@@ -2687,6 +2779,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1922</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Freedom Fighters Arrested in the NeverEnding Covid Story! [Liberty Dispatch]]]></title>
@@ -2727,6 +2820,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/69893365-4165-4498-b0ac-e9ddf57a000f/cover-art/E86eLfK3NgjrpuXtk9kW9Qv6KcfzQpkJpToltreR.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2329</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[What Does 'Literal' Mean? [Heavy Lifting with Uncle Gary]]]></title>
@@ -2741,6 +2835,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/21bqfmsZNMIPHEHfJoXP8bNwr3EssEh4cm2eZOQ9.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1412</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[9 Counter-Cultural Leadership Lessons for Every Christian Leader [Leadership Now Podcast]]]></title>
@@ -2761,6 +2856,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/3312a6b0-2b88-4186-bfdd-e9c55d3d7e0f/cover-art/DJmJxOQEoRfGbs693sV6kEnKEGWstWUfdEXbQra8.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3183</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[The Most Reluctant Convert [The Pugcast]]]></title>
@@ -2775,6 +2871,29 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3658</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[TCND: BONUS CONTENT, Car Chronicles, Part 1 [The Comedian Next Door]]]></title>
+   <link>https://app.dropwave.io/episode/62ec6c3a-1484-4910-9e42-4decde633201/tcnd-bonus-content-car-chronicles-part-1.mp3</link>
+   <description><![CDATA[<p>This week, jump in the car with the Comedian, John Branyan, and his son-in-law, Luke McKinney. We're traveling down to Atlanta from Indianapolis, which means there's plenty of time for thinking and chatting. Ignore the road noise, and make sure you're buckled properly.&nbsp;</p>
+<p>Topics include:&nbsp;<br /><br />-Progressive Christianity</p>
+<p>-Refusing to associate with apostates</p>
+<p>-Planks and Logs (and when should we judge?)</p>
+<p>-Social media theology and popular false teaching</p>
+<p>-How does John write jokes and plan his comedy sets?</p>
+<p>-And much more!<br /><br /></p>
+<p>Visit johnbranyan.com and join the Comedy Clique! All the cool kids are doing it!&nbsp; Also--if you haven't downloaded the Fight Laugh Feast App and become a member of the FLF Network, what are you waiting for?&nbsp; &nbsp;Email the Comedian at nextdoor@johnbranyan.com</p>]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/62ec6c3a-1484-4910-9e42-4decde633201/tcnd-bonus-content-car-chronicles-part-1.mp3" length="3142" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[62ec6c3a-1484-4910-9e42-4decde633201]]></guid>
+   <pubDate>Thu, 07 Jul 2022 11:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3142</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Daily News Brief for Thursday, July 7th, 2022 [Daily News Brief]]]></title>
@@ -2813,27 +2932,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>700</itunes:duration>
-  </item>
-  <item>
-   <title><![CDATA[TCND: BONUS CONTENT, Car Chronicles, Part 1 [The Comedian Next Door]]]></title>
-   <link>https://app.dropwave.io/episode/62ec6c3a-1484-4910-9e42-4decde633201/tcnd-bonus-content-car-chronicles-part-1.mp3</link>
-   <description><![CDATA[<p>This week, jump in the car with the Comedian, John Branyan, and his son-in-law, Luke McKinney. We're traveling down to Atlanta from Indianapolis, which means there's plenty of time for thinking and chatting. Ignore the road noise, and make sure you're buckled properly.&nbsp;</p>
-<p>Topics include:&nbsp;<br /><br />-Progressive Christianity</p>
-<p>-Refusing to associate with apostates</p>
-<p>-Planks and Logs (and when should we judge?)</p>
-<p>-Social media theology and popular false teaching</p>
-<p>-How does John write jokes and plan his comedy sets?</p>
-<p>-And much more!<br /><br /></p>
-<p>Visit johnbranyan.com and join the Comedy Clique! All the cool kids are doing it!&nbsp; Also--if you haven't downloaded the Fight Laugh Feast App and become a member of the FLF Network, what are you waiting for?&nbsp; &nbsp;Email the Comedian at nextdoor@johnbranyan.com</p>]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/62ec6c3a-1484-4910-9e42-4decde633201/tcnd-bonus-content-car-chronicles-part-1.mp3" length="3142" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[62ec6c3a-1484-4910-9e42-4decde633201]]></guid>
-   <pubDate>Thu, 07 Jul 2022 11:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3142</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Psalm 25:1-3 [Up and Ready]]]></title>
@@ -2848,6 +2947,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>257</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[“Reproductive Rights” by Biden & Political Turmoil + Calling on God (Psalm 3) - Beer & Psalms [CrossPolitic Show]]]></title>
@@ -2862,20 +2962,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1963</itunes:duration>
-  </item>
-  <item>
-   <title><![CDATA[Dr. Story Takes Questions about Childhood Vaccinations [Mere Medicine]]]></title>
-   <link>https://app.dropwave.io/episode/4a7a56cc-c04e-4001-bfcc-5bfce609a9c4/dr-story-takes-questions-about-childhood-vaccinations.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/4a7a56cc-c04e-4001-bfcc-5bfce609a9c4/dr-story-takes-questions-about-childhood-vaccinations.mp3" length="2014" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[4a7a56cc-c04e-4001-bfcc-5bfce609a9c4]]></guid>
-   <pubDate>Wed, 06 Jul 2022 16:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/58bf63b8-9b92-43c0-b0e8-9c895ea5671c/cover-art/ml1BWbZV0vLmewnil7TVquUlZ9gJt0tkQL8N8Y8S.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2014</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[1776 [Resistance and Reformation]]]></title>
@@ -2890,6 +2977,22 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>591</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[Dr. Story Takes Questions about Childhood Vaccinations [Mere Medicine]]]></title>
+   <link>https://app.dropwave.io/episode/4a7a56cc-c04e-4001-bfcc-5bfce609a9c4/dr-story-takes-questions-about-childhood-vaccinations.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/4a7a56cc-c04e-4001-bfcc-5bfce609a9c4/dr-story-takes-questions-about-childhood-vaccinations.mp3" length="2014" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[4a7a56cc-c04e-4001-bfcc-5bfce609a9c4]]></guid>
+   <pubDate>Wed, 06 Jul 2022 16:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/58bf63b8-9b92-43c0-b0e8-9c895ea5671c/cover-art/ml1BWbZV0vLmewnil7TVquUlZ9gJt0tkQL8N8Y8S.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2014</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Daily News Brief for Wednesday, July 6th, 2022 [Daily News Brief]]]></title>
@@ -3036,6 +3139,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1014</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Roe v. Wade and the Image of God [The Ezra Institute Podcast for Cultural Reformation]]]></title>
@@ -3051,6 +3155,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/1c3a97bd-65b0-4aec-bb35-3a1b6eec5d2c/cover-art/4rDIhLUsGj1xuXpLJYNdtwtbungA78glNHA7dOd9.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3336</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Romans 15:1-6 [Up and Ready]]]></title>
@@ -3065,6 +3170,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>308</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[THE RCMP GETS POLITICAL! [Liberty Dispatch]]]></title>
@@ -3107,6 +3213,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/69893365-4165-4498-b0ac-e9ddf57a000f/cover-art/E86eLfK3NgjrpuXtk9kW9Qv6KcfzQpkJpToltreR.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3334</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Office of Evangelist - Our Need to Share the Gospel, How Unions Destroy the Economy w/ Amity Shlaesions Destroy the Economy w/ Amity Shlaes [CrossPolitic Show]]]></title>
@@ -3121,6 +3228,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1864</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Political Legalism [Choc Knox Unplugged]]]></title>
@@ -3135,6 +3243,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/6123b54f-ab49-406c-9cba-a39f6730fc76/cover-art/ARuuU8PixHGkhNvgtHIHIGGJjBUPNwgZEkuaGqzL.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>6896</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Navigating The Social Media Storm [The Rebel Podcast]]]></title>
@@ -3155,6 +3264,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2138</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Amos 7:7-9 [Up and Ready]]]></title>
@@ -3169,6 +3279,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>273</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Let Freedom Ring [In the Bullpen]]]></title>
@@ -3183,6 +3294,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1586</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[TCND:  Bubble Joy and Women Aren't Funny (Zoom Out!) [The Comedian Next Door]]]></title>
@@ -3202,6 +3314,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2917</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[1 Peter 2:13-17 [Up and Ready]]]></title>
@@ -3216,6 +3329,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>321</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[A Conservative's Guide to a Post Roe Society [The Waterbreak]]]></title>
@@ -3230,6 +3344,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/0a3dee73-38ca-4cc7-b0dc-e72b0074106c/cover-art/JVKmUbWmpvy1I1dXtdnFmkLrwXwvOHXH1IvXeh1i.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3330</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Exposing ”Vaccine” Lies w/Ted Kuntz of Vaccine Choice Canada [Open Mike with Michael Thiessen]]]></title>
@@ -3259,6 +3374,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/a313a937-1864-4720-a5eb-4fe53c91d48d/cover-art/uUheeW63MRtlJ15cfD2JSiW4qu9YifPAUxqcvBE5.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3670</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Psalm 16:11 [Up and Ready]]]></title>
@@ -3273,6 +3389,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>258</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Company’s Paying for Abortions - Roe v. Wade Culture War - Politics of The Gospel [CrossPolitic Show]]]></title>
@@ -3287,6 +3404,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1947</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Daily News Brief for Friday, July 1st, 2022 [Daily News Brief]]]></title>
@@ -3406,6 +3524,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>923</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Galatians 5:16-26 [Up and Ready]]]></title>
@@ -3420,6 +3539,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>357</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Al Sharpton/Joe Scarborough Abortion not in the Bible?  Special Forces Vet. - Uvalde Shooting Assessment [CrossPolitic Show]]]></title>
@@ -3434,6 +3554,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2005</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Why People Abandon the Faith [Leadership Now Podcast]]]></title>
@@ -3454,6 +3575,25 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/3312a6b0-2b88-4186-bfdd-e9c55d3d7e0f/cover-art/DJmJxOQEoRfGbs693sV6kEnKEGWstWUfdEXbQra8.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3148</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[TCND: BONUS, Starving Comics New Revelation and Channels Game [The Comedian Next Door]]]></title>
+   <link>https://app.dropwave.io/episode/b585a976-7482-4b53-9b55-1af0144e6c70/tcnd-bonus-starving-comics-new-revelation-and-channels-game.mp3</link>
+   <description><![CDATA[<p>Every Sunday at 7:00pm Eastern, four Christian entertainers host the best LIVE YouTube event of the whole week! It's called the Starving Comics Quarantine Show.&nbsp;</p>
+<p>If you haven't been tuning in for the live broadcasts, here's a little sample of what you've been missing...</p>
+<p>On this episode, Juan DeVevo is out on the road and Jt's keyboard crashed. (This is why we have a sound check!)&nbsp; Also, we have a special guest in the studio: Kristin Weber! She's an expert on Adulting for Jesus.&nbsp;</p>
+<p>John surprises Jt with something that will change the course of the entire show. And, later, we play a new game called "Channels," which makes a lot more sense when you can SEE the television.<br /><br />If you're ready to watch this show live, subscribe to the John Branyan YouTube channel and tune in every Sunday evening! Also, consider supporting content like this by visiting johnbranyan.com and joining the Comedy Clique.&nbsp;</p>]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/b585a976-7482-4b53-9b55-1af0144e6c70/tcnd-bonus-starving-comics-new-revelation-and-channels-game.mp3" length="2846" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[b585a976-7482-4b53-9b55-1af0144e6c70]]></guid>
+   <pubDate>Thu, 30 Jun 2022 11:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2846</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Daily News Brief for Thursday, June 30th, 2022 [Daily News Brief]]]></title>
@@ -3491,23 +3631,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>624</itunes:duration>
-  </item>
-  <item>
-   <title><![CDATA[TCND: BONUS, Starving Comics New Revelation and Channels Game [The Comedian Next Door]]]></title>
-   <link>https://app.dropwave.io/episode/b585a976-7482-4b53-9b55-1af0144e6c70/tcnd-bonus-starving-comics-new-revelation-and-channels-game.mp3</link>
-   <description><![CDATA[<p>Every Sunday at 7:00pm Eastern, four Christian entertainers host the best LIVE YouTube event of the whole week! It's called the Starving Comics Quarantine Show.&nbsp;</p>
-<p>If you haven't been tuning in for the live broadcasts, here's a little sample of what you've been missing...</p>
-<p>On this episode, Juan DeVevo is out on the road and Jt's keyboard crashed. (This is why we have a sound check!)&nbsp; Also, we have a special guest in the studio: Kristin Weber! She's an expert on Adulting for Jesus.&nbsp;</p>
-<p>John surprises Jt with something that will change the course of the entire show. And, later, we play a new game called "Channels," which makes a lot more sense when you can SEE the television.<br /><br />If you're ready to watch this show live, subscribe to the John Branyan YouTube channel and tune in every Sunday evening! Also, consider supporting content like this by visiting johnbranyan.com and joining the Comedy Clique.&nbsp;</p>]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/b585a976-7482-4b53-9b55-1af0144e6c70/tcnd-bonus-starving-comics-new-revelation-and-channels-game.mp3" length="2846" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[b585a976-7482-4b53-9b55-1af0144e6c70]]></guid>
-   <pubDate>Thu, 30 Jun 2022 11:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2846</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[2 Kings 2:9-14 [Up and Ready]]]></title>
@@ -3522,6 +3646,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>347</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[C. S. Lewis and Miracles [The Pugcast]]]></title>
@@ -3536,6 +3661,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3940</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Matthew and Revelation [Heavy Lifting with Uncle Gary]]]></title>
@@ -3550,6 +3676,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/fTHa4YX8I1sWVYZguBFThCr8aucKEPaGndBRX2FU.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1435</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Honoring Jim Wilson - His Life, His Death, & His Legacy [CrossPolitic Show]]]></title>
@@ -3564,6 +3691,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1849</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Rerun: CrossPolitic Special with Jim Wilson [CrossPolitic Show]]]></title>
@@ -3578,6 +3706,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3508</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Abortion; For Dr. Story, It's Personal [Mere Medicine]]]></title>
@@ -3592,6 +3721,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/58bf63b8-9b92-43c0-b0e8-9c895ea5671c/cover-art/ml1BWbZV0vLmewnil7TVquUlZ9gJt0tkQL8N8Y8S.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1333</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Metaphysics of Sin Knox Unplugged Bonus Content [Choc Knox Unplugged]]]></title>
@@ -3606,6 +3736,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/6123b54f-ab49-406c-9cba-a39f6730fc76/cover-art/ARuuU8PixHGkhNvgtHIHIGGJjBUPNwgZEkuaGqzL.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>564</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Daily News Brief for Wednesday, June 29th, 2022 [Daily News Brief]]]></title>
@@ -3715,6 +3846,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>794</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Romans 14:13-23 [Up and Ready]]]></title>
@@ -3729,6 +3861,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>291</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Covenant and Kingdom w/Andrew Sandlin [The Ezra Institute Podcast for Cultural Reformation]]]></title>
@@ -3748,6 +3881,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/1c3a97bd-65b0-4aec-bb35-3a1b6eec5d2c/cover-art/4rDIhLUsGj1xuXpLJYNdtwtbungA78glNHA7dOd9.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2424</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[AOC “Baby-Steps” for Abortion, Roe v. Wade Aftermath, Christian Big Tech: Revitalize America [CrossPolitic Show]]]></title>
@@ -3762,6 +3896,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1969</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Cosmological Revolution from Nietzsche, And Why We Hate Theocracy [Choc Knox Unplugged]]]></title>
@@ -3777,6 +3912,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/6123b54f-ab49-406c-9cba-a39f6730fc76/cover-art/ARuuU8PixHGkhNvgtHIHIGGJjBUPNwgZEkuaGqzL.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>5785</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[SPECIAL LEGAL UPDATE & ANALYSIS: Good-bye Roe w/James Kitchen, Tabitha Ewert, Samuel Sey [Liberty Dispatch]]]></title>
@@ -3823,6 +3959,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/69893365-4165-4498-b0ac-e9ddf57a000f/cover-art/E86eLfK3NgjrpuXtk9kW9Qv6KcfzQpkJpToltreR.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3894</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Astronomical [Resistance and Reformation]]]></title>
@@ -3837,6 +3974,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>598</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Talk to yourself more than you listen to yourself [The Rebel Podcast]]]></title>
@@ -3857,6 +3995,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1673</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Daily News Brief for Tuesday, June 28th, 2022 [Daily News Brief]]]></title>
@@ -3960,6 +4099,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>749</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[1 Kings 19:15-19 [Up and Ready]]]></title>
@@ -3974,6 +4114,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>264</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Justice Thomas Triggering Leftists, SCOTUS - Coaches can Pray, GiveSendGo > GoFundMe [CrossPolitic Show]]]></title>
@@ -3988,6 +4129,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1864</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Daily News Brief for Monday, June 27th, 2022 [Daily News Brief]]]></title>
@@ -4093,6 +4235,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>827</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Cheers, Tears, and Fears [In the Bullpen]]]></title>
@@ -4107,6 +4250,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1578</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[TCND: Family Camp Prep plus Lemon Balm (Cookie Nightmares) [The Comedian Next Door]]]></title>
@@ -4126,6 +4270,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2887</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Luke 9:57-62 [Up and Ready]]]></title>
@@ -4140,6 +4285,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>282</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Roe v. Wade Overturned: Our Next Steps Forward, Plus an Update on Ukraine w/ Jeremy Stalneker [The Waterbreak]]]></title>
@@ -4154,6 +4300,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/0a3dee73-38ca-4cc7-b0dc-e72b0074106c/cover-art/JVKmUbWmpvy1I1dXtdnFmkLrwXwvOHXH1IvXeh1i.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2529</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[The Truth About Residential Schools w/Brian Dale Giesbrecht [Open Mike with Michael Thiessen]]]></title>
@@ -4183,6 +4330,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/a313a937-1864-4720-a5eb-4fe53c91d48d/cover-art/uUheeW63MRtlJ15cfD2JSiW4qu9YifPAUxqcvBE5.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>4499</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Psalm 43 [Up and Ready]]]></title>
@@ -4197,6 +4345,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>330</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Roe v. Wade is Overturned, Biden & Pelosi Want to Fight - Time for The Church to be The Church [CrossPolitic Show]]]></title>
@@ -4211,6 +4360,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2027</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[SCOTUS Ruling on Firearms & Self Defense - Setting up Dobbs v. Jackson? w/ David Fowler [CrossPolitic Show]]]></title>
@@ -4225,6 +4375,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2151</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Daily News Brief for Friday, June 24th, 2022 [Daily News Brief]]]></title>
@@ -4355,6 +4506,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>892</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Galatians 3:23-29 [Up and Ready]]]></title>
@@ -4369,6 +4521,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>300</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Zuby: Rapper, Entrepreneur, Women Deadlift Record Holder - Healing Culture by Not Living in Fear [CrossPolitic Show]]]></title>
@@ -4383,6 +4536,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1758</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Canadian Government is Withholding Truth and Funding Lies [Liberty Dispatch]]]></title>
@@ -4424,6 +4578,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/69893365-4165-4498-b0ac-e9ddf57a000f/cover-art/E86eLfK3NgjrpuXtk9kW9Qv6KcfzQpkJpToltreR.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3619</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Weak Men & the Sin of Eden [Leadership Now Podcast]]]></title>
@@ -4444,6 +4599,23 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/3312a6b0-2b88-4186-bfdd-e9c55d3d7e0f/cover-art/DJmJxOQEoRfGbs693sV6kEnKEGWstWUfdEXbQra8.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3394</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[TCND: Bonus, Starving Comics Not Fat Albert and Story Salad [The Comedian Next Door]]]></title>
+   <link>https://app.dropwave.io/episode/bd03ce0d-28b4-458f-b89c-200e6fc26bc4/tcnd-bonus-starving-comics-not-fat-albert-and-story-salad.mp3</link>
+   <description><![CDATA[<p>Every Sunday at 7:00pm Eastern, four Christian entertainers host the best LIVE YouTube event of the whole week! It's called the Starving Comics Quarantine Show.&nbsp;<br /><br />If you haven't been tuning in for the live broadcasts, here's a little sample of what you've been missing...</p>
+<p>In this episode, John Branyan and Brian Apprille and Juan DeVevo and John thomas Oaks are telling STORIES based on word prompts drawn randomly.&nbsp; (You can get your own copy of the game Story Salad by visiting johnthomasoaks.com)&nbsp;<br /><br />Plus, we're totally not ripping off Fat Albert... Not at all...&nbsp;<br /><br />Be sure to subscribe to John Branyan's YouTube channel so you can be part of the next SCQS!</p>]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/bd03ce0d-28b4-458f-b89c-200e6fc26bc4/tcnd-bonus-starving-comics-not-fat-albert-and-story-salad.mp3" length="2846" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[bd03ce0d-28b4-458f-b89c-200e6fc26bc4]]></guid>
+   <pubDate>Thu, 23 Jun 2022 11:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2846</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Daily News Brief for Thursday, June 23rd, 2022 [Daily News Brief]]]></title>
@@ -4478,21 +4650,22 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>826</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[TCND: Bonus, Starving Comics Not Fat Albert and Story Salad [The Comedian Next Door]]]></title>
-   <link>https://app.dropwave.io/episode/bd03ce0d-28b4-458f-b89c-200e6fc26bc4/tcnd-bonus-starving-comics-not-fat-albert-and-story-salad.mp3</link>
-   <description><![CDATA[<p>Every Sunday at 7:00pm Eastern, four Christian entertainers host the best LIVE YouTube event of the whole week! It's called the Starving Comics Quarantine Show.&nbsp;<br /><br />If you haven't been tuning in for the live broadcasts, here's a little sample of what you've been missing...</p>
-<p>In this episode, John Branyan and Brian Apprille and Juan DeVevo and John thomas Oaks are telling STORIES based on word prompts drawn randomly.&nbsp; (You can get your own copy of the game Story Salad by visiting johnthomasoaks.com)&nbsp;<br /><br />Plus, we're totally not ripping off Fat Albert... Not at all...&nbsp;<br /><br />Be sure to subscribe to John Branyan's YouTube channel so you can be part of the next SCQS!</p>]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/bd03ce0d-28b4-458f-b89c-200e6fc26bc4/tcnd-bonus-starving-comics-not-fat-albert-and-story-salad.mp3" length="2846" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[bd03ce0d-28b4-458f-b89c-200e6fc26bc4]]></guid>
-   <pubDate>Thu, 23 Jun 2022 11:00:00 +0000</pubDate>
+   <title><![CDATA[Isaiah 65:1-7 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/bc42cf19-7a12-4be3-96a3-eaa728981aef/isaiah-651-7.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/bc42cf19-7a12-4be3-96a3-eaa728981aef/isaiah-651-7.mp3" length="307" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[bc42cf19-7a12-4be3-96a3-eaa728981aef]]></guid>
+   <pubDate>Thu, 23 Jun 2022 09:00:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2846</itunes:duration>
+   <itunes:duration>307</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Medieval Courtesy Books [The Pugcast]]]></title>
@@ -4510,20 +4683,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3921</itunes:duration>
-  </item>
-  <item>
-   <title><![CDATA[Isaiah 65:1-7 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/bc42cf19-7a12-4be3-96a3-eaa728981aef/isaiah-651-7.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/bc42cf19-7a12-4be3-96a3-eaa728981aef/isaiah-651-7.mp3" length="307" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[bc42cf19-7a12-4be3-96a3-eaa728981aef]]></guid>
-   <pubDate>Thu, 23 Jun 2022 09:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>307</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Energy Secretary Granholm’s Money God, Lightyear’s Fruitless Queer Nation, Beer & Psalms w/ Toby [CrossPolitic Show]]]></title>
@@ -4538,6 +4698,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1916</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[The Image of God and a Culture of Beauty [The Ezra Institute Podcast for Cultural Reformation]]]></title>
@@ -4553,6 +4714,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/1c3a97bd-65b0-4aec-bb35-3a1b6eec5d2c/cover-art/4rDIhLUsGj1xuXpLJYNdtwtbungA78glNHA7dOd9.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2781</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Free Market Medicine and the need for Independent Doctors (and businesses!) [Mere Medicine]]]></title>
@@ -4570,6 +4732,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/58bf63b8-9b92-43c0-b0e8-9c895ea5671c/cover-art/ml1BWbZV0vLmewnil7TVquUlZ9gJt0tkQL8N8Y8S.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1576</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
   <item>
    <title><![CDATA[Daily News Brief for Wednesday, June 22nd, 2022 [Daily News Brief]]]></title>
@@ -4671,20 +4834,7 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>789</itunes:duration>
-  </item>
-  <item>
-   <title><![CDATA[Romans 14:1-12 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/71e2d4b9-0a15-4754-aedf-5ff8ddba77f9/romans-141-12.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[fightlaughfeast@gmail.com (Mark Dewey)]]></author>
-   <enclosure url="https://app.dropwave.io/episode/71e2d4b9-0a15-4754-aedf-5ff8ddba77f9/romans-141-12.mp3" length="331" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[71e2d4b9-0a15-4754-aedf-5ff8ddba77f9]]></guid>
-   <pubDate>Wed, 22 Jun 2022 09:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>331</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
   </item>
  </channel>
 </rss>
