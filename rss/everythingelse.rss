@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Thu, 28 Jul 2022 13:25:43 +0000</pubDate>
-  <lastBuildDate>Thu, 28 Jul 2022 13:25:43 +0000</lastBuildDate>
+  <pubDate>Thu, 28 Jul 2022 19:25:55 +0000</pubDate>
+  <lastBuildDate>Thu, 28 Jul 2022 19:25:55 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -26,6 +26,21 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[But What Does the Bible Say? [Heavy Lifting with Uncle Gary]]]></title>
+   <link>https://app.dropwave.io/episode/e38b9250-4505-45f0-848c-c8679bb45a15/what-does-the-bible-say.mp3</link>
+   <description><![CDATA[<p>Gary teaches the four major views of the book of Revelation and how each interprets the final book of the Bible. Assumptions about what "the end" will look like inform all of the views, but the real question should be: Which one is the most faithful to the entire teaching of the Bible?&nbsp;</p>]]></description>
+   <author><![CDATA[fightlaughfeast@gmail.com (Gary DeMar)]]></author>
+   <enclosure url="https://app.dropwave.io/episode/e38b9250-4505-45f0-848c-c8679bb45a15/what-does-the-bible-say.mp3" length="1318" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[e38b9250-4505-45f0-848c-c8679bb45a15]]></guid>
+   <pubDate>Thu, 28 Jul 2022 15:37:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/k9ECFD83ZuvwyrcopGKIBUCWfivte3gARSDfFfMF.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1318</itunes:duration>
+   <itunes:episodeType>Full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[TCND: BONUS, Hans Fiene on Starving Comics' Show [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/a60b383f-d75d-4d5a-8514-600775787d29/tcnd-bonus-hans-fiene-on-starving-comics-show.mp3</link>
    <description><![CDATA[<p>Every Sunday at 7:00pm Eastern Time, John Branyan LIVE streams a comedy show with three of his most talented friends:&nbsp; Brian Apprille--Fellow Comedian,&nbsp; John thomas Oaks--Song Composer, Juan DeVevo--Founding Member of Casting Crowns.&nbsp;</p>
@@ -2367,7 +2382,6 @@
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2151</itunes:duration>
    <itunes:episodeType>Full</itunes:episodeType>
-  
   </item>
  </channel>
 </rss>
