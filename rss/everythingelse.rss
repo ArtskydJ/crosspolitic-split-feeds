@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 08 Aug 2022 13:25:44 +0000</pubDate>
-  <lastBuildDate>Mon, 08 Aug 2022 13:25:44 +0000</lastBuildDate>
+  <pubDate>Mon, 08 Aug 2022 19:25:44 +0000</pubDate>
+  <lastBuildDate>Mon, 08 Aug 2022 19:25:44 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -26,6 +26,21 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Slow to Speak [In the Bullpen]]]></title>
+   <link>https://app.dropwave.io/episode/3342173a-03e4-40bb-8ee7-662550709f70/slow-to-speak.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/3342173a-03e4-40bb-8ee7-662550709f70/slow-to-speak.mp3" length="1878" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[3342173a-03e4-40bb-8ee7-662550709f70]]></guid>
+   <pubDate>Mon, 08 Aug 2022 16:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1878</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[TCND:  Peter Heck on Public Education (From the Bunker) [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/1e087131-3463-407d-9f8e-aad6105189d3/tcnd-peter-heck-on-education-from-the-bunker.mp3</link>
    <description><![CDATA[<p>Welcome to the table of the Comedian Next Door, John Branyan. Although, technically, this particular table belongs to his daughter, Amanda. Let us introduce you to our good friend, Pete Heck.&nbsp; Pete writes for Not-the-Bee and is a public school history/government teacher.&nbsp; Make sure you Google "Trump Globe Hands," for some reason...<br /><br />Anyway, eventually we get around to chatting about the dire state of public education--which is one of our favorite topics.&nbsp; To quote the public school teacher, "The system is fatally flawed."&nbsp; So...what should Christians do now?</p>
@@ -2387,21 +2402,6 @@
    <itunes:episodeType>full</itunes:episodeType>
   
   </item><item>
-   <title><![CDATA[1776 [Resistance and Reformation]]]></title>
-   <link>https://app.dropwave.io/episode/f77c8065-3935-40ae-8136-a89b72f63659/1776.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/f77c8065-3935-40ae-8136-a89b72f63659/1776.mp3" length="591" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[f77c8065-3935-40ae-8136-a89b72f63659]]></guid>
-   <pubDate>Wed, 06 Jul 2022 16:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>591</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  
-  </item><item>
    <title><![CDATA[Dr. Story Takes Questions about Childhood Vaccinations [Mere Medicine]]]></title>
    <link>https://app.dropwave.io/episode/4a7a56cc-c04e-4001-bfcc-5bfce609a9c4/dr-story-takes-questions-about-childhood-vaccinations.mp3</link>
    <description><![CDATA[]]></description>
@@ -2414,6 +2414,21 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/58bf63b8-9b92-43c0-b0e8-9c895ea5671c/cover-art/ml1BWbZV0vLmewnil7TVquUlZ9gJt0tkQL8N8Y8S.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2014</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[1776 [Resistance and Reformation]]]></title>
+   <link>https://app.dropwave.io/episode/f77c8065-3935-40ae-8136-a89b72f63659/1776.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/f77c8065-3935-40ae-8136-a89b72f63659/1776.mp3" length="591" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[f77c8065-3935-40ae-8136-a89b72f63659]]></guid>
+   <pubDate>Wed, 06 Jul 2022 16:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>591</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   
   </item><item>
@@ -2445,49 +2460,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>308</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  
-  </item><item>
-   <title><![CDATA[THE RCMP GETS POLITICAL! [Liberty Dispatch]]]></title>
-   <link>https://app.dropwave.io/episode/afc27a2e-b92d-404c-8119-f8b02db782df/the-rcmp-gets-political.mp3</link>
-   <description><![CDATA[<p class="media-description" style="font-size: 1.3rem; line-height: 2rem; margin: 1rem 0px; overflow-wrap: break-word; color: #333333; font-family: sans-serif; scroll-behavior: auto !important;">Tune in as hosts Andrew DeBartolo and Michael Thiessen look back on the Canada Day weekend news and the allegations surrounding RCMP Commissioner Brenda Lucki, and her use of the mass shooting in Halifax in 2020 to further political ends.</p>
-<p class="media-description" style="font-size: 1.3rem; line-height: 2rem; margin: 1rem 0px; overflow-wrap: break-word; color: #333333; font-family: sans-serif; scroll-behavior: auto !important;">Weekend Review:<br style="scroll-behavior: auto !important;" />Tamara Lich was arrested a second time and in jail until her hearing today:</p>
-<p class="media-description" style="font-size: 1.3rem; line-height: 2rem; margin: 1rem 0px; overflow-wrap: break-word; color: #333333; font-family: sans-serif; scroll-behavior: auto !important;"><a style="margin: 0px; padding: 0px; font-family: inherit; font-weight: inherit; font-size: inherit; text-decoration: inherit; font-style: inherit; line-height: inherit; scroll-behavior: auto !important;" href="https://tnc.news/2022/06/27/lich-arrested1" target="_blank" rel="nofollow noopener">https://tnc.news/2022/06/27/lich-arrested1</a>;&nbsp;<a style="margin: 0px; padding: 0px; font-family: inherit; font-weight: inherit; font-size: inherit; text-decoration: inherit; font-style: inherit; line-height: inherit; scroll-behavior: auto !important;" href="https://tnc.news/2022/06/30/lich-july-5" target="_blank" rel="nofollow noopener">https://tnc.news/2022/06/30/lich-july-5</a></p>
-<p class="media-description" style="font-size: 1.3rem; line-height: 2rem; margin: 1rem 0px; overflow-wrap: break-word; color: #333333; font-family: sans-serif; scroll-behavior: auto !important;">James Topp arrives in Ottawa before Canada Day:</p>
-<p class="media-description" style="font-size: 1.3rem; line-height: 2rem; margin: 1rem 0px; overflow-wrap: break-word; color: #333333; font-family: sans-serif; scroll-behavior: auto !important;"><a style="margin: 0px; padding: 0px; font-family: inherit; font-weight: inherit; font-size: inherit; text-decoration: inherit; font-style: inherit; line-height: inherit; scroll-behavior: auto !important;" href="https://www.iheartradio.ca/bounce/winnipeg/veteran-james-topp-arrives-in-ottawa-to-protest-covid-19-vaccine-mandates-1.18112552" target="_blank" rel="nofollow noopener">https://www.iheartradio.ca/bounce/winnipeg/veteran-james-topp-arrives-in-ottawa-to-protest-covid-19-vaccine-mandates-1.18112552</a></p>
-<p class="media-description" style="font-size: 1.3rem; line-height: 2rem; margin: 1rem 0px; overflow-wrap: break-word; color: #333333; font-family: sans-serif; scroll-behavior: auto !important;">Protesters flood the streets in front of Parliament Hill on Canada Day:</p>
-<p class="media-description" style="font-size: 1.3rem; line-height: 2rem; margin: 1rem 0px; overflow-wrap: break-word; color: #333333; font-family: sans-serif; scroll-behavior: auto !important;"><a style="margin: 0px; padding: 0px; font-family: inherit; font-weight: inherit; font-size: inherit; text-decoration: inherit; font-style: inherit; line-height: inherit; scroll-behavior: auto !important;" href="https://nationalpost.com/news/canada/ottawa-kicks-off-canada-day-expecting-anti-government-protests" target="_blank" rel="nofollow noopener">https://nationalpost.com/news/canada/ottawa-kicks-off-canada-day-expecting-anti-government-protests</a></p>
-<p class="media-description" style="font-size: 1.3rem; line-height: 2rem; margin: 1rem 0px; overflow-wrap: break-word; color: #333333; font-family: sans-serif; scroll-behavior: auto !important;">[Story 1] Corruption and dirty politics in the RCMP:</p>
-<p class="media-description" style="font-size: 1.3rem; line-height: 2rem; margin: 1rem 0px; overflow-wrap: break-word; color: #333333; font-family: sans-serif; scroll-behavior: auto !important;">Brenda Lucki jeopardizes mass shooting investigation:</p>
-<p class="media-description" style="font-size: 1.3rem; line-height: 2rem; margin: 1rem 0px; overflow-wrap: break-word; color: #333333; font-family: sans-serif; scroll-behavior: auto !important;"><a style="margin: 0px; padding: 0px; font-family: inherit; font-weight: inherit; font-size: inherit; text-decoration: inherit; font-style: inherit; line-height: inherit; scroll-behavior: auto !important;" href="https://www.halifaxexaminer.ca/featured/rcmp-commissioner-brenda-lucki-tried-to-jeopardize-mass-murder-investigation-to-advance-trudeaus-gun-control-efforts/" target="_blank" rel="nofollow noopener">https://www.halifaxexaminer.ca/featured/rcmp-commissioner-brenda-lucki-tried-to-jeopardize-mass-murder-investigation-to-advance-trudeaus-gun-control-efforts/</a></p>
-<p class="media-description" style="font-size: 1.3rem; line-height: 2rem; margin: 1rem 0px; overflow-wrap: break-word; color: #333333; font-family: sans-serif; scroll-behavior: auto !important;">Brenda Lucki uses RCMP to further Liberal gun control legislation:</p>
-<p class="media-description" style="font-size: 1.3rem; line-height: 2rem; margin: 1rem 0px; overflow-wrap: break-word; color: #333333; font-family: sans-serif; scroll-behavior: auto !important;"><a style="margin: 0px; padding: 0px; font-family: inherit; font-weight: inherit; font-size: inherit; text-decoration: inherit; font-style: inherit; line-height: inherit; scroll-behavior: auto !important;" href="https://nationalpost.com/opinion/jamie-sarkonak-who-has-less-shame-the-liberals-or-brenda-lucki" target="_blank" rel="nofollow noopener">https://nationalpost.com/opinion/jamie-sarkonak-who-has-less-shame-the-liberals-or-brenda-lucki</a></p>
-<p class="media-description" style="font-size: 1.3rem; line-height: 2rem; margin: 1rem 0px; overflow-wrap: break-word; color: #333333; font-family: sans-serif; scroll-behavior: auto !important;">Justice Department hides RCMP political interference:</p>
-<p class="media-description" style="font-size: 1.3rem; line-height: 2rem; margin: 1rem 0px; overflow-wrap: break-word; color: #333333; font-family: sans-serif; scroll-behavior: auto !important;"><a style="margin: 0px; padding: 0px; font-family: inherit; font-weight: inherit; font-size: inherit; text-decoration: inherit; font-style: inherit; line-height: inherit; scroll-behavior: auto !important;" href="https://tnc.news/2022/06/28/rcmp-scandal-notes" target="_blank" rel="nofollow noopener">https://tnc.news/2022/06/28/rcmp-scandal-notes</a></p>
-<p class="media-description" style="font-size: 1.3rem; line-height: 2rem; margin: 1rem 0px; overflow-wrap: break-word; color: #333333; font-family: sans-serif; scroll-behavior: auto !important;">Sick of Mainstream Media Lies?</p>
-<p class="media-description" style="font-size: 1.3rem; line-height: 2rem; margin: 1rem 0px; overflow-wrap: break-word; color: #333333; font-family: sans-serif; scroll-behavior: auto !important;">Please Support us in bringing you real, truthful reporting and analysis from a Christian perspective.</p>
-<p class="media-description" style="font-size: 1.3rem; line-height: 2rem; margin: 1rem 0px; overflow-wrap: break-word; color: #333333; font-family: sans-serif; scroll-behavior: auto !important;">Subscribe to our various shows:<br style="scroll-behavior: auto !important;" />LIBERTY DISPATCH PODCAST:&nbsp;<a style="margin: 0px; padding: 0px; font-family: inherit; font-weight: inherit; font-size: inherit; text-decoration: inherit; font-style: inherit; line-height: inherit; scroll-behavior: auto !important;" href="https://libertydispatch.podbean.com/" target="_blank" rel="nofollow noopener">https://libertydispatch.podbean.com</a></p>
-<p class="media-description" style="font-size: 1.3rem; line-height: 2rem; margin: 1rem 0px; overflow-wrap: break-word; color: #333333; font-family: sans-serif; scroll-behavior: auto !important;">OPEN MIKE WITH MICHAEL THIESSEN:&nbsp;<a style="margin: 0px; padding: 0px; font-family: inherit; font-weight: inherit; font-size: inherit; text-decoration: inherit; font-style: inherit; line-height: inherit; scroll-behavior: auto !important;" href="https://openmikewithmichaelthiessen.podbean.com/" target="_blank" rel="nofollow noopener">https://openmikewithmichaelthiessen.podbean.com</a></p>
-<p class="media-description" style="font-size: 1.3rem; line-height: 2rem; margin: 1rem 0px; overflow-wrap: break-word; color: #333333; font-family: sans-serif; scroll-behavior: auto !important;">THE LIBERTY LOUNGE WITH TIM TYSOE:&nbsp;<a style="margin: 0px; padding: 0px; font-family: inherit; font-weight: inherit; font-size: inherit; text-decoration: inherit; font-style: inherit; line-height: inherit; scroll-behavior: auto !important;" href="https://rumble.com/c/c-1639185" target="_blank" rel="nofollow noopener">https://rumble.com/c/c-1639185</a>&nbsp;</p>
-<p class="media-description" style="font-size: 1.3rem; line-height: 2rem; margin: 1rem 0px; overflow-wrap: break-word; color: #333333; font-family: sans-serif; scroll-behavior: auto !important;">Stay up-to-date on all things LCC:</p>
-<p class="media-description" style="font-size: 1.3rem; line-height: 2rem; margin: 1rem 0px; overflow-wrap: break-word; color: #333333; font-family: sans-serif; scroll-behavior: auto !important;">Gab:&nbsp;<a style="margin: 0px; padding: 0px; font-family: inherit; font-weight: inherit; font-size: inherit; text-decoration: inherit; font-style: inherit; line-height: inherit; scroll-behavior: auto !important;" href="https://gab.com/libertycoalitioncanada" target="_blank" rel="nofollow noopener">https://gab.com/libertycoalitioncanada</a></p>
-<p class="media-description" style="font-size: 1.3rem; line-height: 2rem; margin: 1rem 0px; overflow-wrap: break-word; color: #333333; font-family: sans-serif; scroll-behavior: auto !important;">Telegram:&nbsp;<a style="margin: 0px; padding: 0px; font-family: inherit; font-weight: inherit; font-size: inherit; text-decoration: inherit; font-style: inherit; line-height: inherit; scroll-behavior: auto !important;" href="https://t.me/libertycoalitioncanadanews" target="_blank" rel="nofollow noopener">https://t.me/libertycoalitioncanadanews</a></p>
-<p class="media-description" style="font-size: 1.3rem; line-height: 2rem; margin: 1rem 0px; overflow-wrap: break-word; color: #333333; font-family: sans-serif; scroll-behavior: auto !important;">Instagram:&nbsp;<a style="margin: 0px; padding: 0px; font-family: inherit; font-weight: inherit; font-size: inherit; text-decoration: inherit; font-style: inherit; line-height: inherit; scroll-behavior: auto !important;" href="https://instagram.com/libertycoalitioncanada" target="_blank" rel="nofollow noopener">https://instagram.com/libertycoalitioncanada</a></p>
-<p class="media-description" style="font-size: 1.3rem; line-height: 2rem; margin: 1rem 0px; overflow-wrap: break-word; color: #333333; font-family: sans-serif; scroll-behavior: auto !important;">Facebook:&nbsp;<a style="margin: 0px; padding: 0px; font-family: inherit; font-weight: inherit; font-size: inherit; text-decoration: inherit; font-style: inherit; line-height: inherit; scroll-behavior: auto !important;" href="https://facebook.com/LibertyCoalitionCanada" target="_blank" rel="nofollow noopener">https://facebook.com/LibertyCoalitionCanada</a></p>
-<p class="media-description" style="font-size: 1.3rem; line-height: 2rem; margin: 1rem 0px; overflow-wrap: break-word; color: #333333; font-family: sans-serif; scroll-behavior: auto !important;">Twitter:&nbsp;@LibertyCCanada -&nbsp;<a style="margin: 0px; padding: 0px; font-family: inherit; font-weight: inherit; font-size: inherit; text-decoration: inherit; font-style: inherit; line-height: inherit; scroll-behavior: auto !important;" href="https://twitter.com/LibertyCCanada" target="_blank" rel="nofollow noopener">https://twitter.com/LibertyCCanada</a></p>
-<p class="media-description" style="font-size: 1.3rem; line-height: 2rem; margin: 1rem 0px; overflow-wrap: break-word; color: #333333; font-family: sans-serif; scroll-behavior: auto !important;">Rumble:&nbsp;<a style="margin: 0px; padding: 0px; font-family: inherit; font-weight: inherit; font-size: inherit; text-decoration: inherit; font-style: inherit; line-height: inherit; scroll-behavior: auto !important;" href="https://rumble.com/user/LibertyCoalitionCanada" target="_blank" rel="nofollow noopener">https://rumble.com/user/LibertyCoalitionCanada</a></p>
-<p class="media-description" style="font-size: 1.3rem; line-height: 2rem; margin: 1rem 0px; overflow-wrap: break-word; color: #333333; font-family: sans-serif; scroll-behavior: auto !important;">YouTube:&nbsp;<a style="margin: 0px; padding: 0px; font-family: inherit; font-weight: inherit; font-size: inherit; text-decoration: inherit; font-style: inherit; line-height: inherit; scroll-behavior: auto !important;" href="https://www.youtube.com/channel/UCLb1yNIeJ-2bSuHRW4oftRQ" target="_blank" rel="nofollow noopener">https://www.youtube.com/channel/UCLb1yNIeJ-2bSuHRW4oftRQ</a></p>
-<p class="media-description" style="font-size: 1.3rem; line-height: 2rem; margin: 1rem 0px; overflow-wrap: break-word; color: #333333; font-family: sans-serif; scroll-behavior: auto !important;">You can also find us on Spotify &amp;amp; Apple Podcasts and just about every other podcast<br style="scroll-behavior: auto !important;" />catcher!</p>
-<p class="media-description" style="font-size: 1.3rem; line-height: 2rem; margin: 1rem 0px; overflow-wrap: break-word; color: #333333; font-family: sans-serif; scroll-behavior: auto !important;">Please LIKE, SUBSCRIBE, RATE &amp;amp; REVIEW and SHARE it with others!</p>]]></description>
-   <author><![CDATA[Matthew Hallick, Michael Thiessen]]></author>
-   <enclosure url="https://app.dropwave.io/episode/afc27a2e-b92d-404c-8119-f8b02db782df/the-rcmp-gets-political.mp3" length="3334" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[afc27a2e-b92d-404c-8119-f8b02db782df]]></guid>
-   <pubDate>Wed, 06 Jul 2022 01:04:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Matthew Hallick, Michael Thiessen]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/69893365-4165-4498-b0ac-e9ddf57a000f/cover-art/E86eLfK3NgjrpuXtk9kW9Qv6KcfzQpkJpToltreR.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3334</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
