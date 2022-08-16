@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Tue, 16 Aug 2022 13:25:44 +0000</pubDate>
-  <lastBuildDate>Tue, 16 Aug 2022 13:25:44 +0000</lastBuildDate>
+  <pubDate>Tue, 16 Aug 2022 19:25:44 +0000</pubDate>
+  <lastBuildDate>Tue, 16 Aug 2022 19:25:44 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -26,6 +26,21 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Janus [Resistance and Reformation]]]></title>
+   <link>https://app.dropwave.io/episode/0b06f8b1-5fb4-46b7-af3e-0e6ef4e8b20f/janus.mp3</link>
+   <description><![CDATA[<p>georgegrant.net&nbsp;</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/0b06f8b1-5fb4-46b7-af3e-0e6ef4e8b20f/janus.mp3" length="643" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[0b06f8b1-5fb4-46b7-af3e-0e6ef4e8b20f]]></guid>
+   <pubDate>Tue, 16 Aug 2022 16:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>643</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[Isaiah 58:6-12 [Up and Ready]]]></title>
    <link>https://app.dropwave.io/episode/5148e7f9-1ed2-41b4-969f-0e2501d65bda/isaiah-586-12.mp3</link>
    <description><![CDATA[]]></description>
@@ -2458,21 +2473,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1915</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  
-  </item><item>
-   <title><![CDATA[The Beasts and the Millennium [Heavy Lifting with Uncle Gary]]]></title>
-   <link>https://app.dropwave.io/episode/4d5dc173-0a1e-4942-bb5f-89a66a27feb3/the-beasts-and-the-millennium.mp3</link>
-   <description><![CDATA[<p>Gary finishes his quick overview of the book of Revelation, going through chapters 13-22. The Bible is its own best interpreter and helps us make sense of the strange and often confusing language of this final book. The vast majority of the imagery from John's Apocalypse should remind us of prior events in biblical history and we must have a firm grasp of the Old Testament in order to make sense of Revelation.</p>]]></description>
-   <author><![CDATA[Gary DeMar]]></author>
-   <enclosure url="https://app.dropwave.io/episode/4d5dc173-0a1e-4942-bb5f-89a66a27feb3/the-beasts-and-the-millennium.mp3" length="1293" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[4d5dc173-0a1e-4942-bb5f-89a66a27feb3]]></guid>
-   <pubDate>Wed, 13 Jul 2022 20:50:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Gary DeMar]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/zBycLa7g4H6IwJaBmjODFxP8HlfgP8nlMDQhsk14.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1293</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
