@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 22 Aug 2022 13:25:43 +0000</pubDate>
-  <lastBuildDate>Mon, 22 Aug 2022 13:25:43 +0000</lastBuildDate>
+  <pubDate>Mon, 22 Aug 2022 19:25:46 +0000</pubDate>
+  <lastBuildDate>Mon, 22 Aug 2022 19:25:46 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -26,6 +26,21 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Stop Squinting [In the Bullpen]]]></title>
+   <link>https://app.dropwave.io/episode/331b86a6-8a77-4800-9d81-d07e6f233d4f/stop-squinting.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/331b86a6-8a77-4800-9d81-d07e6f233d4f/stop-squinting.mp3" length="1261" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[331b86a6-8a77-4800-9d81-d07e6f233d4f]]></guid>
+   <pubDate>Mon, 22 Aug 2022 16:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1261</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[Luke 14:7-11 [Up and Ready]]]></title>
    <link>https://app.dropwave.io/episode/d68ca220-ba25-4079-885f-1ecea9ccbbdd/luke-147-11.mp3</link>
    <description><![CDATA[]]></description>
@@ -2327,21 +2342,6 @@
    <itunes:episodeType>full</itunes:episodeType>
   
   </item><item>
-   <title><![CDATA[Genesis 18:19 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/dbad7802-c163-4c8a-abda-3323f133f7a6/genesis-1819.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[Mark Dewey]]></author>
-   <enclosure url="https://app.dropwave.io/episode/dbad7802-c163-4c8a-abda-3323f133f7a6/genesis-1819.mp3" length="281" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[dbad7802-c163-4c8a-abda-3323f133f7a6]]></guid>
-   <pubDate>Thu, 21 Jul 2022 09:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>281</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  
-  </item><item>
    <title><![CDATA[Justice and Reality [The Pugcast]]]></title>
    <link>https://app.dropwave.io/episode/5898a828-eceb-48e4-9721-a0b959e9e926/justice-and-reality.mp3</link>
    <description><![CDATA[<p class="gmail-p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';"><span style="color: #000000;">On today&rsquo;s show Chris guides a conversation on the nature of justice and its relationship to the given order of nature. For many intellectuals &ldquo;justice&rdquo; is an ideal that is imposed on society. Innate differences between people should be either compensated for, denied, or surgically removed. But is this really just? Perhaps the differences we see between individuals, or the sexes, are actually givens to be received with gladness and were intended to enrich our lives by making us mutually dependent on each other. Join the Pugcast as the guys discuss the limits of justice and the gifts of creation.</span></p>
@@ -2359,6 +2359,21 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3748</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Genesis 18:19 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/dbad7802-c163-4c8a-abda-3323f133f7a6/genesis-1819.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/dbad7802-c163-4c8a-abda-3323f133f7a6/genesis-1819.mp3" length="281" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[dbad7802-c163-4c8a-abda-3323f133f7a6]]></guid>
+   <pubDate>Thu, 21 Jul 2022 09:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>281</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   
   </item><item>
@@ -2473,43 +2488,6 @@
    <itunes:duration>1974</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   
-  </item><item>
-   <title><![CDATA[Hosea 1:2-10 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/a51d8559-5611-4609-8a94-6de59d895715/hosea-12-10.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[Mark Dewey]]></author>
-   <enclosure url="https://app.dropwave.io/episode/a51d8559-5611-4609-8a94-6de59d895715/hosea-12-10.mp3" length="375" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[a51d8559-5611-4609-8a94-6de59d895715]]></guid>
-   <pubDate>Tue, 19 Jul 2022 09:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>375</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  
-  </item><item>
-   <title><![CDATA[The Patriarchy Podcast: White Boy Summer (Ep 73) [The Patriarchy Podcast]]]></title>
-   <link>https://app.dropwave.io/episode/44228066-420a-4d03-8643-86ebc2055bc2/the-patriarchy-podcast-white-boy-summer-ep-73.mp3</link>
-   <description><![CDATA[<p class="p1">On the last episode of this season, Tony &amp; Joseph answer The Young Turks' video, "The Bible is Pro-Abortion."</p>
-<p class="p1">Add The Patriarchy Podcast to your podcast app of choice with this feed:&nbsp;<strong><a href="https://bit.ly/thepatriarchypodcastrss">bit.ly/thepatriarchypodcastrss</a></strong></p>
-<p class="p1">Or download the&nbsp;<strong>"Fight Laugh Feast Network"</strong>&nbsp;app from the Apple, Google Play, ROKU, or Amazon Fire app store to hear us each week.</p>
-<p class="p1"><strong>Support The Patriarchy</strong>&nbsp;and get access to bonus content, including the members only show "After The Sandwich," behind the scenes material, a t-shirt, coffee, and lots of other great stuff by signing up to be a Fight Laugh Feast Club Member at&nbsp;<a href="http://FightLaughFeast.com">FightLaughFeast.com</a>&nbsp;using the code&nbsp;<strong>PATRIARCHY.</strong></p>
-<p class="p1"><strong>#BuildFightProtectLead<br />#ThePatriarchy<br />#FLFNetwork</strong></p>
-<p class="p1"><a href="https://Gab.com/ThePatriarchyPodcast">ThePatriarchyPodcast on Gab</a><br /><a href="https://Facebook.com/ThePatriarchyPodcast">ThePatriarchyPodcast on Facebook</a><br /><a href="https://Twitter.com/PatriarchyPod">PatriarchyPod on Twitter</a><br /><a href="https://Instagram.com/ThePatriarchyPodcast">ThePatriarchyPodcast on Instagram</a><br /><a href="https://YouTube.com/c/ThePatriarchyPodcast">ThePatriarchyPodcast on YouTube</a><br /><a href="https://ThePatriarchyPodcast.com">ThePatriarchyPodcast.com</a></p>
-<p class="p1"><em>Credits:</em></p>
-<p class="p1"><em>"Twisted" "District Four" Kevin MacLeod (incompetech.com)</em>&nbsp;<em>Licensed under Creative Commons: By Attribution 3.0 License</em>&nbsp;<em>http://creativecommons.org/licenses/by/3.0/</em></p>]]></description>
-   <author><![CDATA[Tony Dipane, Joseph Spurgeon]]></author>
-   <enclosure url="https://app.dropwave.io/episode/44228066-420a-4d03-8643-86ebc2055bc2/the-patriarchy-podcast-white-boy-summer-ep-73.mp3" length="4011" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[44228066-420a-4d03-8643-86ebc2055bc2]]></guid>
-   <pubDate>Tue, 19 Jul 2022 06:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Tony Dipane, Joseph Spurgeon]]></itunes:author>
-   <itunes:summary><![CDATA[Answering The Young Turks' video, "The Bible is Pro-Abortion."]]></itunes:summary>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/a26ffadb-00d7-4e2e-af1b-d1e289ddbc9d/cover-art/tOkOvpRKcnl8DuDoU2dM4EpQuQo6Vm6qTX8JeiZC.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>4011</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
 </rss>
