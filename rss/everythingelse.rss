@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 05 Sep 2022 13:25:43 +0000</pubDate>
-  <lastBuildDate>Mon, 05 Sep 2022 13:25:43 +0000</lastBuildDate>
+  <pubDate>Mon, 05 Sep 2022 19:25:42 +0000</pubDate>
+  <lastBuildDate>Mon, 05 Sep 2022 19:25:42 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -26,6 +26,21 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Laboring Together [In the Bullpen]]]></title>
+   <link>https://app.dropwave.io/episode/3f68c288-7c76-4d13-a303-f6ccc1295361/laboring-together.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/3f68c288-7c76-4d13-a303-f6ccc1295361/laboring-together.mp3" length="1810" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[3f68c288-7c76-4d13-a303-f6ccc1295361]]></guid>
+   <pubDate>Mon, 05 Sep 2022 16:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1810</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[TCND:  Phobias and Examining Moscow (It's SOOOO Peed!) [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/a4e5d5cd-ebb9-4c1a-9cdb-50032657cbd0/tcnd-phobias-and-examining-mocs-its-soooo-peed.mp3</link>
    <description><![CDATA[<p>Welcome to the table of the Comedian Next Door!&nbsp; Sometimes our kids are afraid of strange/funny things and we spend 10-15 minutes telling the stories.&nbsp; (Hot Tip for potty training: let your toddler run around pantless!)&nbsp;<br /><br />What scared you when you were young?&nbsp; Was it a creepy clown painting or non-existent bugs in your bed?&nbsp;</p>
@@ -122,6 +137,21 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1821</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Restoring the Ruins—Respect for Marriage Act and Eschatology [God, Law, and Liberty]]]></title>
+   <link>https://app.dropwave.io/episode/8c0b4fda-afc0-45b7-bd80-b47339cef9c6/restoring-the-ruins-respect-for-marriage-act-and-eschatology.mp3</link>
+   <description><![CDATA[<p>Eschatology affects the way we look at legislation. Today David explains how eschatology affects the way Christians will look at the Respect for Marriage Act pending in Congress and an even more fundamental issue&mdash;what does pursuing the Kingdom of God and His righteousness look like in this context.</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/8c0b4fda-afc0-45b7-bd80-b47339cef9c6/restoring-the-ruins-respect-for-marriage-act-and-eschatology.mp3" length="1414" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[8c0b4fda-afc0-45b7-bd80-b47339cef9c6]]></guid>
+   <pubDate>Fri, 02 Sep 2022 14:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/467f99a9-2921-459a-b63d-9710f4355795/cover-art/y26og8sWsKrk1Vo9fXdkoPq657KpHxn5IIdruXmr.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1414</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   
   </item><item>
@@ -2500,36 +2530,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/467f99a9-2921-459a-b63d-9710f4355795/cover-art/y26og8sWsKrk1Vo9fXdkoPq657KpHxn5IIdruXmr.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1677</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  
-  </item><item>
-   <title><![CDATA[Psalm 49:1-9 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/8796c0f9-229d-4fcf-8221-4f1658e929cf/psalm-491-9.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[Mark Dewey]]></author>
-   <enclosure url="https://app.dropwave.io/episode/8796c0f9-229d-4fcf-8221-4f1658e929cf/psalm-491-9.mp3" length="306" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[8796c0f9-229d-4fcf-8221-4f1658e929cf]]></guid>
-   <pubDate>Sat, 30 Jul 2022 09:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>306</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  
-  </item><item>
-   <title><![CDATA[PACT Act, CHIPS Act, & Hating on Veterans? The Government Mugging The People [CrossPolitic Show]]]></title>
-   <link>https://app.dropwave.io/episode/1afa2e3a-21d9-4172-8c11-537cfc360510/pact-act-chips-act-hating-on-veterans-the-government-mugging-the-people.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/1afa2e3a-21d9-4172-8c11-537cfc360510/pact-act-chips-act-hating-on-veterans-the-government-mugging-the-people.mp3" length="1691" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[1afa2e3a-21d9-4172-8c11-537cfc360510]]></guid>
-   <pubDate>Sat, 30 Jul 2022 01:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1691</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
