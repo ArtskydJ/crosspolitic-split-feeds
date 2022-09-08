@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Wed, 07 Sep 2022 19:25:45 +0000</pubDate>
-  <lastBuildDate>Wed, 07 Sep 2022 19:25:45 +0000</lastBuildDate>
+  <pubDate>Thu, 08 Sep 2022 01:26:05 +0000</pubDate>
+  <lastBuildDate>Thu, 08 Sep 2022 01:26:05 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -26,6 +26,21 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Baptists allowing Paedobaptists into Membership? Joe Rigney joins Beer & Psalms - Psalm 47 [CrossPolitic Show]]]></title>
+   <link>https://app.dropwave.io/episode/f5370005-2921-4497-aa3a-cbfdeb2fcf67/baptists-allowing-paedobaptists-into-membership-joe-rigney-joins-beer-psalms-psalm-47.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/f5370005-2921-4497-aa3a-cbfdeb2fcf67/baptists-allowing-paedobaptists-into-membership-joe-rigney-joins-beer-psalms-psalm-47.mp3" length="1844" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[f5370005-2921-4497-aa3a-cbfdeb2fcf67]]></guid>
+   <pubDate>Thu, 08 Sep 2022 01:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1844</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[Educated to know Beauty to have Courage [Choc Knox Unplugged]]]></title>
    <link>https://app.dropwave.io/episode/94fcad72-0f99-450a-a0dd-1632afe009cb/educated-to-know-beauty-to-have-courage.mp3</link>
    <description><![CDATA[]]></description>
@@ -2503,7 +2518,6 @@
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>549</itunes:duration>
    <itunes:episodeType>bonus</itunes:episodeType>
-  
   </item>
  </channel>
 </rss>
