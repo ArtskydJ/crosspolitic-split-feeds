@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Thu, 08 Sep 2022 07:25:47 +0000</pubDate>
-  <lastBuildDate>Thu, 08 Sep 2022 07:25:47 +0000</lastBuildDate>
+  <pubDate>Thu, 08 Sep 2022 13:25:44 +0000</pubDate>
+  <lastBuildDate>Thu, 08 Sep 2022 13:25:44 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -26,6 +26,40 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[TCND BONUS: What Happens in Branson... [The Comedian Next Door]]]></title>
+   <link>https://app.dropwave.io/episode/a70b8615-6841-441c-a8f8-504c63ca8225/tcnd-bonus-what-happens-in-branson.mp3</link>
+   <description><![CDATA[<p>Every Sunday at 7:00pm Eastern Time, John Branyan LIVE streams a comedy show with three of his most talented friends: &nbsp;Brian Apprille--Fellow Comedian, &nbsp;John thomas Oaks--Song Composer, Juan DeVevo--Founding Member of Casting Crowns.&nbsp;</p>
+<p>On this episode, it's all about Branson, MO! Have you ever wondered what it would be like to perform comedy in front of 4 people? Some of our hosts can let you know...</p>
+<p>If you like listening to this show, you'll love watching it. &nbsp;Tune in every Sunday at 7:00pm on the John Branyan YouTube channel. Your LIVE comments will be featured! &nbsp;Also--join us October 6th-8th at the Fight Laugh Feast Conference in Knoxville. &nbsp;Details at flfnetwork.com</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/a70b8615-6841-441c-a8f8-504c63ca8225/tcnd-bonus-what-happens-in-branson.mp3" length="2846" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[a70b8615-6841-441c-a8f8-504c63ca8225]]></guid>
+   <pubDate>Thu, 08 Sep 2022 11:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2846</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Where Totalitarians Come From [The Pugcast]]]></title>
+   <link>https://app.dropwave.io/episode/cbec17f2-1e48-4830-a4f6-b65118a2eb00/where-totalitarians-come-from.mp3</link>
+   <description><![CDATA[<p class="p1">There is something new under the sun&mdash;totalitarianism. Often confused with authoritarianism or tyranny, totalitarianism is a modern phenomenon, only possible in modernity. It is also uniquely deadly in its implications. So, what is it about modernity that makes totalitarianism feasible, and what makes it different from earlier forms of political oppression? The pugsters explore the modern character of totalitarianism on today&rsquo;s Pugcast.</p>
+<p class="p2">&nbsp;</p>
+<p class="p3"><span class="s1">Support the Pugcast on Patreon: <a href="https://www.patreon.com/thetheologypugcast?fbclid=IwAR17UHhfzjphO52C_kkZfursA_C784t0ldFix0wyB4fd-YOJpmOQ3dyqGf8">https://www.patreon.com/thetheologypugcast?fbclid=IwAR17UHhfzjphO52C_kkZfursA_C784t0ldFix0wyB4fd-YOJpmOQ3dyqGf8</a></span></p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/cbec17f2-1e48-4830-a4f6-b65118a2eb00/where-totalitarians-come-from.mp3" length="4065" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[cbec17f2-1e48-4830-a4f6-b65118a2eb00]]></guid>
+   <pubDate>Thu, 08 Sep 2022 09:32:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>4065</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[Baptists allowing Paedobaptists into Membership? Joe Rigney joins Beer & Psalms - Psalm 47 [CrossPolitic Show]]]></title>
    <link>https://app.dropwave.io/episode/f5370005-2921-4497-aa3a-cbfdeb2fcf67/baptists-allowing-paedobaptists-into-membership-joe-rigney-joins-beer-psalms-psalm-47.mp3</link>
    <description><![CDATA[]]></description>
@@ -2429,95 +2463,6 @@
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2574</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
-  
-  </item><item>
-   <title><![CDATA[The Mysterious Death of 5 GTA Doctors & Globalist Tyranny Marches On [Liberty Dispatch]]]></title>
-   <link>https://app.dropwave.io/episode/330ff37d-5e26-47d5-b47c-aa59bd042dd9/the-mysterious-death-of-5-gta-doctors-globalist-tyranny-marches-on.mp3</link>
-   <description><![CDATA[<p class="p1"><strong>Liberty Dispatch</strong> ~ August 2, 2022</p>
-<p class="p1">What's going on in Toronto? 5 GTA doctors died mysteriously in July alone and hosts Matty and Andrew are asking the question the MSM, will not, namely, why!?!</p>
-<p class="p1"><strong>Weekend Review:<br /></strong></p>
-<p class="zw-paragraph"><em>Story 1: </em>ArriveCan Investigation:&nbsp;</p>
-<p class="zw-paragraph"><a href="https://globalnews.ca/news/9022878/federal-privacy-commissioner-arrivecan-app-investigation" target="_blank" rel="noopener">Federal privacy commissioner investigating controversial ArriveCAN app | Global News</a>;</p>
-<p class="zw-paragraph"><a href="https://www.youtube.com/watch?v=N_dpfMf3pb0" target="_blank" rel="noopener" data-ytdl-video-id="N_dpfMf3pb0">FINALLY - Privacy Commissioner Investigating Trudeau's ArriveCAN App | Front Page News</a></p>
-<p class="zw-paragraph"><em>Story 2:</em> WEF Wants to Abolish Private Automobile Ownership:</p>
-<p class="zw-paragraph"><span data-doc-id="2726862000000072001"><a href="https://www.westernstandard.news/business/wef-save-the-planet-give-up-your-car/article_9a225e54-09c5-11ed-ba08-37b5d3f028c0.html" target="_blank" rel="noopener">WEF: Save the planet, give up your car | Western Standard</a></span></p>
-<p class="zw-paragraph"><span data-doc-id="2726862000000072001"><a href="https://www.canada.ca/content/dam/eccc/documents/pdf/climate-change/erp/factsheet-06-transportation.pdf" target="_blank" rel="noopener">2030 ERP: Transportation</a>;</span></p>
-<p class="zw-paragraph heading0" data-header="0" data-textformat="{&quot;ff&quot;:&quot;Roboto&quot;,&quot;fv&quot;:&quot;normal&quot;,&quot;cs&quot;:&quot;0pt&quot;,&quot;fw&quot;:&quot;none&quot;,&quot;size&quot;:&quot;12.00&quot;,&quot;fw_i&quot;:400,&quot;va&quot;:&quot;baseline&quot;,&quot;type&quot;:&quot;text&quot;,&quot;fs&quot;:&quot;normal&quot;,&quot;bgc&quot;:&quot;rgba(0, 0, 0, 0)&quot;}" data-margin-left="0in" data-text-indent="0in" data-margin-bottom="0pt" data-hd-info="0" data-line-height="1.2" data-doc-id="2726862000000072001" data-doc-type="writer"><a href="https://www.thestar.com/business/2021/12/10/by-the-numbers-a-look-at-electric-vehicle-sales-in-canada.html" target="_blank" rel="noopener">By the Numbers: A look at electric vehicle sales in Canada</a>;</p>
-<p class="zw-paragraph"><span data-doc-id="2726862000000072001"><a href="https://www.reuters.com/world/americas/canada-ban-sale-new-fuel-powered-cars-light-trucks-2035-2021-06-29/" target="_blank" rel="noopener">Canada to ban sale of new fuel-powered cars and light trucks from 2035</a></span></p>
-<p class="zw-paragraph"><span data-doc-id="2726862000000072001"><a href="https://rumble.com/v181vkh-the-shadowy-origins-of-klaus-schwab-and-the-wef-wjournalist-johnny-vedmore.html;">The SHADOWY Origins of Klaus Schwab and the WEF w/Journalist Johnny Vedmore | Open Mike</a>;</span></p>
-<p class="zw-paragraph"><em>Story 3:</em> FDA Approves Monkeypox Vaccine:</p>
-<p class="zw-paragraph"><span data-doc-id="2726862000000072001"><a href="https://brightlightnews.com/fda-approved-vaccine-for-monkeypox-a-rare-disease-in-2019;" target="_blank" rel="noopener">FDA Approved Vaccine for Monkeypox, &ldquo;A Rare Disease,&rdquo; in 2019 | Bright Light News</a>&nbsp;</span></p>
-<p class="zw-paragraph"><em>Story 4:</em> Pope Flies Maskless:</p>
-<p class="zw-paragraph" data-textformat="{&quot;type&quot;:&quot;text&quot;}" data-margin-bottom="0pt" data-line-height="1.2" data-doc-id="2726862000000072001" data-doc-type="writer"><a href="https://tnc.news/2022/07/31/media-maskless" target="_blank" rel="noopener">Legacy media flies maskless on Pope&rsquo;s plane while mask mandate still in effect I True North News</a>;</p>
-<p class="p1"><a href="https://www.ctvnews.ca/canada/behind-the-scenes-what-it-was-like-travelling-across-canada-with-pope-francis-during-papal-visit-1.6006123" target="_blank" rel="noopener">Behind the scenes: What it was like travelling across Canada with Pope Francis during papal visit | CTV News</a>.</p>
-<p class="p1">&nbsp;</p>
-<p class="p1"><strong>[Story 1] Mysterious Deaths of 5 GTA Doctors in July:</strong></p>
-<p class="zw-paragraph" data-textformat="{&quot;cs&quot;:&quot;0pt&quot;,&quot;fv&quot;:&quot;normal&quot;,&quot;va&quot;:&quot;baseline&quot;,&quot;fw_i&quot;:400,&quot;type&quot;:&quot;text&quot;}" data-margin-bottom="0pt" data-line-height="1.2" data-doc-id="2726862000000072001" data-doc-type="writer"><a href="https://torontosun.com/news/local-news/warmington-triathlete-27-becomes-5th-gta-doctor-to-die-in-july" target="_blank" rel="noopener">WARMINGTON: Triathlete, 27, becomes 5th GTA doctor to die in July | Toronto Sun</a>;</p>
-<p class="zw-paragraph" data-textformat="{&quot;ff&quot;:&quot;Roboto&quot;,&quot;td&quot;:&quot;none&quot;,&quot;fv&quot;:&quot;normal&quot;,&quot;cs&quot;:&quot;0pt&quot;,&quot;fw&quot;:&quot;none&quot;,&quot;fgc&quot;:&quot;rgb(0, 0, 0)&quot;,&quot;size&quot;:&quot;12.00&quot;,&quot;fw_i&quot;:400,&quot;va&quot;:&quot;baseline&quot;,&quot;type&quot;:&quot;text&quot;,&quot;fs&quot;:&quot;normal&quot;,&quot;bgc&quot;:&quot;rgba(0, 0, 0, 0)&quot;}" data-margin-bottom="0pt" data-line-height="1.2"><a href="https://torontosun.com/news/local-news/warmington-hospitals-confirm-deaths-of-four-physicians-but-deny-vaccine-related" target="_blank" rel="noopener">WARMINGTON: Hospitals confirm deaths of four physicians but deny vaccine-related | Toronto Sun</a>;</p>
-<p class="zw-paragraph" data-textformat="{&quot;cs&quot;:&quot;0pt&quot;,&quot;fv&quot;:&quot;normal&quot;,&quot;va&quot;:&quot;baseline&quot;,&quot;fw_i&quot;:400,&quot;type&quot;:&quot;text&quot;,&quot;ff&quot;:&quot;Roboto&quot;,&quot;td&quot;:&quot;none&quot;,&quot;fw&quot;:&quot;none&quot;,&quot;fgc&quot;:&quot;rgb(0, 0, 0)&quot;,&quot;size&quot;:&quot;12.00&quot;,&quot;fs&quot;:&quot;normal&quot;,&quot;bgc&quot;:&quot;rgba(0, 0, 0, 0)&quot;}" data-margin-bottom="0pt" data-line-height="1.2"><a href="https://toronto.ctvnews.ca/well-known-toronto-emergency-physician-dr-paul-hannam-has-died-1.5992342" target="_blank" rel="noopener">Well-known Toronto emergency physician dies suddenly while running | CTV News</a>;</p>
-<p class="zw-paragraph" data-textformat="{&quot;cs&quot;:&quot;0pt&quot;,&quot;fv&quot;:&quot;normal&quot;,&quot;va&quot;:&quot;baseline&quot;,&quot;fw_i&quot;:400,&quot;type&quot;:&quot;text&quot;}" data-margin-bottom="0pt" data-line-height="1.2" data-doc-id="2726862000000072001" data-doc-type="writer"><span data-doc-id="2726862000000072001"><a href="https://rumble.com/v12wopb-autopsies-show-evidence-of-vaccine-fatalities-wprofessor-michael-palmer.html;">Autopsies Show Evidence of Vaccine Fatalities! w/Professor Michael Palmer | Open Mike</a>;</span></p>
-<p class="zw-paragraph" data-textformat="{&quot;cs&quot;:&quot;0pt&quot;,&quot;fv&quot;:&quot;normal&quot;,&quot;va&quot;:&quot;baseline&quot;,&quot;fw_i&quot;:400,&quot;type&quot;:&quot;text&quot;}" data-margin-bottom="0pt" data-line-height="1.2" data-doc-id="2726862000000072001" data-doc-type="writer"><a href="https://www.thepostemail.com/wp-content/uploads/2022/06/Dr.-Mercola-sads-pdf.pdf" target="_blank" rel="noopener">The Latest Tragedy: Sudden Adult Death Syndrome | Mercola</a>;&nbsp;</p>
-<p class="zw-paragraph" data-textformat="{&quot;cs&quot;:&quot;0pt&quot;,&quot;fv&quot;:&quot;normal&quot;,&quot;va&quot;:&quot;baseline&quot;,&quot;fw_i&quot;:400,&quot;type&quot;:&quot;text&quot;}" data-margin-bottom="0pt" data-line-height="1.2"><a href="https://calgary.ctvnews.ca/deaths-with-unknown-causes-now-alberta-s-top-killer-province-1.5975536">Deaths with unknown causes now Alberta's top killer: province | CTV News;</a></p>
-<p class="zw-paragraph" data-textformat="{&quot;cs&quot;:&quot;0pt&quot;,&quot;fv&quot;:&quot;normal&quot;,&quot;va&quot;:&quot;baseline&quot;,&quot;fw_i&quot;:400,&quot;type&quot;:&quot;text&quot;}" data-margin-bottom="0pt" data-line-height="1.2"><a href="https://jamanetwork.com/journals/jama/fullarticle/2788346" target="_blank" rel="noopener">Myocarditis Cases Reported After mRNA-Based COVID-19 Vaccination in the US From December 2020 to August 2021 | JAMA Network</a></p>
-<p class="zw-paragraph" data-textformat="{&quot;ff&quot;:&quot;Roboto&quot;,&quot;td&quot;:&quot;none&quot;,&quot;fv&quot;:&quot;normal&quot;,&quot;cs&quot;:&quot;0pt&quot;,&quot;fw&quot;:&quot;none&quot;,&quot;fgc&quot;:&quot;rgb(0, 0, 0)&quot;,&quot;size&quot;:&quot;12.00&quot;,&quot;fw_i&quot;:400,&quot;va&quot;:&quot;baseline&quot;,&quot;type&quot;:&quot;text&quot;,&quot;fs&quot;:&quot;normal&quot;,&quot;bgc&quot;:&quot;rgba(0, 0, 0, 0)&quot;}" data-margin-bottom="0pt" data-line-height="1.2"><a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety/myocarditis.html" target="_blank" rel="noopener">Myocarditis and Pericarditis After mRNA COVID-19 Vaccination | CDC</a></p>
-<p><a href="https://www.israelnationalnews.com/news/321238" target="_blank" rel="noopener">New study: 133x risk of myocarditis after COVID vaccination | Israeli News</a></p>
-<p class="p1">&nbsp;</p>
-<p class="p1"><strong>Sick of Mainstream Media Lies?</strong></p>
-<p class="p1">Please Support us in bringing you real, truthful reporting and analysis from a Christian perspective.<br /><br /><strong>Subscribe to our various shows:</strong><br />LIBERTY DISPATCH PODCAST: <a href="http://libertydispatch.podbean.com/"><span class="s1">https://libertydispatch.podbean.com</span></a></p>
-<p class="p3">OPEN MIKE WITH MICHAEL THIESSEN:&nbsp;<span class="s1"><a href="https://openmikewithmichaelthiessen.podbean.com/">https://openmikewithmichaelthiessen.podbean.com</a></span></p>
-<p class="p3"><span class="s1">THE LIBERTY LOUNGE WITH TIM TYSOE: <a href="https://rumble.com/c/c-1639185">https://rumble.com/c/c-1639185</a>&nbsp;</span></p>
-<p class="p1"><strong>Stay up-to-date on all things LCC:</strong></p>
-<p class="p1">Gab:&nbsp;<a href="http://www.gab.com/libertycoalitioncanada"><span class="s1">https://gab.com/libertycoalitioncanada</span></a></p>
-<p class="p1">Telegram:&nbsp;<a href="https://t.me/libertycoalitioncanadanews"><span class="s1">https://t.me/libertycoalitioncanadanews</span></a></p>
-<p class="p1">Instagram:&nbsp;<a href="http://www.instagram.com/libertycoalitioncanada/"><span class="s1">https://instagram.com/libertycoalitioncanada</span></a></p>
-<p class="p1">Facebook:&nbsp;<a href="http://www.facebook.com/LibertyCoalitionCanada"><span class="s1">https://facebook.com/LibertyCoalitionCanada</span></a></p>
-<p class="p1">Twitter:&nbsp;@LibertyCCanada -&nbsp;<a href="https://twitter.com/LibertyCCanada"><span class="s1">https://twitter.com/LibertyCCanada</span></a></p>
-<p class="p1">Rumble:&nbsp;<a href="http://www.rumble.com/user/LibertyCoalitionCanada"><span class="s1">https://rumble.com/user/LibertyCoalitionCanada</span></a></p>
-<p class="p1">YouTube:&nbsp;<a href="https://www.youtube.com/channel/UCLb1yNIeJ-2bSuHRW4oftRQ"><span class="s1">https://www.youtube.com/channel/UCLb1yNIeJ-2bSuHRW4oftRQ</span></a></p>
-<p class="p1">&nbsp;</p>
-<p class="p1"><strong>Please LIKE, SUBSCRIBE, RATE &amp; REVIEW and SHARE it with others!</strong></p>]]></description>
-   <author><![CDATA[Matthew Hallick, Andrew DeBartolo, SDG Media]]></author>
-   <enclosure url="https://app.dropwave.io/episode/330ff37d-5e26-47d5-b47c-aa59bd042dd9/the-mysterious-death-of-5-gta-doctors-globalist-tyranny-marches-on.mp3" length="4137" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[330ff37d-5e26-47d5-b47c-aa59bd042dd9]]></guid>
-   <pubDate>Tue, 02 Aug 2022 22:43:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Matthew Hallick, Andrew DeBartolo, SDG Media]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/69893365-4165-4498-b0ac-e9ddf57a000f/cover-art/E86eLfK3NgjrpuXtk9kW9Qv6KcfzQpkJpToltreR.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>4137</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  
-  </item><item>
-   <title><![CDATA[Chambers [Resistance and Reformation]]]></title>
-   <link>https://app.dropwave.io/episode/4cd28ced-b317-48a8-a4be-d5abc6f18c20/chambers.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/4cd28ced-b317-48a8-a4be-d5abc6f18c20/chambers.mp3" length="577" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[4cd28ced-b317-48a8-a4be-d5abc6f18c20]]></guid>
-   <pubDate>Tue, 02 Aug 2022 16:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>577</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  
-  </item><item>
-   <title><![CDATA[James Wood and Welcome to Negative World! [The Pugcast]]]></title>
-   <link>https://app.dropwave.io/episode/2f66a8a8-f396-4bea-a53a-1adab8c7cb88/james-wood-and-welcome-to-negative-world.mp3</link>
-   <description><![CDATA[<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">Join us for a mini-episode of the Pugcast in which Chris talks to James Wood about the talks he will be delivering in September at the Welcome to Negative World Conference, September 9-10 in Battle Ground, Washington!<span class="Apple-converted-space">&nbsp;</span></p>
-<p class="p2" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue'; min-height: 15px;">&nbsp;</p>
-<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';">To learn more about the conference: https://www.negworldconference.com/</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/2f66a8a8-f396-4bea-a53a-1adab8c7cb88/james-wood-and-welcome-to-negative-world.mp3" length="549" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[2f66a8a8-f396-4bea-a53a-1adab8c7cb88]]></guid>
-   <pubDate>Tue, 02 Aug 2022 15:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>549</itunes:duration>
-   <itunes:episodeType>bonus</itunes:episodeType>
   </item>
  </channel>
 </rss>
