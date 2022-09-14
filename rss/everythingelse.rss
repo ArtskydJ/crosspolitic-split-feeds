@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Wed, 14 Sep 2022 13:25:44 +0000</pubDate>
-  <lastBuildDate>Wed, 14 Sep 2022 13:25:44 +0000</lastBuildDate>
+  <pubDate>Wed, 14 Sep 2022 19:25:44 +0000</pubDate>
+  <lastBuildDate>Wed, 14 Sep 2022 19:25:44 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -26,6 +26,22 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Clearing the Prophetic Chessboard [Heavy Lifting with Uncle Gary]]]></title>
+   <link>https://app.dropwave.io/episode/eb14caef-c8f3-46aa-a149-80028c41a82c/clearing-the-prophetic-chessboard.mp3</link>
+   <description><![CDATA[<p>When it comes to Bible prophecy, we are often playing on a chessboard that&rsquo;s been set up by a group of competitors and with pieces that can move only in terms of their rules. This means that before there can be a discussion of any type of millennialism, there must be an evaluation of passages that seemingly discount each one. The prophetic board must be swept clean before any of the so-called millennial positions can be discussed.</p>
+<p>Get the free outline here: <a href="https://store.americanvision.org/products/clearing-the-prophetic-chessboard-study-notes">https://store.americanvision.org/products/clearing-the-prophetic-chessboard-study-notes&nbsp;</a></p>]]></description>
+   <author><![CDATA[Gary DeMar]]></author>
+   <enclosure url="https://app.dropwave.io/episode/eb14caef-c8f3-46aa-a149-80028c41a82c/clearing-the-prophetic-chessboard.mp3" length="1620" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[eb14caef-c8f3-46aa-a149-80028c41a82c]]></guid>
+   <pubDate>Wed, 14 Sep 2022 18:06:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Gary DeMar]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/hWqlRwMjkZvFfGmk9ANq0RAaO9YU3sDmZzPrckpd.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1620</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[Dante Canto 4 | Humanism: Failure of the imagination of ecstasy [Choc Knox Unplugged]]]></title>
    <link>https://app.dropwave.io/episode/df4e5a0a-2e85-4d32-8e5b-153d3bff9fdc/dante-canto-4-humanism-failure-of-the-imagination-of-ecstasy.mp3</link>
    <description><![CDATA[]]></description>
@@ -2486,22 +2502,6 @@
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>284</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
-  
-  </item><item>
-   <title><![CDATA[REPLAY: CP Live Show w/ Pastor Voddie Baucham & Pastor Doug Wilson [CrossPolitic Show]]]></title>
-   <link>https://app.dropwave.io/episode/e7b34ed9-fa2c-4232-8afc-e4dd60243d62/replay-cp-live-show-w-pastor-voddie-baucham-pastor-doug-wilson.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/e7b34ed9-fa2c-4232-8afc-e4dd60243d62/replay-cp-live-show-w-pastor-voddie-baucham-pastor-doug-wilson.mp3" length="4820" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[e7b34ed9-fa2c-4232-8afc-e4dd60243d62]]></guid>
-   <pubDate>Sat, 06 Aug 2022 01:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>4820</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  
   </item>
  </channel>
 </rss>
