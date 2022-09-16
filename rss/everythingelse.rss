@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Fri, 16 Sep 2022 13:25:43 +0000</pubDate>
-  <lastBuildDate>Fri, 16 Sep 2022 13:25:43 +0000</lastBuildDate>
+  <pubDate>Fri, 16 Sep 2022 19:25:44 +0000</pubDate>
+  <lastBuildDate>Fri, 16 Sep 2022 19:25:44 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -26,6 +26,21 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Restoring the Ruins—Getting a Right Conception of the Constitution [God, Law, and Liberty]]]></title>
+   <link>https://app.dropwave.io/episode/3084f2bb-16ec-447b-bf4d-239cf8d46ccb/restoring-the-ruins-getting-a-right-conception-of-the-constitution.mp3</link>
+   <description><![CDATA[<p>In today&rsquo;s episode, David uses a conception of the Constitution expressed by five U.S. Supreme Court justices in the 1992 decision, Planned Parenthood v. Casey, that affirmed the abortion holding in Roe v. Wade. He weaves it, along with a common every day legal practice involving millions of Americans a year, into the theme on which the whole story of the Bible rests.</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/3084f2bb-16ec-447b-bf4d-239cf8d46ccb/restoring-the-ruins-getting-a-right-conception-of-the-constitution.mp3" length="1811" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[3084f2bb-16ec-447b-bf4d-239cf8d46ccb]]></guid>
+   <pubDate>Fri, 16 Sep 2022 15:30:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/467f99a9-2921-459a-b63d-9710f4355795/cover-art/y26og8sWsKrk1Vo9fXdkoPq657KpHxn5IIdruXmr.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1811</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[Why the Trinity Matters [Leadership Now Podcast]]]></title>
    <link>https://app.dropwave.io/episode/7c9b6874-800b-4762-a85e-46b356d20c13/why-the-trinity-matters.mp3</link>
    <description><![CDATA[<p>This week, Dr. Aaron rock explains the Trinity! What it is, common falsehoods about it, and why it matters!</p>
@@ -2516,7 +2531,6 @@
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>656</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
-  
   </item>
  </channel>
 </rss>
