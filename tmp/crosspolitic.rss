@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Fri, 16 Sep 2022 19:25:44 +0000</pubDate>
-  <lastBuildDate>Fri, 16 Sep 2022 19:25:44 +0000</lastBuildDate>
+  <pubDate>Sat, 17 Sep 2022 01:25:44 +0000</pubDate>
+  <lastBuildDate>Sat, 17 Sep 2022 01:25:44 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Immigration Through Christian Eyes - What Should We Do? - Weekly Wrap Up w/ Pastor Toby [CrossPolitic Show]]]></title>
+   <link>https://app.dropwave.io/episode/f18e25aa-9411-4f9b-ae00-86dfcaf01b3f/immigration-through-christian-eyes-what-should-we-do-weekly-wrap-up-w-pastor-toby.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/f18e25aa-9411-4f9b-ae00-86dfcaf01b3f/immigration-through-christian-eyes-what-should-we-do-weekly-wrap-up-w-pastor-toby.mp3" length="1912" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[f18e25aa-9411-4f9b-ae00-86dfcaf01b3f]]></guid>
+   <pubDate>Sat, 17 Sep 2022 01:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1912</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Restoring the Ruins—Getting a Right Conception of the Constitution [God, Law, and Liberty]]]></title>
    <link>https://app.dropwave.io/episode/3084f2bb-16ec-447b-bf4d-239cf8d46ccb/restoring-the-ruins-getting-a-right-conception-of-the-constitution.mp3</link>
@@ -5855,21 +5870,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/69893365-4165-4498-b0ac-e9ddf57a000f/cover-art/E86eLfK3NgjrpuXtk9kW9Qv6KcfzQpkJpToltreR.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3409</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Dympna [Resistance and Reformation]]]></title>
-   <link>https://app.dropwave.io/episode/b726d4e0-6966-403c-8454-900acfad172f/dympna.mp3</link>
-   <description><![CDATA[<p>georgegrant.net&nbsp;</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/b726d4e0-6966-403c-8454-900acfad172f/dympna.mp3" length="656" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[b726d4e0-6966-403c-8454-900acfad172f]]></guid>
-   <pubDate>Tue, 09 Aug 2022 17:36:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>656</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
