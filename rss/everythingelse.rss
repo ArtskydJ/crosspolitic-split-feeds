@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Wed, 21 Sep 2022 01:25:45 +0000</pubDate>
-  <lastBuildDate>Wed, 21 Sep 2022 01:25:45 +0000</lastBuildDate>
+  <pubDate>Wed, 21 Sep 2022 07:25:48 +0000</pubDate>
+  <lastBuildDate>Wed, 21 Sep 2022 07:25:48 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -26,6 +26,23 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Monarchy and our Christian Heritage [The Ezra Institute Podcast for Cultural Reformation]]]></title>
+   <link>https://app.dropwave.io/episode/b1fb7d6d-d924-42ed-9a9c-f075090b635d/monarchy-and-our-christian-heritage.mp3</link>
+   <description><![CDATA[<p>In this episode Joe Boot reflects on the funeral ceremonies of Queen Elizabeth II, the historic role of the English monarch as &ldquo;Defender of the Faith,&rdquo; and the error of contemporary Two Kingdoms thinking.</p>
+<p>Get Joe Boot&rsquo;s book,&nbsp;<a href="https://ezrapress.ca/products/ruler-of-kings-toward-a-christian-vision-of-government" target="_blank" rel="noreferrer noopener">Ruler of Kings</a>, at Ezra Press.</p>
+<p><a href="http://http/resource-library/blog-entries/the-servant-queen/" target="_blank" rel="noopener">Read The Servant Queen</a></p>]]></description>
+   <author><![CDATA[Ryan Eras, Joe Boot]]></author>
+   <enclosure url="https://app.dropwave.io/episode/b1fb7d6d-d924-42ed-9a9c-f075090b635d/monarchy-and-our-christian-heritage.mp3" length="2907" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[b1fb7d6d-d924-42ed-9a9c-f075090b635d]]></guid>
+   <pubDate>Wed, 21 Sep 2022 04:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Ryan Eras, Joe Boot]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/1c3a97bd-65b0-4aec-bb35-3a1b6eec5d2c/cover-art/4rDIhLUsGj1xuXpLJYNdtwtbungA78glNHA7dOd9.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2907</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[Immigration & Christian Love - How Not to Bury the Poor & Treat Others Like Humans [CrossPolitic Show]]]></title>
    <link>https://app.dropwave.io/episode/f538fafc-0e1c-4a8b-9171-ece56745c523/immigration-christian-love-how-not-to-bury-the-poor-treat-others-like-humans.mp3</link>
    <description><![CDATA[]]></description>
@@ -2559,21 +2576,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/3312a6b0-2b88-4186-bfdd-e9c55d3d7e0f/cover-art/DJmJxOQEoRfGbs693sV6kEnKEGWstWUfdEXbQra8.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3705</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  
-  </item><item>
-   <title><![CDATA[The Enlightenment In America [Heavy Lifting with Uncle Gary]]]></title>
-   <link>https://app.dropwave.io/episode/334527db-c34f-4c0b-9ded-f0a90cdb0044/the-enlightenment-in-america.mp3</link>
-   <description><![CDATA[<p>Enlightenment influences in early American history were tempered by an understanding that the world was created, as Benjamin Franklin believed, and the ability to reason was inherent in being created in the image of God. Ethics reflect God&rsquo;s moral attributes such as love, goodness, and kindness. Without God, none of these attributes are rationally possible.</p>]]></description>
-   <author><![CDATA[Gary DeMar]]></author>
-   <enclosure url="https://app.dropwave.io/episode/334527db-c34f-4c0b-9ded-f0a90cdb0044/the-enlightenment-in-america.mp3" length="1851" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[334527db-c34f-4c0b-9ded-f0a90cdb0044]]></guid>
-   <pubDate>Thu, 11 Aug 2022 19:29:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Gary DeMar]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/7KlnoRbp4lyChPnDBbZFROsSREzvOroRPiSomSVX.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1851</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
