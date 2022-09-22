@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Thu, 22 Sep 2022 13:25:44 +0000</pubDate>
-  <lastBuildDate>Thu, 22 Sep 2022 13:25:44 +0000</lastBuildDate>
+  <pubDate>Thu, 22 Sep 2022 19:25:46 +0000</pubDate>
+  <lastBuildDate>Thu, 22 Sep 2022 19:25:46 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -26,6 +26,23 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[AD: Storytime - HR Partners Can Really Hurt You (Doesn't Have to be This Way) [AD on FLF Network]]]></title>
+   <link>https://app.dropwave.io/episode/9f7f380b-95ec-40ff-b26f-e8bf1533590d/ad-storytime-hr-partners-can-really-hurt-you-doesnt-have-to-be-this-way.mp3</link>
+   <description><![CDATA[<p>I am sponsoring the 2022 FLF Conference. Here is why.</p>
+<p>&nbsp;</p>
+<p>adam@covenantrecruiter.com</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/9f7f380b-95ec-40ff-b26f-e8bf1533590d/ad-storytime-hr-partners-can-really-hurt-you-doesnt-have-to-be-this-way.mp3" length="1155" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[9f7f380b-95ec-40ff-b26f-e8bf1533590d]]></guid>
+   <pubDate>Thu, 22 Sep 2022 15:26:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/e985f24f-d823-4e20-b87a-9e2fa86624f5/cover-art/me0OCTvDSY04mcI5sI97SZ3jsUtDXyHr5ExQtpr2.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1155</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[TCND BONUS:  Comics Without Borders (Speaking Australian!) [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/fbc93b3f-b2b1-4501-8305-f54623af7ded/tcnd-comics-without-borders-speaking-australian.mp3</link>
    <description><![CDATA[<p>Every Sunday at 7:00pm Eastern Time, John Branyan LIVE streams a comedy show with three of his most talented friends: &nbsp;Brian Apprille--Fellow Comedian, &nbsp;John thomas Oaks--Song Composer, Juan DeVevo--Founding Member of Casting Crowns.&nbsp;</p>
@@ -2545,21 +2562,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1793</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  
-  </item><item>
-   <title><![CDATA[Christianity is For Regular People [AD on FLF Network]]]></title>
-   <link>https://app.dropwave.io/episode/ed98382f-f553-4647-bbb7-c8e922c570da/christianity-is-for-regular-people.mp3</link>
-   <description><![CDATA[<p>You don't have to be an egghead to grow in faith.&nbsp;</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/ed98382f-f553-4647-bbb7-c8e922c570da/christianity-is-for-regular-people.mp3" length="989" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[ed98382f-f553-4647-bbb7-c8e922c570da]]></guid>
-   <pubDate>Fri, 12 Aug 2022 14:34:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/e985f24f-d823-4e20-b87a-9e2fa86624f5/cover-art/me0OCTvDSY04mcI5sI97SZ3jsUtDXyHr5ExQtpr2.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>989</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
