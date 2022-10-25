@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Tue, 25 Oct 2022 13:25:46 +0000</pubDate>
-  <lastBuildDate>Tue, 25 Oct 2022 13:25:46 +0000</lastBuildDate>
+  <pubDate>Tue, 25 Oct 2022 19:25:45 +0000</pubDate>
+  <lastBuildDate>Tue, 25 Oct 2022 19:25:45 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -26,6 +26,36 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[The Forgotten Reformation [Choc Knox Unplugged]]]></title>
+   <link>https://app.dropwave.io/episode/0f1c9e07-ae4a-4166-81df-7f5ffcd1876e/the-forgotten-reformation.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/0f1c9e07-ae4a-4166-81df-7f5ffcd1876e/the-forgotten-reformation.mp3" length="6440" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[0f1c9e07-ae4a-4166-81df-7f5ffcd1876e]]></guid>
+   <pubDate>Tue, 25 Oct 2022 18:45:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/6123b54f-ab49-406c-9cba-a39f6730fc76/cover-art/ARuuU8PixHGkhNvgtHIHIGGJjBUPNwgZEkuaGqzL.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>6440</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Just Peace [Resistance and Reformation]]]></title>
+   <link>https://app.dropwave.io/episode/1b96ed8b-7f96-4433-b15d-c659f57fe9d1/just-peace.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/1b96ed8b-7f96-4433-b15d-c659f57fe9d1/just-peace.mp3" length="616" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[1b96ed8b-7f96-4433-b15d-c659f57fe9d1]]></guid>
+   <pubDate>Tue, 25 Oct 2022 16:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>616</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[Bonus Q&A: The Elites vs. Humanity [The Pugcast]]]></title>
    <link>https://app.dropwave.io/episode/aa4ed5ff-7418-499b-96e0-722bc0c503a5/bonus-qa-the-elites-vs-humanity-the-theology-pugcast-episode-201.mp3</link>
    <description><![CDATA[<p class="p1">Listen in for a quick question and answer session following yesterday's episode: The Elites vs. Humanity.</p>
@@ -1343,6 +1373,21 @@
    <itunes:episodeType>full</itunes:episodeType>
   
   </item><item>
+   <title><![CDATA[Woman Warriors & Corrupt Effeminate Men [Liberty Dispatch]]]></title>
+   <link>https://app.dropwave.io/episode/81a89ffa-1693-4e62-868e-1ca696364826/woman-warriors-corrupt-effeminate-men.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Matthew Hallick, Andrew DeBartolo, Michael Thiessen, SDG Media]]></author>
+   <enclosure url="https://app.dropwave.io/episode/81a89ffa-1693-4e62-868e-1ca696364826/woman-warriors-corrupt-effeminate-men.mp3" length="5752" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[81a89ffa-1693-4e62-868e-1ca696364826]]></guid>
+   <pubDate>Fri, 30 Sep 2022 01:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Matthew Hallick, Andrew DeBartolo, Michael Thiessen, SDG Media]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/69893365-4165-4498-b0ac-e9ddf57a000f/cover-art/E86eLfK3NgjrpuXtk9kW9Qv6KcfzQpkJpToltreR.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>5752</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[FBI Raids & The View Defends Biden, Employee Bill of Rights w/ RedBalloon CEO Andrew Crapuchettes [CrossPolitic Show]]]></title>
    <link>https://app.dropwave.io/episode/a2df710b-2c4e-4092-b568-dc2b79d9a56a/fbi-raids-the-view-defends-biden-employee-bill-of-rights-w-redballoon-ceo-andrew-crapuchettes.mp3</link>
    <description><![CDATA[<p class="p1">Members! Catch our Backstage Show:</p>
@@ -1363,21 +1408,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2054</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  
-  </item><item>
-   <title><![CDATA[Woman Warriors & Corrupt Effeminate Men [Liberty Dispatch]]]></title>
-   <link>https://app.dropwave.io/episode/81a89ffa-1693-4e62-868e-1ca696364826/woman-warriors-corrupt-effeminate-men.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[Matthew Hallick, Andrew DeBartolo, Michael Thiessen, SDG Media]]></author>
-   <enclosure url="https://app.dropwave.io/episode/81a89ffa-1693-4e62-868e-1ca696364826/woman-warriors-corrupt-effeminate-men.mp3" length="5752" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[81a89ffa-1693-4e62-868e-1ca696364826]]></guid>
-   <pubDate>Fri, 30 Sep 2022 01:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Matthew Hallick, Andrew DeBartolo, Michael Thiessen, SDG Media]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/69893365-4165-4498-b0ac-e9ddf57a000f/cover-art/E86eLfK3NgjrpuXtk9kW9Qv6KcfzQpkJpToltreR.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>5752</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   
   </item><item>
@@ -2718,41 +2748,6 @@
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3098</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
-  
-  </item><item>
-   <title><![CDATA[The Political Philosophy of Pierre Eliott Trudeau [The Liberty Lounge with Tim Tysoe]]]></title>
-   <link>https://app.dropwave.io/episode/f99a675a-05ab-4ed5-bd7c-afe5a4b50d84/the-political-philosophy-of-pierre-eliott-trudeau.mp3</link>
-   <description><![CDATA[<p class="p1">On this episode, host Tim Tysoe is joined in the Liberty Lounge by the President of the Liberty Coalition Canada, Dr. Michael Thiessen, to talk about the lasting influence that the political philosophy of Pierre Eliott Trudeau has had on Canadian politics. Let's just say Canada didn't get to where we are now overnight.</p>
-<p class="p1">&nbsp;</p>
-<p class="zw-paragraph"><strong>Episode Resources:&nbsp;</strong>The Essential Trudeau by Ron Graham: <a href="https://www.amazon.com/Essential-Trudeau-Pierre/dp/0771085915">https://www.amazon.com/Essential-Trudeau-Pierre/dp/0771085915</a>;</p>
-<p class="zw-paragraph"><strong>WATCH THIS EPISODE&nbsp; ON RUMBLE HERE: https://rumble.com/v1izilj-the-political-philosophy-of-pierre-eliott-trudeau.html</strong></p>
-<p class="zw-paragraph">&nbsp;</p>
-<p class="p1"><strong>Sick of Mainstream Media Lies? Help Support Independent Media! DONATE TO LCC TODAY!:&nbsp;<a href="https://libertycoalitioncanada.com/donate/">https://libertycoalitioncanada.com/donate/</a>&nbsp;</strong></p>
-<p class="p1">Please Support us in bringing you real, truthful reporting and analysis from a Christian perspective.</p>
-<p class="p1"><br /><strong>SUBSCRIBE TO OUR SHOWS/CHANNELS:</strong><br />LIBERTY DISPATCH PODCAST:&nbsp;<a href="http://libertydispatch.podbean.com/"><span class="s1">https://libertydispatch.podbean.com</span></a>;&nbsp;<a href="https://rumble.com/c/c-1687093;">https://rumble.com/c/c-1687093;</a>&nbsp;</p>
-<p class="p3">OPEN MIKE WITH MICHAEL THIESSEN:&nbsp;<span class="s1"><a href="https://openmikewithmichaelthiessen.podbean.com/">https://openmikewithmichaelthiessen.podbean.com</a>;&nbsp;<a href="https://rumble.com/c/c-1412501;">https://rumble.com/c/c-1412501;</a>&nbsp;</span></p>
-<p class="p3"><span class="s1">THE LIBERTY LOUNGE WITH TIM TYSOE:&nbsp;<a href="https://rumble.com/c/c-1639185">https://rumble.com/c/c-1639185</a>&nbsp;</span></p>
-<p class="p1">&nbsp;</p>
-<p class="p1"><strong>STAY UP-TO-DATE ON ALL THINGS LCC:</strong></p>
-<p class="p1">Gab:&nbsp;<a href="http://www.gab.com/libertycoalitioncanada"><span class="s1">https://gab.com/libertycoalitioncanada</span></a></p>
-<p class="p1">Telegram:&nbsp;<a href="https://t.me/libertycoalitioncanadanews"><span class="s1">https://t.me/libertycoalitioncanadanews</span></a></p>
-<p class="p1">Instagram:&nbsp;<a href="http://www.instagram.com/libertycoalitioncanada/"><span class="s1">https://instagram.com/libertycoalitioncanada</span></a></p>
-<p class="p1">Facebook:&nbsp;<a href="http://www.facebook.com/LibertyCoalitionCanada"><span class="s1">https://facebook.com/LibertyCoalitionCanada</span></a></p>
-<p class="p1">Twitter:&nbsp;@LibertyCCanada -&nbsp;<a href="https://twitter.com/LibertyCCanada"><span class="s1">https://twitter.com/LibertyCCanada</span></a></p>
-<p class="p1">Rumble:&nbsp;<a href="http://www.rumble.com/user/LibertyCoalitionCanada"><span class="s1">https://rumble.com/user/LibertyCoalitionCanada</span></a></p>
-<p class="p1">YouTube:&nbsp;<a href="https://www.youtube.com/channel/UCLb1yNIeJ-2bSuHRW4oftRQ"><span class="s1">https://www.youtube.com/channel/UCLb1yNIeJ-2bSuHRW4oftRQ</span></a></p>
-<p class="p1"><strong>Please LIKE, SUBSCRIBE, RATE &amp; REVIEW and SHARE it with others!</strong></p>]]></description>
-   <author><![CDATA[Tim Tysoe, Michael Thiessen]]></author>
-   <enclosure url="https://app.dropwave.io/episode/f99a675a-05ab-4ed5-bd7c-afe5a4b50d84/the-political-philosophy-of-pierre-eliott-trudeau.mp3" length="5248" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[f99a675a-05ab-4ed5-bd7c-afe5a4b50d84]]></guid>
-   <pubDate>Wed, 07 Sep 2022 14:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Tim Tysoe, Michael Thiessen]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/cb64b0f2-c51c-4623-a58f-d1c449f7707d/cover-art/wbZaR5UJceV48ep0M9SHyfLKcugKEZ0Qog1N2lqx.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>5248</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  
   </item>
  </channel>
 </rss>

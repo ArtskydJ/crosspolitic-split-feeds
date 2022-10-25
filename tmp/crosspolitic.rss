@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Tue, 25 Oct 2022 13:25:46 +0000</pubDate>
-  <lastBuildDate>Tue, 25 Oct 2022 13:25:46 +0000</lastBuildDate>
+  <pubDate>Tue, 25 Oct 2022 19:25:45 +0000</pubDate>
+  <lastBuildDate>Tue, 25 Oct 2022 19:25:45 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -25,6 +25,36 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[The Forgotten Reformation [Choc Knox Unplugged]]]></title>
+   <link>https://app.dropwave.io/episode/0f1c9e07-ae4a-4166-81df-7f5ffcd1876e/the-forgotten-reformation.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/0f1c9e07-ae4a-4166-81df-7f5ffcd1876e/the-forgotten-reformation.mp3" length="6440" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[0f1c9e07-ae4a-4166-81df-7f5ffcd1876e]]></guid>
+   <pubDate>Tue, 25 Oct 2022 18:45:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/6123b54f-ab49-406c-9cba-a39f6730fc76/cover-art/ARuuU8PixHGkhNvgtHIHIGGJjBUPNwgZEkuaGqzL.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>6440</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[Just Peace [Resistance and Reformation]]]></title>
+   <link>https://app.dropwave.io/episode/1b96ed8b-7f96-4433-b15d-c659f57fe9d1/just-peace.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/1b96ed8b-7f96-4433-b15d-c659f57fe9d1/just-peace.mp3" length="616" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[1b96ed8b-7f96-4433-b15d-c659f57fe9d1]]></guid>
+   <pubDate>Tue, 25 Oct 2022 16:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>616</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Daily News Brief for Tuesday, October 25th, 2022 [Daily News Brief]]]></title>
    <link>https://app.dropwave.io/episode/eeab6305-03c9-4527-b8ad-711a002da841/daily-news-brief-for-tuesday-october-25th-2022.mp3</link>
@@ -463,24 +493,6 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[TCND: BONUS, Judge Juan's Birthday and Scottish Insult Generator [The Comedian Next Door]]]></title>
-   <link>https://app.dropwave.io/episode/cb3d588e-3173-4cc8-a65f-ad86b7f2956e/tcnd-bonus-judge-juans-birthday-and-scottish-insult-generator.mp3</link>
-   <description><![CDATA[<p>If you're not tuning in LIVE to watch the Starving Comics' Quarantine show every Sunday at 7:00pm Eastern, then you're not living up to your full potential. &nbsp;Here's a sample of what you're missing!</p>
-<p>Comedian John Branyan plays ridiculous trivia games, creates animated short vids, and generally horses around with his friends in the entertainment industry. &nbsp;Meet Brian Apprille--voice impressionist and movie buff. Listen to John thomas Oaks--musician, composer, and Story-Teller Extraordinaire. And laugh at Juan DeVevo--dead pan King of One-Liners and founding member of Casting Crowns.</p>
-<p>On this episode of SCQS: It's Juan's birthday, and we gift him possibly the best thing we've ever created. It's a crude piece of software that automatically generates scottish insults!&nbsp; Hurray!</p>
-<p>We want you to come on vacation with our funny family and friends. &nbsp;For details about VACAY WITH COMICS 2023, visit johnbranyan.com</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/cb3d588e-3173-4cc8-a65f-ad86b7f2956e/tcnd-bonus-judge-juans-birthday-and-scottish-insult-generator.mp3" length="2846" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[cb3d588e-3173-4cc8-a65f-ad86b7f2956e]]></guid>
-   <pubDate>Thu, 20 Oct 2022 11:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2846</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
    <title><![CDATA[Daily News Brief for Thursday, October 20th, 2022 [Daily News Brief]]]></title>
    <link>https://app.dropwave.io/episode/c156c103-8904-498c-910f-08c52c40a7d5/daily-news-brief-for-thursday-october-20th-2022.mp3</link>
    <description><![CDATA[<p><span style="font-weight: 400;">Hi this is Garrison Hardie with your CrossPolitic Daily News Brief for Thursday, October 20th, 2022.&nbsp;</span></p>
@@ -620,6 +632,24 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>901</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[TCND: BONUS, Judge Juan's Birthday and Scottish Insult Generator [The Comedian Next Door]]]></title>
+   <link>https://app.dropwave.io/episode/cb3d588e-3173-4cc8-a65f-ad86b7f2956e/tcnd-bonus-judge-juans-birthday-and-scottish-insult-generator.mp3</link>
+   <description><![CDATA[<p>If you're not tuning in LIVE to watch the Starving Comics' Quarantine show every Sunday at 7:00pm Eastern, then you're not living up to your full potential. &nbsp;Here's a sample of what you're missing!</p>
+<p>Comedian John Branyan plays ridiculous trivia games, creates animated short vids, and generally horses around with his friends in the entertainment industry. &nbsp;Meet Brian Apprille--voice impressionist and movie buff. Listen to John thomas Oaks--musician, composer, and Story-Teller Extraordinaire. And laugh at Juan DeVevo--dead pan King of One-Liners and founding member of Casting Crowns.</p>
+<p>On this episode of SCQS: It's Juan's birthday, and we gift him possibly the best thing we've ever created. It's a crude piece of software that automatically generates scottish insults!&nbsp; Hurray!</p>
+<p>We want you to come on vacation with our funny family and friends. &nbsp;For details about VACAY WITH COMICS 2023, visit johnbranyan.com</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/cb3d588e-3173-4cc8-a65f-ad86b7f2956e/tcnd-bonus-judge-juans-birthday-and-scottish-insult-generator.mp3" length="2846" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[cb3d588e-3173-4cc8-a65f-ad86b7f2956e]]></guid>
+   <pubDate>Thu, 20 Oct 2022 11:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2846</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -2540,6 +2570,21 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
+   <title><![CDATA[Woman Warriors & Corrupt Effeminate Men [Liberty Dispatch]]]></title>
+   <link>https://app.dropwave.io/episode/81a89ffa-1693-4e62-868e-1ca696364826/woman-warriors-corrupt-effeminate-men.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Matthew Hallick, Andrew DeBartolo, Michael Thiessen, SDG Media]]></author>
+   <enclosure url="https://app.dropwave.io/episode/81a89ffa-1693-4e62-868e-1ca696364826/woman-warriors-corrupt-effeminate-men.mp3" length="5752" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[81a89ffa-1693-4e62-868e-1ca696364826]]></guid>
+   <pubDate>Fri, 30 Sep 2022 01:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Matthew Hallick, Andrew DeBartolo, Michael Thiessen, SDG Media]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/69893365-4165-4498-b0ac-e9ddf57a000f/cover-art/E86eLfK3NgjrpuXtk9kW9Qv6KcfzQpkJpToltreR.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>5752</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
    <title><![CDATA[FBI Raids & The View Defends Biden, Employee Bill of Rights w/ RedBalloon CEO Andrew Crapuchettes [CrossPolitic Show]]]></title>
    <link>https://app.dropwave.io/episode/a2df710b-2c4e-4092-b568-dc2b79d9a56a/fbi-raids-the-view-defends-biden-employee-bill-of-rights-w-redballoon-ceo-andrew-crapuchettes.mp3</link>
    <description><![CDATA[<p class="p1">Members! Catch our Backstage Show:</p>
@@ -2560,21 +2605,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2054</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Woman Warriors & Corrupt Effeminate Men [Liberty Dispatch]]]></title>
-   <link>https://app.dropwave.io/episode/81a89ffa-1693-4e62-868e-1ca696364826/woman-warriors-corrupt-effeminate-men.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[Matthew Hallick, Andrew DeBartolo, Michael Thiessen, SDG Media]]></author>
-   <enclosure url="https://app.dropwave.io/episode/81a89ffa-1693-4e62-868e-1ca696364826/woman-warriors-corrupt-effeminate-men.mp3" length="5752" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[81a89ffa-1693-4e62-868e-1ca696364826]]></guid>
-   <pubDate>Fri, 30 Sep 2022 01:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Matthew Hallick, Andrew DeBartolo, Michael Thiessen, SDG Media]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/69893365-4165-4498-b0ac-e9ddf57a000f/cover-art/E86eLfK3NgjrpuXtk9kW9Qv6KcfzQpkJpToltreR.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>5752</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -5521,23 +5551,6 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[TCND BONUS: What Happens in Branson... [The Comedian Next Door]]]></title>
-   <link>https://app.dropwave.io/episode/a70b8615-6841-441c-a8f8-504c63ca8225/tcnd-bonus-what-happens-in-branson.mp3</link>
-   <description><![CDATA[<p>Every Sunday at 7:00pm Eastern Time, John Branyan LIVE streams a comedy show with three of his most talented friends: &nbsp;Brian Apprille--Fellow Comedian, &nbsp;John thomas Oaks--Song Composer, Juan DeVevo--Founding Member of Casting Crowns.&nbsp;</p>
-<p>On this episode, it's all about Branson, MO! Have you ever wondered what it would be like to perform comedy in front of 4 people? Some of our hosts can let you know...</p>
-<p>If you like listening to this show, you'll love watching it. &nbsp;Tune in every Sunday at 7:00pm on the John Branyan YouTube channel. Your LIVE comments will be featured! &nbsp;Also--join us October 6th-8th at the Fight Laugh Feast Conference in Knoxville. &nbsp;Details at flfnetwork.com</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/a70b8615-6841-441c-a8f8-504c63ca8225/tcnd-bonus-what-happens-in-branson.mp3" length="2846" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[a70b8615-6841-441c-a8f8-504c63ca8225]]></guid>
-   <pubDate>Thu, 08 Sep 2022 11:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2846</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
    <title><![CDATA[Daily News Brief for Thursday, September 8th, 2022 [Daily News Brief]]]></title>
    <link>https://app.dropwave.io/episode/84e67cda-72c8-49fa-99f9-ddb2f89f9cf6/daily-news-brief-for-thursday-september-8th-2022.mp3</link>
    <description><![CDATA[<p><span style="font-weight: 400;">This is Garrison Hardie with your CrossPolitic Daily NewsBrief for Thursday, September 8th, 2022. Happy Friday Jr. everyone! Before we jump into the news today:&nbsp;</span></p>
@@ -5667,6 +5680,23 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
+   <title><![CDATA[TCND BONUS: What Happens in Branson... [The Comedian Next Door]]]></title>
+   <link>https://app.dropwave.io/episode/a70b8615-6841-441c-a8f8-504c63ca8225/tcnd-bonus-what-happens-in-branson.mp3</link>
+   <description><![CDATA[<p>Every Sunday at 7:00pm Eastern Time, John Branyan LIVE streams a comedy show with three of his most talented friends: &nbsp;Brian Apprille--Fellow Comedian, &nbsp;John thomas Oaks--Song Composer, Juan DeVevo--Founding Member of Casting Crowns.&nbsp;</p>
+<p>On this episode, it's all about Branson, MO! Have you ever wondered what it would be like to perform comedy in front of 4 people? Some of our hosts can let you know...</p>
+<p>If you like listening to this show, you'll love watching it. &nbsp;Tune in every Sunday at 7:00pm on the John Branyan YouTube channel. Your LIVE comments will be featured! &nbsp;Also--join us October 6th-8th at the Fight Laugh Feast Conference in Knoxville. &nbsp;Details at flfnetwork.com</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/a70b8615-6841-441c-a8f8-504c63ca8225/tcnd-bonus-what-happens-in-branson.mp3" length="2846" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[a70b8615-6841-441c-a8f8-504c63ca8225]]></guid>
+   <pubDate>Thu, 08 Sep 2022 11:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2846</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
    <title><![CDATA[Where Totalitarians Come From [The Pugcast]]]></title>
    <link>https://app.dropwave.io/episode/cbec17f2-1e48-4830-a4f6-b65118a2eb00/where-totalitarians-come-from.mp3</link>
    <description><![CDATA[<p class="p1">There is something new under the sun&mdash;totalitarianism. Often confused with authoritarianism or tyranny, totalitarianism is a modern phenomenon, only possible in modernity. It is also uniquely deadly in its implications. So, what is it about modernity that makes totalitarianism feasible, and what makes it different from earlier forms of political oppression? The pugsters explore the modern character of totalitarianism on today&rsquo;s Pugcast.</p>
@@ -5731,144 +5761,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/1c3a97bd-65b0-4aec-bb35-3a1b6eec5d2c/cover-art/4rDIhLUsGj1xuXpLJYNdtwtbungA78glNHA7dOd9.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3098</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[The Political Philosophy of Pierre Eliott Trudeau [The Liberty Lounge with Tim Tysoe]]]></title>
-   <link>https://app.dropwave.io/episode/f99a675a-05ab-4ed5-bd7c-afe5a4b50d84/the-political-philosophy-of-pierre-eliott-trudeau.mp3</link>
-   <description><![CDATA[<p class="p1">On this episode, host Tim Tysoe is joined in the Liberty Lounge by the President of the Liberty Coalition Canada, Dr. Michael Thiessen, to talk about the lasting influence that the political philosophy of Pierre Eliott Trudeau has had on Canadian politics. Let's just say Canada didn't get to where we are now overnight.</p>
-<p class="p1">&nbsp;</p>
-<p class="zw-paragraph"><strong>Episode Resources:&nbsp;</strong>The Essential Trudeau by Ron Graham: <a href="https://www.amazon.com/Essential-Trudeau-Pierre/dp/0771085915">https://www.amazon.com/Essential-Trudeau-Pierre/dp/0771085915</a>;</p>
-<p class="zw-paragraph"><strong>WATCH THIS EPISODE&nbsp; ON RUMBLE HERE: https://rumble.com/v1izilj-the-political-philosophy-of-pierre-eliott-trudeau.html</strong></p>
-<p class="zw-paragraph">&nbsp;</p>
-<p class="p1"><strong>Sick of Mainstream Media Lies? Help Support Independent Media! DONATE TO LCC TODAY!:&nbsp;<a href="https://libertycoalitioncanada.com/donate/">https://libertycoalitioncanada.com/donate/</a>&nbsp;</strong></p>
-<p class="p1">Please Support us in bringing you real, truthful reporting and analysis from a Christian perspective.</p>
-<p class="p1"><br /><strong>SUBSCRIBE TO OUR SHOWS/CHANNELS:</strong><br />LIBERTY DISPATCH PODCAST:&nbsp;<a href="http://libertydispatch.podbean.com/"><span class="s1">https://libertydispatch.podbean.com</span></a>;&nbsp;<a href="https://rumble.com/c/c-1687093;">https://rumble.com/c/c-1687093;</a>&nbsp;</p>
-<p class="p3">OPEN MIKE WITH MICHAEL THIESSEN:&nbsp;<span class="s1"><a href="https://openmikewithmichaelthiessen.podbean.com/">https://openmikewithmichaelthiessen.podbean.com</a>;&nbsp;<a href="https://rumble.com/c/c-1412501;">https://rumble.com/c/c-1412501;</a>&nbsp;</span></p>
-<p class="p3"><span class="s1">THE LIBERTY LOUNGE WITH TIM TYSOE:&nbsp;<a href="https://rumble.com/c/c-1639185">https://rumble.com/c/c-1639185</a>&nbsp;</span></p>
-<p class="p1">&nbsp;</p>
-<p class="p1"><strong>STAY UP-TO-DATE ON ALL THINGS LCC:</strong></p>
-<p class="p1">Gab:&nbsp;<a href="http://www.gab.com/libertycoalitioncanada"><span class="s1">https://gab.com/libertycoalitioncanada</span></a></p>
-<p class="p1">Telegram:&nbsp;<a href="https://t.me/libertycoalitioncanadanews"><span class="s1">https://t.me/libertycoalitioncanadanews</span></a></p>
-<p class="p1">Instagram:&nbsp;<a href="http://www.instagram.com/libertycoalitioncanada/"><span class="s1">https://instagram.com/libertycoalitioncanada</span></a></p>
-<p class="p1">Facebook:&nbsp;<a href="http://www.facebook.com/LibertyCoalitionCanada"><span class="s1">https://facebook.com/LibertyCoalitionCanada</span></a></p>
-<p class="p1">Twitter:&nbsp;@LibertyCCanada -&nbsp;<a href="https://twitter.com/LibertyCCanada"><span class="s1">https://twitter.com/LibertyCCanada</span></a></p>
-<p class="p1">Rumble:&nbsp;<a href="http://www.rumble.com/user/LibertyCoalitionCanada"><span class="s1">https://rumble.com/user/LibertyCoalitionCanada</span></a></p>
-<p class="p1">YouTube:&nbsp;<a href="https://www.youtube.com/channel/UCLb1yNIeJ-2bSuHRW4oftRQ"><span class="s1">https://www.youtube.com/channel/UCLb1yNIeJ-2bSuHRW4oftRQ</span></a></p>
-<p class="p1"><strong>Please LIKE, SUBSCRIBE, RATE &amp; REVIEW and SHARE it with others!</strong></p>]]></description>
-   <author><![CDATA[Tim Tysoe, Michael Thiessen]]></author>
-   <enclosure url="https://app.dropwave.io/episode/f99a675a-05ab-4ed5-bd7c-afe5a4b50d84/the-political-philosophy-of-pierre-eliott-trudeau.mp3" length="5248" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[f99a675a-05ab-4ed5-bd7c-afe5a4b50d84]]></guid>
-   <pubDate>Wed, 07 Sep 2022 14:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Tim Tysoe, Michael Thiessen]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/cb64b0f2-c51c-4623-a58f-d1c449f7707d/cover-art/wbZaR5UJceV48ep0M9SHyfLKcugKEZ0Qog1N2lqx.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>5248</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Daily News Brief for Wednesday, September 7th, 2022 [Daily News Brief]]]></title>
-   <link>https://app.dropwave.io/episode/86c7dc33-bc15-45b3-a453-8cd2648b6da8/daily-news-brief-for-wednesday-september-7th-2022.mp3</link>
-   <description><![CDATA[<p><span style="font-weight: 400;">This is Garrison Hardie with your CrossPolitic Daily News Brief for Wednesday, September 7th, 2022. We&rsquo;re half way through the week ladies and gentleman, let&rsquo;s see what the news cycle has for us today&hellip; but first:</span></p>
-<p>&nbsp;</p>
-<p><strong>Club Membership Plug:</strong></p>
-<p><span style="font-weight: 400;">Let&rsquo;s stop and take a moment to talk about Fight Laugh Feast Club membership. By joining the Fight Laugh Feast Army, not only will you be aiding in our fight to take down secular &amp; legacy media; but you&rsquo;ll also get access to content placed in our Club Portal, such as past shows, all of our conference talks, and EXCLUSIVE content for club members that you won&rsquo;t be able to find anywhere else. Lastly, you&rsquo;ll also get discounts for our conferences&hellip; so if you&rsquo;ve got $10 bucks a month to kick over our way, you can sign up now at flfnetwork.com</span></p>
-<p>&nbsp;</p>
-<p><a href="https://www.foxnews.com/world/un-inspectors-find-damage-ukraines-zaporizhzhia-buildings-housing-fresh-nuclear-fuel-radioactive-waste"><span style="font-weight: 400;">https://www.foxnews.com/world/un-inspectors-find-damage-ukraines-zaporizhzhia-buildings-housing-fresh-nuclear-fuel-radioactive-waste</span></a></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">UN inspectors find damage to Ukraine's Zaporizhzhia buildings housing 'fresh' nuclear fuel, radioactive waste</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">U.N. nuclear watchdog, the International Atomic Energy Agency (IAEA), said Tuesday it found damage caused to buildings at the Zaporizhzhia nuclear power plant (ZNPP) that are housing "fresh" nuclear fuel and solid radioactive waste.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">"The team closely witnessed shelling in the vicinity of the ZNPP, in particular on 3 Sept. when the team was instructed to evacuate to the ground level of the Administrative Building," a report by IAEA Director General Rafael Grossi to the United Nations Security Council said. "Moreover, the team observed damage at different locations caused by reported events with some of the damage being close to the reactor buildings."</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Grossi&rsquo;s report Tuesday is the first update the international community has received on Europe&rsquo;s largest nuclear power plant since Russia invaded Ukraine in February.&nbsp;</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">The ZNPP has seen repeated damage caused by shelling that has hit the plant&rsquo;s power lines connecting it to Ukraine&rsquo;s electrical grid as well as its structural integrity.&nbsp;</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">In his report, Grossi detailed several events that have "significantly compromised" the plant&rsquo;s "Seven Pillars" &ndash; a standard at which the IAEA bases its security guidelines &ndash; since the ZNPP was first occupied in early March by Russian forces.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">The IAEA chief laid out a litany of concerns relating to damages inflicted on the plant&rsquo;s electrical system, harm caused to the Central Alarm Station and damage inflicted on a container where the radiation monitoring system is located.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">The IAEA report also "noted with concern that the shelling could have impacted safety related structures, systems and components, and could have caused safety significant impacts, loss of lives and personnel injuries."</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Both Russia and Ukraine have accused each other of targeting the nuclear power plant, though the IAEA report did not clarify who is responsible for the attacks on the ZNPP.</span></p>
-<p>&nbsp;</p>
-<p><a href="https://hotair.com/jazz-shaw/2022/09/06/ho-hum-another-47b-for-ukraine-covid-whatever-n494624"><span style="font-weight: 400;">https://hotair.com/jazz-shaw/2022/09/06/ho-hum-another-47b-for-ukraine-covid-whatever-n494624</span></a></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Ho hum. Another $47B for Ukraine, COVID, whatever</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Hey, what&rsquo;s a paltry fifty billion dollars between friends, right? That&rsquo;s roughly the amount of money that the Biden administration is asking Congress to approve in a short-term spending bill. The request is being described by the White House as &ldquo;technical assistance to Congress&rdquo; in the form of a continuing resolution. Biden&rsquo;s people would like to see this spending bill pass as a standalone measure before the debate over the big spending bill takes place. That needs to be done by September 30, barely five weeks ahead of the midterm elections. And where will this latest mountain of money be going? To Ukraine, of course. And also to fight COVID, which will apparently be an excuse that we use indefinitely from here on out. Oh, and monkeypox too, or whatever we&rsquo;re supposed to be calling it this week. There&rsquo;s also some money for natural disaster recovery in there, which should probably be handled by FEMA. (Government Executive)</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">While Congress and the Biden administration are still hammering out a budget deal for the upcoming fiscal year, the Biden administration is asking for a short-term funding measure with specific funding, totaling $47.1 billion, to support Ukraine, respond to the COVID-19 pandemic and monkeypox spread as well as help areas impacted by natural disasters.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">The White House said on Friday that a continuing resolution will be needed as the fiscal year ends on Sept. 30, however the administration is confident Congress will come to a bipartisan agreement. If no agreement is reached by the end of the fiscal year, then a government shutdown will begin just over a month from the midterm elections.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">&ldquo;Today, as part of our prudent planning for the end of the fiscal year, we are providing technical assistance to Congress on a short-term CR,&rdquo; which &ldquo;provides guidance to lawmakers on funding and legislative adjustments that are necessary to avoid disruptions to a range of important public services,&rdquo; wrote Shalanda Young, director of the Office of Management and Budget, in a blog post.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">One part of the problem with this situation is that we have blown through so much magical money over the past couple of years, measured in the trillions and largely blamed on the pandemic, that people have likely become numb. At this point, $47.1 billion dollars probably sounds like &ldquo;no big deal.&rdquo; Some of us are old enough to remember when a billion dollars sounded like a lot of money.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">We should be asking the White House to explain precisely how much of this batch of money would be going to Ukraine. We have given more cash and other forms of aid to the Ukrainians than just about every other country combined. Where is all of this money going? How many of the weapons we have sent over there actually made it to the battlefield to fight the Russians and how many of them mysteriously disappeared? We don&rsquo;t know because we&rsquo;ve never been told and nobody seems to be keeping track of any of this. Even CNN is admitting that the White House is unable to track any of this. Before the invasion began and Zelensky was turned into some sort of superhero action figure, his government was regularly being investigated for corruption and a lot of arms trafficking took place in Ukraine. Shouldn&rsquo;t we have a better idea of what&rsquo;s going on?</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Some of the rest of the money is supposedly going to &ldquo;fight COVID.&rdquo; But how long will we be footing those bills? Not that many people seem to be lining up for booster shots and our businesses and schools are allegedly almost entirely open. Is &ldquo;fighting COVID&rdquo; going to be the new magical phrase every time the White House wants to pluck the next fifty billion dollars from the magical money tree in the Rose Garden? The money for natural disasters seems fine, provided it goes to where it&rsquo;s really needed. Of course, that&rsquo;s a pretty big assumption these days when we can apparently spend any amount of money domestically provided you work the phrase &ldquo;climate change&rdquo; into the title of the bill.</span></p>
-<p>&nbsp;</p>
-<p><a href="https://thepostmillennial.com/breaking-project-veritas-exposes-nyc-charter-school-principal-discriminatory-hiring-practices?utm_campaign=64487"><span style="font-weight: 400;">https://thepostmillennial.com/breaking-project-veritas-exposes-nyc-charter-school-principal-discriminatory-hiring-practices?utm_campaign=64487</span></a></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Project Veritas exposes NYC charter school principal discriminatory hiring practices</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Project Veritas has exposed another teacher who engages in discriminatory hiring practices and encourages the indoctrination of students. An assistant principal in Neighborhood Charter Schools in New York City is revealed to use interview questions to weed out candidates who will not go along with his progressive agenda.</span></p>
-<p>&nbsp;</p>
-<p><a href="https://youtu.be/DBKG6tt56Ko"><span style="font-weight: 400;" data-rich-links="{&quot;fple-t&quot;:&quot;New York City Assistant Principal Exposed For Discriminatory Hiring Practices Against Conservatives&quot;,&quot;fple-u&quot;:&quot;https://youtu.be/DBKG6tt56Ko&quot;,&quot;fple-mt&quot;:null,&quot;type&quot;:&quot;first-party-link&quot;}">New York City Assistant Principal Exposed For Discriminatory Hiring Practices Against Conservatives</span></a></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Wow&hellip; you can watch the full video on Project Veritas&rsquo; youtube channel, and I even have it linked for you in the show notes. Great work from Project Veritas at exposing the truth.&nbsp;</span></p>
-<p>&nbsp;</p>
-<p><a href="https://townhall.com/tipsheet/juliorosas/2022/09/06/chicago-asking-for-donations-as-texas-sends-migrants-to-il-during-border-crisis-n2612691"><span style="font-weight: 400;">https://townhall.com/tipsheet/juliorosas/2022/09/06/chicago-asking-for-donations-as-texas-sends-migrants-to-il-during-border-crisis-n2612691</span></a></p>
-<p><br /><br /></p>
-<p><span style="font-weight: 400;">Chicago Asking for Help After Texas Sends Over...100 Migrants to IL</span></p>
-<p><span style="font-weight: 400;">The city of Chicago is asking for volunteers and donations for migrants who are being bused to Illinois from Texas as illegal border crossings continue to remain at an all-time high.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">The Associated Press reported the plea for help from the Windy City comes as only two buses arrived from Texas, totaling around 125 people who illegally crossed the U.S.-Mexico border and were then processed and released by Border Patrol. Chicago Mayor Lori Lightfoot (D) "said the city had not yet heard from any Texas officials and urged Texas&rsquo; Republican governor, Greg Abbott, to collaborate on a more humane treatment of the immigrants."</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Abbott added Chicago as a destination migrants can opt to go to for free in addition to Washington, D.C. and New York City to relieve stress on Texas border towns.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Lightfoot accused Abbott of treating the migrants like cargo.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">"He tries to send human beings, not cargo, not freight, but human beings across the country to an uncertain destination. He is manufacturing a human crisis and it makes no sense to me."</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">But according to NewsNation Ali Bradley reporter, migrants who have taken Texas buses said they felt respected throughout the process.</span></p>
-<p>&nbsp;</p>
-<p><a href="https://twitter.com/i/status/1566929765885419524"><span style="font-weight: 400;">https://twitter.com/i/status/1566929765885419524</span></a><span style="font-weight: 400;"> - Play Video</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Well there you go, so all is well sanctuary cities!&nbsp;</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Now it wouldn&rsquo;t be a Garrison newsbrief if we didn&rsquo;t talk about my favorite topic&hellip; sports!&nbsp;</span></p>
-<p>&nbsp;</p>
-<p><a href="https://nypost.com/2022/09/05/frances-tiafoe-upsets-rafael-nadal-in-us-open-fourth-round/"><span style="font-weight: 400;">https://nypost.com/2022/09/05/frances-tiafoe-upsets-rafael-nadal-in-us-open-fourth-round/</span></a></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">American Frances Tiafoe upsets Rafael Nadal in US Open fourth round</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Frances Tiafoe talked a big game and delivered a bigger one.&nbsp;</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Greatness was predicted for Tiafoe when he broke onto the scene eight years ago with his speed and power. He finally showed that skill set that had everyone agog when he was 16. And then he broke down in tears after match point when he achieved Monday&rsquo;s milestone.&nbsp;</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Before the Round of 16 matchup, Tiafoe expressed confidence he could knock out Spanish legend Rafael Nadal and post the largest win of his as yet unfulfilled career.&nbsp;</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">The 24-year-old American blasted through at Arthur Ashe Stadium on Labor Day before a manic, pro-Tiafoe crowd to upset Nadal with a blistering serve and forehand to make his first Open quarterfinals.&nbsp;</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Tiafoe, the 22nd seed, stunned No. 2 Nadal 6-4, 4-6, 6-4, 6-3. It was the first time the 36-year-old Nadal lost to an American at a major in 17 years when he was beaten by James Blake.&nbsp;</span></p>
-<p><br /><br /></p>
-<p><span style="font-weight: 400;">This has been Garrison Hardie with your CrossPolitic Daily News Brief. If you liked the show, hit that share button down below. If you want to sign up for a club membership, then sign up for our conference with that club discount, and THEN sign up for a magazine, you can do all of that at fightlaughfeast.com. And as always, if you&rsquo;d like to email me a news story, ask about our conference, or become a corporate partner of CrossPolitic, email me, at </span><span style="font-weight: 400;">garrison@fightlaughfeast.com</span><span style="font-weight: 400;">. For CrossPolitic News&hellip; I&rsquo;m Garrison Hardie. Have a great day, and Lord bless!&nbsp;</span></p>
-<p><br /><br /><br /><br /><br /></p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/86c7dc33-bc15-45b3-a453-8cd2648b6da8/daily-news-brief-for-wednesday-september-7th-2022.mp3" length="855" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[86c7dc33-bc15-45b3-a453-8cd2648b6da8]]></guid>
-   <pubDate>Wed, 07 Sep 2022 11:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>855</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
