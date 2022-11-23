@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Wed, 23 Nov 2022 13:25:46 +0000</pubDate>
-  <lastBuildDate>Wed, 23 Nov 2022 13:25:46 +0000</lastBuildDate>
+  <pubDate>Wed, 23 Nov 2022 19:25:42 +0000</pubDate>
+  <lastBuildDate>Wed, 23 Nov 2022 19:25:42 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -25,6 +25,22 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Everyman [Resistance and Reformation]]]></title>
+   <link>https://app.dropwave.io/episode/342ed696-10b8-40e0-b314-2f26101c23bc/everyman.mp3</link>
+   <description><![CDATA[<p>More from Dr. Grant:</p>
+<p>georgegrant.net</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/342ed696-10b8-40e0-b314-2f26101c23bc/everyman.mp3" length="624" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[342ed696-10b8-40e0-b314-2f26101c23bc]]></guid>
+   <pubDate>Wed, 23 Nov 2022 18:30:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>624</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Daily News Brief for Wednesday, November 23rd, 2022 [Daily News Brief]]]></title>
    <link>https://app.dropwave.io/episode/91a6fe37-b5a7-482a-b8ec-187a061c8a96/daily-news-brief-for-wednesday-november-23rd-2022.mp3</link>
@@ -2922,27 +2938,6 @@
   </item>
   <item>
    <title><![CDATA[TCND: The Queer's Birthday (Scronched off His Bingus) [The Comedian Next Door]]]></title>
-   <link>https://app.dropwave.io/episode/27f3683d-710f-463a-9dfe-1399f1b6eb9c/tcnd-the-queers-birthday-scronched-off-his-bingus-1.mp3</link>
-   <description><![CDATA[<p>Welcome to the party, Neighbor! Our own Andrew Branyan turned 24 this week. He's the youngest child of the John Branyan family, and the whole gang jumps in to tell our favorite stories! (Legends, really.)</p>
-<p>First off--we're becoming kind of notorious at our local Dairy Queen.&nbsp;</p>
-<p>Then:&nbsp; Why Andrew should never get a job as a dog-walker.</p>
-<p>Later: The Peaches talks about being "almost insulted" by 5-year-old Andrew.&nbsp; Plus, we hear why Tim Branyan was ashamed of his baby brother's physique.</p>
-<p>And Don't Miss This: The Matriarch, Lori, shares the infamous "You-Look-A-Little-Weird" story.&nbsp;</p>
-<p>We hope you enjoy this noisy visit to our table. Here's a hearty "Good Well" to Andrew, and we'll see you next time!&nbsp; &nbsp;(Reach out to us by emailing nextdoor@johnbranyan.com)&nbsp;</p>
-<p>&nbsp;</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/27f3683d-710f-463a-9dfe-1399f1b6eb9c/tcnd-the-queers-birthday-scronched-off-his-bingus-1.mp3" length="2606" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[27f3683d-710f-463a-9dfe-1399f1b6eb9c]]></guid>
-   <pubDate>Mon, 31 Oct 2022 11:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2606</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[TCND: The Queer's Birthday (Scronched off His Bingus) [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/ef648721-ec4a-437a-b2c3-da1349f9e91e/tcnd-the-queers-birthday-scronched-off-his-bingus.mp3</link>
    <description><![CDATA[<p>Welcome to the party, Neighbor! Our own Andrew Branyan turned 24 this week. He's the youngest child of the John Branyan family, and the whole gang jumps in to tell our favorite stories! (Legends, really.)</p>
 <p>First off--we're becoming kind of notorious at our local Dairy Queen.&nbsp;</p>
@@ -2954,6 +2949,27 @@
    <author><![CDATA[FLF, LLC]]></author>
    <enclosure url="https://app.dropwave.io/episode/ef648721-ec4a-437a-b2c3-da1349f9e91e/tcnd-the-queers-birthday-scronched-off-his-bingus.mp3" length="2606" type="audio/mp3"/>
    <guid isPermaLink="false"><![CDATA[ef648721-ec4a-437a-b2c3-da1349f9e91e]]></guid>
+   <pubDate>Mon, 31 Oct 2022 11:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2606</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[TCND: The Queer's Birthday (Scronched off His Bingus) [The Comedian Next Door]]]></title>
+   <link>https://app.dropwave.io/episode/27f3683d-710f-463a-9dfe-1399f1b6eb9c/tcnd-the-queers-birthday-scronched-off-his-bingus-1.mp3</link>
+   <description><![CDATA[<p>Welcome to the party, Neighbor! Our own Andrew Branyan turned 24 this week. He's the youngest child of the John Branyan family, and the whole gang jumps in to tell our favorite stories! (Legends, really.)</p>
+<p>First off--we're becoming kind of notorious at our local Dairy Queen.&nbsp;</p>
+<p>Then:&nbsp; Why Andrew should never get a job as a dog-walker.</p>
+<p>Later: The Peaches talks about being "almost insulted" by 5-year-old Andrew.&nbsp; Plus, we hear why Tim Branyan was ashamed of his baby brother's physique.</p>
+<p>And Don't Miss This: The Matriarch, Lori, shares the infamous "You-Look-A-Little-Weird" story.&nbsp;</p>
+<p>We hope you enjoy this noisy visit to our table. Here's a hearty "Good Well" to Andrew, and we'll see you next time!&nbsp; &nbsp;(Reach out to us by emailing nextdoor@johnbranyan.com)&nbsp;</p>
+<p>&nbsp;</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/27f3683d-710f-463a-9dfe-1399f1b6eb9c/tcnd-the-queers-birthday-scronched-off-his-bingus-1.mp3" length="2606" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[27f3683d-710f-463a-9dfe-1399f1b6eb9c]]></guid>
    <pubDate>Mon, 31 Oct 2022 11:00:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
@@ -5635,28 +5651,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/a313a937-1864-4720-a5eb-4fe53c91d48d/cover-art/uUheeW63MRtlJ15cfD2JSiW4qu9YifPAUxqcvBE5.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>4356</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA["Critical Sex Theory: How to keep Marx and Freud out of your Bedroom" Voddie Baucham [CrossPolitic Show]]]></title>
-   <link>https://app.dropwave.io/episode/6030e22f-e117-4854-9be8-8c594e0bd276/critical-sex-theory-how-to-keep-marx-and-freud-out-of-your-bedroom-voddie-baucham.mp3</link>
-   <description><![CDATA[<p>It&rsquo;s Conference Week! This week we'll be showing a few gems from our past events!<span class="Apple-converted-space">&nbsp;</span></p>
-<p>&nbsp;</p>
-<p>Here&rsquo;s Pastor Voddie Baucham with his talk &ldquo;Critical Sex Theory: How to keep Marx and Freud out of your Bedroom&rdquo; from our Fight Laugh Feast Conference: &ldquo;Politics of Sex&rdquo;.</p>
-<p>&nbsp;</p>
-<p>Sign up for the Fight Laugh Feast Conference: The Serrated Edge!<span class="Apple-converted-space">&nbsp;</span></p>
-<p><a href="https://flfnetwork.com/knoxville2022/">https://flfnetwork.com/knoxville2022/</a>&nbsp;</p>
-<p>&nbsp;</p>
-<p>Become a Member for Access to All of our Shows &amp; Conference Talks! <a href="https://flfnetwork.com/product/fightlaughfestclub/">https://flfnetwork.com/product/fightlaughfestclub/</a>&nbsp;</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/6030e22f-e117-4854-9be8-8c594e0bd276/critical-sex-theory-how-to-keep-marx-and-freud-out-of-your-bedroom-voddie-baucham.mp3" length="3144" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[6030e22f-e117-4854-9be8-8c594e0bd276]]></guid>
-   <pubDate>Sat, 08 Oct 2022 01:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3144</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
