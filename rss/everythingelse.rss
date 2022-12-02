@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Fri, 02 Dec 2022 01:25:43 +0000</pubDate>
-  <lastBuildDate>Fri, 02 Dec 2022 01:25:43 +0000</lastBuildDate>
+  <pubDate>Fri, 02 Dec 2022 07:25:42 +0000</pubDate>
+  <lastBuildDate>Fri, 02 Dec 2022 07:25:42 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -26,6 +26,26 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Standing Up Against the Enemy in your Local Square w/ Pastor Jeff Ripple  [CrossPolitic Show]]]></title>
+   <link>https://app.dropwave.io/episode/c9b34ffe-8f1e-4404-a1c3-4135aebb0a3f/standing-up-against-the-enemy-in-your-local-square-w-pastor-jeff-ripple.mp3</link>
+   <description><![CDATA[<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">Christmas Parades as a Frontline Battle! Join the Fight w/ Jeff Ripple on the Daily Show</span></p>
+<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">Enjoy our Backstage Segment - Support Pastor Jeff in Taylor, TX!<span class="Apple-converted-space">&nbsp;</span></span></p>
+<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">Christ Fellowship Church</span></p>
+<p class="p3"><span style="font-family: 'book antiqua', palatino, serif;"><a href="https://cfctaylor.com/">https://cfctaylor.com/</a><span class="Apple-converted-space">&nbsp;</span></span></p>
+<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">Become a Fight Laugh Feast Member (Support the Show!)</span></p>
+<p class="p3"><span style="font-family: 'book antiqua', palatino, serif;"><span class="s1"><a href="https://flfnetwork.com/product/fightlaughfestclub/">https://flfnetwork.com/product/fightlaughfestclub/</a></span><span class="s2">&nbsp;</span></span></p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/c9b34ffe-8f1e-4404-a1c3-4135aebb0a3f/standing-up-against-the-enemy-in-your-local-square-w-pastor-jeff-ripple.mp3" length="2486" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[c9b34ffe-8f1e-4404-a1c3-4135aebb0a3f]]></guid>
+   <pubDate>Fri, 02 Dec 2022 02:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2486</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[DR. ROBERT MALONE: Vaccines and Unknown Death [A LIBERTY DISPATCH SPECIAL] [Liberty Dispatch]]]></title>
    <link>https://app.dropwave.io/episode/e5051975-8903-4088-a876-21c064866af4/dr-robert-malone-vaccines-and-unknown-death-a-liberty-dispatch-special.mp3</link>
    <description><![CDATA[<p class="p1"><strong>Liberty Dispatch</strong> ~ SPECIAL INTERVIEW</p>
@@ -2860,21 +2880,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1851</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  
-  </item><item>
-   <title><![CDATA[The Spotlight is Bright [In the Bullpen]]]></title>
-   <link>https://app.dropwave.io/episode/99715a9f-0efe-4387-8f1a-02603bbce34f/the-spotlight-is-bright.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[Mark Dewey]]></author>
-   <enclosure url="https://app.dropwave.io/episode/99715a9f-0efe-4387-8f1a-02603bbce34f/the-spotlight-is-bright.mp3" length="1914" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[99715a9f-0efe-4387-8f1a-02603bbce34f]]></guid>
-   <pubDate>Mon, 17 Oct 2022 16:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1914</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
