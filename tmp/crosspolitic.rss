@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 12 Dec 2022 01:25:43 +0000</pubDate>
-  <lastBuildDate>Mon, 12 Dec 2022 01:25:43 +0000</lastBuildDate>
+  <pubDate>Mon, 12 Dec 2022 07:25:46 +0000</pubDate>
+  <lastBuildDate>Mon, 12 Dec 2022 07:25:46 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[WaterBreak: When Small Sin isn’t Confessed [The Waterbreak]]]></title>
+   <link>https://app.dropwave.io/episode/e0418b97-f3a1-463f-94a4-7fab99e51d1d/waterbreak-when-small-sin-isnt-confessed.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/e0418b97-f3a1-463f-94a4-7fab99e51d1d/waterbreak-when-small-sin-isnt-confessed.mp3" length="968" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[e0418b97-f3a1-463f-94a4-7fab99e51d1d]]></guid>
+   <pubDate>Mon, 12 Dec 2022 03:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/0a3dee73-38ca-4cc7-b0dc-e72b0074106c/cover-art/JVKmUbWmpvy1I1dXtdnFmkLrwXwvOHXH1IvXeh1i.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>968</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Dr. Wayne Grudem: Christian Ethics and the Law of God [Open Mike with Michael Thiessen]]]></title>
    <link>https://app.dropwave.io/episode/6833c39d-ec9a-4f02-81db-180540decd38/dr-wayne-grudem-christian-ethics-and-the-law-of-god.mp3</link>
@@ -4459,6 +4474,25 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
+   <title><![CDATA[TCND: BONUS, March Mayhem (Not Madness) [The Comedian Next Door]]]></title>
+   <link>https://app.dropwave.io/episode/f003fdd4-2e07-4d45-93e5-a35adb9952aa/tcnd-bonus-march-mayhem-not-madness.mp3</link>
+   <description><![CDATA[<p>Every Sunday at 7:00pm Eastern, you should be hanging out LIVE with your comedian friends. &nbsp;If you're NOT watching the Starving Comics Quarantine Show each week, then please send your excuses to nextdoor@johnbranyan.com. &nbsp;</p>
+<p>Here's a sample of what you're missing!</p>
+<p>Comedian John Branyan plays ridiculous trivia games, creates animated short vids, and generally horses around with his pals in the entertainment industry. &nbsp;Meet Brian Apprille--voice impressionist and movie buff. Listen to John thomas Oaks--musician, composer, and Story-Teller Extraordinaire. And laugh at Juan DeVevo--dead pan King of One-Liners and founding member of Casting Crowns.</p>
+<p>On this episode of SCQS:&nbsp; The audience begins the voting process for their all-time favorite SCQS games, songs, and segments.&nbsp; Which bit will be the ultimate winner?!&nbsp; Take a trip down memory lane with us.&nbsp;</p>
+<p>We want you to come on vacation with our funny family and friends. &nbsp;For details about VACAY WITH COMICS 2023, visit johnbranyan.com</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/f003fdd4-2e07-4d45-93e5-a35adb9952aa/tcnd-bonus-march-mayhem-not-madness.mp3" length="2846" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[f003fdd4-2e07-4d45-93e5-a35adb9952aa]]></guid>
+   <pubDate>Thu, 03 Nov 2022 11:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2846</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
    <title><![CDATA[Daily News Brief for Thursday, November 3rd, 2022 [Daily News Brief]]]></title>
    <link>https://app.dropwave.io/episode/06af26bd-74ee-46dc-b36b-2069df7ebf71/daily-news-brief-for-thursday-november-3rd-2022.mp3</link>
    <description><![CDATA[<p><span style="font-weight: 400;">This is Garrison Hardie with your CrossPolitic Daily Newsbrief for Thursday, November 3rd, 2022. Good to be back with you all, let&rsquo;s get right into the news!</span></p>
@@ -4551,25 +4585,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1012</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[TCND: BONUS, March Mayhem (Not Madness) [The Comedian Next Door]]]></title>
-   <link>https://app.dropwave.io/episode/f003fdd4-2e07-4d45-93e5-a35adb9952aa/tcnd-bonus-march-mayhem-not-madness.mp3</link>
-   <description><![CDATA[<p>Every Sunday at 7:00pm Eastern, you should be hanging out LIVE with your comedian friends. &nbsp;If you're NOT watching the Starving Comics Quarantine Show each week, then please send your excuses to nextdoor@johnbranyan.com. &nbsp;</p>
-<p>Here's a sample of what you're missing!</p>
-<p>Comedian John Branyan plays ridiculous trivia games, creates animated short vids, and generally horses around with his pals in the entertainment industry. &nbsp;Meet Brian Apprille--voice impressionist and movie buff. Listen to John thomas Oaks--musician, composer, and Story-Teller Extraordinaire. And laugh at Juan DeVevo--dead pan King of One-Liners and founding member of Casting Crowns.</p>
-<p>On this episode of SCQS:&nbsp; The audience begins the voting process for their all-time favorite SCQS games, songs, and segments.&nbsp; Which bit will be the ultimate winner?!&nbsp; Take a trip down memory lane with us.&nbsp;</p>
-<p>We want you to come on vacation with our funny family and friends. &nbsp;For details about VACAY WITH COMICS 2023, visit johnbranyan.com</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/f003fdd4-2e07-4d45-93e5-a35adb9952aa/tcnd-bonus-march-mayhem-not-madness.mp3" length="2846" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[f003fdd4-2e07-4d45-93e5-a35adb9952aa]]></guid>
-   <pubDate>Thu, 03 Nov 2022 11:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2846</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -5103,27 +5118,6 @@
   </item>
   <item>
    <title><![CDATA[TCND: The Queer's Birthday (Scronched off His Bingus) [The Comedian Next Door]]]></title>
-   <link>https://app.dropwave.io/episode/27f3683d-710f-463a-9dfe-1399f1b6eb9c/tcnd-the-queers-birthday-scronched-off-his-bingus-1.mp3</link>
-   <description><![CDATA[<p>Welcome to the party, Neighbor! Our own Andrew Branyan turned 24 this week. He's the youngest child of the John Branyan family, and the whole gang jumps in to tell our favorite stories! (Legends, really.)</p>
-<p>First off--we're becoming kind of notorious at our local Dairy Queen.&nbsp;</p>
-<p>Then:&nbsp; Why Andrew should never get a job as a dog-walker.</p>
-<p>Later: The Peaches talks about being "almost insulted" by 5-year-old Andrew.&nbsp; Plus, we hear why Tim Branyan was ashamed of his baby brother's physique.</p>
-<p>And Don't Miss This: The Matriarch, Lori, shares the infamous "You-Look-A-Little-Weird" story.&nbsp;</p>
-<p>We hope you enjoy this noisy visit to our table. Here's a hearty "Good Well" to Andrew, and we'll see you next time!&nbsp; &nbsp;(Reach out to us by emailing nextdoor@johnbranyan.com)&nbsp;</p>
-<p>&nbsp;</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/27f3683d-710f-463a-9dfe-1399f1b6eb9c/tcnd-the-queers-birthday-scronched-off-his-bingus-1.mp3" length="2606" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[27f3683d-710f-463a-9dfe-1399f1b6eb9c]]></guid>
-   <pubDate>Mon, 31 Oct 2022 11:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2606</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[TCND: The Queer's Birthday (Scronched off His Bingus) [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/ef648721-ec4a-437a-b2c3-da1349f9e91e/tcnd-the-queers-birthday-scronched-off-his-bingus.mp3</link>
    <description><![CDATA[<p>Welcome to the party, Neighbor! Our own Andrew Branyan turned 24 this week. He's the youngest child of the John Branyan family, and the whole gang jumps in to tell our favorite stories! (Legends, really.)</p>
 <p>First off--we're becoming kind of notorious at our local Dairy Queen.&nbsp;</p>
@@ -5135,6 +5129,27 @@
    <author><![CDATA[FLF, LLC]]></author>
    <enclosure url="https://app.dropwave.io/episode/ef648721-ec4a-437a-b2c3-da1349f9e91e/tcnd-the-queers-birthday-scronched-off-his-bingus.mp3" length="2606" type="audio/mp3"/>
    <guid isPermaLink="false"><![CDATA[ef648721-ec4a-437a-b2c3-da1349f9e91e]]></guid>
+   <pubDate>Mon, 31 Oct 2022 11:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2606</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[TCND: The Queer's Birthday (Scronched off His Bingus) [The Comedian Next Door]]]></title>
+   <link>https://app.dropwave.io/episode/27f3683d-710f-463a-9dfe-1399f1b6eb9c/tcnd-the-queers-birthday-scronched-off-his-bingus-1.mp3</link>
+   <description><![CDATA[<p>Welcome to the party, Neighbor! Our own Andrew Branyan turned 24 this week. He's the youngest child of the John Branyan family, and the whole gang jumps in to tell our favorite stories! (Legends, really.)</p>
+<p>First off--we're becoming kind of notorious at our local Dairy Queen.&nbsp;</p>
+<p>Then:&nbsp; Why Andrew should never get a job as a dog-walker.</p>
+<p>Later: The Peaches talks about being "almost insulted" by 5-year-old Andrew.&nbsp; Plus, we hear why Tim Branyan was ashamed of his baby brother's physique.</p>
+<p>And Don't Miss This: The Matriarch, Lori, shares the infamous "You-Look-A-Little-Weird" story.&nbsp;</p>
+<p>We hope you enjoy this noisy visit to our table. Here's a hearty "Good Well" to Andrew, and we'll see you next time!&nbsp; &nbsp;(Reach out to us by emailing nextdoor@johnbranyan.com)&nbsp;</p>
+<p>&nbsp;</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/27f3683d-710f-463a-9dfe-1399f1b6eb9c/tcnd-the-queers-birthday-scronched-off-his-bingus-1.mp3" length="2606" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[27f3683d-710f-463a-9dfe-1399f1b6eb9c]]></guid>
    <pubDate>Mon, 31 Oct 2022 11:00:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
@@ -5212,26 +5227,6 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[Correcting the Civic Wobble: A Biblical Case for the 3 Spheres w/ Pastor Toby Sumpter [CrossPolitic Show]]]></title>
-   <link>https://app.dropwave.io/episode/cee58017-7a82-48d2-bcd1-467385a32d6a/correcting-the-civic-wobble-a-biblical-case-for-the-3-spheres-w-pastor-toby-sumpter.mp3</link>
-   <description><![CDATA[<p class="p1">Pastor Toby takes us through some Basic Kuyperian Sphere Sovereignty to get us lined up correctly!<span class="Apple-converted-space">&nbsp;</span></p>
-<p class="p2">&nbsp;</p>
-<p class="p1">Become a Fight Laugh Feast Member (Support the Show!)</p>
-<p class="p3"><span class="s1"><span class="Apple-converted-space">&nbsp;</span><a href="https://flfnetwork.com/product/fightlaughfestclub/">https://flfnetwork.com/product/fightlaughfestclub/</a><span class="Apple-converted-space">&nbsp;</span></span></p>
-<p class="p2">&nbsp;</p>
-<p class="p1">Download our Fight Laugh Feast App today for access to full shows, podcasts, and more! Just head to FLFNetwork.com!</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/cee58017-7a82-48d2-bcd1-467385a32d6a/correcting-the-civic-wobble-a-biblical-case-for-the-3-spheres-w-pastor-toby-sumpter.mp3" length="3851" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[cee58017-7a82-48d2-bcd1-467385a32d6a]]></guid>
-   <pubDate>Sat, 29 Oct 2022 01:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3851</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
    <title><![CDATA[SPECIAL EPISODE: Municipal Election Success [Liberty Dispatch]]]></title>
    <link>https://app.dropwave.io/episode/50c9e8e0-a96b-4d0f-9619-9269dd4dffaf/special-episode-municipal-election-success.mp3</link>
    <description><![CDATA[<p class="p1"><strong>Liberty Dispatch</strong> ~ October 28, 2022</p>
@@ -5272,12 +5267,32 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
+   <title><![CDATA[Correcting the Civic Wobble: A Biblical Case for the 3 Spheres w/ Pastor Toby Sumpter [CrossPolitic Show]]]></title>
+   <link>https://app.dropwave.io/episode/cee58017-7a82-48d2-bcd1-467385a32d6a/correcting-the-civic-wobble-a-biblical-case-for-the-3-spheres-w-pastor-toby-sumpter.mp3</link>
+   <description><![CDATA[<p class="p1">Pastor Toby takes us through some Basic Kuyperian Sphere Sovereignty to get us lined up correctly!<span class="Apple-converted-space">&nbsp;</span></p>
+<p class="p2">&nbsp;</p>
+<p class="p1">Become a Fight Laugh Feast Member (Support the Show!)</p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">&nbsp;</span><a href="https://flfnetwork.com/product/fightlaughfestclub/">https://flfnetwork.com/product/fightlaughfestclub/</a><span class="Apple-converted-space">&nbsp;</span></span></p>
+<p class="p2">&nbsp;</p>
+<p class="p1">Download our Fight Laugh Feast App today for access to full shows, podcasts, and more! Just head to FLFNetwork.com!</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/cee58017-7a82-48d2-bcd1-467385a32d6a/correcting-the-civic-wobble-a-biblical-case-for-the-3-spheres-w-pastor-toby-sumpter.mp3" length="3851" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[cee58017-7a82-48d2-bcd1-467385a32d6a]]></guid>
+   <pubDate>Sat, 29 Oct 2022 01:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3851</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
    <title><![CDATA[Building Blocks—Finding the “Beautiful” in Law [God, Law, and Liberty]]]></title>
-   <link>https://app.dropwave.io/episode/61637be3-e400-4556-ba49-c4e41e5065b2/building-blocks-finding-the-beautiful-in-law.mp3</link>
+   <link>https://app.dropwave.io/episode/10f7ec22-a1ae-447e-a310-0ba963b54c11/building-blocks-finding-the-beautiful-in-law-1.mp3</link>
    <description><![CDATA[<p>When faced with a difficult task&mdash;like restoring the Western Legal Tradition&mdash;convictions based on truth are essential. But what will inspire the courage necessary to the task: truth alone or truth that is beautiful. If the latter, what can be said that makes law beautiful to anyone?</p>]]></description>
    <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/61637be3-e400-4556-ba49-c4e41e5065b2/building-blocks-finding-the-beautiful-in-law.mp3" length="1192" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[61637be3-e400-4556-ba49-c4e41e5065b2]]></guid>
+   <enclosure url="https://app.dropwave.io/episode/10f7ec22-a1ae-447e-a310-0ba963b54c11/building-blocks-finding-the-beautiful-in-law-1.mp3" length="1192" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[10f7ec22-a1ae-447e-a310-0ba963b54c11]]></guid>
    <pubDate>Fri, 28 Oct 2022 20:35:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
@@ -5288,11 +5303,11 @@
   </item>
   <item>
    <title><![CDATA[Building Blocks—Finding the “Beautiful” in Law [God, Law, and Liberty]]]></title>
-   <link>https://app.dropwave.io/episode/10f7ec22-a1ae-447e-a310-0ba963b54c11/building-blocks-finding-the-beautiful-in-law-1.mp3</link>
+   <link>https://app.dropwave.io/episode/61637be3-e400-4556-ba49-c4e41e5065b2/building-blocks-finding-the-beautiful-in-law.mp3</link>
    <description><![CDATA[<p>When faced with a difficult task&mdash;like restoring the Western Legal Tradition&mdash;convictions based on truth are essential. But what will inspire the courage necessary to the task: truth alone or truth that is beautiful. If the latter, what can be said that makes law beautiful to anyone?</p>]]></description>
    <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/10f7ec22-a1ae-447e-a310-0ba963b54c11/building-blocks-finding-the-beautiful-in-law-1.mp3" length="1192" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[10f7ec22-a1ae-447e-a310-0ba963b54c11]]></guid>
+   <enclosure url="https://app.dropwave.io/episode/61637be3-e400-4556-ba49-c4e41e5065b2/building-blocks-finding-the-beautiful-in-law.mp3" length="1192" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[61637be3-e400-4556-ba49-c4e41e5065b2]]></guid>
    <pubDate>Fri, 28 Oct 2022 20:35:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
@@ -5928,72 +5943,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1889</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Light Overcomes the Darkness: Exposing Corruption in Government, Media, and Law Enforcement at the Highest Levels [Liberty Dispatch]]]></title>
-   <link>https://app.dropwave.io/episode/d37ad0a4-200b-43f5-886e-e3ba200ce654/episode-160-light-overcomes-the-darkness-exposing-corruption-in-government-media-and-law-enforcement-at-the-highest-levels.mp3</link>
-   <description><![CDATA[<p class="p1"><strong>Liberty Dispatch</strong> ~ October 25, 2022</p>
-<p class="p1">On this episode of Liberty Dispatch, hosts Andrew and Matty shine a light into the darkness of corruption in government, media, medicine, and law enforcement. As the truth comes out about COVID, the jabs, the Emergencies Act, and school indoctrination the ghouls scatter to keep their work in the shadows. We won't let them.&nbsp;</p>
-<p class="zw-paragraph heading0">&nbsp;</p>
-<p class="zw-paragraph"><strong>[Segment 1] - Week in Review:</strong></p>
-<p class="zw-paragraph heading0">Story 1 - CDC recommends COVID jab for children's vaccination schedule:</p>
-<p class="zw-paragraph heading0"><a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/stay-up-to-date.html#children">https://www.cdc.gov/coronavirus/2019-ncov/vaccines/stay-up-to-date.html#children</a></p>
-<p class="zw-paragraph heading0"><a href="https://www.politico.com/news/2022/10/20/cdc-advisers-recommend-adding-covid-shots-to-routine-schedules-for-kids-adults-00062739">https://www.politico.com/news/2022/10/20/cdc-advisers-recommend-adding-covid-shots-to-routine-schedules-for-kids-adults-00062739</a></p>
-<p class="zw-paragraph heading0"><a href="https://tinyurl.com/bd8dyzuh">https://tinyurl.com/bd8dyzuh</a></p>
-<p class="zw-paragraph heading0"><a href="https://www.youtube.com/embed/OyEHu_0XgYo">https://www.youtube.com/embed/OyEHu_0XgYo</a></p>
-<p class="zw-paragraph heading0">Story 2 - Ontario court suspends doctor who filled out a medical exemption:</p>
-<p class="zw-paragraph heading0"><a href="https://tnc.news/2022/10/20/suspending-doctor-exemptions">https://tnc.news/2022/10/20/suspending-doctor-exemptions</a></p>
-<p class="zw-paragraph heading0"><a href="https://tinyurl.com/5xaxnb29">https://tinyurl.com/5xaxnb29</a></p>
-<p class="zw-paragraph heading0"><a href="https://www.youtube.com/embed/pOHmhTQF6eU">https://www.youtube.com/embed/pOHmhTQF6eU</a></p>
-<p class="zw-paragraph heading0"><a href="https://encounterchurch.ca/a-new-religion/">https://encounterchurch.ca/a-new-religion/</a></p>
-<p class="zw-paragraph heading0">Story 3 - Alberta Premier considers dropping all lockdown/mandate charges:</p>
-<p class="zw-paragraph"><a href="https://tinyurl.com/ym6kpeva">https://tinyurl.com/ym6kpeva</a></p>
-<p class="zw-paragraph"><a href="https://www.youtube.com/embed/d9tOALOPF9c">https://www.youtube.com/embed/d9tOALOPF9c</a></p>
-<p class="zw-paragraph heading0">Story 4 - Public Inquiry reveals no justification for the War Measures Act:</p>
-<p class="zw-paragraph heading0"><a href="https://tnc.news/2022/10/20/recap-6-tow-trucks">https://tnc.news/2022/10/20/recap-6-tow-trucks</a></p>
-<p class="zw-paragraph heading0"><a href="https://tnc.news/2022/10/21/day7-recap">https://tnc.news/2022/10/21/day7-recap</a></p>
-<p class="zw-paragraph heading0"><a href="https://tinyurl.com/2p9zraad">https://tinyurl.com/2p9zraad</a></p>
-<p class="zw-paragraph"><strong>[Segment 2] - CTV &amp; CBC Run a News Hit Piece on Conservatives Running for Municipal Election in Ontario:</strong></p>
-<p class="zw-paragraph">CTV's News Story: <a href="https://tinyurl.com/nhash39d">https://tinyurl.com/nhash39d</a></p>
-<p class="zw-paragraph">CBC's News Story: <a href="https://www.cbc.ca/news/canada/ontario-school-board-trustee-investigation-1.6622705">https://www.cbc.ca/news/canada/ontario-school-board-trustee-investigation-1.6622705</a></p>
-<p class="zw-paragraph"><strong>[Segment 3] - Handgun Freeze Comes into Effect as RCMP Corruption Reaches the Top:</strong></p>
-<p class="zw-paragraph"><a href="https://www.thestar.com/politics/federal/2022/10/21/freeze-on-handgun-sales-in-canada-comes-into-effect-friday.html">https://www.thestar.com/politics/federal/2022/10/21/freeze-on-handgun-sales-in-canada-comes-into-effect-friday.html</a>;</p>
-<p class="zw-paragraph"><a href="https://www.theglobeandmail.com/canada/video-audio-released-of-phone-call-with-rcmp-commissioner-lucki-after-ns">https://www.theglobeandmail.com/canada/video-audio-released-of-phone-call-with-rcmp-commissioner-lucki-after-ns</a>;</p>
-<p class="zw-paragraph"><a href="https://nationalpost.com/news/politics/ns-mass-shooting-inquiry-full-text-audio-rcmp-commissioner-brenda-lucki-meeting">https://nationalpost.com/news/politics/ns-mass-shooting-inquiry-full-text-audio-rcmp-commissioner-brenda-lucki-meeting</a></p>
-<p class="zw-paragraph"><a href="https://www.spartanfirearmstraininggroup.com/a-brief-history-of-gun-control-a-disarmed-population-is-easier-to-oppress-than-an-armed-one/">https://www.spartanfirearmstraininggroup.com/a-brief-history-of-gun-control-a-disarmed-population-is-easier-to-oppress-than-an-armed-one/;</a></p>
-<p class="zw-paragraph">LD from June 7, 2022: <a href="https://rumble.com/v17onz3-ontarians-and-gun-owners-lose-while-alphabet-soup-totali-tolerance-continue.html">https://rumble.com/v17onz3-ontarians-and-gun-owners-lose-while-alphabet-soup-totali-tolerance-continue.html</a>.</p>
-<p class="zw-paragraph">&nbsp;</p>
-<p class="zw-paragraph"><strong>SHOW SPONSORS:</strong></p>
-<p class="zw-paragraph"><strong>Join <em>Red Balloon </em>Today!:</strong> <a href="https://www.redballoon.work/lcc">https://www.redballoon.work/lcc</a>;</p>
-<p class="zw-paragraph"><strong>Invest with Rocklinc:</strong> <a href="mailto:info@rocklinc.com">info@rocklinc.com</a> or call them at 905-631-546;</p>
-<p class="zw-paragraph"><strong>Get Your Coffee Fix, Order from Resistance Coffee Today!: </strong><a href="https://resistancecoffee.com/">https://resistancecoffee.com/lcc</a>;</p>
-<p class="zw-paragraph"><strong>Diversify Your Money with Bull Bitcoin: </strong><a href="https://mission.bullbitcoin.com/lcc">https://mission.bullbitcoin.com/lcc</a></p>
-<p class="zw-paragraph">&nbsp;</p>
-<p class="p1"><strong>Sick of Mainstream Media Lies? Help Support Independent Media! DONATE TO LCC TODAY!:&nbsp;<a href="https://libertycoalitioncanada.com/donate/">https://libertycoalitioncanada.com/donate/</a>&nbsp;</strong></p>
-<p class="p1">Please Support us in bringing you real, truthful reporting and analysis from a Christian perspective.</p>
-<p class="p1"><br /><strong>SUBSCRIBE TO OUR SHOWS/CHANNELS:</strong><br />LIBERTY DISPATCH PODCAST:&nbsp;<a href="http://libertydispatch.podbean.com/"><span class="s1">https://libertydispatch.podbean.com</span></a>;&nbsp;<a href="https://rumble.com/c/c-1687093;">https://rumble.com/c/c-1687093;</a>&nbsp;</p>
-<p class="p3">OPEN MIKE WITH MICHAEL THIESSEN:&nbsp;<span class="s1"><a href="https://openmikewithmichaelthiessen.podbean.com/">https://openmikewithmichaelthiessen.podbean.com</a>;&nbsp;<a href="https://rumble.com/c/c-1412501;">https://rumble.com/c/c-1412501;</a>&nbsp;</span></p>
-<p class="p3"><span class="s1">THE LIBERTY LOUNGE WITH TIM TYSOE:&nbsp;<a href="https://rumble.com/c/c-1639185">https://rumble.com/c/c-1639185</a>&nbsp;</span></p>
-<p class="p1">&nbsp;</p>
-<p class="p1"><strong>STAY UP-TO-DATE ON ALL THINGS LCC:</strong></p>
-<p class="p1">Gab:&nbsp;<a href="http://www.gab.com/libertycoalitioncanada"><span class="s1">https://gab.com/libertycoalitioncanada</span></a></p>
-<p class="p1">Telegram:&nbsp;<a href="https://t.me/libertycoalitioncanadanews"><span class="s1">https://t.me/libertycoalitioncanadanews</span></a></p>
-<p class="p1">Instagram:&nbsp;<a href="http://www.instagram.com/libertycoalitioncanada/"><span class="s1">https://instagram.com/libertycoalitioncanada</span></a></p>
-<p class="p1">Facebook:&nbsp;<a href="http://www.facebook.com/LibertyCoalitionCanada"><span class="s1">https://facebook.com/LibertyCoalitionCanada</span></a></p>
-<p class="p1">Twitter:&nbsp;@LibertyCCanada -&nbsp;<a href="https://twitter.com/LibertyCCanada"><span class="s1">https://twitter.com/LibertyCCanada</span></a></p>
-<p class="p1">Rumble:&nbsp;<a href="http://www.rumble.com/user/LibertyCoalitionCanada"><span class="s1">https://rumble.com/user/LibertyCoalitionCanada</span></a></p>
-<p class="p1">YouTube:&nbsp;<a href="https://www.youtube.com/channel/UCLb1yNIeJ-2bSuHRW4oftRQ"><span class="s1">https://www.youtube.com/channel/UCLb1yNIeJ-2bSuHRW4oftRQ</span></a></p>
-<p class="p1"><strong>Please LIKE, SUBSCRIBE, RATE &amp; REVIEW and SHARE it with others!</strong></p>]]></description>
-   <author><![CDATA[Matthew Hallick, Andrew DeBartolo, SDG Media]]></author>
-   <enclosure url="https://app.dropwave.io/episode/d37ad0a4-200b-43f5-886e-e3ba200ce654/episode-160-light-overcomes-the-darkness-exposing-corruption-in-government-media-and-law-enforcement-at-the-highest-levels.mp3" length="4915" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[d37ad0a4-200b-43f5-886e-e3ba200ce654]]></guid>
-   <pubDate>Wed, 26 Oct 2022 00:30:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Matthew Hallick, Andrew DeBartolo, SDG Media]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/69893365-4165-4498-b0ac-e9ddf57a000f/cover-art/E86eLfK3NgjrpuXtk9kW9Qv6KcfzQpkJpToltreR.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>4915</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
