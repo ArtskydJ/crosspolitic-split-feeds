@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Tue, 13 Dec 2022 13:25:42 +0000</pubDate>
-  <lastBuildDate>Tue, 13 Dec 2022 13:25:42 +0000</lastBuildDate>
+  <pubDate>Tue, 13 Dec 2022 19:25:44 +0000</pubDate>
+  <lastBuildDate>Tue, 13 Dec 2022 19:25:44 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -38,6 +38,22 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>149</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[Ambrose [Resistance and Reformation]]]></title>
+   <link>https://app.dropwave.io/episode/792c57dd-3957-4834-b815-13e1f734df23/ambrose.mp3</link>
+   <description><![CDATA[<p>More from Dr. George Grant:</p>
+<p>georgegrant.net&nbsp;</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/792c57dd-3957-4834-b815-13e1f734df23/ambrose.mp3" length="463" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[792c57dd-3957-4834-b815-13e1f734df23]]></guid>
+   <pubDate>Tue, 13 Dec 2022 17:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>463</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -1708,27 +1724,6 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[We’re in a Cold War feat. Yuri Bezmenov + Beer & Psalms (Advent!) w/ Pastor Toby [CrossPolitic Show]]]></title>
-   <link>https://app.dropwave.io/episode/f87428ff-8b3b-4e18-aaa3-b1e14ad6f3b8/were-in-a-cold-war-feat-yuri-bezmenov-beer-psalms-advent-w-pastor-toby.mp3</link>
-   <description><![CDATA[<p class="p1">&nbsp;</p>
-<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">Do we realize that we&rsquo;re in the midst of a Cold War? The only way to survive is through Christian Faithfulness&hellip;</span></p>
-<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">We also have Beer &amp; Psalms featuring an Advent hymn: "Lo! He Comes with Clouds Descending"</span></p>
-<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">Yuri Bezmenov&rsquo;s Full Interview</span></p>
-<p class="p3"><span style="font-family: 'book antiqua', palatino, serif;"><a href="https://www.youtube.com/watch?v=yErKTVdETpw">https://www.youtube.com/watch?v=yErKTVdETpw</a></span></p>
-<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">Become a Fight Laugh Feast Member (Support the Show!)</span></p>
-<p class="p3"><span style="font-family: 'book antiqua', palatino, serif;"><span class="s1"><a href="https://flfnetwork.com/product/fightlaughfestclub/">https://flfnetwork.com/product/fightlaughfestclub/</a></span><span class="s2">&nbsp;</span></span></p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/f87428ff-8b3b-4e18-aaa3-b1e14ad6f3b8/were-in-a-cold-war-feat-yuri-bezmenov-beer-psalms-advent-w-pastor-toby.mp3" length="2821" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[f87428ff-8b3b-4e18-aaa3-b1e14ad6f3b8]]></guid>
-   <pubDate>Thu, 01 Dec 2022 02:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2821</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
    <title><![CDATA[Canadian Campus Chaos [Liberty Dispatch]]]></title>
    <link>https://app.dropwave.io/episode/60cfebee-40ff-4f73-a129-24c9622f0ce5/canadian-campus-chaos.mp3</link>
    <description><![CDATA[<p class="p1"><strong>Liberty Dispatch</strong> ~ November 30, 2022</p>
@@ -1767,6 +1762,27 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/69893365-4165-4498-b0ac-e9ddf57a000f/cover-art/E86eLfK3NgjrpuXtk9kW9Qv6KcfzQpkJpToltreR.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3132</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[We’re in a Cold War feat. Yuri Bezmenov + Beer & Psalms (Advent!) w/ Pastor Toby [CrossPolitic Show]]]></title>
+   <link>https://app.dropwave.io/episode/f87428ff-8b3b-4e18-aaa3-b1e14ad6f3b8/were-in-a-cold-war-feat-yuri-bezmenov-beer-psalms-advent-w-pastor-toby.mp3</link>
+   <description><![CDATA[<p class="p1">&nbsp;</p>
+<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">Do we realize that we&rsquo;re in the midst of a Cold War? The only way to survive is through Christian Faithfulness&hellip;</span></p>
+<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">We also have Beer &amp; Psalms featuring an Advent hymn: "Lo! He Comes with Clouds Descending"</span></p>
+<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">Yuri Bezmenov&rsquo;s Full Interview</span></p>
+<p class="p3"><span style="font-family: 'book antiqua', palatino, serif;"><a href="https://www.youtube.com/watch?v=yErKTVdETpw">https://www.youtube.com/watch?v=yErKTVdETpw</a></span></p>
+<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">Become a Fight Laugh Feast Member (Support the Show!)</span></p>
+<p class="p3"><span style="font-family: 'book antiqua', palatino, serif;"><span class="s1"><a href="https://flfnetwork.com/product/fightlaughfestclub/">https://flfnetwork.com/product/fightlaughfestclub/</a></span><span class="s2">&nbsp;</span></span></p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/f87428ff-8b3b-4e18-aaa3-b1e14ad6f3b8/were-in-a-cold-war-feat-yuri-bezmenov-beer-psalms-advent-w-pastor-toby.mp3" length="2821" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[f87428ff-8b3b-4e18-aaa3-b1e14ad6f3b8]]></guid>
+   <pubDate>Thu, 01 Dec 2022 02:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2821</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -2225,20 +2241,6 @@
   </item>
   <item>
    <title><![CDATA[Building Blocks—A Necessary Perspective [God, Law, and Liberty]]]></title>
-   <link>https://app.dropwave.io/episode/59246d0c-0f42-45e0-aa1d-68bd80265a05/building-blocks-a-necessary-perspective-1.mp3</link>
-   <description><![CDATA[<p>Today David explains how Psalm 37:1-5 applies when things are going wrong all around us. It provides the necessary perspective for those who see the need to restore what few people even know they have lost, the Western Legal Tradition.</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/59246d0c-0f42-45e0-aa1d-68bd80265a05/building-blocks-a-necessary-perspective-1.mp3" length="0" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[59246d0c-0f42-45e0-aa1d-68bd80265a05]]></guid>
-   <pubDate>Fri, 25 Nov 2022 23:39:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/467f99a9-2921-459a-b63d-9710f4355795/cover-art/y26og8sWsKrk1Vo9fXdkoPq657KpHxn5IIdruXmr.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Building Blocks—A Necessary Perspective [God, Law, and Liberty]]]></title>
    <link>https://app.dropwave.io/episode/22ea5b59-681b-47c0-9254-2b28d720071a/building-blocks-a-necessary-perspective.mp3</link>
    <description><![CDATA[<p>Today David explains how Psalm 37:1-5 applies when things are going wrong all around us. It provides the necessary perspective for those who see the need to restore what few people even know they have lost, the Western Legal Tradition.</p>]]></description>
    <author><![CDATA[FLF, LLC]]></author>
@@ -2250,6 +2252,20 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/467f99a9-2921-459a-b63d-9710f4355795/cover-art/y26og8sWsKrk1Vo9fXdkoPq657KpHxn5IIdruXmr.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1580</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[Building Blocks—A Necessary Perspective [God, Law, and Liberty]]]></title>
+   <link>https://app.dropwave.io/episode/59246d0c-0f42-45e0-aa1d-68bd80265a05/building-blocks-a-necessary-perspective-1.mp3</link>
+   <description><![CDATA[<p>Today David explains how Psalm 37:1-5 applies when things are going wrong all around us. It provides the necessary perspective for those who see the need to restore what few people even know they have lost, the Western Legal Tradition.</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/59246d0c-0f42-45e0-aa1d-68bd80265a05/building-blocks-a-necessary-perspective-1.mp3" length="0" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[59246d0c-0f42-45e0-aa1d-68bd80265a05]]></guid>
+   <pubDate>Fri, 25 Nov 2022 23:39:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/467f99a9-2921-459a-b63d-9710f4355795/cover-art/y26og8sWsKrk1Vo9fXdkoPq657KpHxn5IIdruXmr.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -4687,25 +4703,6 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[TCND: BONUS, March Mayhem (Not Madness) [The Comedian Next Door]]]></title>
-   <link>https://app.dropwave.io/episode/f003fdd4-2e07-4d45-93e5-a35adb9952aa/tcnd-bonus-march-mayhem-not-madness.mp3</link>
-   <description><![CDATA[<p>Every Sunday at 7:00pm Eastern, you should be hanging out LIVE with your comedian friends. &nbsp;If you're NOT watching the Starving Comics Quarantine Show each week, then please send your excuses to nextdoor@johnbranyan.com. &nbsp;</p>
-<p>Here's a sample of what you're missing!</p>
-<p>Comedian John Branyan plays ridiculous trivia games, creates animated short vids, and generally horses around with his pals in the entertainment industry. &nbsp;Meet Brian Apprille--voice impressionist and movie buff. Listen to John thomas Oaks--musician, composer, and Story-Teller Extraordinaire. And laugh at Juan DeVevo--dead pan King of One-Liners and founding member of Casting Crowns.</p>
-<p>On this episode of SCQS:&nbsp; The audience begins the voting process for their all-time favorite SCQS games, songs, and segments.&nbsp; Which bit will be the ultimate winner?!&nbsp; Take a trip down memory lane with us.&nbsp;</p>
-<p>We want you to come on vacation with our funny family and friends. &nbsp;For details about VACAY WITH COMICS 2023, visit johnbranyan.com</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/f003fdd4-2e07-4d45-93e5-a35adb9952aa/tcnd-bonus-march-mayhem-not-madness.mp3" length="2846" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[f003fdd4-2e07-4d45-93e5-a35adb9952aa]]></guid>
-   <pubDate>Thu, 03 Nov 2022 11:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2846</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
    <title><![CDATA[Daily News Brief for Thursday, November 3rd, 2022 [Daily News Brief]]]></title>
    <link>https://app.dropwave.io/episode/06af26bd-74ee-46dc-b36b-2069df7ebf71/daily-news-brief-for-thursday-november-3rd-2022.mp3</link>
    <description><![CDATA[<p><span style="font-weight: 400;">This is Garrison Hardie with your CrossPolitic Daily Newsbrief for Thursday, November 3rd, 2022. Good to be back with you all, let&rsquo;s get right into the news!</span></p>
@@ -4798,6 +4795,25 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1012</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[TCND: BONUS, March Mayhem (Not Madness) [The Comedian Next Door]]]></title>
+   <link>https://app.dropwave.io/episode/f003fdd4-2e07-4d45-93e5-a35adb9952aa/tcnd-bonus-march-mayhem-not-madness.mp3</link>
+   <description><![CDATA[<p>Every Sunday at 7:00pm Eastern, you should be hanging out LIVE with your comedian friends. &nbsp;If you're NOT watching the Starving Comics Quarantine Show each week, then please send your excuses to nextdoor@johnbranyan.com. &nbsp;</p>
+<p>Here's a sample of what you're missing!</p>
+<p>Comedian John Branyan plays ridiculous trivia games, creates animated short vids, and generally horses around with his pals in the entertainment industry. &nbsp;Meet Brian Apprille--voice impressionist and movie buff. Listen to John thomas Oaks--musician, composer, and Story-Teller Extraordinaire. And laugh at Juan DeVevo--dead pan King of One-Liners and founding member of Casting Crowns.</p>
+<p>On this episode of SCQS:&nbsp; The audience begins the voting process for their all-time favorite SCQS games, songs, and segments.&nbsp; Which bit will be the ultimate winner?!&nbsp; Take a trip down memory lane with us.&nbsp;</p>
+<p>We want you to come on vacation with our funny family and friends. &nbsp;For details about VACAY WITH COMICS 2023, visit johnbranyan.com</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/f003fdd4-2e07-4d45-93e5-a35adb9952aa/tcnd-bonus-march-mayhem-not-madness.mp3" length="2846" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[f003fdd4-2e07-4d45-93e5-a35adb9952aa]]></guid>
+   <pubDate>Thu, 03 Nov 2022 11:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2846</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -5331,27 +5347,6 @@
   </item>
   <item>
    <title><![CDATA[TCND: The Queer's Birthday (Scronched off His Bingus) [The Comedian Next Door]]]></title>
-   <link>https://app.dropwave.io/episode/ef648721-ec4a-437a-b2c3-da1349f9e91e/tcnd-the-queers-birthday-scronched-off-his-bingus.mp3</link>
-   <description><![CDATA[<p>Welcome to the party, Neighbor! Our own Andrew Branyan turned 24 this week. He's the youngest child of the John Branyan family, and the whole gang jumps in to tell our favorite stories! (Legends, really.)</p>
-<p>First off--we're becoming kind of notorious at our local Dairy Queen.&nbsp;</p>
-<p>Then:&nbsp; Why Andrew should never get a job as a dog-walker.</p>
-<p>Later: The Peaches talks about being "almost insulted" by 5-year-old Andrew.&nbsp; Plus, we hear why Tim Branyan was ashamed of his baby brother's physique.</p>
-<p>And Don't Miss This: The Matriarch, Lori, shares the infamous "You-Look-A-Little-Weird" story.&nbsp;</p>
-<p>We hope you enjoy this noisy visit to our table. Here's a hearty "Good Well" to Andrew, and we'll see you next time!&nbsp; &nbsp;(Reach out to us by emailing nextdoor@johnbranyan.com)&nbsp;</p>
-<p>&nbsp;</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/ef648721-ec4a-437a-b2c3-da1349f9e91e/tcnd-the-queers-birthday-scronched-off-his-bingus.mp3" length="2606" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[ef648721-ec4a-437a-b2c3-da1349f9e91e]]></guid>
-   <pubDate>Mon, 31 Oct 2022 11:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2606</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[TCND: The Queer's Birthday (Scronched off His Bingus) [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/27f3683d-710f-463a-9dfe-1399f1b6eb9c/tcnd-the-queers-birthday-scronched-off-his-bingus-1.mp3</link>
    <description><![CDATA[<p>Welcome to the party, Neighbor! Our own Andrew Branyan turned 24 this week. He's the youngest child of the John Branyan family, and the whole gang jumps in to tell our favorite stories! (Legends, really.)</p>
 <p>First off--we're becoming kind of notorious at our local Dairy Queen.&nbsp;</p>
@@ -5363,6 +5358,27 @@
    <author><![CDATA[FLF, LLC]]></author>
    <enclosure url="https://app.dropwave.io/episode/27f3683d-710f-463a-9dfe-1399f1b6eb9c/tcnd-the-queers-birthday-scronched-off-his-bingus-1.mp3" length="2606" type="audio/mp3"/>
    <guid isPermaLink="false"><![CDATA[27f3683d-710f-463a-9dfe-1399f1b6eb9c]]></guid>
+   <pubDate>Mon, 31 Oct 2022 11:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2606</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[TCND: The Queer's Birthday (Scronched off His Bingus) [The Comedian Next Door]]]></title>
+   <link>https://app.dropwave.io/episode/ef648721-ec4a-437a-b2c3-da1349f9e91e/tcnd-the-queers-birthday-scronched-off-his-bingus.mp3</link>
+   <description><![CDATA[<p>Welcome to the party, Neighbor! Our own Andrew Branyan turned 24 this week. He's the youngest child of the John Branyan family, and the whole gang jumps in to tell our favorite stories! (Legends, really.)</p>
+<p>First off--we're becoming kind of notorious at our local Dairy Queen.&nbsp;</p>
+<p>Then:&nbsp; Why Andrew should never get a job as a dog-walker.</p>
+<p>Later: The Peaches talks about being "almost insulted" by 5-year-old Andrew.&nbsp; Plus, we hear why Tim Branyan was ashamed of his baby brother's physique.</p>
+<p>And Don't Miss This: The Matriarch, Lori, shares the infamous "You-Look-A-Little-Weird" story.&nbsp;</p>
+<p>We hope you enjoy this noisy visit to our table. Here's a hearty "Good Well" to Andrew, and we'll see you next time!&nbsp; &nbsp;(Reach out to us by emailing nextdoor@johnbranyan.com)&nbsp;</p>
+<p>&nbsp;</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/ef648721-ec4a-437a-b2c3-da1349f9e91e/tcnd-the-queers-birthday-scronched-off-his-bingus.mp3" length="2606" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[ef648721-ec4a-437a-b2c3-da1349f9e91e]]></guid>
    <pubDate>Mon, 31 Oct 2022 11:00:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
@@ -5501,11 +5517,11 @@
   </item>
   <item>
    <title><![CDATA[Building Blocks—Finding the “Beautiful” in Law [God, Law, and Liberty]]]></title>
-   <link>https://app.dropwave.io/episode/10f7ec22-a1ae-447e-a310-0ba963b54c11/building-blocks-finding-the-beautiful-in-law-1.mp3</link>
+   <link>https://app.dropwave.io/episode/61637be3-e400-4556-ba49-c4e41e5065b2/building-blocks-finding-the-beautiful-in-law.mp3</link>
    <description><![CDATA[<p>When faced with a difficult task&mdash;like restoring the Western Legal Tradition&mdash;convictions based on truth are essential. But what will inspire the courage necessary to the task: truth alone or truth that is beautiful. If the latter, what can be said that makes law beautiful to anyone?</p>]]></description>
    <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/10f7ec22-a1ae-447e-a310-0ba963b54c11/building-blocks-finding-the-beautiful-in-law-1.mp3" length="1192" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[10f7ec22-a1ae-447e-a310-0ba963b54c11]]></guid>
+   <enclosure url="https://app.dropwave.io/episode/61637be3-e400-4556-ba49-c4e41e5065b2/building-blocks-finding-the-beautiful-in-law.mp3" length="1192" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[61637be3-e400-4556-ba49-c4e41e5065b2]]></guid>
    <pubDate>Fri, 28 Oct 2022 20:35:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
@@ -5516,11 +5532,11 @@
   </item>
   <item>
    <title><![CDATA[Building Blocks—Finding the “Beautiful” in Law [God, Law, and Liberty]]]></title>
-   <link>https://app.dropwave.io/episode/61637be3-e400-4556-ba49-c4e41e5065b2/building-blocks-finding-the-beautiful-in-law.mp3</link>
+   <link>https://app.dropwave.io/episode/10f7ec22-a1ae-447e-a310-0ba963b54c11/building-blocks-finding-the-beautiful-in-law-1.mp3</link>
    <description><![CDATA[<p>When faced with a difficult task&mdash;like restoring the Western Legal Tradition&mdash;convictions based on truth are essential. But what will inspire the courage necessary to the task: truth alone or truth that is beautiful. If the latter, what can be said that makes law beautiful to anyone?</p>]]></description>
    <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/61637be3-e400-4556-ba49-c4e41e5065b2/building-blocks-finding-the-beautiful-in-law.mp3" length="1192" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[61637be3-e400-4556-ba49-c4e41e5065b2]]></guid>
+   <enclosure url="https://app.dropwave.io/episode/10f7ec22-a1ae-447e-a310-0ba963b54c11/building-blocks-finding-the-beautiful-in-law-1.mp3" length="1192" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[10f7ec22-a1ae-447e-a310-0ba963b54c11]]></guid>
    <pubDate>Fri, 28 Oct 2022 20:35:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
@@ -5923,24 +5939,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>691</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[TCND: BONUS,  Extreme Tech Difficulties and Scribblenauts [The Comedian Next Door]]]></title>
-   <link>https://app.dropwave.io/episode/116c2117-bf61-49da-9b79-6275235caba5/tcnd-bonus-extreme-tech-difficulties-and-scribblenauts.mp3</link>
-   <description><![CDATA[<p>If you're not tuning in LIVE to watch the Starving Comics' Quarantine show every Sunday at 7:00pm Eastern, then you're not living up to your full potential. &nbsp;Here's a sample of what you're missing!</p>
-<p>Comedian John Branyan plays ridiculous trivia games, creates animated short vids, and generally horses around with his friends in the entertainment industry. &nbsp;Meet Brian Apprille--voice impressionist and movie buff. Listen to John thomas Oaks--musician, composer, and Story-Teller Extraordinaire. And laugh at Juan DeVevo--dead pan King of One-Liners and founding member of Casting Crowns.</p>
-<p>On this episode of SCQS: In case you need reminding that this is a live show, we have packed this one full of distracting technical problems... Morgan Freeman and Biscuit Neck both join us for a bit.&nbsp; Plus--we play a story-creating game called Scribblenauts. (And there are more tech difficulties!)</p>
-<p>We want you to come on vacation with our funny family and friends. &nbsp;For details about VACAY WITH COMICS 2023, visit johnbranyan.com</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/116c2117-bf61-49da-9b79-6275235caba5/tcnd-bonus-extreme-tech-difficulties-and-scribblenauts.mp3" length="2846" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[116c2117-bf61-49da-9b79-6275235caba5]]></guid>
-   <pubDate>Thu, 27 Oct 2022 11:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2846</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
