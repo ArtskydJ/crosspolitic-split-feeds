@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Fri, 16 Dec 2022 19:25:44 +0000</pubDate>
-  <lastBuildDate>Fri, 16 Dec 2022 19:25:44 +0000</lastBuildDate>
+  <pubDate>Sat, 17 Dec 2022 01:25:43 +0000</pubDate>
+  <lastBuildDate>Sat, 17 Dec 2022 01:25:43 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -26,6 +26,21 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Why Christianity Has Rendered Itself Irrelevant [God, Law, and Liberty]]]></title>
+   <link>https://app.dropwave.io/episode/613d72dd-431c-4e29-8e28-a1b575932fbf/why-christianity-has-rendered-itself-irrelevant.mp3</link>
+   <description><![CDATA[<p>Christianity is no longer relevant to civil law and government. Many Christians want it to be or become relevant again. Today David uses Abraham Kuyper to explain why Christianity has made itself irrelevant. Without that understanding, we will have no clue why it will remain irrelevant despite all our Christian political action.</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/613d72dd-431c-4e29-8e28-a1b575932fbf/why-christianity-has-rendered-itself-irrelevant.mp3" length="1365" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[613d72dd-431c-4e29-8e28-a1b575932fbf]]></guid>
+   <pubDate>Fri, 16 Dec 2022 20:58:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/467f99a9-2921-459a-b63d-9710f4355795/cover-art/y26og8sWsKrk1Vo9fXdkoPq657KpHxn5IIdruXmr.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1365</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[Digital Currency & the History of Money [Leadership Now Podcast]]]></title>
    <link>https://app.dropwave.io/episode/bbc5e448-e5b3-4c1c-9e7d-88ba3713eafb/digital-currency-the-history-of-money.mp3</link>
    <description><![CDATA[<p>In this episode of Leadership Now with Dr. Aaron Rock, Aaron talks crypto, fiat money, gold, and this history of all this currency and how you can learn from that history to make better financial decision in the future.</p>
@@ -2901,21 +2916,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1908</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  
-  </item><item>
-   <title><![CDATA[Semper Reformanda [In the Bullpen]]]></title>
-   <link>https://app.dropwave.io/episode/6013ab06-6cf0-44d4-86b1-5c52ea6015b5/semper-reformanda.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[Mark Dewey]]></author>
-   <enclosure url="https://app.dropwave.io/episode/6013ab06-6cf0-44d4-86b1-5c52ea6015b5/semper-reformanda.mp3" length="1442" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[6013ab06-6cf0-44d4-86b1-5c52ea6015b5]]></guid>
-   <pubDate>Mon, 31 Oct 2022 16:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1442</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
