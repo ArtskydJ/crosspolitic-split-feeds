@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Thu, 22 Dec 2022 13:25:42 +0000</pubDate>
-  <lastBuildDate>Thu, 22 Dec 2022 13:25:42 +0000</lastBuildDate>
+  <pubDate>Thu, 22 Dec 2022 19:25:42 +0000</pubDate>
+  <lastBuildDate>Thu, 22 Dec 2022 19:25:42 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -26,6 +26,22 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Waiting for a Savior [Heavy Lifting with Uncle Gary]]]></title>
+   <link>https://app.dropwave.io/episode/ed8c287d-8f6b-4c47-94fb-162de8005976/waiting-for-a-savior.mp3</link>
+   <description><![CDATA[<p>The incarnation is proof that God listens to His people. The incarnation is proof that God is with us. The incarnation is proof that God follows through on His promises. The incarnation IS the consolation and redemption of Israel. Jesus is King NOW; He has the victory NOW. And if you are in Christ, it means that you have a present and victorious King NOW.</p>
+<p>Read the article here: <a href="https://americanvision.org/posts/waiting-for-a-savior/" target="_blank" rel="noopener">https://americanvision.org/posts/waiting-for-a-savior/</a></p>]]></description>
+   <author><![CDATA[Gary DeMar]]></author>
+   <enclosure url="https://app.dropwave.io/episode/ed8c287d-8f6b-4c47-94fb-162de8005976/waiting-for-a-savior.mp3" length="1179" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[ed8c287d-8f6b-4c47-94fb-162de8005976]]></guid>
+   <pubDate>Thu, 22 Dec 2022 15:10:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Gary DeMar]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/DhrQguhSDjlHDvZirBNeMReYHEo4aeJQ1WghxxTW.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1179</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[Incarnation, Joy Incarnate, the Opening of Heaven to Earth, and Music [The Pugcast]]]></title>
    <link>https://app.dropwave.io/episode/b50626fa-9086-4e06-9479-f3c32ddb8775/incarnation-joy-incarnate-the-opening-of-heaven-to-earth-and-music.mp3</link>
    <description><![CDATA[<p class="p1">Christmas is around the corner and the guys reflect on the Incarnation and some of its implications. Reflecting upon Luke 2:8-20, Shepherds and Angels, Tom introduces the topic of what is implied by the heavens being open upon the Incarnation. The guys take the topic in many fascinating directions, including the issue of joy and beatitude, and music in light of Christ.</p>
@@ -2917,7 +2933,6 @@
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2846</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
-  
   </item>
  </channel>
 </rss>
