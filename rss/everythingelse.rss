@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Sat, 24 Dec 2022 01:25:49 +0000</pubDate>
-  <lastBuildDate>Sat, 24 Dec 2022 01:25:49 +0000</lastBuildDate>
+  <pubDate>Sat, 24 Dec 2022 07:25:42 +0000</pubDate>
+  <lastBuildDate>Sat, 24 Dec 2022 07:25:42 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -26,6 +26,24 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[CrossPolitic Christmas: The Wives in Studio!  [CrossPolitic Show]]]></title>
+   <link>https://app.dropwave.io/episode/1b4dab10-89f0-4373-9416-5e2d72ab2c19/crosspolitic-christmas-the-wives-in-studio.mp3</link>
+   <description><![CDATA[<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">Merry Christmas! God bless you &amp; your families! Thank you for all of your prayers &amp; support - we&rsquo;re here because of you! Let us Celebrate together, we are blessed by our King!<span class="Apple-converted-space">&nbsp;</span></span></p>
+<p class="p2">&nbsp;</p>
+<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">Become a Fight Laugh Feast Member (Support the Show!)</span></p>
+<p class="p3"><span style="font-family: 'book antiqua', palatino, serif;"><span class="s1"><a href="https://flfnetwork.com/product/fightlaughfestclub/">https://flfnetwork.com/product/fightlaughfestclub/</a></span><span class="s2">&nbsp;</span></span></p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/1b4dab10-89f0-4373-9416-5e2d72ab2c19/crosspolitic-christmas-the-wives-in-studio.mp3" length="4181" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[1b4dab10-89f0-4373-9416-5e2d72ab2c19]]></guid>
+   <pubDate>Sat, 24 Dec 2022 03:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/e4dd0b6e-af27-4c85-b7d5-430be59a90f1.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>4181</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[Government Paternalism,  Adverse Jab Effects, and MAID Propaganda [Liberty Dispatch]]]></title>
    <link>https://app.dropwave.io/episode/bbcab707-f7fc-4487-a5cd-59f2e6c322b4/government-paternalism-adverse-jab-effects-and-maid-propaganda.mp3</link>
    <description><![CDATA[<p class="p1"><strong>Liberty Dispatch</strong> ~ December 22, 2022</p>
@@ -2945,21 +2963,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/3312a6b0-2b88-4186-bfdd-e9c55d3d7e0f/cover-art/DJmJxOQEoRfGbs693sV6kEnKEGWstWUfdEXbQra8.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3575</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  
-  </item><item>
-   <title><![CDATA[Prophetic Signs and Symbols [Heavy Lifting with Uncle Gary]]]></title>
-   <link>https://app.dropwave.io/episode/ee40d2b5-590c-4894-a92c-1c9d4372cd03/prophetic-signs-and-symbols.mp3</link>
-   <description><![CDATA[<p>Gary discusses several Old Testament passages and how they fit with New Testament prophecies. All biblical language must be interpreted in light of how it's used elsewhere in the Bible. Context, time, and previous usage must be taken into consideration to properly discern what the Bible is saying. The basic principles of hermeneutics should always direct how we read and understand the prophetic passages of the Bible.</p>]]></description>
-   <author><![CDATA[Gary DeMar]]></author>
-   <enclosure url="https://app.dropwave.io/episode/ee40d2b5-590c-4894-a92c-1c9d4372cd03/prophetic-signs-and-symbols.mp3" length="1625" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[ee40d2b5-590c-4894-a92c-1c9d4372cd03]]></guid>
-   <pubDate>Thu, 03 Nov 2022 14:26:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Gary DeMar]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/1TJ9wWnLgby7TpFnMplHzDEagDfNc6RNmPr6JLdD.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1625</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
