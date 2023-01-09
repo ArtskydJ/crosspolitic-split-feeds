@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 09 Jan 2023 13:25:44 +0000</pubDate>
-  <lastBuildDate>Mon, 09 Jan 2023 13:25:44 +0000</lastBuildDate>
+  <pubDate>Mon, 09 Jan 2023 19:25:44 +0000</pubDate>
+  <lastBuildDate>Mon, 09 Jan 2023 19:25:44 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -26,6 +26,21 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Bigger than Baseball [In the Bullpen]]]></title>
+   <link>https://app.dropwave.io/episode/963bb916-ae8e-4339-8577-4a745ea7411c/bigger-than-baseball.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/963bb916-ae8e-4339-8577-4a745ea7411c/bigger-than-baseball.mp3" length="1789" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[963bb916-ae8e-4339-8577-4a745ea7411c]]></guid>
+   <pubDate>Mon, 09 Jan 2023 17:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1789</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[TCND: Deconstructing with Jason Farley (Part 2) [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/46bd6af1-905c-42f1-9a5d-c2eb1dad12ac/tcnd-deconstructing-with-jason-farley-part-2.mp3</link>
    <description><![CDATA[<p>Welcome to the table, Neighbor. When you're listening to this podcast, we call you "Pkarlgh." On this FIRST episode of 2023, The Comedian (John Branyan) interviews Jason Farley!&nbsp;You've heard him on Knox Unplugged and CrossPolitic.&nbsp;This is Part Two of their conversation about "deconstructionism."</p>
@@ -241,7 +256,7 @@
    <pubDate>Thu, 05 Jan 2023 21:19:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[Gary DeMar]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/buHTipTHQjWBVIPoNAVpAqGmYlLO65vladyOCZ7z.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230109%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230109T132544Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=4969b82c29b8bb53ba2b196339cad88f9302dea21b16df8f436acd9a63f7a6a5"/>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/buHTipTHQjWBVIPoNAVpAqGmYlLO65vladyOCZ7z.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230109%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230109T192544Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=a7e20b63c381c9ee7271709b5bb2fac5a245ad93864bab3c15f1a1150d9e33b0"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>819</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
@@ -571,7 +586,7 @@
    <pubDate>Thu, 29 Dec 2022 14:23:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[Gary DeMar]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/23TKyDkXUMsmHHmSNHB3IEWwBD4OOl7ZWhCCPejH.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230109%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230109T132544Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=75ca16e65a3f1b5a48c5dc94410769b59303b71f20aa76b10c9cf267a1b6959b"/>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/23TKyDkXUMsmHHmSNHB3IEWwBD4OOl7ZWhCCPejH.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230109%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230109T192544Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=fa0f923ab318ef2681b82d8cf5b6830fdfbe8d5081ccb4f8623d4a093dd9e3cb"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1100</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
@@ -742,7 +757,7 @@
    <pubDate>Thu, 22 Dec 2022 15:10:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[Gary DeMar]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/DhrQguhSDjlHDvZirBNeMReYHEo4aeJQ1WghxxTW.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230109%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230109T132544Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=df81c97813b0d8aa80d55283ad4da9fee45f4b689e4ad096f79b5f4e79359b28"/>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/DhrQguhSDjlHDvZirBNeMReYHEo4aeJQ1WghxxTW.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230109%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230109T192544Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=5437bc32ab1a37df3954aed6decf3b4f290438329ef2ddafd8fbfd55b60c8958"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1179</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
@@ -1149,7 +1164,7 @@
    <pubDate>Wed, 14 Dec 2022 23:09:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[Gary DeMar]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/PVsO6TQ4WYY6nVCA7U7afgG99zcVzD6kjXzgdVSP.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230109%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230109T132544Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=aa8081de1fecff1b2badf604c1982e0da43e2a5339f105dc0a70807afdda7de1"/>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/PVsO6TQ4WYY6nVCA7U7afgG99zcVzD6kjXzgdVSP.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230109%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230109T192544Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=5eaef8dc1ec8f4095549098c015d3c6d6529abd62e035bcdbda0442e4d1321d6"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>571</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
@@ -2976,25 +2991,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/wvkjcfd3tfj69XopdryYkSF8m1k4KHuikzJF1KzC.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2010</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  
-  </item><item>
-   <title><![CDATA[TCND: We're Tired....a Post-Election Breakdown (#2 Pencil) [The Comedian Next Door]]]></title>
-   <link>https://app.dropwave.io/episode/ee1f9fb2-47ad-4693-9642-6d6ebe408c98/tcnd-were-tireda-post-election-breakdown-2-pencil.mp3</link>
-   <description><![CDATA[<p>We're at the end of a long, tiring day. But we're still going to record a podcast, because we're just that generous, Neighbor! Get ready for some hard-hitting social commentary.</p>
-<p>John is concerned his vote may not be counted because of his writing utensil, and the Peaches briefly considered running for school board on the platform: "My Kids Will Never Attend Here."&nbsp;</p>
-<p>NEXT: There's an article published by Desiring God which actually acknowledges the sinfulness of women, and we almost can't believe it!&nbsp; (Title: "She Needs Truth: How Hard Words Serve Women")</p>
-<p>LATER: Imagine being inspired and uplifted by a politician's speech... Imagine needing to hear that a Democratic candidate "sees you."&nbsp; Yikes.&nbsp;</p>
-<p>FINALLY: Social media has really messed up a lot of people.&nbsp; The Peaches used to see the Internet as a Mission Field, but maybe we've been sending people out there to evangelize before they were ready. Christians are not doing a great job standing up to the evil, on the whole.&nbsp;</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/ee1f9fb2-47ad-4693-9642-6d6ebe408c98/tcnd-were-tireda-post-election-breakdown-2-pencil.mp3" length="2812" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[ee1f9fb2-47ad-4693-9642-6d6ebe408c98]]></guid>
-   <pubDate>Mon, 14 Nov 2022 12:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2812</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
