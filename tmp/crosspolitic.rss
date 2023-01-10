@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Tue, 10 Jan 2023 13:25:46 +0000</pubDate>
-  <lastBuildDate>Tue, 10 Jan 2023 13:25:46 +0000</lastBuildDate>
+  <pubDate>Tue, 10 Jan 2023 19:25:46 +0000</pubDate>
+  <lastBuildDate>Tue, 10 Jan 2023 19:25:46 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -25,6 +25,22 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Baxter [Resistance and Reformation]]]></title>
+   <link>https://app.dropwave.io/episode/2c25a7c9-71c9-4ff0-ba82-852737dec667/baxter.mp3</link>
+   <description><![CDATA[<p>More from Dr. George Grant:</p>
+<p>georgegrant.net</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/2c25a7c9-71c9-4ff0-ba82-852737dec667/baxter.mp3" length="587" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[2c25a7c9-71c9-4ff0-ba82-852737dec667]]></guid>
+   <pubDate>Tue, 10 Jan 2023 17:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>587</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Daily News Brief for Tuesday, January 10th, 2023 [Daily News Brief]]]></title>
    <link>https://app.dropwave.io/episode/c2b89c84-13b0-4382-8a55-8263f944ffab/daily-news-brief-for-tuesday-january-10th-2023.mp3</link>
@@ -602,7 +618,7 @@
    <pubDate>Thu, 05 Jan 2023 21:19:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[Gary DeMar]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/buHTipTHQjWBVIPoNAVpAqGmYlLO65vladyOCZ7z.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230110%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230110T132546Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=d11d3ca7118ba7a390363c1ae274217f40aae8cc091e0f08d29efe3531e084a3"/>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/buHTipTHQjWBVIPoNAVpAqGmYlLO65vladyOCZ7z.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230110%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230110T192546Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=6a91b8c4e910f6ab0e0576f1bb3254494fb8de1223c36928ff90744a43d459e7"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>819</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
@@ -1223,7 +1239,7 @@
    <pubDate>Thu, 29 Dec 2022 14:23:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[Gary DeMar]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/23TKyDkXUMsmHHmSNHB3IEWwBD4OOl7ZWhCCPejH.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230110%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230110T132546Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=d25941ea0d74ddd11be052d703a5412074a867fba6d6ef78ad9c3e4fa707ca99"/>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/23TKyDkXUMsmHHmSNHB3IEWwBD4OOl7ZWhCCPejH.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230110%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230110T192546Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=30a7b2b42ff6d27cb2460525da280822fe9e42c7211c2f0bba5417819db8974f"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1100</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
@@ -1394,7 +1410,7 @@
    <pubDate>Thu, 22 Dec 2022 15:10:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[Gary DeMar]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/DhrQguhSDjlHDvZirBNeMReYHEo4aeJQ1WghxxTW.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230110%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230110T132546Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=5b19e139671c8c547fe031dff44cbbabef50b1ec8bee55cb589d7f67ebcee0e7"/>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/DhrQguhSDjlHDvZirBNeMReYHEo4aeJQ1WghxxTW.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230110%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230110T192546Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=bb7ca0be3a2e0656695ecd80e7736c18c6c64d0fbd1c5f48bf530980c5414238"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1179</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
@@ -2396,7 +2412,7 @@
    <pubDate>Wed, 14 Dec 2022 23:09:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[Gary DeMar]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/PVsO6TQ4WYY6nVCA7U7afgG99zcVzD6kjXzgdVSP.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230110%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230110T132546Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=6989733e9a4fe6e8b6440705b602c420d9bd5cbbcabd599a525ec32ffae0599c"/>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/PVsO6TQ4WYY6nVCA7U7afgG99zcVzD6kjXzgdVSP.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230110%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230110T192546Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=1b816ee38e881b79cbce8f3deadc4599a8332aa199fd4f425f6b9615d8ac810b"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>571</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
@@ -4215,25 +4231,6 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[TCND: BONUS,  New Year's Extravaganza [The Comedian Next Door]]]></title>
-   <link>https://app.dropwave.io/episode/24bf4124-b104-4013-97a3-7e08e41ebd6f/tcnd-bonus-new-years-extravaganza.mp3</link>
-   <description><![CDATA[<p>Every Sunday at 7:00pm Eastern, you should be hanging out LIVE with your comedian friends. &nbsp;If you're NOT watching the Starving Comics Quarantine Show each week, then please send your excuses to nextdoor@johnbranyan.com. &nbsp;</p>
-<p>Here's a sample of what you're missing!</p>
-<p>Comedian John Branyan plays ridiculous trivia games, creates animated short vids, and generally horses around with his pals in the entertainment industry. &nbsp;Meet Brian Apprille--voice impressionist and movie buff. Listen to John thomas Oaks--musician, composer, and Story-Teller Extraordinaire. And laugh at Juan DeVevo--dead pan King of One-Liners and founding member of Casting Crowns.</p>
-<p>On this episode of SCQS: We're ringing in the New Year with one of our favorite games, Affirm or Deny. But first, Brian has a SURPRISE! Later,&nbsp; he helps you plan your next road trip. AND, Juan gives you the language lesson you'll need to relate better with Gen Z.&nbsp;</p>
-<p>We want you to come on vacation with our funny family and friends. &nbsp;For details about VACAY WITH COMICS 2023, visit johnbranyan.com</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/24bf4124-b104-4013-97a3-7e08e41ebd6f/tcnd-bonus-new-years-extravaganza.mp3" length="2846" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[24bf4124-b104-4013-97a3-7e08e41ebd6f]]></guid>
-   <pubDate>Thu, 01 Dec 2022 12:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2846</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
    <title><![CDATA[Daily News Brief for Thursday, December 1st, 2022 [Daily News Brief]]]></title>
    <link>https://app.dropwave.io/episode/e6ab276b-124a-45db-8be5-de5a5ace2d0a/daily-news-brief-for-thursday-december-1st-2022.mp3</link>
    <description><![CDATA[<p><span style="font-weight: 400;">This is Garrison Hardie with your CrossPolitic Daily News Brief for Thursday, December 1st, 2022. Happy Friday Jr. everyone! Having a good week thus far I hope&hellip; hey, question for ya&hellip;</span></p>
@@ -4357,6 +4354,25 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>834</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[TCND: BONUS,  New Year's Extravaganza [The Comedian Next Door]]]></title>
+   <link>https://app.dropwave.io/episode/24bf4124-b104-4013-97a3-7e08e41ebd6f/tcnd-bonus-new-years-extravaganza.mp3</link>
+   <description><![CDATA[<p>Every Sunday at 7:00pm Eastern, you should be hanging out LIVE with your comedian friends. &nbsp;If you're NOT watching the Starving Comics Quarantine Show each week, then please send your excuses to nextdoor@johnbranyan.com. &nbsp;</p>
+<p>Here's a sample of what you're missing!</p>
+<p>Comedian John Branyan plays ridiculous trivia games, creates animated short vids, and generally horses around with his pals in the entertainment industry. &nbsp;Meet Brian Apprille--voice impressionist and movie buff. Listen to John thomas Oaks--musician, composer, and Story-Teller Extraordinaire. And laugh at Juan DeVevo--dead pan King of One-Liners and founding member of Casting Crowns.</p>
+<p>On this episode of SCQS: We're ringing in the New Year with one of our favorite games, Affirm or Deny. But first, Brian has a SURPRISE! Later,&nbsp; he helps you plan your next road trip. AND, Juan gives you the language lesson you'll need to relate better with Gen Z.&nbsp;</p>
+<p>We want you to come on vacation with our funny family and friends. &nbsp;For details about VACAY WITH COMICS 2023, visit johnbranyan.com</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/24bf4124-b104-4013-97a3-7e08e41ebd6f/tcnd-bonus-new-years-extravaganza.mp3" length="2846" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[24bf4124-b104-4013-97a3-7e08e41ebd6f]]></guid>
+   <pubDate>Thu, 01 Dec 2022 12:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2846</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -5842,65 +5858,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/6123b54f-ab49-406c-9cba-a39f6730fc76/cover-art/ARuuU8PixHGkhNvgtHIHIGGJjBUPNwgZEkuaGqzL.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>5889</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Leftists are Hellbent on Turning Canada into a Dumpster Fire [Liberty Dispatch]]]></title>
-   <link>https://app.dropwave.io/episode/9651af36-1d83-4b32-a138-7d3494dffc4d/leftists-are-hellbent-on-turning-canada-into-a-dumpster-fire.mp3</link>
-   <description><![CDATA[<p class="p1"><strong>Liberty Dispatch</strong> ~ November 15, 2022</p>
-<p class="p1">On this episode of Liberty Dispatch, hosts Andrew and Matty examine the week that was in their Week-in-Review, they recap the <em>Emergencies Act </em>Inquiry, and the Liberal's plan to increase Canadian immigration at the very time the country's institutions are failing. Sadly, it appears Leftists are hellbent on turning Canada into a dumpster fire.&nbsp;</p>
-<p class="zw-paragraph"><strong>[Segment 1] - Week In Review:</strong></p>
-<p class="zw-list zw-paragraph heading0">1. Federal Government throws away millions of doses of the COVID injections:</p>
-<p class="zw-paragraph"><a href="https://nationalpost.com/news/politics/ottawa-throws-away-millions-more-covid-vaccines-due-to-lack-of-demand">https://nationalpost.com/news/politics/ottawa-throws-away-millions-more-covid-vaccines-due-to-lack-of-demand</a>;</p>
-<p class="zw-paragraph"><a href="https://www.youtube.com/embed/z9F_uoFcerc">https://www.youtube.com/embed/z9F_uoFcerc</a>;</p>
-<p class="zw-paragraph">2. Federal Government throws away millions of doses of the COVID injections:</p>
-<p class="zw-paragraph"><a href="https://nationalpost.com/news/politics/ottawa-throws-away-millions-more-covid-vaccines-due-to-lack-of-demand">https://nationalpost.com/news/politics/ottawa-throws-away-millions-more-covid-vaccines-due-to-lack-of-demand</a>;</p>
-<p class="zw-paragraph"><a href="https://www.youtube.com/embed/z9F_uoFcerc">https://www.youtube.com/embed/z9F_uoFcerc</a>;</p>
-<p class="zw-list zw-paragraph heading0">3. Justin Trudeau appears on Canada's Drag Race:</p>
-<p class="zw-paragraph"><a href="https://tnc.news/2022/11/10/ratiod-canada-serious">https://tnc.news/2022/11/10/ratiod-canada-serious</a>;</p>
-<p class="zw-paragraph"><a href="https://www.cbc.ca/news/entertainment/trudeau-drag-race-1.6644859">https://www.cbc.ca/news/entertainment/trudeau-drag-race-1.6644859</a>;</p>
-<p class="zw-paragraph"><a href="https://www.youtube.com/embed/ReRfSdM4_bU">https://www.youtube.com/embed/ReRfSdM4_bU</a>;</p>
-<p class="zw-list zw-paragraph heading0">4. Massive shortage of Children's Tylenol:</p>
-<p class="zw-paragraph"><a href="https://www.ctvnews.ca/health/tylenol-shortage-contributing-to-kids-hospital-crush-er-nurse-1.6141778">https://www.ctvnews.ca/health/tylenol-shortage-contributing-to-kids-hospital-crush-er-nurse-1.6141778</a></p>
-<p class="zw-paragraph heading0"><strong style="font-family: '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">[Segment 2] - Recap of the Public Inquiry into the War Measures Act:</strong></p>
-<p class="zw-paragraph heading0">Day 18: <a href="https://tnc.news/2022/11/07/day-18-recap">https://tnc.news/2022/11/07/day-18-recap</a>;</p>
-<p class="zw-paragraph heading0">Day 19: <a href="https://tnc.news/2022/11/08/day-19-recap">https://tnc.news/2022/11/08/day-19-recap</a>;</p>
-<p class="zw-paragraph heading0">Day 20: <a href="https://tnc.news/2022/11/09/poec-recap-day-20">https://tnc.news/2022/11/09/poec-recap-day-20</a>;</p>
-<p class="zw-paragraph heading0">Day 21: <a href="https://tnc.news/2022/11/10/day-21-recap">https://tnc.news/2022/11/10/day-21-recap</a>;</p>
-<p class="zw-paragraph"><strong style="font-family: '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">[Segment 3] - Canada to welcome 500,000 new immigrants next year:</strong></p>
-<p class="zw-paragraph"><a href="https://tnc.news/2022/11/01/liberals-plan-immigration">https://tnc.news/2022/11/01/liberals-plan-immigration</a>;</p>
-<p class="zw-paragraph"><a href="https://www.canada.ca/en/immigration-refugees-citizenship/news/2022/11/an-immigration-plan-to-grow-the-economy.html">https://www.canada.ca/en/immigration-refugees-citizenship/news/2022/11/an-immigration-plan-to-grow-the-economy.html.</a></p>
-<p class="zw-paragraph">&nbsp;</p>
-<p class="zw-paragraph"><strong>SHOW SPONSORS:</strong></p>
-<p class="zw-paragraph"><strong>Join <em>Red Balloon </em>Today!:</strong> <a href="https://www.redballoon.work/lcc">https://www.redballoon.work/lcc</a>;</p>
-<p class="zw-paragraph"><strong>Invest with Rocklinc:</strong> <a href="mailto:info@rocklinc.com">info@rocklinc.com</a> or call them at 905-631-546;</p>
-<p class="zw-paragraph"><strong>Get Your Coffee Fix, Order from Resistance Coffee Today!: </strong><a href="https://resistancecoffee.com/">https://resistancecoffee.com/lcc</a>;</p>
-<p class="zw-paragraph"><strong>Diversify Your Money with Bull Bitcoin: </strong><a href="https://mission.bullbitcoin.com/lcc">https://mission.bullbitcoin.com/lcc</a></p>
-<p class="zw-paragraph">&nbsp;</p>
-<p class="p1"><strong>Sick of Mainstream Media Lies? Help Support Independent Media! DONATE TO LCC TODAY!:&nbsp;<a href="https://libertycoalitioncanada.com/donate/">https://libertycoalitioncanada.com/donate/</a>&nbsp;</strong></p>
-<p class="p1">Please Support us in bringing you real, truthful reporting and analysis from a Christian perspective.</p>
-<p class="p1"><br /><strong>SUBSCRIBE TO OUR SHOWS/CHANNELS:</strong><br />LIBERTY DISPATCH PODCAST:&nbsp;<a href="http://libertydispatch.podbean.com/"><span class="s1">https://libertydispatch.podbean.com</span></a>;&nbsp;<a href="https://rumble.com/c/c-1687093;">https://rumble.com/c/c-1687093;</a>&nbsp;</p>
-<p class="p3">OPEN MIKE WITH MICHAEL THIESSEN:&nbsp;<span class="s1"><a href="https://openmikewithmichaelthiessen.podbean.com/">https://openmikewithmichaelthiessen.podbean.com</a>;&nbsp;<a href="https://rumble.com/c/c-1412501;">https://rumble.com/c/c-1412501;</a>&nbsp;</span></p>
-<p class="p3"><span class="s1">THE LIBERTY LOUNGE WITH TIM TYSOE:&nbsp;<a href="https://rumble.com/c/c-1639185">https://rumble.com/c/c-1639185</a>&nbsp;</span></p>
-<p class="p1">&nbsp;</p>
-<p class="p1"><strong>STAY UP-TO-DATE ON ALL THINGS LCC:</strong></p>
-<p class="p1">Gab:&nbsp;<a href="http://www.gab.com/libertycoalitioncanada"><span class="s1">https://gab.com/libertycoalitioncanada</span></a></p>
-<p class="p1">Telegram:&nbsp;<a href="https://t.me/libertycoalitioncanadanews"><span class="s1">https://t.me/libertycoalitioncanadanews</span></a></p>
-<p class="p1">Instagram:&nbsp;<a href="http://www.instagram.com/libertycoalitioncanada/"><span class="s1">https://instagram.com/libertycoalitioncanada</span></a></p>
-<p class="p1">Facebook:&nbsp;<a href="http://www.facebook.com/LibertyCoalitionCanada"><span class="s1">https://facebook.com/LibertyCoalitionCanada</span></a></p>
-<p class="p1">Twitter:&nbsp;@LibertyCCanada -&nbsp;<a href="https://twitter.com/LibertyCCanada"><span class="s1">https://twitter.com/LibertyCCanada</span></a></p>
-<p class="p1">Rumble:&nbsp;<a href="http://www.rumble.com/user/LibertyCoalitionCanada"><span class="s1">https://rumble.com/user/LibertyCoalitionCanada</span></a></p>
-<p class="p1">YouTube:&nbsp;<a href="https://www.youtube.com/channel/UCLb1yNIeJ-2bSuHRW4oftRQ"><span class="s1">https://www.youtube.com/channel/UCLb1yNIeJ-2bSuHRW4oftRQ</span></a></p>
-<p class="p1"><strong>Please LIKE, SUBSCRIBE, RATE &amp; REVIEW and SHARE it with others!</strong></p>]]></description>
-   <author><![CDATA[Matthew Hallick, Andrew DeBartolo, SDG Media]]></author>
-   <enclosure url="https://app.dropwave.io/episode/9651af36-1d83-4b32-a138-7d3494dffc4d/leftists-are-hellbent-on-turning-canada-into-a-dumpster-fire.mp3" length="5186" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[9651af36-1d83-4b32-a138-7d3494dffc4d]]></guid>
-   <pubDate>Tue, 15 Nov 2022 23:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Matthew Hallick, Andrew DeBartolo, SDG Media]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/69893365-4165-4498-b0ac-e9ddf57a000f/cover-art/E86eLfK3NgjrpuXtk9kW9Qv6KcfzQpkJpToltreR.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>5186</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
