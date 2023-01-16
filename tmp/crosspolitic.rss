@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 16 Jan 2023 07:25:41 +0000</pubDate>
-  <lastBuildDate>Mon, 16 Jan 2023 07:25:41 +0000</lastBuildDate>
+  <pubDate>Mon, 16 Jan 2023 13:25:44 +0000</pubDate>
+  <lastBuildDate>Mon, 16 Jan 2023 13:25:44 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Psalm 46 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/d0b9d899-bd99-440f-9249-f093e19d194b/psalm-46.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/d0b9d899-bd99-440f-9249-f093e19d194b/psalm-46.mp3" length="344" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[d0b9d899-bd99-440f-9249-f093e19d194b]]></guid>
+   <pubDate>Mon, 16 Jan 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>344</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Psalm 40:1-3 [Up and Ready]]]></title>
    <link>https://app.dropwave.io/episode/47b2a580-7295-4d01-bdd2-c60b253193dd/psalm-401-3.mp3</link>
@@ -329,7 +344,7 @@
    <pubDate>Thu, 12 Jan 2023 18:39:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[Gary DeMar]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/YESd3T6ts9pdl2VniExUkpVmhRZHo3Q3Fv50HIrt.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230116%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230116T072541Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=4ee4bf45502d78b3cf03ca66c25238f65335b1439ede13a8e2c6710ba221b97d"/>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/YESd3T6ts9pdl2VniExUkpVmhRZHo3Q3Fv50HIrt.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230116%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230116T132544Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=d41c0ce3aab7c2dae1bc2da689c9d767e3a67bed9fd8722cd50f0aef4018e633"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1328</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
@@ -1344,7 +1359,7 @@
    <pubDate>Thu, 05 Jan 2023 21:19:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[Gary DeMar]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/buHTipTHQjWBVIPoNAVpAqGmYlLO65vladyOCZ7z.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230116%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230116T072541Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=6a363292695a6814ce42d9c6a0ed30f6abb19e3ad322e370e04f704a5f5a2bff"/>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/buHTipTHQjWBVIPoNAVpAqGmYlLO65vladyOCZ7z.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230116%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230116T132544Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=c3d9ebbcc317316c29eba93f5db0ede7344823a3c0045751d742924befa03f32"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>819</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
@@ -1965,7 +1980,7 @@
    <pubDate>Thu, 29 Dec 2022 14:23:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[Gary DeMar]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/23TKyDkXUMsmHHmSNHB3IEWwBD4OOl7ZWhCCPejH.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230116%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230116T072542Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=8adcbe8c7bfd49441f29d0b6c440a399136268c9fac970df7b399fc4f3ee4525"/>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/23TKyDkXUMsmHHmSNHB3IEWwBD4OOl7ZWhCCPejH.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230116%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230116T132544Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=1a6ac8ab2688f1dacdc359d5e2f36199868192449ca774397020d00831504d1e"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1100</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
@@ -2136,7 +2151,7 @@
    <pubDate>Thu, 22 Dec 2022 15:10:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[Gary DeMar]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/DhrQguhSDjlHDvZirBNeMReYHEo4aeJQ1WghxxTW.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230116%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230116T072542Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=b2836ac942dd58e511edaf735476923fbe5438ba1430ecdf094e82827c0f1de4"/>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/DhrQguhSDjlHDvZirBNeMReYHEo4aeJQ1WghxxTW.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230116%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230116T132544Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=c67ddf224b16f6ff0a601d55907f9c98cff02aa34c9d5adbd04b786fdc96c7f2"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1179</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
@@ -3138,7 +3153,7 @@
    <pubDate>Wed, 14 Dec 2022 23:09:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[Gary DeMar]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/PVsO6TQ4WYY6nVCA7U7afgG99zcVzD6kjXzgdVSP.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230116%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230116T072542Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=4b113be7e3e48b699461d125288c1c4c4d6975c47f3075d08d9ca2c6f7f91df9"/>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/PVsO6TQ4WYY6nVCA7U7afgG99zcVzD6kjXzgdVSP.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230116%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230116T132544Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=5a935d27e62a72ed6113d2f6c9de3ea254d155920e563302d783d85e5ae9acce"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>571</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
@@ -4957,25 +4972,6 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[TCND: BONUS,  New Year's Extravaganza [The Comedian Next Door]]]></title>
-   <link>https://app.dropwave.io/episode/24bf4124-b104-4013-97a3-7e08e41ebd6f/tcnd-bonus-new-years-extravaganza.mp3</link>
-   <description><![CDATA[<p>Every Sunday at 7:00pm Eastern, you should be hanging out LIVE with your comedian friends. &nbsp;If you're NOT watching the Starving Comics Quarantine Show each week, then please send your excuses to nextdoor@johnbranyan.com. &nbsp;</p>
-<p>Here's a sample of what you're missing!</p>
-<p>Comedian John Branyan plays ridiculous trivia games, creates animated short vids, and generally horses around with his pals in the entertainment industry. &nbsp;Meet Brian Apprille--voice impressionist and movie buff. Listen to John thomas Oaks--musician, composer, and Story-Teller Extraordinaire. And laugh at Juan DeVevo--dead pan King of One-Liners and founding member of Casting Crowns.</p>
-<p>On this episode of SCQS: We're ringing in the New Year with one of our favorite games, Affirm or Deny. But first, Brian has a SURPRISE! Later,&nbsp; he helps you plan your next road trip. AND, Juan gives you the language lesson you'll need to relate better with Gen Z.&nbsp;</p>
-<p>We want you to come on vacation with our funny family and friends. &nbsp;For details about VACAY WITH COMICS 2023, visit johnbranyan.com</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/24bf4124-b104-4013-97a3-7e08e41ebd6f/tcnd-bonus-new-years-extravaganza.mp3" length="2846" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[24bf4124-b104-4013-97a3-7e08e41ebd6f]]></guid>
-   <pubDate>Thu, 01 Dec 2022 12:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2846</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
    <title><![CDATA[Daily News Brief for Thursday, December 1st, 2022 [Daily News Brief]]]></title>
    <link>https://app.dropwave.io/episode/e6ab276b-124a-45db-8be5-de5a5ace2d0a/daily-news-brief-for-thursday-december-1st-2022.mp3</link>
    <description><![CDATA[<p><span style="font-weight: 400;">This is Garrison Hardie with your CrossPolitic Daily News Brief for Thursday, December 1st, 2022. Happy Friday Jr. everyone! Having a good week thus far I hope&hellip; hey, question for ya&hellip;</span></p>
@@ -5099,6 +5095,25 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>834</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[TCND: BONUS,  New Year's Extravaganza [The Comedian Next Door]]]></title>
+   <link>https://app.dropwave.io/episode/24bf4124-b104-4013-97a3-7e08e41ebd6f/tcnd-bonus-new-years-extravaganza.mp3</link>
+   <description><![CDATA[<p>Every Sunday at 7:00pm Eastern, you should be hanging out LIVE with your comedian friends. &nbsp;If you're NOT watching the Starving Comics Quarantine Show each week, then please send your excuses to nextdoor@johnbranyan.com. &nbsp;</p>
+<p>Here's a sample of what you're missing!</p>
+<p>Comedian John Branyan plays ridiculous trivia games, creates animated short vids, and generally horses around with his pals in the entertainment industry. &nbsp;Meet Brian Apprille--voice impressionist and movie buff. Listen to John thomas Oaks--musician, composer, and Story-Teller Extraordinaire. And laugh at Juan DeVevo--dead pan King of One-Liners and founding member of Casting Crowns.</p>
+<p>On this episode of SCQS: We're ringing in the New Year with one of our favorite games, Affirm or Deny. But first, Brian has a SURPRISE! Later,&nbsp; he helps you plan your next road trip. AND, Juan gives you the language lesson you'll need to relate better with Gen Z.&nbsp;</p>
+<p>We want you to come on vacation with our funny family and friends. &nbsp;For details about VACAY WITH COMICS 2023, visit johnbranyan.com</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/24bf4124-b104-4013-97a3-7e08e41ebd6f/tcnd-bonus-new-years-extravaganza.mp3" length="2846" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[24bf4124-b104-4013-97a3-7e08e41ebd6f]]></guid>
+   <pubDate>Thu, 01 Dec 2022 12:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2846</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -5636,20 +5651,6 @@
   </item>
   <item>
    <title><![CDATA[Building Blocks—A Necessary Perspective [God, Law, and Liberty]]]></title>
-   <link>https://app.dropwave.io/episode/59246d0c-0f42-45e0-aa1d-68bd80265a05/building-blocks-a-necessary-perspective-1.mp3</link>
-   <description><![CDATA[<p>Today David explains how Psalm 37:1-5 applies when things are going wrong all around us. It provides the necessary perspective for those who see the need to restore what few people even know they have lost, the Western Legal Tradition.</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/59246d0c-0f42-45e0-aa1d-68bd80265a05/building-blocks-a-necessary-perspective-1.mp3" length="0" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[59246d0c-0f42-45e0-aa1d-68bd80265a05]]></guid>
-   <pubDate>Fri, 25 Nov 2022 23:39:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/467f99a9-2921-459a-b63d-9710f4355795/cover-art/y26og8sWsKrk1Vo9fXdkoPq657KpHxn5IIdruXmr.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Building Blocks—A Necessary Perspective [God, Law, and Liberty]]]></title>
    <link>https://app.dropwave.io/episode/22ea5b59-681b-47c0-9254-2b28d720071a/building-blocks-a-necessary-perspective.mp3</link>
    <description><![CDATA[<p>Today David explains how Psalm 37:1-5 applies when things are going wrong all around us. It provides the necessary perspective for those who see the need to restore what few people even know they have lost, the Western Legal Tradition.</p>]]></description>
    <author><![CDATA[FLF, LLC]]></author>
@@ -5661,6 +5662,20 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/467f99a9-2921-459a-b63d-9710f4355795/cover-art/y26og8sWsKrk1Vo9fXdkoPq657KpHxn5IIdruXmr.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1580</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[Building Blocks—A Necessary Perspective [God, Law, and Liberty]]]></title>
+   <link>https://app.dropwave.io/episode/59246d0c-0f42-45e0-aa1d-68bd80265a05/building-blocks-a-necessary-perspective-1.mp3</link>
+   <description><![CDATA[<p>Today David explains how Psalm 37:1-5 applies when things are going wrong all around us. It provides the necessary perspective for those who see the need to restore what few people even know they have lost, the Western Legal Tradition.</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/59246d0c-0f42-45e0-aa1d-68bd80265a05/building-blocks-a-necessary-perspective-1.mp3" length="0" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[59246d0c-0f42-45e0-aa1d-68bd80265a05]]></guid>
+   <pubDate>Fri, 25 Nov 2022 23:39:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/467f99a9-2921-459a-b63d-9710f4355795/cover-art/y26og8sWsKrk1Vo9fXdkoPq657KpHxn5IIdruXmr.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -6055,53 +6070,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/wvkjcfd3tfj69XopdryYkSF8m1k4KHuikzJF1KzC.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1795</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Public Inquiry Update & Exposing the Spirit of Antichrist in Our Institutions [Liberty Dispatch]]]></title>
-   <link>https://app.dropwave.io/episode/6728ec2e-42f2-450d-bc38-fbd36140b100/public-inquiry-update-exposing-the-spirit-of-antichrist-in-our-institutions.mp3</link>
-   <description><![CDATA[<p class="p1"><strong>Liberty Dispatch</strong> ~ November 22, 2022</p>
-<p class="p1">On this episode of Liberty Dispatch, hosts Andrew and Matty examine the week that was in their Week-in-Review, they recap the <em>Emergencies Act </em>Inquiry and recap the&nbsp;<em>Church at War Conference&nbsp;</em>in Waterloo this past weekend.&nbsp;</p>
-<p class="zw-paragraph"><strong>[Segment 1] - Week In Review - RECAP <strong style="font-family: '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Public Inquiry into the Invocation of the Emergency Act</strong>:</strong></p>
-<p class="zw-paragraph heading0">Day 22: <a href="https://tnc.news/2022/11/14/day-22-recap">https://tnc.news/2022/11/14/day-22-recap</a>;&nbsp;</p>
-<p class="zw-paragraph heading0">Day 23: <a href="https://tnc.news/2022/11/15/day-23-recap">https://tnc.news/2022/11/15/day-23-recap</a>;&nbsp;</p>
-<p class="zw-paragraph heading0">Day 24: <a href="https://tnc.news/2022/11/16/day-24-recap">https://tnc.news/2022/11/16/day-24-recap</a>;</p>
-<p class="zw-paragraph heading0">Day 25: <a href="https://tnc.news/2022/11/17/day-25-recap">https://tnc.news/2022/11/17/day-25-recap;</a></p>
-<p class="zw-paragraph heading0">Day 26: <a href="https://tnc.news/2022/11/17/day-25-recap">https://tnc.news/2022/11/17/day-25-recap</a>;&nbsp;</p>
-<p class="zw-paragraph heading0"><strong>Resource Recommendation: </strong><em>Woke Inc. </em>by Vivek Ramaswamy: <a href="https://www.amazon.com/Woke-Inc-Vivek-Ramaswamy/dp/1549192787">https://www.amazon.com/Woke-Inc-Vivek-Ramaswamy/dp/1549192787;</a>&nbsp;</p>
-<p class="zw-paragraph heading0"><strong style="font-family: '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">[Segment 2] - Recap of the&nbsp;<em>Church at War Conference</em>:</strong></p>
-<p class="zw-paragraph heading0"><span style="font-family: '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">For Updates on the public release of <em>Antichrist and His Ruin</em>: <a href="https://antichristdocumentary.com/">https://antichristdocumentary.com/</a>&nbsp;<br /><br /><strong>A massive thank you to <em>Trinity Bible Chapel </em>in Waterloo and its wonderful team of staff and volunteers for an amazing weekend, and thank you to all those who came by the LCC booth to share their stories, encourage our work, and support LCC.</strong></span></p>
-<p class="zw-paragraph heading0">&nbsp;</p>
-<p class="zw-paragraph"><strong>SHOW SPONSORS:</strong></p>
-<p class="zw-paragraph"><strong>Join <em>Red Balloon </em>Today!:</strong> <a href="https://www.redballoon.work/lcc">https://www.redballoon.work/lcc</a>;</p>
-<p class="zw-paragraph"><strong>Invest with Rocklinc:</strong> <a href="mailto:info@rocklinc.com">info@rocklinc.com</a> or call them at 905-631-546;</p>
-<p class="zw-paragraph"><strong>Get Your Coffee Fix, Order from Resistance Coffee Today!: </strong><a href="https://resistancecoffee.com/">https://resistancecoffee.com/lcc</a>;</p>
-<p class="zw-paragraph"><strong>Diversify Your Money with Bull Bitcoin: </strong><a href="https://mission.bullbitcoin.com/lcc">https://mission.bullbitcoin.com/lcc</a></p>
-<p class="zw-paragraph">&nbsp;</p>
-<p class="p1"><strong>Sick of Mainstream Media Lies? Help Support Independent Media! DONATE TO LCC TODAY!:&nbsp;<a href="https://libertycoalitioncanada.com/donate/">https://libertycoalitioncanada.com/donate/</a>&nbsp;</strong></p>
-<p class="p1">Please Support us in bringing you real, truthful reporting and analysis from a Christian perspective.</p>
-<p class="p1"><br /><strong>SUBSCRIBE TO OUR SHOWS/CHANNELS:</strong><br />LIBERTY DISPATCH PODCAST:&nbsp;<a href="http://libertydispatch.podbean.com/"><span class="s1">https://libertydispatch.podbean.com</span></a>;&nbsp;<a href="https://rumble.com/c/c-1687093;">https://rumble.com/c/c-1687093;</a>&nbsp;</p>
-<p class="p3">OPEN MIKE WITH MICHAEL THIESSEN:&nbsp;<span class="s1"><a href="https://openmikewithmichaelthiessen.podbean.com/">https://openmikewithmichaelthiessen.podbean.com</a>;&nbsp;<a href="https://rumble.com/c/c-1412501;">https://rumble.com/c/c-1412501;</a>&nbsp;</span></p>
-<p class="p3"><span class="s1">THE LIBERTY LOUNGE WITH TIM TYSOE:&nbsp;<a href="https://rumble.com/c/c-1639185">https://rumble.com/c/c-1639185</a>&nbsp;</span></p>
-<p class="p1">&nbsp;</p>
-<p class="p1"><strong>STAY UP-TO-DATE ON ALL THINGS LCC:</strong></p>
-<p class="p1">Gab:&nbsp;<a href="http://www.gab.com/libertycoalitioncanada"><span class="s1">https://gab.com/libertycoalitioncanada</span></a></p>
-<p class="p1">Telegram:&nbsp;<a href="https://t.me/libertycoalitioncanadanews"><span class="s1">https://t.me/libertycoalitioncanadanews</span></a></p>
-<p class="p1">Instagram:&nbsp;<a href="http://www.instagram.com/libertycoalitioncanada/"><span class="s1">https://instagram.com/libertycoalitioncanada</span></a></p>
-<p class="p1">Facebook:&nbsp;<a href="http://www.facebook.com/LibertyCoalitionCanada"><span class="s1">https://facebook.com/LibertyCoalitionCanada</span></a></p>
-<p class="p1">Twitter:&nbsp;@LibertyCCanada -&nbsp;<a href="https://twitter.com/LibertyCCanada"><span class="s1">https://twitter.com/LibertyCCanada</span></a></p>
-<p class="p1">Rumble:&nbsp;<a href="http://www.rumble.com/user/LibertyCoalitionCanada"><span class="s1">https://rumble.com/user/LibertyCoalitionCanada</span></a></p>
-<p class="p1">YouTube:&nbsp;<a href="https://www.youtube.com/channel/UCLb1yNIeJ-2bSuHRW4oftRQ"><span class="s1">https://www.youtube.com/channel/UCLb1yNIeJ-2bSuHRW4oftRQ</span></a></p>
-<p class="p1"><strong>Please LIKE, SUBSCRIBE, RATE &amp; REVIEW and SHARE it with others!</strong></p>]]></description>
-   <author><![CDATA[Matthew Hallick, Andrew DeBartolo, SDG Media]]></author>
-   <enclosure url="https://app.dropwave.io/episode/6728ec2e-42f2-450d-bc38-fbd36140b100/public-inquiry-update-exposing-the-spirit-of-antichrist-in-our-institutions.mp3" length="4681" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[6728ec2e-42f2-450d-bc38-fbd36140b100]]></guid>
-   <pubDate>Tue, 22 Nov 2022 23:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Matthew Hallick, Andrew DeBartolo, SDG Media]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/69893365-4165-4498-b0ac-e9ddf57a000f/cover-art/E86eLfK3NgjrpuXtk9kW9Qv6KcfzQpkJpToltreR.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>4681</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
