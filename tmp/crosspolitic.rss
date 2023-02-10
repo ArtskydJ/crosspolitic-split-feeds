@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Fri, 10 Feb 2023 13:25:52 +0000</pubDate>
-  <lastBuildDate>Fri, 10 Feb 2023 13:25:52 +0000</lastBuildDate>
+  <pubDate>Fri, 10 Feb 2023 19:25:44 +0000</pubDate>
+  <lastBuildDate>Fri, 10 Feb 2023 19:25:44 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Death by Opportunity: Part 2 - Proximity [The Doane Cast]]]></title>
+   <link>https://app.dropwave.io/episode/3f28a819-3b26-4134-b7f9-3d9e67388402/death-by-opportunity-part-2-proximity.mp3</link>
+   <description><![CDATA[<p>Part 2 - Proximity</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/3f28a819-3b26-4134-b7f9-3d9e67388402/death-by-opportunity-part-2-proximity.mp3" length="755" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[3f28a819-3b26-4134-b7f9-3d9e67388402]]></guid>
+   <pubDate>Fri, 10 Feb 2023 19:16:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/9a91d446-3705-4f98-82b1-d7b3694992a6/cover-art/xe6REFEoqrGFOgYTaBYdk0KmlmmyDAl01AEOu3Q4.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>755</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Daily News Brief for Friday, February 10th, 2023 [Daily News Brief]]]></title>
    <link>https://app.dropwave.io/episode/79a16824-8dfc-4797-a51d-6371cf141bf1/daily-news-brief-for-friday-february-10th-2023.mp3</link>
@@ -231,7 +246,7 @@
    <pubDate>Thu, 09 Feb 2023 13:44:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[Gary DeMar]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/kir9choxf7exbb9qPWLOwtL4vS6Q7tNRmZbJmkc2.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230210%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230210T132552Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=6fc471f07d60604319248d315c407c3b92204bac8ed5912711d87dc0e64e8cea"/>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/kir9choxf7exbb9qPWLOwtL4vS6Q7tNRmZbJmkc2.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230210%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230210T192544Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=1f0695dbd10dbd797bba0ca110dc6d6ac4410e7db23e47ffe6b57825576163ad"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1637</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
@@ -1295,7 +1310,7 @@
    <pubDate>Thu, 02 Feb 2023 14:05:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[Gary DeMar]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/4W1TYY3Zp4hFkwaGA8uBkHoHstr348rcmxtFqPpF.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230210%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230210T132552Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=63e455b5215028ce5f7c4da478558fb91a211e79891e8c42a8638e4310e3be41"/>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/4W1TYY3Zp4hFkwaGA8uBkHoHstr348rcmxtFqPpF.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230210%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230210T192544Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=343fbae23d23506a1c048c430f4c365e5c5d098119299842ccf13410155d31de"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1166</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
@@ -2393,7 +2408,7 @@
    <pubDate>Thu, 26 Jan 2023 13:54:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[Gary DeMar]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/UcyJlUvrlnrBcUXam89PoIL5mqeoWd9fDD2BOUE7.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230210%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230210T132552Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=ba83046d796eb5d06d9d210989bfcb134e1a732e6efb92017430fa8df10c1c00"/>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/UcyJlUvrlnrBcUXam89PoIL5mqeoWd9fDD2BOUE7.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230210%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230210T192544Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=71e7102fc1d884bd331ba68a69ff43c5c00eda3f7f63f30bc8871ed053fc0759"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>881</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
@@ -3978,7 +3993,7 @@
    <pubDate>Thu, 19 Jan 2023 15:11:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[Gary DeMar]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/VA7T4fPZUSp49pQSph4b5QSHbbcdwnh5P7JRipsh.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230210%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230210T132552Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=ae472f87d1981764b76b75e2391e438d3790e4e3c9aae3b4bf6d339b49fa2e66"/>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/VA7T4fPZUSp49pQSph4b5QSHbbcdwnh5P7JRipsh.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230210%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230210T192544Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=283e6b7ff9b3b9177ce741a52808f92b4a504451863663f7def3ec8e408130ec"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1593</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
@@ -4743,7 +4758,7 @@
    <pubDate>Mon, 16 Jan 2023 17:00:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/20dde981-157e-4504-b38f-dd9d7b0e4c50/cover-art/wdSKzfd199QO6HwdUaYRK0tI4C6ca1WRD4vQ6dAU.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230210%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230210T132552Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=ff78ee6a9be710cd19fa8e9f18cbb0226f41721baf182cebdb210b0f94966332"/>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/20dde981-157e-4504-b38f-dd9d7b0e4c50/cover-art/wdSKzfd199QO6HwdUaYRK0tI4C6ca1WRD4vQ6dAU.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230210%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230210T192544Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=c733254d899e0a920f78fadab7c9448a5e5ebf4665bad898d28d733c4af64364"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>836</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
@@ -5114,7 +5129,7 @@
    <pubDate>Thu, 12 Jan 2023 18:39:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[Gary DeMar]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/YESd3T6ts9pdl2VniExUkpVmhRZHo3Q3Fv50HIrt.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230210%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230210T132552Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=5818f6ad9c651b13f12745b756a26ef349aa99c4c93d3acbf1ccfdba10499087"/>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2d464c11-2fa8-4f4a-a4a9-7940563955ec/cover-art/YESd3T6ts9pdl2VniExUkpVmhRZHo3Q3Fv50HIrt.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=JQZTHI7JMG5LTCEFEG6V%2F20230210%2Fnyc3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230210T192544Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=f800cd43e7e3d5f31a433a84189781f67d74a1507d06ea793abf186c6e443134"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1328</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
@@ -5797,48 +5812,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>316</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Deanna McLeod Pt. 3: Vaccine Conflicts of Interest [Open Mike with Michael Thiessen]]]></title>
-   <link>https://app.dropwave.io/episode/92700b59-84fd-4281-b566-69ddea28ac8c/deanna-mcleod-pt-3-vaccine-conflicts-of-interest.mp3</link>
-   <description><![CDATA[<p>On this week's episode of OPEN MIKE, Mike is joined for a thrid time by Canadian Covid Care Alliance (CCCA) clinical researcher Deanna McLeod, founder of Kaleidoscope Strategies and Covid Sense, this time to talk about the serious conflicts of interests surrounding the COVID-19 jabs. YOU'RE NOT GOING TO WANT TO MISS THIS!</p>
-<p><strong><strong style="font-family: '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Episode Resources:&nbsp; &nbsp;<a href="https://www.canadiancovidcarealliance.org/">https://www.canadiancovidcarealliance.org/</a>; </strong></strong></p>
-<p><strong><strong style="font-family: '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Watch Parts 1 &amp; 2:</strong></strong></p>
-<p><strong>Part 1 - "Omicron Boosters: Untested, Unsafe, Inaffective"</strong>: <strong><strong style="font-family: '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;"><a href="https://rumble.com/vontob-episode-66-deanna-mcleod-kaleidoscope-strategies-covid-sense.html">https://rumble.com/vontob-episode-66-deanna-mcleod-kaleidoscope-strategies-covid-sense.html</a>;</strong></strong></p>
-<p><strong><strong style="font-family: '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Part 2 - "</strong>Myocarditis and the Vaccines": </strong><strong><strong style="font-family: '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">&nbsp;<a href="https://rumble.com/v1votgi-deanna-mcleod-why-we-must-stop-the-shots-pt.-2-myocarditis-and-other-seriou.html">https://rumble.com/v1votgi-deanna-mcleod-why-we-must-stop-the-shots-pt.-2-myocarditis-and-other-seriou.html</a>&nbsp;</strong></strong></p>
-<p>&nbsp;</p>
-<p><strong style="font-family: '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Sick of Mainstream Media Lies?</strong></p>
-<p>Please Support us in bringing you real, truthful reporting and analysis from a Christian perspective.   Subscribe to our various shows:</p>
-<p><strong> LIBERTY DISPATCH PODCAST:</strong>  <a href="https://libertydispatch.podbean.com">https://libertydispatch.podbean.com</a></p>
-<p><strong>OPEN MIKE WITH MICHAEL THIESSEN: </strong><a href="https://openmikewithmichaelthiessen.podbean.com">https://openmikewithmichaelthiessen.podbean.com </a></p>
-<p><strong><span class="s1">THE LIBERTY LOUNGE WITH TIM TYSOE:&nbsp;</span></strong><span class="s1"><a href="https://rumble.com/c/c-1639185">https://rumble.com/c/c-1639185</a></span></p>
-<p class="zw-paragraph">&nbsp;</p>
-<p class="zw-paragraph"><strong>SHOW SPONSORS:</strong></p>
-<p class="zw-paragraph"><strong>Join <em>Red Balloon </em>Today!:</strong> <a href="https://www.redballoon.work/lcc">https://www.redballoon.work/lcc</a>;</p>
-<p class="zw-paragraph"><strong>Invest with Rocklinc:</strong> <a href="mailto:info@rocklinc.com">info@rocklinc.com</a> or call them at 905-631-546;</p>
-<p class="zw-paragraph"><strong>Get Your Coffee Fix, Order from Resistance Coffee Today!: </strong><a href="https://resistancecoffee.com/">https://resistancecoffee.com/lcc</a>;</p>
-<p class="zw-paragraph"><strong>Diversify Your Money with Bull Bitcoin: </strong><a href="https://mission.bullbitcoin.com/lcc">https://mission.bullbitcoin.com/lcc</a></p>
-<p class="zw-paragraph">&nbsp;</p>
-<p><strong>Stay up-to-date on all things LCC (https://libertycoalitioncanada.com):</strong></p>
-<p>Gab:  <a href="https://gab.com/libertycoalitioncanada">https://gab.com/libertycoalitioncanada</a>;&nbsp;</p>
-<p>Telegram: <a href="https://t.me/libertycoalitioncanadanews">https://t.me/libertycoalitioncanadanews</a>;&nbsp;</p>
-<p>Instagram:  <a href="https://instagram.com/libertycoalitioncanada">https://instagram.com/libertycoalitioncanada</a>;</p>
-<p>Facebook: <a href="https://facebook.com/LibertyCoalitionCanada"> https://facebook.com/LibertyCoalitionCanada</a>;</p>
-<p>Twitter:  @LibertyCCanada - <a href="https://twitter.com/LibertyCCanada">https://twitter.com/LibertyCCanada</a>;</p>
-<p>Rumble:  <a href="https://rumble.com/user/LibertyCoalitionCanada">https://rumble.com/user/LibertyCoalitionCanada</a>;&nbsp;</p>
-<p>YouTube: <a href="https://www.youtube.com/channel/UCLb1yNIeJ-2bSuHRW4oftRQ">https://www.youtube.com/channel/UCLb1yNIeJ-2bSuHRW4oftRQ</a>;</p>
-<p>You can also find us on Spotify &amp; Apple Podcasts and just about every other podcast catcher!   </p>
-<p><strong>Please LIKE, SUBSCRIBE, RATE &amp; REVIEW and SHARE it with others!</strong></p>]]></description>
-   <author><![CDATA[Michael Thiessen, Deanna McLeod]]></author>
-   <enclosure url="https://app.dropwave.io/episode/92700b59-84fd-4281-b566-69ddea28ac8c/deanna-mcleod-pt-3-vaccine-conflicts-of-interest.mp3" length="6694" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[92700b59-84fd-4281-b566-69ddea28ac8c]]></guid>
-   <pubDate>Sat, 07 Jan 2023 16:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Michael Thiessen, Deanna McLeod]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/a313a937-1864-4720-a5eb-4fe53c91d48d/cover-art/uUheeW63MRtlJ15cfD2JSiW4qu9YifPAUxqcvBE5.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>6694</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
