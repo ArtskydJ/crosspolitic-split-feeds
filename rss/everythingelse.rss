@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Sat, 18 Feb 2023 07:25:42 +0000</pubDate>
-  <lastBuildDate>Sat, 18 Feb 2023 07:25:42 +0000</lastBuildDate>
+  <pubDate>Sat, 18 Feb 2023 13:25:42 +0000</pubDate>
+  <lastBuildDate>Sat, 18 Feb 2023 13:25:42 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://flfnetwork.com</link>
@@ -26,6 +26,21 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Matthew 17:1-9 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/9bf2a376-96f5-4251-b9f4-23d4a21f3fd3/matthew-171-9.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/9bf2a376-96f5-4251-b9f4-23d4a21f3fd3/matthew-171-9.mp3" length="337" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[9bf2a376-96f5-4251-b9f4-23d4a21f3fd3]]></guid>
+   <pubDate>Sat, 18 Feb 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>337</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[Winston Marshall - Mumford & Sons Ex-Banjo Player on CrossPolitic to discuss his Cancellation [CrossPolitic Show]]]></title>
    <link>https://app.dropwave.io/episode/34843674-5819-4ae3-b532-bb3b5504982a/winston-marshall-mumford-sons-ex-banjo-player-on-crosspolitic-to-discuss-his-cancellation.mp3</link>
    <description><![CDATA[<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">Winston Marshall - Mumford &amp; Sons Ex-Banjo Player on CrossPolitic to discuss his Cancellation</span></p>
@@ -2767,22 +2782,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/69893365-4165-4498-b0ac-e9ddf57a000f/cover-art/E86eLfK3NgjrpuXtk9kW9Qv6KcfzQpkJpToltreR.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>4338</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  
-  </item><item>
-   <title><![CDATA[Doak [Resistance and Reformation]]]></title>
-   <link>https://app.dropwave.io/episode/b1d4f314-1111-4629-959c-76afb9aea633/doak.mp3</link>
-   <description><![CDATA[<p>More from Dr. Geoege Grant:</p>
-<p>georgegrant.net&nbsp;</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/b1d4f314-1111-4629-959c-76afb9aea633/doak.mp3" length="523" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[b1d4f314-1111-4629-959c-76afb9aea633]]></guid>
-   <pubDate>Tue, 17 Jan 2023 17:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>523</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
