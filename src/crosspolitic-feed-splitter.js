@@ -1,6 +1,5 @@
 const fs = require(`fs`)
 const path = require(`path`)
-const fetch = require(`node-fetch`)
 
 const split_rss = require(`./split-rss.js`)
 const new_feed_definitions = require('./new-feed-definitions.js')
