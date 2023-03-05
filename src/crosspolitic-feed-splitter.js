@@ -63,7 +63,7 @@ const main = async() => {
 
 	const markdown_list = Object.entries(bins)
 		.sort((a, b) => a[1].title > b[1].title ? 1 : a[1].title < b[1].title ? -1 : 0)
-		.map(([ rss_name, { title, items }]) => `- [${ title }](${ get_rss_url(rss_name) }) (${ items.length } episodes)`)
+		.map(([ rss_name, { title, items }]) => `- [${ title }](${ get_rss_url(rss_name) }) (${ items.length } episode${ items.length === 1 ? `` : `s` })`)
 		.join(`\n`)
 	const current_readme = read_file(`../README.md`)
 	const new_readme = current_readme
