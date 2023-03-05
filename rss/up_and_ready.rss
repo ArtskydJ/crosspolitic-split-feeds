@@ -1,0 +1,464 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="/storage/feed-stylesheet.xsl" type="text/xsl"?>
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+ <channel>
+  <title>FLF - Up and Ready</title>
+  <link>https://dropwave.io</link>
+  <description><![CDATA[FIGHT LAUGH FEAST PRESENTS SHOWS PROCLAIMING THE LORDSHIP OF CHRIST OVER ALL OF LIFE.
+]]></description>
+  <language>en</language>
+  <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
+  <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
+  <pubDate>Sun, 05 Mar 2023 05:25:58 +0000</pubDate>
+  <lastBuildDate>Sun, 05 Mar 2023 05:25:58 +0000</lastBuildDate>
+  <image>
+   <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
+   <link>https://dropwave.io</link>
+   <title><![CDATA[FLF, LLC]]></title>
+  </image>
+  <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+  <itunes:image href="https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg"/>
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:owner>
+   <itunes:name><![CDATA[FLF, LLC]]></itunes:name>
+   <itunes:email>fightlaughfeast@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Psalm 121 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/79d539c0-5281-4239-8701-2a195fcc48e7/psalm-121.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/79d539c0-5281-4239-8701-2a195fcc48e7/psalm-121.mp3" length="292" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[79d539c0-5281-4239-8701-2a195fcc48e7]]></guid>
+   <pubDate>Sat, 04 Mar 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>292</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[John 3:16-21 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/a6768e58-c25c-4fa7-a053-41e081114853/john-316-21.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/a6768e58-c25c-4fa7-a053-41e081114853/john-316-21.mp3" length="340" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[a6768e58-c25c-4fa7-a053-41e081114853]]></guid>
+   <pubDate>Fri, 03 Mar 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>340</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Numbers 6:22-27 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/3a1cd2a0-4dfa-41c9-9be7-7c8c391c313e/numbers-622-27.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/3a1cd2a0-4dfa-41c9-9be7-7c8c391c313e/numbers-622-27.mp3" length="279" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[3a1cd2a0-4dfa-41c9-9be7-7c8c391c313e]]></guid>
+   <pubDate>Thu, 02 Mar 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>279</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Luke 6:22-23 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/58f980d6-6863-4f8f-96eb-5765ecd4b8cc/luke-622-23.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/58f980d6-6863-4f8f-96eb-5765ecd4b8cc/luke-622-23.mp3" length="332" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[58f980d6-6863-4f8f-96eb-5765ecd4b8cc]]></guid>
+   <pubDate>Wed, 01 Mar 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>332</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Proverbs 13:5 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/1df48900-6f97-4f64-9be1-bbb711c2d411/proverbs-135.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/1df48900-6f97-4f64-9be1-bbb711c2d411/proverbs-135.mp3" length="275" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[1df48900-6f97-4f64-9be1-bbb711c2d411]]></guid>
+   <pubDate>Tue, 28 Feb 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>275</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Genesis 12:1-3 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/f75a0d0a-f0bb-47c5-968a-896ed2865513/genesis-121-3.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/f75a0d0a-f0bb-47c5-968a-896ed2865513/genesis-121-3.mp3" length="261" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[f75a0d0a-f0bb-47c5-968a-896ed2865513]]></guid>
+   <pubDate>Mon, 27 Feb 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>261</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Psalm 97:10-12 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/971e7d05-3b10-4e3a-ba20-6e8588f53520/psalm-9710-12.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/971e7d05-3b10-4e3a-ba20-6e8588f53520/psalm-9710-12.mp3" length="266" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[971e7d05-3b10-4e3a-ba20-6e8588f53520]]></guid>
+   <pubDate>Sat, 25 Feb 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>266</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Matthew 4:1-11 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/e350dfa9-8c04-4ff4-a4ab-5be7703c9b9a/matthew-41-11.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/e350dfa9-8c04-4ff4-a4ab-5be7703c9b9a/matthew-41-11.mp3" length="364" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[e350dfa9-8c04-4ff4-a4ab-5be7703c9b9a]]></guid>
+   <pubDate>Fri, 24 Feb 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>364</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Genesis 2:15-17 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/b362255a-0d6b-44e5-a6cb-ee72bb9b6056/genesis-215-17.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/b362255a-0d6b-44e5-a6cb-ee72bb9b6056/genesis-215-17.mp3" length="267" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[b362255a-0d6b-44e5-a6cb-ee72bb9b6056]]></guid>
+   <pubDate>Thu, 23 Feb 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>267</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Matthew 5:9 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/8d17c544-aa63-4f2c-97c0-5cc1119198b8/matthew-59.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/8d17c544-aa63-4f2c-97c0-5cc1119198b8/matthew-59.mp3" length="271" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[8d17c544-aa63-4f2c-97c0-5cc1119198b8]]></guid>
+   <pubDate>Wed, 22 Feb 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>271</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Psalm 51 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/ee46e8cc-f961-4d5d-94ed-8837b88d28d6/psalm-51.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/ee46e8cc-f961-4d5d-94ed-8837b88d28d6/psalm-51.mp3" length="388" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[ee46e8cc-f961-4d5d-94ed-8837b88d28d6]]></guid>
+   <pubDate>Tue, 21 Feb 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>388</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Joel 2:1-11 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/b16b8ece-7be6-4035-a220-91cecdad5546/joel-21-11.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/b16b8ece-7be6-4035-a220-91cecdad5546/joel-21-11.mp3" length="365" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[b16b8ece-7be6-4035-a220-91cecdad5546]]></guid>
+   <pubDate>Mon, 20 Feb 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>365</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Matthew 17:1-9 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/9bf2a376-96f5-4251-b9f4-23d4a21f3fd3/matthew-171-9.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/9bf2a376-96f5-4251-b9f4-23d4a21f3fd3/matthew-171-9.mp3" length="337" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[9bf2a376-96f5-4251-b9f4-23d4a21f3fd3]]></guid>
+   <pubDate>Sat, 18 Feb 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>337</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Psalm 119:41-48 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/3ab10c57-385a-4134-9cb5-0000533128b8/psalm-11941-48.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/3ab10c57-385a-4134-9cb5-0000533128b8/psalm-11941-48.mp3" length="261" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[3ab10c57-385a-4134-9cb5-0000533128b8]]></guid>
+   <pubDate>Fri, 17 Feb 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>261</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Proverbs 10:17 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/4cd2bb84-7302-4769-a69c-328198c549e6/proverbs-1017.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/4cd2bb84-7302-4769-a69c-328198c549e6/proverbs-1017.mp3" length="279" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[4cd2bb84-7302-4769-a69c-328198c549e6]]></guid>
+   <pubDate>Thu, 16 Feb 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>279</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Matthew 5:8 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/aebd7229-9723-4e85-a11a-38332aeddf37/matthew-58.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/aebd7229-9723-4e85-a11a-38332aeddf37/matthew-58.mp3" length="282" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[aebd7229-9723-4e85-a11a-38332aeddf37]]></guid>
+   <pubDate>Wed, 15 Feb 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>282</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[2 Peter 1:1-9 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/29798465-6d2e-4d1e-a47f-c3bfb77f0dc3/2-peter-11-9.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/29798465-6d2e-4d1e-a47f-c3bfb77f0dc3/2-peter-11-9.mp3" length="374" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[29798465-6d2e-4d1e-a47f-c3bfb77f0dc3]]></guid>
+   <pubDate>Tue, 14 Feb 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>374</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Exodus 24:12-18 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/610a02a2-fbff-455f-8e1f-695135b09f42/exodus-2412-18.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/610a02a2-fbff-455f-8e1f-695135b09f42/exodus-2412-18.mp3" length="325" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[610a02a2-fbff-455f-8e1f-695135b09f42]]></guid>
+   <pubDate>Mon, 13 Feb 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>325</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Psalm 119:25-32 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/9ecf37ab-a3d1-4b1d-91de-342961514f88/psalm-11925-32.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/9ecf37ab-a3d1-4b1d-91de-342961514f88/psalm-11925-32.mp3" length="293" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[9ecf37ab-a3d1-4b1d-91de-342961514f88]]></guid>
+   <pubDate>Sat, 11 Feb 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>293</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Proverbs 9:10 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/0cd0a557-680c-4486-acc2-f865796ccd6d/proverbs-910.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/0cd0a557-680c-4486-acc2-f865796ccd6d/proverbs-910.mp3" length="245" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[0cd0a557-680c-4486-acc2-f865796ccd6d]]></guid>
+   <pubDate>Fri, 10 Feb 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>245</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[1 Corinthians 3:1-9 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/72871479-de96-4bb8-9956-a0b0d88ed2f0/1-corinthians-31-9.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/72871479-de96-4bb8-9956-a0b0d88ed2f0/1-corinthians-31-9.mp3" length="297" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[72871479-de96-4bb8-9956-a0b0d88ed2f0]]></guid>
+   <pubDate>Thu, 09 Feb 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>297</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Matthew 5:7 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/ebbffed6-69c5-4304-a1d4-7929be9e0622/matthew-57.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/ebbffed6-69c5-4304-a1d4-7929be9e0622/matthew-57.mp3" length="234" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[ebbffed6-69c5-4304-a1d4-7929be9e0622]]></guid>
+   <pubDate>Wed, 08 Feb 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>234</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Deuteronomy 30:15-20 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/d9e04e0b-88f9-4135-8cc6-8b27f3a7da56/deuteronomy-3015-20.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/d9e04e0b-88f9-4135-8cc6-8b27f3a7da56/deuteronomy-3015-20.mp3" length="304" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[d9e04e0b-88f9-4135-8cc6-8b27f3a7da56]]></guid>
+   <pubDate>Tue, 07 Feb 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>304</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Matthew 5:21-26 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/39fcda5c-682c-4356-8ebc-112399ea1a29/matthew-521-26.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/39fcda5c-682c-4356-8ebc-112399ea1a29/matthew-521-26.mp3" length="322" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[39fcda5c-682c-4356-8ebc-112399ea1a29]]></guid>
+   <pubDate>Mon, 06 Feb 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>322</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Psalm 134 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/fdfa671a-a57c-485f-a771-171094c8fb3a/psalm-134.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/fdfa671a-a57c-485f-a771-171094c8fb3a/psalm-134.mp3" length="266" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[fdfa671a-a57c-485f-a771-171094c8fb3a]]></guid>
+   <pubDate>Sat, 04 Feb 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>266</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Matthew 5:13-16 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/1fc52ca1-f57f-461c-a651-c8a7e753ba74/matthew-513-16.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/1fc52ca1-f57f-461c-a651-c8a7e753ba74/matthew-513-16.mp3" length="282" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[1fc52ca1-f57f-461c-a651-c8a7e753ba74]]></guid>
+   <pubDate>Fri, 03 Feb 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>282</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[1 Corinthians 2:1-5 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/74ac4a35-323b-4575-b78c-ecdcdc2e706b/1-corinthians-21-5.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/74ac4a35-323b-4575-b78c-ecdcdc2e706b/1-corinthians-21-5.mp3" length="278" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[74ac4a35-323b-4575-b78c-ecdcdc2e706b]]></guid>
+   <pubDate>Thu, 02 Feb 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>278</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Luke 6:21a [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/c39a3898-f80d-4a51-b2b9-5c569b194f75/luke-621a.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/c39a3898-f80d-4a51-b2b9-5c569b194f75/luke-621a.mp3" length="277" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[c39a3898-f80d-4a51-b2b9-5c569b194f75]]></guid>
+   <pubDate>Wed, 01 Feb 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>277</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Proverbs 2:1-8 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/b86bea46-5cae-4f7e-b7dc-a4a34d16fbeb/proverbs-21-8.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/b86bea46-5cae-4f7e-b7dc-a4a34d16fbeb/proverbs-21-8.mp3" length="268" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[b86bea46-5cae-4f7e-b7dc-a4a34d16fbeb]]></guid>
+   <pubDate>Tue, 31 Jan 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>268</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+ </channel>
+</rss>

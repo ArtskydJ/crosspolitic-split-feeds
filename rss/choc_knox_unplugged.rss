@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="/storage/feed-stylesheet.xsl" type="text/xsl"?>
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+ <channel>
+  <title>FLF - Choc Knox Unplugged</title>
+  <link>https://dropwave.io</link>
+  <description><![CDATA[FIGHT LAUGH FEAST PRESENTS SHOWS PROCLAIMING THE LORDSHIP OF CHRIST OVER ALL OF LIFE.
+]]></description>
+  <language>en</language>
+  <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
+  <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
+  <pubDate>Sun, 05 Mar 2023 05:25:58 +0000</pubDate>
+  <lastBuildDate>Sun, 05 Mar 2023 05:25:58 +0000</lastBuildDate>
+  <image>
+   <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
+   <link>https://dropwave.io</link>
+   <title><![CDATA[FLF, LLC]]></title>
+  </image>
+  <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+  <itunes:image href="https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg"/>
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:owner>
+   <itunes:name><![CDATA[FLF, LLC]]></itunes:name>
+   <itunes:email>fightlaughfeast@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Conservative Fascism [Choc Knox Unplugged]]]></title>
+   <link>https://app.dropwave.io/episode/dfe6443c-e87a-4be3-a55c-8b5017127e16/conservative-fascism.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Chocolate Knox, Jason Farley]]></author>
+   <enclosure url="https://app.dropwave.io/episode/dfe6443c-e87a-4be3-a55c-8b5017127e16/conservative-fascism.mp3" length="6887" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[dfe6443c-e87a-4be3-a55c-8b5017127e16]]></guid>
+   <pubDate>Wed, 01 Mar 2023 18:33:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Chocolate Knox, Jason Farley]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/6123b54f-ab49-406c-9cba-a39f6730fc76/cover-art/ARuuU8PixHGkhNvgtHIHIGGJjBUPNwgZEkuaGqzL.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>6887</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Knox Unplugged w/ guest Dr. Glenn Sunshine: Critical Theory and the Medieval Mind [Choc Knox Unplugged]]]></title>
+   <link>https://app.dropwave.io/episode/9fdefdc8-f97a-4eb3-a238-9fdfc4443789/knox-unplugged-w-guest-dr-glenn-sunshine-critical-theory-and-the-medieval-mind.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/9fdefdc8-f97a-4eb3-a238-9fdfc4443789/knox-unplugged-w-guest-dr-glenn-sunshine-critical-theory-and-the-medieval-mind.mp3" length="3699" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[9fdefdc8-f97a-4eb3-a238-9fdfc4443789]]></guid>
+   <pubDate>Wed, 22 Feb 2023 16:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/6123b54f-ab49-406c-9cba-a39f6730fc76/cover-art/ARuuU8PixHGkhNvgtHIHIGGJjBUPNwgZEkuaGqzL.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3699</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Knox Unplugged w/ Jason Farley: Hierarchy [Choc Knox Unplugged]]]></title>
+   <link>https://app.dropwave.io/episode/d7835f01-a0c0-4516-a190-065608144bfd/knox-unplugged-w-jason-farley-hierarchy.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/d7835f01-a0c0-4516-a190-065608144bfd/knox-unplugged-w-jason-farley-hierarchy.mp3" length="5112" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[d7835f01-a0c0-4516-a190-065608144bfd]]></guid>
+   <pubDate>Tue, 14 Feb 2023 19:25:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/6123b54f-ab49-406c-9cba-a39f6730fc76/cover-art/ARuuU8PixHGkhNvgtHIHIGGJjBUPNwgZEkuaGqzL.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>5112</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Knox Unplugged w/ Jason Farley: Hijacked by Communism [Choc Knox Unplugged]]]></title>
+   <link>https://app.dropwave.io/episode/7516f760-12b9-492f-b9d1-98677b139dd7/knox-unplugged-w-jason-farley-hijacked-by-communism.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/7516f760-12b9-492f-b9d1-98677b139dd7/knox-unplugged-w-jason-farley-hijacked-by-communism.mp3" length="6377" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[7516f760-12b9-492f-b9d1-98677b139dd7]]></guid>
+   <pubDate>Tue, 07 Feb 2023 22:49:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/6123b54f-ab49-406c-9cba-a39f6730fc76/cover-art/ARuuU8PixHGkhNvgtHIHIGGJjBUPNwgZEkuaGqzL.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>6377</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Knox Unplugged w/ Jason Farley: The Economy of Generosity [Choc Knox Unplugged]]]></title>
+   <link>https://app.dropwave.io/episode/68198e3a-2949-45f3-a155-21ad6924fdff/knox-unplugged-w-jason-farley-the-economy-of-generosity.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/68198e3a-2949-45f3-a155-21ad6924fdff/knox-unplugged-w-jason-farley-the-economy-of-generosity.mp3" length="6779" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[68198e3a-2949-45f3-a155-21ad6924fdff]]></guid>
+   <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/6123b54f-ab49-406c-9cba-a39f6730fc76/cover-art/ARuuU8PixHGkhNvgtHIHIGGJjBUPNwgZEkuaGqzL.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>6779</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item>
+ </channel>
+</rss>

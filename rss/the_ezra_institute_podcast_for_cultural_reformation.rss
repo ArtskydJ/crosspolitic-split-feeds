@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="/storage/feed-stylesheet.xsl" type="text/xsl"?>
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+ <channel>
+  <title>FLF - The Ezra Institute Podcast for Cultural Reformation</title>
+  <link>https://dropwave.io</link>
+  <description><![CDATA[FIGHT LAUGH FEAST PRESENTS SHOWS PROCLAIMING THE LORDSHIP OF CHRIST OVER ALL OF LIFE.
+]]></description>
+  <language>en</language>
+  <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
+  <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
+  <pubDate>Sun, 05 Mar 2023 05:25:58 +0000</pubDate>
+  <lastBuildDate>Sun, 05 Mar 2023 05:25:58 +0000</lastBuildDate>
+  <image>
+   <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
+   <link>https://dropwave.io</link>
+   <title><![CDATA[FLF, LLC]]></title>
+  </image>
+  <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+  <itunes:image href="https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg"/>
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:owner>
+   <itunes:name><![CDATA[FLF, LLC]]></itunes:name>
+   <itunes:email>fightlaughfeast@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[The Fifth Commandment: Honor Your Father and Mother [The Ezra Institute Podcast for Cultural Reformation]]]></title>
+   <link>https://app.dropwave.io/episode/f8c20d67-32ec-4b7f-9177-0fd25b8ef62d/the-fifth-commandment-honor-your-father-and-mother.mp3</link>
+   <description><![CDATA[<p>In this episode Joe Boot and special guest, pastor Joel Webbon, discuss the fifth commandment, how it applies not only to young children, but to everyone, and how a worldly mindset has led us to neglect this commandment when it becomes uncomfortable or burdensome.</p>
+<p><a href="https://ezrapress.ca/products/the-mission-of-god" target="_blank" rel="noreferrer noopener">This March, the book of the month is The Mission of God. Get it on sale now at Ezra Press.</a></p>
+<p><a href="https://rightresponseministries.com/" target="_blank" rel="noreferrer noopener">Hear more from Joel at Right Response Ministries.</a></p>
+<p><a href="https://ezrapress.ca/products/runner-academy-2023" target="_blank" rel="noreferrer noopener">Apply for this year&rsquo;s Runner Academy.</a></p>
+<div class="featured-resources mt-5 rp4wp-related-posts rp4wp-related-mere_resource">&nbsp;</div>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/f8c20d67-32ec-4b7f-9177-0fd25b8ef62d/the-fifth-commandment-honor-your-father-and-mother.mp3" length="4109" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[f8c20d67-32ec-4b7f-9177-0fd25b8ef62d]]></guid>
+   <pubDate>Wed, 01 Mar 2023 15:57:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/1c3a97bd-65b0-4aec-bb35-3a1b6eec5d2c/cover-art/4rDIhLUsGj1xuXpLJYNdtwtbungA78glNHA7dOd9.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>4109</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[The Fourth Commandment: Remember the Sabbath [The Ezra Institute Podcast for Cultural Reformation]]]></title>
+   <link>https://app.dropwave.io/episode/64c48f19-5959-4e1f-994c-12f9e3cd1e56/the-fourth-commandment-remember-the-sabbath.mp3</link>
+   <description><![CDATA[<p>Sabbath rest is a biblical principle that seems to invite a level of controversy: how often, when, who, and in what ways are is the Sabbath to be observed. Joe Boot discusses the connection between work, rest, and worship, why Sabbath-breaking was a capital offense in ancient Israel, and the difference that Christ makes to the form of our observance.</p>
+<p><a href="https://www.ezrainstitute.com/training-programs/runneracademy/" data-type="URL" data-id="https://www.ezrainstitute.com/training-programs/runneracademy/">Application for the Runner Academy are now available</a></p>
+<p><a href="https://ezrapress.ca/products/why-i-still-believe-a-journey-into-christian-apologetics" target="_blank" rel="noreferrer noopener">Don&rsquo;t miss February&rsquo;s discounted Book of the Month: Why I Still Believe</a></p>]]></description>
+   <author><![CDATA[Ryan Eras, Joe Boot]]></author>
+   <enclosure url="https://app.dropwave.io/episode/64c48f19-5959-4e1f-994c-12f9e3cd1e56/the-fourth-commandment-remember-the-sabbath.mp3" length="3539" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[64c48f19-5959-4e1f-994c-12f9e3cd1e56]]></guid>
+   <pubDate>Wed, 22 Feb 2023 05:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Ryan Eras, Joe Boot]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/1c3a97bd-65b0-4aec-bb35-3a1b6eec5d2c/cover-art/4rDIhLUsGj1xuXpLJYNdtwtbungA78glNHA7dOd9.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3539</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[The Third Commandment: You Shall Not take the Name of the Lord in Vain [The Ezra Institute Podcast for Cultural Reformation]]]></title>
+   <link>https://app.dropwave.io/episode/7d1ea122-60f2-4828-a55b-57ba72ce91b7/the-third-commandment-you-shall-not-take-the-name-of-the-lord-in-vain.mp3</link>
+   <description><![CDATA[<p>n this episode Ezra Institute Fellow Michael Thiessen discusses what it means to take the name of the Lord, both rightly and wrongly, in the church, in politics, and in any other sphere. We also talk about the nature of oaths and authority, the Sermon on the Mount, what it means for something to be damned by God, and door-to-door sales. NOTE: we do not use language flippantly, but this episode contains language that parents may not want your children to hear.</p>
+<p>Students at&nbsp;<a href="http://www.bryan.edu/" target="_blank" rel="noreferrer noopener">Bryan College</a>&nbsp;are eligible for scholarship funding and course credit at the&nbsp;<a href="https://www.ezrainstitute.com/training-programs/runneracademy/" target="_blank" rel="noreferrer noopener">Runner Academy</a>&nbsp;or&nbsp;<a href="https://www.ezrainstitute.com/training-programs/worldview-leadership-academy/" target="_blank" rel="noreferrer noopener">Worldview Leadership Academy</a>.</p>]]></description>
+   <author><![CDATA[Ryan Eras, Michael Thiessen]]></author>
+   <enclosure url="https://app.dropwave.io/episode/7d1ea122-60f2-4828-a55b-57ba72ce91b7/the-third-commandment-you-shall-not-take-the-name-of-the-lord-in-vain.mp3" length="2598" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[7d1ea122-60f2-4828-a55b-57ba72ce91b7]]></guid>
+   <pubDate>Wed, 15 Feb 2023 05:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Ryan Eras, Michael Thiessen]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/1c3a97bd-65b0-4aec-bb35-3a1b6eec5d2c/cover-art/4rDIhLUsGj1xuXpLJYNdtwtbungA78glNHA7dOd9.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2598</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[The Second Commandment: Idolatry Kills [The Ezra Institute Podcast for Cultural Reformation]]]></title>
+   <link>https://app.dropwave.io/episode/26b292ac-b6e6-4782-a02d-9a504f14b1ea/the-second-commandment-idolatry-kills.mp3</link>
+   <description><![CDATA[<main class="main-content col-lg-9" role="main">
+<article>
+<p>Idolatry takes any number of forms at the individual, church, and national levels, but its temptation is always the same: you shall be as God. And the results always lead to death. As churches capitulate to antichristian cultural pressures, they often keep their outward form, but lose the power and vitality that ought to sustain and animate them. The Lord reserved some of His hardest words for those who led their people in this apostate way.</p>
+<p><a href="https://www.ezrainstitute.com/training-programs/" target="_blank" rel="noreferrer noopener">Register today for our spring training programs in the USA.</a></p>
+<p><a href="https://ezrapress.ca/products/why-i-still-believe-a-journey-into-christian-apologetics" target="_blank" rel="noreferrer noopener">Get the February Book of the Month,&nbsp;<em>Why I Still Believe</em>.</a></p>
+</article>
+</main>
+<aside class="sidebar col-lg-3" role="navigation"><nav id="local-nav" class="local-nav"></nav></aside>]]></description>
+   <author><![CDATA[Joe Boot, Ryan Eras]]></author>
+   <enclosure url="https://app.dropwave.io/episode/26b292ac-b6e6-4782-a02d-9a504f14b1ea/the-second-commandment-idolatry-kills.mp3" length="3114" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[26b292ac-b6e6-4782-a02d-9a504f14b1ea]]></guid>
+   <pubDate>Wed, 08 Feb 2023 05:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Joe Boot, Ryan Eras]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/1c3a97bd-65b0-4aec-bb35-3a1b6eec5d2c/cover-art/4rDIhLUsGj1xuXpLJYNdtwtbungA78glNHA7dOd9.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3114</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[You Shall Not Make An Idol [The Ezra Institute Podcast for Cultural Reformation]]]></title>
+   <link>https://app.dropwave.io/episode/492e6f3b-8e53-472c-b67e-e3296e656c2d/you-shall-not-make-an-idol.mp3</link>
+   <description><![CDATA[<p>We continue our series in the Ten Commandments with the command against idolatry. In this episode, Joe Boot discusses the root of idolatry in the heart, and deals with some listener questions about the possibility of making work or family into an object of worship. We conclude by examining idolatry within the church itself.</p>
+<p><a href="https://www.ezrainstitute.com/training-programs/" target="_blank" rel="noreferrer noopener">Register today for our spring training programs in the USA.</a></p>
+<p><a href="https://ezrapress.ca/products/why-i-still-believe-a-journey-into-christian-apologetics" target="_blank" rel="noreferrer noopener">Get the February Book of the Month,&nbsp;<em>Why I Still Believe</em>.</a></p>]]></description>
+   <author><![CDATA[Joe Boot, Ryan Eras]]></author>
+   <enclosure url="https://app.dropwave.io/episode/492e6f3b-8e53-472c-b67e-e3296e656c2d/you-shall-not-make-an-idol.mp3" length="3487" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[492e6f3b-8e53-472c-b67e-e3296e656c2d]]></guid>
+   <pubDate>Wed, 01 Feb 2023 05:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Joe Boot, Ryan Eras]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/1c3a97bd-65b0-4aec-bb35-3a1b6eec5d2c/cover-art/4rDIhLUsGj1xuXpLJYNdtwtbungA78glNHA7dOd9.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3487</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item>
+ </channel>
+</rss>

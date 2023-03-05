@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="/storage/feed-stylesheet.xsl" type="text/xsl"?>
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+ <channel>
+  <title>FLF - The Rebel Podcast</title>
+  <link>https://dropwave.io</link>
+  <description><![CDATA[FIGHT LAUGH FEAST PRESENTS SHOWS PROCLAIMING THE LORDSHIP OF CHRIST OVER ALL OF LIFE.
+]]></description>
+  <language>en</language>
+  <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
+  <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
+  <pubDate>Sun, 05 Mar 2023 05:25:58 +0000</pubDate>
+  <lastBuildDate>Sun, 05 Mar 2023 05:25:58 +0000</lastBuildDate>
+  <image>
+   <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
+   <link>https://dropwave.io</link>
+   <title><![CDATA[FLF, LLC]]></title>
+  </image>
+  <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+  <itunes:image href="https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg"/>
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:owner>
+   <itunes:name><![CDATA[FLF, LLC]]></itunes:name>
+   <itunes:email>fightlaughfeast@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[The Spine of Scripture with Dominic Bnonn Tennant [The Rebel Podcast]]]></title>
+   <link>https://app.dropwave.io/episode/e6831dc5-6a38-4d21-880c-7d4e9cf55319/the-spine-of-scripture-with-domonic-bnonn-tennant.mp3</link>
+   <description><![CDATA[<p>This week P Nate has a special guest lined up all the way from New Zealand. From the future, Dominic Bnonn Tennant, Husband, Father, Pastor, Author, Theologian comes on to discuss his paradigm shifting book The Spine of Scripture. You can follow Bnonns blog at <a href="http://bnonn.com/">bnonn.com</a> or his co-work with Dr. Michael Foster at <a href="https://itsgoodtobeaman.com/" rel="noreferrer noopener">https://itsgoodtobeaman.com/</a>.&nbsp;</p>
+<p>To support the show you can become a Fight Laugh Feast Club Member here: <a href="http://flfnetwork.com/membership/">flfnetwork.com/membership/</a></p>
+<p>You can also join the rebellion by sharing and inviting your friends to like the content on facebook: <a href="http://facebook.com/rebelpodcast">facebook.com/rebelpodcast</a> or by supporting us through patreon at <a href="http://patreon.com/reformedrebel">patreon.com/reformedrebel</a></p>]]></description>
+   <author><![CDATA[Pastor Nate]]></author>
+   <enclosure url="https://app.dropwave.io/episode/e6831dc5-6a38-4d21-880c-7d4e9cf55319/the-spine-of-scripture-with-domonic-bnonn-tennant.mp3" length="4194" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[e6831dc5-6a38-4d21-880c-7d4e9cf55319]]></guid>
+   <pubDate>Tue, 28 Feb 2023 09:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Pastor Nate]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>4194</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Election Apologetics [The Rebel Podcast]]]></title>
+   <link>https://app.dropwave.io/episode/c6700c0f-dfae-4c0d-b0c8-82e391343aca/election-apologetics.mp3</link>
+   <description><![CDATA[<p>P Nate and Elder P sit down without an agenda and talk through some of the implications of the doctrines of grace. In a new church family there will be differences of opinion with some key doctrines so the Rebels discuss what leads them, biblically and practically to embrace and love reformed soteriology.</p>
+<p>&nbsp;</p>
+<p>To support the show you can become a Fight Laugh Feast Club Member here: <a href="http://flfnetwork.com/membership/">flfnetwork.com/membership/</a></p>
+<p>&nbsp;</p>
+<p>You can also join the rebellion by sharing and inviting your friends to like the content on facebook: <a href="http://facebook.com/rebelpodcast">facebook.com/rebelpodcast</a> or by supporting us through patreon at <a href="http://patreon.com/reformedrebel">patreon.com/reformedrebel</a></p>]]></description>
+   <author><![CDATA[Pastors Nate & Chris - the Rebels]]></author>
+   <enclosure url="https://app.dropwave.io/episode/c6700c0f-dfae-4c0d-b0c8-82e391343aca/election-apologetics.mp3" length="2765" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[c6700c0f-dfae-4c0d-b0c8-82e391343aca]]></guid>
+   <pubDate>Tue, 14 Feb 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Pastors Nate & Chris - the Rebels]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2765</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[End Abortion - It Starts Right Now! [The Rebel Podcast]]]></title>
+   <link>https://app.dropwave.io/episode/e841f2f0-e6e6-4223-abd9-7afe1ecb1b3a/end-abortion-it-starts-right-now.mp3</link>
+   <description><![CDATA[<p>This week P Nate and Pootie invite a guest to Garage Mahal. Right Now president and co-founder Scott Hayward joins the guys to discuss the current state of abortion laws in Canada and how you can help fight to end the murder of preborn children in Canada.</p>
+<p><a href="http://www.itstartsrightnow.ca">www.itstartsrightnow.ca</a>&nbsp; to join Right Now.</p>
+<p>For more information on abortion visit the Canadian Centre for Bio-ethical Reform website at&nbsp;</p>
+<p><a href="https://www.endthekilling.ca/">https://www.endthekilling.ca/</a></p>]]></description>
+   <author><![CDATA[Pastors Nate & Chris with guest Scott Hayward]]></author>
+   <enclosure url="https://app.dropwave.io/episode/e841f2f0-e6e6-4223-abd9-7afe1ecb1b3a/end-abortion-it-starts-right-now.mp3" length="3640" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[e841f2f0-e6e6-4223-abd9-7afe1ecb1b3a]]></guid>
+   <pubDate>Tue, 07 Feb 2023 09:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Pastors Nate & Chris with guest Scott Hayward]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3640</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Leaders Are Readers! [The Rebel Podcast]]]></title>
+   <link>https://app.dropwave.io/episode/d8a0edbe-3c40-4af1-bfde-7f6b1e37f459/the-first-of-the-three-rs.mp3</link>
+   <description><![CDATA[<p>Transitioning out of the series on Paradigm Shifts in Faith, P Nate, Pootie and Air Jordan get together to discuss books and resources that will help listeners dig deeper into some new theological perspectives they may have heard or just generally good books the Rebels read this year that they recommend for your spiritual growth.</p>
+<p>To support the show you can become a Fight Laugh Feast Club Member here:&nbsp;<a href="http://flfnetwork.com/membership/">flfnetwork.com/membership/</a></p>
+<p>You can also join the rebellion by sharing and inviting your friends to like the content on facebook:&nbsp;<a href="http://facebook.com/rebelpodcast">facebook.com/rebelpodcast</a>&nbsp;or by supporting us through patreon at&nbsp;<a href="http://patreon.com/reformedrebel">patreon.com/reformedrebel</a></p>]]></description>
+   <author><![CDATA[pastors Nate & Chris & Jordan, The Rebels]]></author>
+   <enclosure url="https://app.dropwave.io/episode/d8a0edbe-3c40-4af1-bfde-7f6b1e37f459/the-first-of-the-three-rs.mp3" length="2739" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[d8a0edbe-3c40-4af1-bfde-7f6b1e37f459]]></guid>
+   <pubDate>Wed, 01 Feb 2023 03:55:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[pastors Nate & Chris & Jordan, The Rebels]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2739</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item>
+ </channel>
+</rss>

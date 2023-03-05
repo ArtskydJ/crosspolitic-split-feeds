@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="/storage/feed-stylesheet.xsl" type="text/xsl"?>
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+ <channel>
+  <title>FLF - Resistance and Reformation</title>
+  <link>https://dropwave.io</link>
+  <description><![CDATA[FIGHT LAUGH FEAST PRESENTS SHOWS PROCLAIMING THE LORDSHIP OF CHRIST OVER ALL OF LIFE.
+]]></description>
+  <language>en</language>
+  <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
+  <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
+  <pubDate>Sun, 05 Mar 2023 05:25:58 +0000</pubDate>
+  <lastBuildDate>Sun, 05 Mar 2023 05:25:58 +0000</lastBuildDate>
+  <image>
+   <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
+   <link>https://dropwave.io</link>
+   <title><![CDATA[FLF, LLC]]></title>
+  </image>
+  <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+  <itunes:image href="https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg"/>
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:owner>
+   <itunes:name><![CDATA[FLF, LLC]]></itunes:name>
+   <itunes:email>fightlaughfeast@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Wolfe [Resistance and Reformation]]]></title>
+   <link>https://app.dropwave.io/episode/66404b28-defc-4f25-8d51-3cbdbb59a4e9/wolfe.mp3</link>
+   <description><![CDATA[<p><span style="font-family: 'book antiqua', palatino, serif;">More from Dr. Grant:</span></p>
+<p><span style="font-family: 'book antiqua', palatino, serif;">https://georgegrant.net/</span></p>]]></description>
+   <author><![CDATA[Dr. George Grant]]></author>
+   <enclosure url="https://app.dropwave.io/episode/66404b28-defc-4f25-8d51-3cbdbb59a4e9/wolfe.mp3" length="651" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[66404b28-defc-4f25-8d51-3cbdbb59a4e9]]></guid>
+   <pubDate>Thu, 02 Mar 2023 13:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Dr. George Grant]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>651</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Nebuchanezzar [Resistance and Reformation]]]></title>
+   <link>https://app.dropwave.io/episode/c764c58e-bcfa-4cfe-9c68-db2746a23ad9/nebuchanezzar.mp3</link>
+   <description><![CDATA[<p>More from Dr. George Grant</p>
+<p>georgegrant.net</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/c764c58e-bcfa-4cfe-9c68-db2746a23ad9/nebuchanezzar.mp3" length="550" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[c764c58e-bcfa-4cfe-9c68-db2746a23ad9]]></guid>
+   <pubDate>Tue, 21 Feb 2023 17:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>550</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Feasting [Resistance and Reformation]]]></title>
+   <link>https://app.dropwave.io/episode/4fae803e-19b0-4429-9a1c-25a323db63a2/feasting.mp3</link>
+   <description><![CDATA[<p>More from Dr. George Grant</p>
+<p>georgegrant.net</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/4fae803e-19b0-4429-9a1c-25a323db63a2/feasting.mp3" length="629" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[4fae803e-19b0-4429-9a1c-25a323db63a2]]></guid>
+   <pubDate>Tue, 14 Feb 2023 17:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>629</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Alfred [Resistance and Reformation]]]></title>
+   <link>https://app.dropwave.io/episode/cf1ca52a-e57e-47bf-bc81-6fb4204bbca6/alfred.mp3</link>
+   <description><![CDATA[<p>More from Dr. George Grant</p>
+<p>georgegrant.net&nbsp;</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/cf1ca52a-e57e-47bf-bc81-6fb4204bbca6/alfred.mp3" length="509" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[cf1ca52a-e57e-47bf-bc81-6fb4204bbca6]]></guid>
+   <pubDate>Tue, 07 Feb 2023 17:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>509</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Chalmers and Prayerfulness [Resistance and Reformation]]]></title>
+   <link>https://app.dropwave.io/episode/5c354264-9079-4604-aa7d-9894562521a0/chalmers-and-prayerfulness.mp3</link>
+   <description><![CDATA[<p>More from Dr. George Grant</p>
+<p>georgegrant.net</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/5c354264-9079-4604-aa7d-9894562521a0/chalmers-and-prayerfulness.mp3" length="554" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[5c354264-9079-4604-aa7d-9894562521a0]]></guid>
+   <pubDate>Tue, 31 Jan 2023 17:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>554</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item>
+ </channel>
+</rss>
