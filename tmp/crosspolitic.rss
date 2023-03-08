@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Wed, 08 Mar 2023 07:25:42 +0000</pubDate>
-  <lastBuildDate>Wed, 08 Mar 2023 07:25:42 +0000</lastBuildDate>
+  <pubDate>Wed, 08 Mar 2023 13:25:46 +0000</pubDate>
+  <lastBuildDate>Wed, 08 Mar 2023 13:25:46 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[1 Chronicles 29:10-13 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/8633f125-a578-4449-90f5-d177481707f9/1-chronicles-2910-13.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/8633f125-a578-4449-90f5-d177481707f9/1-chronicles-2910-13.mp3" length="276" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[8633f125-a578-4449-90f5-d177481707f9]]></guid>
+   <pubDate>Wed, 08 Mar 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>276</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[State of the Nation, 2023 [The Ezra Institute Podcast for Cultural Reformation]]]></title>
    <link>https://app.dropwave.io/episode/357176ce-15d7-423c-bdd3-525c083a08a3/state-of-the-nation-2023.mp3</link>
@@ -3309,21 +3324,6 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[2 Peter 1:1-9 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/29798465-6d2e-4d1e-a47f-c3bfb77f0dc3/2-peter-11-9.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[Mark Dewey]]></author>
-   <enclosure url="https://app.dropwave.io/episode/29798465-6d2e-4d1e-a47f-c3bfb77f0dc3/2-peter-11-9.mp3" length="374" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[29798465-6d2e-4d1e-a47f-c3bfb77f0dc3]]></guid>
-   <pubDate>Tue, 14 Feb 2023 10:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>374</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
    <title><![CDATA[Election Apologetics [The Rebel Podcast]]]></title>
    <link>https://app.dropwave.io/episode/c6700c0f-dfae-4c0d-b0c8-82e391343aca/election-apologetics.mp3</link>
    <description><![CDATA[<p>P Nate and Elder P sit down without an agenda and talk through some of the implications of the doctrines of grace. In a new church family there will be differences of opinion with some key doctrines so the Rebels discuss what leads them, biblically and practically to embrace and love reformed soteriology.</p>
@@ -3340,6 +3340,21 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2765</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[2 Peter 1:1-9 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/29798465-6d2e-4d1e-a47f-c3bfb77f0dc3/2-peter-11-9.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/29798465-6d2e-4d1e-a47f-c3bfb77f0dc3/2-peter-11-9.mp3" length="374" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[29798465-6d2e-4d1e-a47f-c3bfb77f0dc3]]></guid>
+   <pubDate>Tue, 14 Feb 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>374</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -4950,21 +4965,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>875</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[1 Corinthians 2:1-5 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/74ac4a35-323b-4575-b78c-ecdcdc2e706b/1-corinthians-21-5.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[Mark Dewey]]></author>
-   <enclosure url="https://app.dropwave.io/episode/74ac4a35-323b-4575-b78c-ecdcdc2e706b/1-corinthians-21-5.mp3" length="278" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[74ac4a35-323b-4575-b78c-ecdcdc2e706b]]></guid>
-   <pubDate>Thu, 02 Feb 2023 10:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>278</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
