@@ -34,7 +34,7 @@ And here they are:
 - [Resistance and Reformation](https://artskydj.github.io/crosspolitic-split-feeds/rss/resistance_and_reformation.rss) (53 episodes)
 - [The Comedian Next Door](https://artskydj.github.io/crosspolitic-split-feeds/rss/the_comedian_next_door.rss) (145 episodes)
 - [The Doane Cast](https://artskydj.github.io/crosspolitic-split-feeds/rss/darrendoane.rss) (15 episodes)
-- [The Ezra Institute Podcast for Cultural Reformation](https://artskydj.github.io/crosspolitic-split-feeds/rss/the_ezra_institute_podcast_for_cultural_reformation.rss) (55 episodes)
+- [The Ezra Institute Podcast for Cultural Reformation](https://artskydj.github.io/crosspolitic-split-feeds/rss/the_ezra_institute_podcast_for_cultural_reformation.rss) (56 episodes)
 - [The Liberty Lounge with Tim Tysoe](https://artskydj.github.io/crosspolitic-split-feeds/rss/the_liberty_lounge_with_tim_tysoe.rss) (3 episodes)
 - [The Patriarchy Podcast](https://artskydj.github.io/crosspolitic-split-feeds/rss/patriachy.rss) (85 episodes)
 - [The Pugcast](https://artskydj.github.io/crosspolitic-split-feeds/rss/theologypugcast.rss) (193 episodes)
