@@ -36,6 +36,7 @@ And here they are:
 - [The Doane Cast](https://artskydj.github.io/crosspolitic-split-feeds/rss/darrendoane.rss) (15 episodes)
 - [The Ezra Institute Podcast for Cultural Reformation](https://artskydj.github.io/crosspolitic-split-feeds/rss/the_ezra_institute_podcast_for_cultural_reformation.rss) (56 episodes)
 - [The Liberty Lounge with Tim Tysoe](https://artskydj.github.io/crosspolitic-split-feeds/rss/the_liberty_lounge_with_tim_tysoe.rss) (3 episodes)
+- [The Other Club](https://artskydj.github.io/crosspolitic-split-feeds/rss/the_other_club.rss) (1 episode)
 - [The Patriarchy Podcast](https://artskydj.github.io/crosspolitic-split-feeds/rss/patriachy.rss) (85 episodes)
 - [The Pugcast](https://artskydj.github.io/crosspolitic-split-feeds/rss/theologypugcast.rss) (193 episodes)
 - [The Rebel Podcast](https://artskydj.github.io/crosspolitic-split-feeds/rss/the_rebel_podcast.rss) (40 episodes)
