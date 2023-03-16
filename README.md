@@ -19,7 +19,7 @@ And here they are:
 - [All My Friends are Heretics](https://artskydj.github.io/crosspolitic-split-feeds/rss/all_my_friends_are_heretics.rss) (1 episode)
 - [Campus Preacher](https://artskydj.github.io/crosspolitic-split-feeds/rss/campus_preacher.rss) (91 episodes)
 - [Choc Knox Unplugged](https://artskydj.github.io/crosspolitic-split-feeds/rss/choc_knox_unplugged.rss) (57 episodes)
-- [CrossPolitic Show](https://artskydj.github.io/crosspolitic-split-feeds/rss/crosspolitic_show.rss) (689 episodes)
+- [CrossPolitic Show](https://artskydj.github.io/crosspolitic-split-feeds/rss/crosspolitic_show.rss) (690 episodes)
 - [Daily News Brief](https://artskydj.github.io/crosspolitic-split-feeds/rss/dailynews.rss) (222 episodes)
 - [God, Law, and Liberty](https://artskydj.github.io/crosspolitic-split-feeds/rss/god_law_and_liberty.rss) (32 episodes)
 - [HTBT](https://artskydj.github.io/crosspolitic-split-feeds/rss/htbt.rss) (266 episodes)
