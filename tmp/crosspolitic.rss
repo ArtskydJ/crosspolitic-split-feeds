@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Sat, 18 Mar 2023 07:25:45 +0000</pubDate>
-  <lastBuildDate>Sat, 18 Mar 2023 07:25:45 +0000</lastBuildDate>
+  <pubDate>Sat, 18 Mar 2023 13:25:44 +0000</pubDate>
+  <lastBuildDate>Sat, 18 Mar 2023 13:25:44 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Proverbs 14:12 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/7c6a7550-03ed-4774-8ba4-f17a94f885e8/proverbs-1412.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/7c6a7550-03ed-4774-8ba4-f17a94f885e8/proverbs-1412.mp3" length="274" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[7c6a7550-03ed-4774-8ba4-f17a94f885e8]]></guid>
+   <pubDate>Sat, 18 Mar 2023 09:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>274</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Michael Foster in Studio! Andrew Tate & Red Pills - The Need Right Now to Strengthen Men [CrossPolitic Show]]]></title>
    <link>https://app.dropwave.io/episode/d44c112d-79dc-4382-b29e-6c87a95637cf/michael-foster-in-studio-andrew-tate-red-pills-the-need-right-now-to-strengthen-men.mp3</link>
@@ -977,21 +992,6 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[Ephesians 5:6-14 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/0cb2ed38-ef4a-46bf-be93-08b9831bca54/ephesians-56-14.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[Mark Dewey]]></author>
-   <enclosure url="https://app.dropwave.io/episode/0cb2ed38-ef4a-46bf-be93-08b9831bca54/ephesians-56-14.mp3" length="328" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[0cb2ed38-ef4a-46bf-be93-08b9831bca54]]></guid>
-   <pubDate>Tue, 14 Mar 2023 09:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>328</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
    <title><![CDATA[By God We Take It Back [The Rebel Podcast]]]></title>
    <link>https://app.dropwave.io/episode/daddcaba-0b28-45e5-844a-2ddc49d828b0/by-god-we-take-it-back.mp3</link>
    <description><![CDATA[<p>The Rebels and friends talk about how we start taking back control of our lives from the state.</p>
@@ -1008,6 +1008,21 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2589</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[Ephesians 5:6-14 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/0cb2ed38-ef4a-46bf-be93-08b9831bca54/ephesians-56-14.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/0cb2ed38-ef4a-46bf-be93-08b9831bca54/ephesians-56-14.mp3" length="328" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[0cb2ed38-ef4a-46bf-be93-08b9831bca54]]></guid>
+   <pubDate>Tue, 14 Mar 2023 09:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>328</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -1721,157 +1736,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2816</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Daily News Brief for Tuesday, March 7th, 2023 [Daily News Brief]]]></title>
-   <link>https://app.dropwave.io/episode/5b04cf08-beb4-419e-825e-6ae01697adc2/daily-news-brief-for-tuesday-march-7th-2023.mp3</link>
-   <description><![CDATA[<p><span style="font-weight: 400;">This is Garrison Hardie with your CrossPolitic Daily News Brief for Tuesday, March 7th, 2023. I hope you all had a fantastic weekend with you and yours! Before we get to the news&hellip;</span></p>
-<p>&nbsp;</p>
-<p><strong>Fight Laugh Feast Conference - Ark Encounter</strong></p>
-<p><span style="font-weight: 400;">This year, our Fight Laugh Feast Conference is at the Ark Encounter in Kentucky on The Politics of Six Day Creation. The politics of six day creation is the difference between a fixed standard of justice and a careening standard of justice, the difference between the corrosive relativism that creates mobs and anarchy and the freedom of objectivity, truth, and due process. The politics of six day creation establishes the authority and sufficiency of God&rsquo;s Word for all of life: from what is a man or a woman, when does human life begin, and how is human society best organized?</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Come hear Ken Ham, Pastor Doug Wilson, Dr. Ben Merkle, Dr. Gordon Wilson, me and more, and of course a live CrossPolitic show! Mark your calendars for October 11th-14th, as we fight, laugh, and feast, with beer &amp; psalms, our amazing lineup of speakers, our Rowdy Christian Merch, and a Sabbath Feast to wrap up the occasion. Maybe an infant baptism while we&rsquo;re at it! Visit fightlaughfeast.com for more information!</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">In world news, we visit Greece.</span></p>
-<p>&nbsp;</p>
-<p><a href="https://www.usnews.com/news/world/articles/2023-03-05/thousands-protest-in-athens-after-greeces-deadly-train-crash"><span style="font-weight: 400;">https://www.usnews.com/news/world/articles/2023-03-05/thousands-protest-in-athens-after-greeces-deadly-train-crash</span></a></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Greeks Protest Over Deadly Train Crash, Station Master Jailed Pending Trial</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">ATHENS (Reuters) -A Greek railway employee was jailed on Sunday pending trial over a deadly train crash that killed at least 57 people, as Greeks seethed with anger over the worst rail disaster in living memory.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Protests continued to reverberate days after a head-on collision of a passenger train and a freight carrier on the Athens-Thessaloniki route late in the evening of Feb. 28.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Clashes erupted between police and demonstrators in Athens on Sunday, after thousands rallied to protest over the crash.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">The 59-year-old Larissa station master faces multiple charges of disrupting transport and putting lives at risk.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">The man, who cannot be named under Greek law, was questioned for seven hours before a magistrate on Sunday before being detained.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">"For about 20 cursed minutes he was responsible for the safety of the whole of central Greece," his lawyer said.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">On Thursday, his lawyer said that his client was devastated and had assumed responsibility "proportionate to him" but other factors were also at play, without elaborating.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Railway workers say the country's rail network has been creaking under cost-cutting and underinvestment, a legacy of Greece's debilitating debt crisis from 2010 to 2018.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">The Prime Minister of transportation, who blamed the crash on human error, acknowledged that decades of neglect could have contributed to the disaster.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">"As prime minister, I owe everyone, but most of all the relatives of the victims, an apology," he wrote on his Facebook account. "Justice will very fast investigate the tragedy and determine liabilities."</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">After protests over the past three days across the country, some 10,000 people gathered in an Athens square on Sunday to express sympathy for the lives lost and to demand better safety standards on the rail network.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">"That crime won't be forgotten," protesters shouted as they released black balloons into the sky. A placard read: "Their policies cost human lives."</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Railway workers' unions say safety systems throughout the rail network have been deficient for years as a remote surveillance and signalling system has not been delivered on time. They have called on the government to provide a timetable for the implementation of safety protocols.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">The prime minister of transportation said on Sunday that if there had been a remote system in place throughout the rail network "it would have been, in practice, impossible for the accident to happen".</span></p>
-<p>&nbsp;</p>
-<p><a href="https://www.cnn.com/2023/03/06/us/boston-flight-exit-door-arrest/index.html"><span style="font-weight: 400;">https://www.cnn.com/2023/03/06/us/boston-flight-exit-door-arrest/index.html</span></a></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Man arrested after allegedly trying to open emergency door on plane and stabbing flight attendant</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">A Massachusetts man was arrested for allegedly attempting to stab a flight attendant in the neck with a broken metal spoon three times during a flight from Los Angeles to Boston on Monday, after attempting to open an emergency exit door, according to the Justice Department.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Francisco Severo Torres, 33, faces one charge of interference and attempted interference with flight crew members and attendants using a dangerous weapon. Torres was arrested at Boston Logan International Airport Monday and will remain detained pending a hearing set for Thursday.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">During a United Airlines flight from Los Angeles to Boston, the flight crew saw an alarm that a door in the plane had been disarmed and, after inspection, a flight attendant saw the door&rsquo;s locking handle had been pushed out of the fully locked position and an emergency slide arming lever had been disarmed, according to the Justice Department.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">A flight attendant who saw Torres near the door went to talk to Torres about the door, according to the department, who asked if there were cameras showing he had tampered with the door.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">&ldquo;According to court documents, the flight attendant then notified the captain that they believed Torres posed a threat to the aircraft and that the captain needed to land the aircraft as soon as possible,&rdquo; the Justice Department said.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Soon after, Torres allegedly got out of his seat, mouthing something, before thrusting &ldquo;towards one of the flight attendants in a stabbing motion with a broken metal spoon, hitting the flight attendant on the neck area three times,&rdquo; the department said.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Torres was then tackled by other passengers on the flight and was immediately taken into custody after the flight landed.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">According to a criminal complaint, Torres told investigators he broke a spoon in half a bathroom on the airplane to use as a weapon. He also told law enforcement that he tried to open the emergency door and &ldquo;had gotten the idea&rdquo; to jump out of the plane, according to the complaint.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Torres told investigators he was trying to defend himself and tried to stab the flight attendant because he believed they were trying to kill him, the complaint states.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">The flight attendant felt the object Torres was holding in his hand &ldquo;hit him on his shirt collar and tie three times,&rdquo; according to the complaint.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">United Airlines says it has banned Torres from flying on future flights following this incident.</span></p>
-<p>&nbsp;</p>
-<p><a href="https://www.breitbart.com/politics/2023/03/06/one-third-biden-2020-voters-do-not-want-him-run-again/"><span style="font-weight: 400;">https://www.breitbart.com/politics/2023/03/06/one-third-biden-2020-voters-do-not-want-him-run-again/</span></a></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Poll: One-Third of Biden 2020 Voters Do Not Want Him to Run Again</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">More than one-third of Biden 2020 voters do not want him to run for reelection in 2024, a recent survey from YouGov/The Economist revealed.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">The survey found 58 percent, overall, revealing they do not want President&nbsp; Joe Biden to run for office again in 2024, while 24 percent said they do. Another 18 percent remain unsure.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Predictably, opinions are divided along party lines, as 83 percent of Republicans and 59 percent of independents do not want him to run. Less than a majority of Democrats, 43 percent, believe Biden should run in 2024, while more than one-third, 34 percent, said he should not. Another 23 percent of Democrats remain unsure.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Notably, over one-third of Biden 2020 voters, 36 percent, do not want him to run in the next presidential race, while less than a majority, 39 percent, said he should. One-quarter of Biden 2020 voters remain unsure. For further comparison, most Trump 2020 voters, 55 percent, want former President Donald Trump to run in 2024, and 53 percent of Republicans across the board say the same.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">The survey was taken February 25-28, 2023, among 1,500 U.S. adult citizens.&nbsp;</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">It coincides with other polls showing Biden&rsquo;s inability to win over a majority of Democrats to support his potential 2024 presidential bid. A recent Fox News survey, for instance, found 53 percent of Democrat voters asserting that &ldquo;someone else&rdquo; should be their nominee in the forthcoming presidential election, compared to 37 percent who said &ldquo;keep Biden&rdquo; as the nominee.&nbsp;</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">As Breitbart News reported:</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">The article added further perspective to Biden&rsquo;s figures among the Democrat base, noting that Trump saw far more support from his Republican base at the same point in his presidency, as 72 percent of Republican voters wanted to see him as the GOP nominee again in 2020.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Similarly, a McLaughlin &amp; Associates survey released last month found just more than a quarter, 26 percent, supporting Biden in a crowded Democrat field.&nbsp;</span></p>
-<p>&nbsp;</p>
-<p><a href="https://www.theblaze.com/news/bob-ferguson-ministry-of-truth"><span style="font-weight: 400;">https://www.theblaze.com/news/bob-ferguson-ministry-of-truth</span></a></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">AG pushes state level 'Ministry of Truth' critics say could jail conservatives who express mainstream views</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">A state attorney general is advocating for a bill some critics argue could punish outspoken conservatives as domestic extremists, KTTH's Jason Rantz reported Wednesday.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">"Some conservative views, or anything [Washington state Attorney General Bob Ferguson] deems as 'misinformation,' are examples of 'domestic extremism,'" Rantz said.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">It's the "most dangerous bill in legislative history," the Seattle radio host added.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Washington is creating a state version of the ill-fated "Ministry of Truth," according to Rantz and others who have analyzed the bill.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">The controversial bill proposes the establishment of a commission on domestic violence extremism. Rep. Bill Ramos, a Democrat, sponsored the bill which would create the 13-member commission.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">HB 1333 describes the duties of the proposed commission as involving efforts to "combat disinformation and misinformation" and collecting data on incidents of "domestic violent extremism," the Center Square explains.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Though DVE is not explicitly defined in the bill, Ferguson has described the term as including noncriminal activities or speech, the outlet also says.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">The legislation was spawned by the Attorney General's 2022 "Domestic Terrorism" study, according to Center Square. That study warned that "effective State intervention to address these threats has the potential to implicate speech or association that may be protected by the First Amendment, or the individual right to bear arms protected by the Second Amendment."</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Further, the commission, though charged with examining ways to treat DVE as a public health issue through the state's Department of Health, would have only one member required to be an expert in public health.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">The basic idea is to "take preemptive measures to stop actual domestic terrorist acts through community intervention."</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Such "community intervention" could include, for example, compelling people identified as "extremists" to undergo counseling, according to Rantz's interpretation of comments Ferguson made in an interview with PBS in January.</span></p>
-<p>&nbsp;</p>
-<p><a href="https://youtu.be/1MNnzha2DI0"><span style="font-weight: 400;" data-rich-links="{&quot;fple-t&quot;:&quot;How a Washington state plan to fight domestic extremism could be a model for the nation&quot;,&quot;fple-u&quot;:&quot;https://youtu.be/1MNnzha2DI0&quot;,&quot;fple-mt&quot;:null,&quot;type&quot;:&quot;first-party-link&quot;}">How a Washington state plan to fight domestic extremism could be a model for the nation</span></a><span style="font-weight: 400;">- Play Video 3:13-5:46</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Rantz went on to explain that opposing critical race theory, mask mandates, and radical gender ideology could all be seen by the commission as tied to "white supremacy."</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Now lastly, let&rsquo;s end on some good news:&nbsp;</span></p>
-<p>&nbsp;</p>
-<p><a href="https://www.dailywire.com/news/walgreens-wont-distribute-abortion-pill-in-21-states-spokesperson-says"><span style="font-weight: 400;">https://www.dailywire.com/news/walgreens-wont-distribute-abortion-pill-in-21-states-spokesperson-says</span></a></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Walgreens Won&rsquo;t Distribute Abortion Pill In 21 States, Spokesperson Says</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">American pharmacy chain Walgreens faced backlash over the weekend after announcing it would not sell abortion pills in states where the drugs remain legal after nearly two dozen Republican state attorney generals threatened legal action against the company.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Walgreens, the second-largest pharmaceutical chain in the United States, told Politico last week they would not dispense abortion pills either by mail or at locations in 21 states, including Alaska, Iowa, Kansas, and Montana, where the drug is legal.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">The decision followed a letter from 20 Republican attorneys general last month, who warned of violating state laws if the company mailed out abortion pills. Several other pharmacies, including CVS, Walmart, and Costco, also received a similar letter from those state officials.</span></p>
-<p><span style="font-weight: 400;">Following the announcement, Business Insider reported the phrases &ldquo;Walgreens&rdquo; and &ldquo;#BoycottWalgreens&rdquo; trended on Twitter as critics called on consumers to stop supporting the pharmacy &mdash; which cited tweets from one of President Joe Biden&rsquo;s aides, Illinois Gov. JB Pritzker, and Senator Tammy Duckworth (D-IL) &mdash; all calling on the pharmacy to reverse its decision.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Kristi Hamrick, a spokesperson for Students for Life, praised Walgreens&rsquo; decision.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Students for Life and other pro-life groups have also written to Walgreens and CVS, threatening &ldquo;legal ramifications&rdquo; for the pharmacies if they begin filling prescriptions for abortion pills, Politico reported.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Other states Walgreens included in the announcement were those that made it illegal to dispense the abortion pill through mail such as Alabama, Alaska, Arkansas, Florida, Georgia, Indiana, Iowa, Kentucky, Louisiana, Mississippi, Missouri, Montana, North Dakota, Ohio, Oklahoma, South Carolina, South Dakota, Texas, Utah, and West Virginia.</span></p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/5b04cf08-beb4-419e-825e-6ae01697adc2/daily-news-brief-for-tuesday-march-7th-2023.mp3" length="926" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[5b04cf08-beb4-419e-825e-6ae01697adc2]]></guid>
-   <pubDate>Tue, 07 Mar 2023 12:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/hUZu1H9lrRY0wXg66WHC8eLwYBA3hbRNTAHQmHt2.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>926</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
