@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Sat, 18 Mar 2023 19:25:44 +0000</pubDate>
-  <lastBuildDate>Sat, 18 Mar 2023 19:25:44 +0000</lastBuildDate>
+  <pubDate>Sun, 19 Mar 2023 01:25:43 +0000</pubDate>
+  <lastBuildDate>Sun, 19 Mar 2023 01:25:43 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Having Two Legs: The Gary DeMar Debacle [Pastor Toby’s Blog]]]></title>
+   <link>https://app.dropwave.io/episode/b6edd4cf-13b7-4594-8246-75810e4bdd6d/having-two-legs-the-gary-demar-debacle.mp3</link>
+   <description><![CDATA[<p>In this episode of Having Two Legs, Pastor Toby Sumpter addresses the conversation surrounding Gary DeMar, presents his primary questions and concerns for Gary, and gives guidance on how to respond to those who dabble with such doctrines.</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/b6edd4cf-13b7-4594-8246-75810e4bdd6d/having-two-legs-the-gary-demar-debacle.mp3" length="1051" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[b6edd4cf-13b7-4594-8246-75810e4bdd6d]]></guid>
+   <pubDate>Sat, 18 Mar 2023 20:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/20dde981-157e-4504-b38f-dd9d7b0e4c50/cover-art/ZdXVos6595FpTNoyp6qYqu16EQyUrG0zPvsBPzMA.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1051</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Faithful Church Planting in an Unfaithful Age ft. Pastors Chase Davis & Matt Fitzpatrick [Open Mike with Michael Thiessen]]]></title>
    <link>https://app.dropwave.io/episode/13fdd182-8023-440c-a936-1c104797790e/faithful-church-planting-in-an-unfaithful-age-ft-pastors-chase-davis-matt-fitzpatrick.mp3</link>
@@ -1020,6 +1035,21 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
+   <title><![CDATA[Ephesians 5:6-14 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/0cb2ed38-ef4a-46bf-be93-08b9831bca54/ephesians-56-14.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/0cb2ed38-ef4a-46bf-be93-08b9831bca54/ephesians-56-14.mp3" length="328" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[0cb2ed38-ef4a-46bf-be93-08b9831bca54]]></guid>
+   <pubDate>Tue, 14 Mar 2023 09:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>328</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
    <title><![CDATA[By God We Take It Back [The Rebel Podcast]]]></title>
    <link>https://app.dropwave.io/episode/daddcaba-0b28-45e5-844a-2ddc49d828b0/by-god-we-take-it-back.mp3</link>
    <description><![CDATA[<p>The Rebels and friends talk about how we start taking back control of our lives from the state.</p>
@@ -1036,21 +1066,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2589</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Ephesians 5:6-14 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/0cb2ed38-ef4a-46bf-be93-08b9831bca54/ephesians-56-14.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[Mark Dewey]]></author>
-   <enclosure url="https://app.dropwave.io/episode/0cb2ed38-ef4a-46bf-be93-08b9831bca54/ephesians-56-14.mp3" length="328" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[0cb2ed38-ef4a-46bf-be93-08b9831bca54]]></guid>
-   <pubDate>Tue, 14 Mar 2023 09:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>328</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -1729,22 +1744,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/69893365-4165-4498-b0ac-e9ddf57a000f/cover-art/E86eLfK3NgjrpuXtk9kW9Qv6KcfzQpkJpToltreR.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>4821</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Spurgeon's Poor [Resistance and Reformation]]]></title>
-   <link>https://app.dropwave.io/episode/c8e474a9-3856-4734-9347-6277b8d298a9/spurgeons-poor.mp3</link>
-   <description><![CDATA[<p><span style="font-family: 'book antiqua', palatino, serif;">More from Dr. George Grant</span></p>
-<p><span style="font-family: 'book antiqua', palatino, serif;">https://georgegrant.net/</span></p>]]></description>
-   <author><![CDATA[Dr. George Grant]]></author>
-   <enclosure url="https://app.dropwave.io/episode/c8e474a9-3856-4734-9347-6277b8d298a9/spurgeons-poor.mp3" length="555" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[c8e474a9-3856-4734-9347-6277b8d298a9]]></guid>
-   <pubDate>Tue, 07 Mar 2023 17:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Dr. George Grant]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>555</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
