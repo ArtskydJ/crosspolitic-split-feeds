@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 20 Mar 2023 13:25:46 +0000</pubDate>
-  <lastBuildDate>Mon, 20 Mar 2023 13:25:46 +0000</lastBuildDate>
+  <pubDate>Mon, 20 Mar 2023 19:25:49 +0000</pubDate>
+  <lastBuildDate>Mon, 20 Mar 2023 19:25:49 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,36 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Death by Opportunity: Part 3 - Access [The Doane Cast]]]></title>
+   <link>https://app.dropwave.io/episode/ebed2e10-55da-45d5-93ad-f570c8dea839/death-by-opportunity-part-3-access.mp3</link>
+   <description><![CDATA[<p>Death by Opportunity: Part 3 - Access&nbsp;</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/ebed2e10-55da-45d5-93ad-f570c8dea839/death-by-opportunity-part-3-access.mp3" length="1356" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[ebed2e10-55da-45d5-93ad-f570c8dea839]]></guid>
+   <pubDate>Mon, 20 Mar 2023 19:03:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/9a91d446-3705-4f98-82b1-d7b3694992a6/cover-art/xe6REFEoqrGFOgYTaBYdk0KmlmmyDAl01AEOu3Q4.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1356</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[Safetyism [In the Bullpen]]]></title>
+   <link>https://app.dropwave.io/episode/e4a0a6bc-6147-4388-9cd2-53db6684ad36/safetyism.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/e4a0a6bc-6147-4388-9cd2-53db6684ad36/safetyism.mp3" length="1532" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[e4a0a6bc-6147-4388-9cd2-53db6684ad36]]></guid>
+   <pubDate>Mon, 20 Mar 2023 16:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1532</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[TCND:  Respect, Opinions, Authority, and Riding Baskets Down Stair (Three Cigars Per Year) [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/e5101d72-aae2-47e6-b1cc-e18bd01eb155/tcnd-respect-opinions-authority-and-riding-baskets-down-stair-three-cigars-a-year.mp3</link>
@@ -91,14 +121,14 @@
 <p class="p2">YouTube: <a href="https://www.youtube.com/@liberty4canada">https://www.youtube.com/@liberty4canada</a>&nbsp;</p>
 <p class="p1"><strong>Please LIKE, SUBSCRIBE, RATE &amp; REVIEW and SHARE it with others!</strong></p>]]></description>
    <author><![CDATA[Michael Thiessen, Chase Davis, Matt Fitzpatrick]]></author>
-   <enclosure url="https://app.dropwave.io/episode/13fdd182-8023-440c-a936-1c104797790e/faithful-church-planting-in-an-unfaithful-age-ft-pastors-chase-davis-matt-fitzpatrick.mp3" length="4609" type="audio/mp3"/>
+   <enclosure url="https://app.dropwave.io/episode/13fdd182-8023-440c-a936-1c104797790e/faithful-church-planting-in-an-unfaithful-age-ft-pastors-chase-davis-matt-fitzpatrick.mp3" length="4562" type="audio/mp3"/>
    <guid isPermaLink="false"><![CDATA[13fdd182-8023-440c-a936-1c104797790e]]></guid>
    <pubDate>Sat, 18 Mar 2023 14:00:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[Michael Thiessen, Chase Davis, Matt Fitzpatrick]]></itunes:author>
    <itunes:image href="https://assets-cdn2.dropwave.io/a313a937-1864-4720-a5eb-4fe53c91d48d/cover-art/uUheeW63MRtlJ15cfD2JSiW4qu9YifPAUxqcvBE5.jpg"/>
    <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>4609</itunes:duration>
+   <itunes:duration>4562</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -1068,6 +1098,21 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
+   <title><![CDATA[Ephesians 5:6-14 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/0cb2ed38-ef4a-46bf-be93-08b9831bca54/ephesians-56-14.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/0cb2ed38-ef4a-46bf-be93-08b9831bca54/ephesians-56-14.mp3" length="328" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[0cb2ed38-ef4a-46bf-be93-08b9831bca54]]></guid>
+   <pubDate>Tue, 14 Mar 2023 09:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>328</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
    <title><![CDATA[By God We Take It Back [The Rebel Podcast]]]></title>
    <link>https://app.dropwave.io/episode/daddcaba-0b28-45e5-844a-2ddc49d828b0/by-god-we-take-it-back.mp3</link>
    <description><![CDATA[<p>The Rebels and friends talk about how we start taking back control of our lives from the state.</p>
@@ -1084,21 +1129,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2589</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Ephesians 5:6-14 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/0cb2ed38-ef4a-46bf-be93-08b9831bca54/ephesians-56-14.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[Mark Dewey]]></author>
-   <enclosure url="https://app.dropwave.io/episode/0cb2ed38-ef4a-46bf-be93-08b9831bca54/ephesians-56-14.mp3" length="328" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[0cb2ed38-ef4a-46bf-be93-08b9831bca54]]></guid>
-   <pubDate>Tue, 14 Mar 2023 09:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>328</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -1526,29 +1556,6 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[Doug Wilson’s Ride Sally Ride - His Prophetic Novel that Caused a Stir [CrossPolitic Show]]]></title>
-   <link>https://app.dropwave.io/episode/b34474e3-6392-4570-815c-13b090c78fc8/doug-wilsons-ride-sally-ride-his-prophetic-novel-that-caused-a-stir.mp3</link>
-   <description><![CDATA[<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">Doug Wilson&rsquo;s Ride Sally Ride - His Prophetic Novel that Caused a Stir</span></p>
-<p class="p2">&nbsp;</p>
-<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">Back with our greatest hits: Doug Wilson &amp; his novel Ride Sally Ride - the prophetic story that was set evangellyfish hair on fire!<span class="Apple-converted-space">&nbsp;</span></span></p>
-<p class="p2">&nbsp;</p>
-<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">Sign up for the FLF Conference at the Ark Encounter! (Oct 11-14)</span></p>
-<p class="p3"><span style="font-family: 'book antiqua', palatino, serif;"><a href="https://flfnetwork.com/the-politics-of-six-days-creation-conference/">https://flfnetwork.com/the-politics-of-six-days-creation-conference/</a><span class="s1"><span class="Apple-converted-space">&nbsp;</span></span></span></p>
-<p class="p2">&nbsp;</p>
-<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">Become a Fight Laugh Feast Member (Support the Show!)</span></p>
-<p class="p3"><span style="font-family: 'book antiqua', palatino, serif;"><a href="https://flfnetwork.com/product/fightlaughfestclub/">https://flfnetwork.com/product/fightlaughfestclub/</a><span class="s1"> <span class="Apple-converted-space">&nbsp;</span></span></span></p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/b34474e3-6392-4570-815c-13b090c78fc8/doug-wilsons-ride-sally-ride-his-prophetic-novel-that-caused-a-stir.mp3" length="3736" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[b34474e3-6392-4570-815c-13b090c78fc8]]></guid>
-   <pubDate>Thu, 09 Mar 2023 02:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/wvkjcfd3tfj69XopdryYkSF8m1k4KHuikzJF1KzC.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3736</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
    <title><![CDATA[CrossPolitic Daily News Brief for Wednesday, March 8th, 2023 [Daily News Brief]]]></title>
    <link>https://app.dropwave.io/episode/ce65feca-cee4-4e21-a8d4-953cd851e55b/crosspolitic-daily-news-brief-for-wednesday-march-8th-2023.mp3</link>
    <description><![CDATA[<p><span style="font-weight: 400; font-family: 'book antiqua', palatino, serif;">This is Garrison Hardie with your CrossPolitic Daily News Brief for Wednesday, March 8th, 2023.&nbsp;</span></p>
@@ -1666,6 +1673,29 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
+   <title><![CDATA[Doug Wilson’s Ride Sally Ride - His Prophetic Novel that Caused a Stir [CrossPolitic Show]]]></title>
+   <link>https://app.dropwave.io/episode/b34474e3-6392-4570-815c-13b090c78fc8/doug-wilsons-ride-sally-ride-his-prophetic-novel-that-caused-a-stir.mp3</link>
+   <description><![CDATA[<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">Doug Wilson&rsquo;s Ride Sally Ride - His Prophetic Novel that Caused a Stir</span></p>
+<p class="p2">&nbsp;</p>
+<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">Back with our greatest hits: Doug Wilson &amp; his novel Ride Sally Ride - the prophetic story that was set evangellyfish hair on fire!<span class="Apple-converted-space">&nbsp;</span></span></p>
+<p class="p2">&nbsp;</p>
+<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">Sign up for the FLF Conference at the Ark Encounter! (Oct 11-14)</span></p>
+<p class="p3"><span style="font-family: 'book antiqua', palatino, serif;"><a href="https://flfnetwork.com/the-politics-of-six-days-creation-conference/">https://flfnetwork.com/the-politics-of-six-days-creation-conference/</a><span class="s1"><span class="Apple-converted-space">&nbsp;</span></span></span></p>
+<p class="p2">&nbsp;</p>
+<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">Become a Fight Laugh Feast Member (Support the Show!)</span></p>
+<p class="p3"><span style="font-family: 'book antiqua', palatino, serif;"><a href="https://flfnetwork.com/product/fightlaughfestclub/">https://flfnetwork.com/product/fightlaughfestclub/</a><span class="s1"> <span class="Apple-converted-space">&nbsp;</span></span></span></p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/b34474e3-6392-4570-815c-13b090c78fc8/doug-wilsons-ride-sally-ride-his-prophetic-novel-that-caused-a-stir.mp3" length="3736" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[b34474e3-6392-4570-815c-13b090c78fc8]]></guid>
+   <pubDate>Thu, 09 Mar 2023 02:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/wvkjcfd3tfj69XopdryYkSF8m1k4KHuikzJF1KzC.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3736</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
    <title><![CDATA[Chris Rock, and John Donn's, The Imagination of Suffering [Choc Knox Unplugged]]]></title>
    <link>https://app.dropwave.io/episode/1ae0ea12-00b6-445d-8bb1-ccb2ea6fb422/chris-rock-and-john-donns-the-imagination-of-suffering.mp3</link>
    <description><![CDATA[]]></description>
@@ -1693,45 +1723,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>276</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[State of the Nation, 2023 [The Ezra Institute Podcast for Cultural Reformation]]]></title>
-   <link>https://app.dropwave.io/episode/357176ce-15d7-423c-bdd3-525c083a08a3/state-of-the-nation-2023.mp3</link>
-   <description><![CDATA[<p>We take a short recess from the Ten Commandments series to talk about drag queen story hour protests, global Anglicanism, and other important news from around the world. And is the Ezra Institute going to be on the CBC?</p>
-<p><a href="https://www.ezrainstitute.com/training-programs/runneracademy/" target="_blank" rel="noreferrer noopener">Register for 2023 training programs: Runner Academy; Worldview Leadership Academy; and the Christianity and Culture Colloquium.</a></p>
-<p><a href="https://ezrapress.ca/products/the-mission-of-god" target="_blank" rel="noreferrer noopener">Get The Mission of God as the March Book of the Month on sale now</a></p>]]></description>
-   <author><![CDATA[Joe Boot, Ryan Eras]]></author>
-   <enclosure url="https://app.dropwave.io/episode/357176ce-15d7-423c-bdd3-525c083a08a3/state-of-the-nation-2023.mp3" length="3406" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[357176ce-15d7-423c-bdd3-525c083a08a3]]></guid>
-   <pubDate>Wed, 08 Mar 2023 05:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Joe Boot, Ryan Eras]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/1c3a97bd-65b0-4aec-bb35-3a1b6eec5d2c/cover-art/4rDIhLUsGj1xuXpLJYNdtwtbungA78glNHA7dOd9.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3406</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Steve Deace’s First Time in Studio w/ Joe Rigney - Talking Russia, Trump, LeBron, Jordan, & Caesar [CrossPolitic Show]]]></title>
-   <link>https://app.dropwave.io/episode/470485e7-54d6-4a13-a2d0-009f3d05c830/steve-deaces-first-time-in-studio-w-joe-rigney-talking-russia-trump-lebron-jordan-caesar.mp3</link>
-   <description><![CDATA[<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">Steve Deace&rsquo;s First Time in Studio w/ Joe Rigney - Talking Russia, Trump, LeBron, Jordan, &amp; Caesar</span></p>
-<p class="p2">&nbsp;</p>
-<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">Continuing on with some of our greatest hits - This is the first time we had Steve Deace in Studio (our old spot!). Man did we learn what a BAD MAN he was. In addition to that we were joined by Joe Rigney to add even more fuel to the fire!<span class="Apple-converted-space">&nbsp;</span></span></p>
-<p class="p2">&nbsp;</p>
-<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">Sign up for the FLF Conference at the Ark Encounter! (Oct 11-14)</span></p>
-<p class="p3"><span style="font-family: 'book antiqua', palatino, serif;"><a href="https://flfnetwork.com/the-politics-of-six-days-creation-conference/">https://flfnetwork.com/the-politics-of-six-days-creation-conference/</a><span class="s1"><span class="Apple-converted-space">&nbsp;</span></span></span></p>
-<p class="p2">&nbsp;</p>
-<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">Become a Fight Laugh Feast Member (Support the Show!)</span><br /><span style="font-family: 'book antiqua', palatino, serif;"><a href="https://flfnetwork.com/product/fightlaughfestclub/"><span class="s2">https://flfnetwork.com/product/fightlaughfestclub/</span></a> <span class="Apple-converted-space">&nbsp;</span></span></p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/470485e7-54d6-4a13-a2d0-009f3d05c830/steve-deaces-first-time-in-studio-w-joe-rigney-talking-russia-trump-lebron-jordan-caesar.mp3" length="3747" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[470485e7-54d6-4a13-a2d0-009f3d05c830]]></guid>
-   <pubDate>Wed, 08 Mar 2023 02:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/wvkjcfd3tfj69XopdryYkSF8m1k4KHuikzJF1KzC.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3747</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
