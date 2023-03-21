@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Tue, 21 Mar 2023 01:25:46 +0000</pubDate>
-  <lastBuildDate>Tue, 21 Mar 2023 01:25:46 +0000</lastBuildDate>
+  <pubDate>Tue, 21 Mar 2023 07:25:44 +0000</pubDate>
+  <lastBuildDate>Tue, 21 Mar 2023 07:25:44 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -26,6 +26,22 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Carlyle [Resistance and Reformation]]]></title>
+   <link>https://app.dropwave.io/episode/07e7e909-f146-431f-b25a-bd37d496a888/carlyle.mp3</link>
+   <description><![CDATA[<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">For more from Dr. George Grant<span class="Apple-converted-space">&nbsp;</span></span></p>
+<p class="p2"><span style="font-family: 'book antiqua', palatino, serif;"><a href="https://georgegrant.net/">https://georgegrant.net/</a><span class="s1"><span class="Apple-converted-space">&nbsp;</span></span></span></p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/07e7e909-f146-431f-b25a-bd37d496a888/carlyle.mp3" length="669" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[07e7e909-f146-431f-b25a-bd37d496a888]]></guid>
+   <pubDate>Tue, 21 Mar 2023 16:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>669</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[Ordinary Means [Resistance and Reformation]]]></title>
    <link>https://app.dropwave.io/episode/bc6a8ec7-4b27-4bbd-aad6-050a0d19d618/ordinary-means.mp3</link>
    <description><![CDATA[<p><span style="font-family: 'book antiqua', palatino, serif;">For more from Dr. George Grant, visit <a href="https://georgegrant.net">https://georgegrant.net</a>&nbsp;</span></p>]]></description>
