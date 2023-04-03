@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 03 Apr 2023 07:25:43 +0000</pubDate>
-  <lastBuildDate>Mon, 03 Apr 2023 07:25:43 +0000</lastBuildDate>
+  <pubDate>Mon, 03 Apr 2023 13:25:43 +0000</pubDate>
+  <lastBuildDate>Mon, 03 Apr 2023 13:25:43 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -26,6 +26,21 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[John 12:20-26 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/c8817e09-52d2-4d67-874a-91706bd46fb0/john-1220-26.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/c8817e09-52d2-4d67-874a-91706bd46fb0/john-1220-26.mp3" length="316" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[c8817e09-52d2-4d67-874a-91706bd46fb0]]></guid>
+   <pubDate>Mon, 03 Apr 2023 09:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>316</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[Matthew 21:1-11 [Up and Ready]]]></title>
    <link>https://app.dropwave.io/episode/ea80f2f5-35a7-428e-9cfb-ef67da87cbc1/matthew-211-11.mp3</link>
    <description><![CDATA[]]></description>
@@ -174,7 +189,6 @@
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>310</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
-  
   </item>
  </channel>
 </rss>
