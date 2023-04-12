@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 10 Apr 2023 07:25:45 +0000</pubDate>
-  <lastBuildDate>Mon, 10 Apr 2023 07:25:45 +0000</lastBuildDate>
+  <pubDate>Wed, 12 Apr 2023 19:25:44 +0000</pubDate>
+  <lastBuildDate>Wed, 12 Apr 2023 19:25:44 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -26,19 +26,20 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
-   <title><![CDATA[KU_Dealing w/ a Demon Possessed Culture and John Wick 4 [Choc Knox Unplugged]]]></title>
-   <link>https://app.dropwave.io/episode/728c6af2-83a6-4eed-a4cb-87523816fdba/ku-dealing-w-a-demon-possessed-culture-and-john-wick-4.mp3</link>
+   <title><![CDATA[Live Event set for Nashville! ft. David Fowler [Choc Knox Unplugged]]]></title>
+   <link>https://app.dropwave.io/episode/1be8bcf4-52bb-42b3-8549-015c5ac528d5/live-event-set-for-nashville-ft-david-fowler.mp3</link>
    <description><![CDATA[]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/728c6af2-83a6-4eed-a4cb-87523816fdba/ku-dealing-w-a-demon-possessed-culture-and-john-wick-4.mp3" length="7857" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[728c6af2-83a6-4eed-a4cb-87523816fdba]]></guid>
-   <pubDate>Tue, 28 Mar 2023 20:40:00 +0000</pubDate>
+   <author><![CDATA[Chocolate Knox, Jason Farley]]></author>
+   <enclosure url="https://app.dropwave.io/episode/1be8bcf4-52bb-42b3-8549-015c5ac528d5/live-event-set-for-nashville-ft-david-fowler.mp3" length="1900" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[1be8bcf4-52bb-42b3-8549-015c5ac528d5]]></guid>
+   <pubDate>Wed, 12 Apr 2023 18:39:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:author><![CDATA[Chocolate Knox, Jason Farley]]></itunes:author>
    <itunes:image href="https://assets-cdn2.dropwave.io/6123b54f-ab49-406c-9cba-a39f6730fc76/cover-art/ARuuU8PixHGkhNvgtHIHIGGJjBUPNwgZEkuaGqzL.png"/>
    <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>7857</itunes:duration>
+   <itunes:duration>1900</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
+  
   </item>
  </channel>
 </rss>
