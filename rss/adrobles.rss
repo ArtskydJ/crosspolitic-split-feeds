@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Wed, 12 Apr 2023 13:25:46 +0000</pubDate>
-  <lastBuildDate>Wed, 12 Apr 2023 13:25:46 +0000</lastBuildDate>
+  <pubDate>Thu, 20 Apr 2023 19:25:45 +0000</pubDate>
+  <lastBuildDate>Thu, 20 Apr 2023 19:25:45 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -26,19 +26,20 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
-   <title><![CDATA[Keep Yourself From Pornos and Drugs and Hydrogenated Oils [AD on FLF Network]]]></title>
-   <link>https://app.dropwave.io/episode/a2c59b83-cbd9-48c3-afa6-cd64aa1b5414/keep-yourself-from-pornos-and-drugs-and-hydrogenated-oils.mp3</link>
-   <description><![CDATA[<p>A Simple Christian Life</p>]]></description>
+   <title><![CDATA[A Reasonable Latino Comments on Dr. James White's Comments RE: Wolfe's White Eva Tweet [AD on FLF Network]]]></title>
+   <link>https://app.dropwave.io/episode/568eb074-cbc5-40f3-8ba0-3202900e35f4/a-reasonable-latino-comments-on-dr-james-whites-comments-re-wolfes-white-eva-tweet.mp3</link>
+   <description><![CDATA[]]></description>
    <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/a2c59b83-cbd9-48c3-afa6-cd64aa1b5414/keep-yourself-from-pornos-and-drugs-and-hydrogenated-oils.mp3" length="1329" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[a2c59b83-cbd9-48c3-afa6-cd64aa1b5414]]></guid>
-   <pubDate>Thu, 30 Mar 2023 14:46:00 +0000</pubDate>
+   <enclosure url="https://app.dropwave.io/episode/568eb074-cbc5-40f3-8ba0-3202900e35f4/a-reasonable-latino-comments-on-dr-james-whites-comments-re-wolfes-white-eva-tweet.mp3" length="3030" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[568eb074-cbc5-40f3-8ba0-3202900e35f4]]></guid>
+   <pubDate>Thu, 20 Apr 2023 17:41:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
    <itunes:image href="https://assets-cdn2.dropwave.io/e985f24f-d823-4e20-b87a-9e2fa86624f5/cover-art/me0OCTvDSY04mcI5sI97SZ3jsUtDXyHr5ExQtpr2.jpg"/>
    <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1329</itunes:duration>
+   <itunes:duration>3030</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
+  
   </item>
  </channel>
 </rss>
