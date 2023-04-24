@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 24 Apr 2023 07:25:50 +0000</pubDate>
-  <lastBuildDate>Mon, 24 Apr 2023 07:25:50 +0000</lastBuildDate>
+  <pubDate>Mon, 24 Apr 2023 13:25:43 +0000</pubDate>
+  <lastBuildDate>Mon, 24 Apr 2023 13:25:43 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[1 Peter 2:21-25 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/b3232661-7a9c-4e0e-8523-50ac7868c978/1-peter-221-25.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/b3232661-7a9c-4e0e-8523-50ac7868c978/1-peter-221-25.mp3" length="306" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[b3232661-7a9c-4e0e-8523-50ac7868c978]]></guid>
+   <pubDate>Mon, 24 Apr 2023 09:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>306</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Having Two Legs: 6 Principles for Raising Kids in a Homosexual World [Pastor Toby’s Blog]]]></title>
    <link>https://app.dropwave.io/episode/5694c260-728b-4163-a22a-0c40d65ff989/having-two-legs-6-principles-for-raising-kids-in-a-homosexual-world.mp3</link>
@@ -1800,23 +1815,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/69893365-4165-4498-b0ac-e9ddf57a000f/cover-art/E86eLfK3NgjrpuXtk9kW9Qv6KcfzQpkJpToltreR.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>6190</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Fall [Resistance and Reformation]]]></title>
-   <link>https://app.dropwave.io/episode/3d7968d4-6c58-47fc-b73f-5c84d56e1ced/fall.mp3</link>
-   <description><![CDATA[<p><span style="font-family: 'book antiqua', palatino, serif;">"Fall" - Dr. Grant on the Covenant School Shooting during his Presbytery meeting - This is Resistance &amp; Reformation</span></p>
-<p><span style="font-family: 'book antiqua', palatino, serif;">For more from Dr. George Grant, visit <a href="https://georgegrant.net/">https://georgegrant.net/</a>&nbsp;</span></p>
-<p>&nbsp;</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/3d7968d4-6c58-47fc-b73f-5c84d56e1ced/fall.mp3" length="623" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[3d7968d4-6c58-47fc-b73f-5c84d56e1ced]]></guid>
-   <pubDate>Tue, 11 Apr 2023 16:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>623</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
