@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Sat, 03 Jun 2023 07:25:47 +0000</pubDate>
-  <lastBuildDate>Sat, 03 Jun 2023 07:25:47 +0000</lastBuildDate>
+  <pubDate>Sat, 03 Jun 2023 13:25:47 +0000</pubDate>
+  <lastBuildDate>Sat, 03 Jun 2023 13:25:47 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -26,6 +26,21 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[2 Corinthians 13:11-14 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/6a455813-2f15-48d7-815b-22c121435619/2-corinthians-1311-14.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/6a455813-2f15-48d7-815b-22c121435619/2-corinthians-1311-14.mp3" length="353" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[6a455813-2f15-48d7-815b-22c121435619]]></guid>
+   <pubDate>Sat, 03 Jun 2023 09:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>353</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[Job 19:25-27 [Up and Ready]]]></title>
    <link>https://app.dropwave.io/episode/0c085451-ada4-4508-b649-57f4e0678538/job-1925-27.mp3</link>
    <description><![CDATA[]]></description>
@@ -175,20 +190,6 @@
    <itunes:duration>300</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   
-  </item><item>
-   <title><![CDATA[Proverbs 19:21 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/7588998c-f8cc-49ab-a4a1-e110dfa49d1c/proverbs-1921.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[Mark Dewey]]></author>
-   <enclosure url="https://app.dropwave.io/episode/7588998c-f8cc-49ab-a4a1-e110dfa49d1c/proverbs-1921.mp3" length="275" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[7588998c-f8cc-49ab-a4a1-e110dfa49d1c]]></guid>
-   <pubDate>Mon, 22 May 2023 09:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>275</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
 </rss>
