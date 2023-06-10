@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Fri, 09 Jun 2023 19:25:43 +0000</pubDate>
-  <lastBuildDate>Fri, 09 Jun 2023 19:25:43 +0000</lastBuildDate>
+  <pubDate>Sat, 10 Jun 2023 01:25:42 +0000</pubDate>
+  <lastBuildDate>Sat, 10 Jun 2023 01:25:42 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -26,6 +26,21 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Why Common Law Meets Resistance on the Right and Left [God, Law, and Liberty]]]></title>
+   <link>https://app.dropwave.io/episode/d0c36bbb-06be-41ff-9606-6a98b6d6ddcb/why-common-law-meets-resistance-on-the-right-and-left.mp3</link>
+   <description><![CDATA[<p>When you talk about common law, you are likely to run into two kinds of opposition&mdash;the uninformed who you can help, and&nbsp;those who&nbsp;hate the thought we don&rsquo;t get to make up the law. It&rsquo;s not anything new to our country. David will help you answer the critics and use a SCOTUS decision to help you spot those critics who have a self-interested political agenda.</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/d0c36bbb-06be-41ff-9606-6a98b6d6ddcb/why-common-law-meets-resistance-on-the-right-and-left.mp3" length="1550" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[d0c36bbb-06be-41ff-9606-6a98b6d6ddcb]]></guid>
+   <pubDate>Fri, 09 Jun 2023 23:13:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/467f99a9-2921-459a-b63d-9710f4355795/cover-art/NfIiWk63DcTZDyxvLeIFWsl5ZYmGMZrGha0zyJDD.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1550</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[Making Practical the Application of the Biblical Conception of Law [God, Law, and Liberty]]]></title>
    <link>https://app.dropwave.io/episode/e2dec922-89ce-454c-a9d9-79fdbf1d31fa/making-practical-the-application-of-the-biblical-conception-of-law.mp3</link>
    <description><![CDATA[<p>Today David uses apparently contradictory verses in Proverbs to demonstrate how easy it is to read the Bible according to the legal positivism of Jeremy Bentham. Then he applies the wisdom hidden in that apparent contradiction to how we should argue in federal court in support of the constitutionality of state laws prohibiting the application of transgender procedures to minors. Today&rsquo;s episode may tell you if you&rsquo;re really a legal positivist.</p>]]></description>
@@ -40,20 +55,6 @@
    <itunes:duration>1857</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   
-  </item><item>
-   <title><![CDATA[From God to Man: The Transformation of America’s View of Law [God, Law, and Liberty]]]></title>
-   <link>https://app.dropwave.io/episode/7d896db0-2fe2-4a36-842f-c0a52ab1971c/from-god-to-man-the-transformation-of-americas-view-of-law.mp3</link>
-   <description><![CDATA[<p>Today David explains how America transitioned from the biblical conception of law espoused by Bracton and Blackstone from the 13<sup>th</sup>&nbsp;through the 18<sup>th</sup>&nbsp;centuries to Jeremy Bentham&rsquo;s positivistic, utilitarian conception of law embraced by Oliver Wendell Holmes who changed the conception of law held today by most Christian lawyers. The applicability in our day of quotes from Holmes over a century ago will be eye-opening. To paraphrase Dorothy&rsquo;s comment to Toto, you don&rsquo;t live in a Christian cosmos anymore.</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/7d896db0-2fe2-4a36-842f-c0a52ab1971c/from-god-to-man-the-transformation-of-americas-view-of-law.mp3" length="1651" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[7d896db0-2fe2-4a36-842f-c0a52ab1971c]]></guid>
-   <pubDate>Fri, 26 May 2023 14:59:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/467f99a9-2921-459a-b63d-9710f4355795/cover-art/EKoJpYAjI6W8uCj7uARbbZ0Q8D8OFWJJFpdjceXU.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1651</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
 </rss>
