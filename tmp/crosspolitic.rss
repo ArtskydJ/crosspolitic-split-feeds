@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 19 Jun 2023 07:25:49 +0000</pubDate>
-  <lastBuildDate>Mon, 19 Jun 2023 07:25:49 +0000</lastBuildDate>
+  <pubDate>Mon, 19 Jun 2023 13:25:47 +0000</pubDate>
+  <lastBuildDate>Mon, 19 Jun 2023 13:25:47 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Luke 24:50-53 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/ef1bd529-2e4b-4f95-b76d-a30c48aae2b0/luke-2450-53.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/ef1bd529-2e4b-4f95-b76d-a30c48aae2b0/luke-2450-53.mp3" length="294" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[ef1bd529-2e4b-4f95-b76d-a30c48aae2b0]]></guid>
+   <pubDate>Mon, 19 Jun 2023 09:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>294</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[SPECIAL LEGAL UPDATE: Canada's Corrupt Legal System Comes for Convictional Christians  ft. James S.M. Kitchen [Open Mike with Michael Thiessen]]]></title>
    <link>https://app.dropwave.io/episode/19960760-d428-47d4-978e-5c33cad06a81/special-legal-update-canadas-corrupt-legal-system-comes-for-convictional-christians-ft-james-sm-kitchen.mp3</link>
@@ -1502,21 +1517,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/e985f24f-d823-4e20-b87a-9e2fa86624f5/cover-art/me0OCTvDSY04mcI5sI97SZ3jsUtDXyHr5ExQtpr2.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1206</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Job 19:25-27 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/0c085451-ada4-4508-b649-57f4e0678538/job-1925-27.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[Mark Dewey]]></author>
-   <enclosure url="https://app.dropwave.io/episode/0c085451-ada4-4508-b649-57f4e0678538/job-1925-27.mp3" length="257" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[0c085451-ada4-4508-b649-57f4e0678538]]></guid>
-   <pubDate>Fri, 02 Jun 2023 09:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>257</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
