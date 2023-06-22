@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Thu, 22 Jun 2023 13:25:44 +0000</pubDate>
-  <lastBuildDate>Thu, 22 Jun 2023 13:25:44 +0000</lastBuildDate>
+  <pubDate>Thu, 22 Jun 2023 19:25:46 +0000</pubDate>
+  <lastBuildDate>Thu, 22 Jun 2023 19:25:46 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[The Deadly Sin of Gluttony [Leadership Now Podcast]]]></title>
+   <link>https://app.dropwave.io/episode/e8919974-6899-48a6-9fc1-08ef03ce01c3/the-deadly-sin-of-gluttony.mp3</link>
+   <description><![CDATA[<p>It's not popular to talk about, but gluttony is a deadly and rampant sin. In this episode, Dr. Aaron Rock explains exactly what the sin of gluttony is and how we can overcome it.</p>]]></description>
+   <author><![CDATA[Aaron Rock, Chris Eelman]]></author>
+   <enclosure url="https://app.dropwave.io/episode/e8919974-6899-48a6-9fc1-08ef03ce01c3/the-deadly-sin-of-gluttony.mp3" length="3199" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[e8919974-6899-48a6-9fc1-08ef03ce01c3]]></guid>
+   <pubDate>Thu, 22 Jun 2023 18:31:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Aaron Rock, Chris Eelman]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/3312a6b0-2b88-4186-bfdd-e9c55d3d7e0f/cover-art/DJmJxOQEoRfGbs693sV6kEnKEGWstWUfdEXbQra8.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3199</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Daily News Brief forThursday, June 22nd, 2023 [Daily News Brief]]]></title>
    <link>https://app.dropwave.io/episode/bad7d79d-46cf-4de8-8e54-6a5acf142f67/daily-news-brief-forthursday-june-22nd-2023.mp3</link>
@@ -1826,28 +1841,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/69893365-4165-4498-b0ac-e9ddf57a000f/cover-art/E86eLfK3NgjrpuXtk9kW9Qv6KcfzQpkJpToltreR.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>7776</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[CBC Interviews & Secret Recordings [Leadership Now Podcast]]]></title>
-   <link>https://app.dropwave.io/episode/de6fae72-8370-4083-9983-9c019f76c673/cbc-interviews-secret-recordings.mp3</link>
-   <description><![CDATA[<p>In this episode of Leadership Now with Dr. Aaron Rock, Aaron and Chris discuss a news article/podcast that was released by the CBC (Canadian Broadcasting Corporation) which featured interviews from Aaron on his stance on lockdowns, sphere sovereignty, and LGBTQ.</p>
-<p>&nbsp;</p>
-<p><strong>More Resources:</strong></p>
-<p>Link to CBC article/podcast here: <a title="Inside the fundamentalist Christian movement that wants to remake Canadian politics Social Sharing Facebook Twitter Email Reddit LinkedIn" href="https://www.cbc.ca/news/politics/fundamentalist-christian-movement-1.6793677" target="_blank" rel="noreferrer noopener">https://www.cbc.ca/news/politics/fundamentalist-christian-movement-1.6793677</a></p>
-<p>&nbsp;</p>
-<p>We are excited to partner with the Fight Laugh Feast Network to reach more listeners. Download the app here:&nbsp;<a href="https://subsplash.com/fightlaughfeastnetwork/app" target="_blank" rel="noreferrer noopener">https://subsplash.com/</a><a href="https://subsplash.com/fightlaughfeastnetwork/app" target="_blank" rel="noreferrer noopener">fightlaughfeastnetwork/app</a></p>
-<p>&nbsp;</p>
-<p>More resources at Dr. Aaron Rock&rsquo;s blog: Pursuit of Glory&nbsp;<a href="https://pursuitofglory.org/" target="_blank" rel="noreferrer noopener">https://pursuitofglory.org/</a></p>]]></description>
-   <author><![CDATA[Aaron Rock, Chris Eelman]]></author>
-   <enclosure url="https://app.dropwave.io/episode/de6fae72-8370-4083-9983-9c019f76c673/cbc-interviews-secret-recordings.mp3" length="3520" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[de6fae72-8370-4083-9983-9c019f76c673]]></guid>
-   <pubDate>Thu, 08 Jun 2023 19:49:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Aaron Rock, Chris Eelman]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/3312a6b0-2b88-4186-bfdd-e9c55d3d7e0f/cover-art/DJmJxOQEoRfGbs693sV6kEnKEGWstWUfdEXbQra8.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3520</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
