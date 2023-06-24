@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Sat, 24 Jun 2023 13:25:54 +0000</pubDate>
-  <lastBuildDate>Sat, 24 Jun 2023 13:25:54 +0000</lastBuildDate>
+  <pubDate>Sat, 24 Jun 2023 19:25:51 +0000</pubDate>
+  <lastBuildDate>Sat, 24 Jun 2023 19:25:51 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -205,20 +205,6 @@
    <itunes:duration>379</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   
-  </item><item>
-   <title><![CDATA[Psalm 8 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/9fe44766-c4b8-40d3-a559-b010692f9534/psalm-8.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[Mark Dewey]]></author>
-   <enclosure url="https://app.dropwave.io/episode/9fe44766-c4b8-40d3-a559-b010692f9534/psalm-8.mp3" length="311" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[9fe44766-c4b8-40d3-a559-b010692f9534]]></guid>
-   <pubDate>Sat, 10 Jun 2023 09:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>311</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
 </rss>
