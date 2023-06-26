@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 26 Jun 2023 13:25:47 +0000</pubDate>
-  <lastBuildDate>Mon, 26 Jun 2023 13:25:47 +0000</lastBuildDate>
+  <pubDate>Mon, 26 Jun 2023 19:25:47 +0000</pubDate>
+  <lastBuildDate>Mon, 26 Jun 2023 19:25:47 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[What Are You Watching? [In the Bullpen]]]></title>
+   <link>https://app.dropwave.io/episode/9ba076e0-2903-4ada-bdd4-226995511be0/what-are-you-watching.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/9ba076e0-2903-4ada-bdd4-226995511be0/what-are-you-watching.mp3" length="1812" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[9ba076e0-2903-4ada-bdd4-226995511be0]]></guid>
+   <pubDate>Mon, 26 Jun 2023 16:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1812</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[TCND:  Submersibles and Role-Playing Evil (Nerves!) [The Comedian Next Door]]]></title>
    <link>https://app.dropwave.io/episode/29a17239-87e2-42b7-a0b8-0dc937204f4f/tcnd-submersibles-and-role-playing-evil-nerves.mp3</link>
@@ -727,6 +742,21 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
+   <title><![CDATA[Introduction to Edmund Spenser's 'The Faerie Queene' and Transformers Spoilers [Choc Knox Unplugged]]]></title>
+   <link>https://app.dropwave.io/episode/c2989840-1356-4d5b-bc33-833c4eb967e1/introduction-to-edmund-spencers-the-faerie-queene-and-transformers-spoilers.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/c2989840-1356-4d5b-bc33-833c4eb967e1/introduction-to-edmund-spencers-the-faerie-queene-and-transformers-spoilers.mp3" length="8494" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[c2989840-1356-4d5b-bc33-833c4eb967e1]]></guid>
+   <pubDate>Tue, 20 Jun 2023 16:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/6123b54f-ab49-406c-9cba-a39f6730fc76/cover-art/ARuuU8PixHGkhNvgtHIHIGGJjBUPNwgZEkuaGqzL.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>8494</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
    <title><![CDATA[Nostalgia [Resistance and Reformation]]]></title>
    <link>https://app.dropwave.io/episode/3a39a05d-841d-4517-b527-83845e741f97/nostalgia.mp3</link>
    <description><![CDATA[<p>More from Dr. George Grant</p>
@@ -743,21 +773,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>533</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Introduction to Edmund Spenser's 'The Faerie Queene' and Transformers Spoilers [Choc Knox Unplugged]]]></title>
-   <link>https://app.dropwave.io/episode/c2989840-1356-4d5b-bc33-833c4eb967e1/introduction-to-edmund-spencers-the-faerie-queene-and-transformers-spoilers.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/c2989840-1356-4d5b-bc33-833c4eb967e1/introduction-to-edmund-spencers-the-faerie-queene-and-transformers-spoilers.mp3" length="8494" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[c2989840-1356-4d5b-bc33-833c4eb967e1]]></guid>
-   <pubDate>Tue, 20 Jun 2023 16:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/6123b54f-ab49-406c-9cba-a39f6730fc76/cover-art/ARuuU8PixHGkhNvgtHIHIGGJjBUPNwgZEkuaGqzL.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>8494</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -1751,27 +1766,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1958</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[TCND: Disc Golf, Selfish Drivers, and Friendly Chit-Chat (Giggle a Little Bit) [The Comedian Next Door]]]></title>
-   <link>https://app.dropwave.io/episode/cb9b7fbd-602f-4a3f-8f46-2f7351e8f715/tcnd-disc-golf-selfish-drivers-and-friendly-chit-chat-giggle-a-little-bit.mp3</link>
-   <description><![CDATA[<p>If you're looking to improve your disc golf game, Neighbor, you are in luck! We have a great strategy--guaranteed to give you that "wet" shot all the athletes are aiming for!&nbsp;<br /><br />Then: we take a break to issue a boundary...&nbsp; &nbsp;</p>
-<p>The Peaches sees everything through the lens of Mothers/Fathers raising children.&nbsp; &nbsp;But maybe we'd all do better to pay attention to what's happening in the Real Life right in front of us... Things like people parking in the fire lane... &nbsp;(There's nothing we can do except be aware that "They" exist.)</p>
-<p>Later:&nbsp; Luke feels bad for breaking unwritten rules.&nbsp; Meanwhile, the Peaches bonded with Mark, the Bank Guy...&nbsp;&nbsp;</p>
-<p>Finally:&nbsp; If P then Q. They don't teach logic in school anymore, and that's why people often misunderstand what the Bible is saying.&nbsp;</p>
-<p>What in the world should we title this hodgepodge conversation?!&nbsp;</p>
-<p>Email the Comedian's family using the address <a href="mailto:nextdoor@johnbranyan.com">nextdoor@johnbranyan.com,</a>&nbsp;</p>
-<p>Come on vacation with us!&nbsp; Details about Vacay with Comics on johnbranyan.com .&nbsp;</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/cb9b7fbd-602f-4a3f-8f46-2f7351e8f715/tcnd-disc-golf-selfish-drivers-and-friendly-chit-chat-giggle-a-little-bit.mp3" length="2854" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[cb9b7fbd-602f-4a3f-8f46-2f7351e8f715]]></guid>
-   <pubDate>Mon, 12 Jun 2023 11:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2854</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
