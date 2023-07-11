@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Tue, 11 Jul 2023 07:25:51 +0000</pubDate>
-  <lastBuildDate>Tue, 11 Jul 2023 07:25:51 +0000</lastBuildDate>
+  <pubDate>Tue, 11 Jul 2023 13:25:48 +0000</pubDate>
+  <lastBuildDate>Tue, 11 Jul 2023 13:25:48 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -26,6 +26,21 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Psalm 9:9-10 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/5213f900-7320-4c9e-92f7-ade851c7b56d/psalm-99-10.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/5213f900-7320-4c9e-92f7-ade851c7b56d/psalm-99-10.mp3" length="253" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[5213f900-7320-4c9e-92f7-ade851c7b56d]]></guid>
+   <pubDate>Tue, 11 Jul 2023 09:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>253</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[Romans 8:1 [Up and Ready]]]></title>
    <link>https://app.dropwave.io/episode/cf2d66ac-39c8-4fcd-a5a8-f9989bbd934b/romans-81.mp3</link>
    <description><![CDATA[]]></description>
@@ -203,21 +218,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>271</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  
-  </item><item>
-   <title><![CDATA[John 13:34-35 [Up and Ready]]]></title>
-   <link>https://app.dropwave.io/episode/94bee591-02a3-45b2-81aa-a9167db8482f/john-1334-35.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[Mark Dewey]]></author>
-   <enclosure url="https://app.dropwave.io/episode/94bee591-02a3-45b2-81aa-a9167db8482f/john-1334-35.mp3" length="237" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[94bee591-02a3-45b2-81aa-a9167db8482f]]></guid>
-   <pubDate>Mon, 26 Jun 2023 09:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>237</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
