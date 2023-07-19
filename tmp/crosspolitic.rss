@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Wed, 19 Jul 2023 07:25:45 +0000</pubDate>
-  <lastBuildDate>Wed, 19 Jul 2023 07:25:45 +0000</lastBuildDate>
+  <pubDate>Wed, 19 Jul 2023 13:25:47 +0000</pubDate>
+  <lastBuildDate>Wed, 19 Jul 2023 13:25:47 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[1 John 4:16 [Up and Ready]]]></title>
+   <link>https://app.dropwave.io/episode/c0b350e4-956c-432a-b2da-7c2f60d7e9de/1-john-416.mp3</link>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/c0b350e4-956c-432a-b2da-7c2f60d7e9de/1-john-416.mp3" length="333" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[c0b350e4-956c-432a-b2da-7c2f60d7e9de]]></guid>
+   <pubDate>Wed, 19 Jul 2023 09:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>333</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Christian Cowardice w/ Aaron Edwards [The Ezra Institute Podcast for Cultural Reformation]]]></title>
    <link>https://app.dropwave.io/episode/a96f8fe4-6d37-44f3-a33a-c3ac63f32976/christian-cowardice-w-aaron-edwards-1.mp3</link>
@@ -1490,14 +1505,14 @@ If you have questions while we work our way through, please send them to us thro
   </item>
   <item>
    <title><![CDATA[The Postmillennial Hope w/Andrew Sandlin [The Ezra Institute Podcast for Cultural Reformation]]]></title>
-   <link>https://app.dropwave.io/episode/6c182a44-faf7-4cef-91dc-6156528e233f/the-postmillennial-hope-wandrew-sandlin.mp3</link>
+   <link>https://app.dropwave.io/episode/6d4be2cc-5e59-4066-874a-ad7d0ae23954/the-postmillennial-hope-wandrew-sandlin-1.mp3</link>
    <description><![CDATA[<p>Ezra Institute Fellow Andrew Sandlin discusses his book,&nbsp;<em>A Postmillennial Primer</em>. In this episode, Andrew and Joe Boot outline the biblical case for an optimistic eschatology and the historical and ideological events that led to this doctrine&rsquo;s present position as a minority perspective in evangelicalism. In dependence on the Holy Spirit and through an attentive reading of Scripture, Christians should expect that Christ will continue to establish His kingdom on earth and drive back sin, death, and the devil.</p>
 <p><a href="https://www.amazon.com/gp/product/B0C7J78Q1C/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&amp;psc=1" target="_blank" rel="noreferrer noopener">Get A Postmillennial Primer</a></p>
 <p><a href="https://ezrapress.ca/products/jubilee-annual-subscription" target="_blank" rel="noreferrer noopener">This month, save on a subscription to the hard copy of Jubilee journal.</a></p>
 <p><a href="https://www.ezrainstitute.com/training-programs/worldview-leadership-academy/" target="_blank" rel="noreferrer noopener">Register for the Worldview Leadership Academy.</a></p>]]></description>
    <author><![CDATA[Joe Boot, Ryan Eras, Andrew Sandlin]]></author>
-   <enclosure url="https://app.dropwave.io/episode/6c182a44-faf7-4cef-91dc-6156528e233f/the-postmillennial-hope-wandrew-sandlin.mp3" length="2939" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[6c182a44-faf7-4cef-91dc-6156528e233f]]></guid>
+   <enclosure url="https://app.dropwave.io/episode/6d4be2cc-5e59-4066-874a-ad7d0ae23954/the-postmillennial-hope-wandrew-sandlin-1.mp3" length="2939" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[6d4be2cc-5e59-4066-874a-ad7d0ae23954]]></guid>
    <pubDate>Wed, 05 Jul 2023 04:00:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[Joe Boot, Ryan Eras, Andrew Sandlin]]></itunes:author>
@@ -1508,14 +1523,14 @@ If you have questions while we work our way through, please send them to us thro
   </item>
   <item>
    <title><![CDATA[The Postmillennial Hope w/Andrew Sandlin [The Ezra Institute Podcast for Cultural Reformation]]]></title>
-   <link>https://app.dropwave.io/episode/6d4be2cc-5e59-4066-874a-ad7d0ae23954/the-postmillennial-hope-wandrew-sandlin-1.mp3</link>
+   <link>https://app.dropwave.io/episode/6c182a44-faf7-4cef-91dc-6156528e233f/the-postmillennial-hope-wandrew-sandlin.mp3</link>
    <description><![CDATA[<p>Ezra Institute Fellow Andrew Sandlin discusses his book,&nbsp;<em>A Postmillennial Primer</em>. In this episode, Andrew and Joe Boot outline the biblical case for an optimistic eschatology and the historical and ideological events that led to this doctrine&rsquo;s present position as a minority perspective in evangelicalism. In dependence on the Holy Spirit and through an attentive reading of Scripture, Christians should expect that Christ will continue to establish His kingdom on earth and drive back sin, death, and the devil.</p>
 <p><a href="https://www.amazon.com/gp/product/B0C7J78Q1C/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&amp;psc=1" target="_blank" rel="noreferrer noopener">Get A Postmillennial Primer</a></p>
 <p><a href="https://ezrapress.ca/products/jubilee-annual-subscription" target="_blank" rel="noreferrer noopener">This month, save on a subscription to the hard copy of Jubilee journal.</a></p>
 <p><a href="https://www.ezrainstitute.com/training-programs/worldview-leadership-academy/" target="_blank" rel="noreferrer noopener">Register for the Worldview Leadership Academy.</a></p>]]></description>
    <author><![CDATA[Joe Boot, Ryan Eras, Andrew Sandlin]]></author>
-   <enclosure url="https://app.dropwave.io/episode/6d4be2cc-5e59-4066-874a-ad7d0ae23954/the-postmillennial-hope-wandrew-sandlin-1.mp3" length="2939" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[6d4be2cc-5e59-4066-874a-ad7d0ae23954]]></guid>
+   <enclosure url="https://app.dropwave.io/episode/6c182a44-faf7-4cef-91dc-6156528e233f/the-postmillennial-hope-wandrew-sandlin.mp3" length="2939" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[6c182a44-faf7-4cef-91dc-6156528e233f]]></guid>
    <pubDate>Wed, 05 Jul 2023 04:00:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[Joe Boot, Ryan Eras, Andrew Sandlin]]></itunes:author>
@@ -1572,21 +1587,6 @@ If you have questions while we work our way through, please send them to us thro
    <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>314</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Process and Results [In the Bullpen]]]></title>
-   <link>https://app.dropwave.io/episode/22d01753-872b-466a-8e17-22643d791318/process-and-results.mp3</link>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[MARK DEWEY]]></author>
-   <enclosure url="https://app.dropwave.io/episode/22d01753-872b-466a-8e17-22643d791318/process-and-results.mp3" length="1776" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[22d01753-872b-466a-8e17-22643d791318]]></guid>
-   <pubDate>Mon, 03 Jul 2023 16:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[MARK DEWEY]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1776</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
