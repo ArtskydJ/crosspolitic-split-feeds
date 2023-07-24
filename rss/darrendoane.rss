@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Fri, 31 Mar 2023 07:25:45 +0000</pubDate>
-  <lastBuildDate>Fri, 31 Mar 2023 07:25:45 +0000</lastBuildDate>
+  <pubDate>Mon, 24 Jul 2023 13:25:47 +0000</pubDate>
+  <lastBuildDate>Mon, 24 Jul 2023 13:25:47 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -26,18 +26,19 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
-   <title><![CDATA[Death by Opportunity: Part 3 - Access [The Doane Cast]]]></title>
-   <link>https://app.dropwave.io/episode/ebed2e10-55da-45d5-93ad-f570c8dea839/death-by-opportunity-part-3-access.mp3</link>
-   <description><![CDATA[<p>Death by Opportunity: Part 3 - Access&nbsp;</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/ebed2e10-55da-45d5-93ad-f570c8dea839/death-by-opportunity-part-3-access.mp3" length="1356" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[ebed2e10-55da-45d5-93ad-f570c8dea839]]></guid>
-   <pubDate>Mon, 20 Mar 2023 19:03:00 +0000</pubDate>
+   <title><![CDATA[Death by Opportunity: Part 4 - Experience [The Doane Cast]]]></title>
+   <link>https://app.dropwave.io/episode/e528da0c-2fe1-474c-a76c-043cae5e3a94/death-by-opportunity-part-4-experience.mp3</link>
+   <description><![CDATA[<p>Death by Opportunity: Part 4 - Experience &nbsp;</p>]]></description>
+   <author><![CDATA[Doane Creative Agency]]></author>
+   <enclosure url="https://app.dropwave.io/episode/e528da0c-2fe1-474c-a76c-043cae5e3a94/death-by-opportunity-part-4-experience.mp3" length="1786" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[e528da0c-2fe1-474c-a76c-043cae5e3a94]]></guid>
+   <pubDate>Mon, 24 Jul 2023 13:10:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:author><![CDATA[Doane Creative Agency]]></itunes:author>
+   <itunes:summary><![CDATA[Death by Opportunity: Part 4 - Experience]]></itunes:summary>
    <itunes:image href="https://assets-cdn2.dropwave.io/9a91d446-3705-4f98-82b1-d7b3694992a6/cover-art/xe6REFEoqrGFOgYTaBYdk0KmlmmyDAl01AEOu3Q4.png"/>
    <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1356</itunes:duration>
+   <itunes:duration>1786</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   
   </item>
