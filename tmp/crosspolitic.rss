@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Tue, 15 Aug 2023 13:26:39 +0000</pubDate>
-  <lastBuildDate>Tue, 15 Aug 2023 13:26:39 +0000</lastBuildDate>
+  <pubDate>Tue, 15 Aug 2023 19:25:46 +0000</pubDate>
+  <lastBuildDate>Tue, 15 Aug 2023 19:25:46 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,41 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Chris & Jordan Discuss All Things Nerdy [The Rebel Podcast]]]></title>
+   <link/>
+   <description><![CDATA[<p>With Pastor Nate still away, Chris &amp; Jordan seize the opportunity to discuss things close to their heart!</p>]]></description>
+   <author><![CDATA[Pastors Chris & Jordan]]></author>
+   <enclosure url="https://app.dropwave.io/episode/d3259c32-10f5-420e-ac9f-302816ad08f8/chris-jordan-discuss-all-things-nerdy.mp3" length="2076" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[d3259c32-10f5-420e-ac9f-302816ad08f8]]></guid>
+   <pubDate>Tue, 15 Aug 2023 17:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Pastors Chris & Jordan]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2076</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[Royal Society [Resistance and Reformation]]]></title>
+   <link/>
+   <description><![CDATA[<p><span style="font-weight: 400;">More from Dr. George Grant</span></p>
+<p><a href="https://georgegrant.net/"><span style="font-weight: 400;">https://georgegrant.net/</span></a><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">Adoring God Foundation&nbsp;</span></p>
+<p><a href="https://adoringgod.org/"><span style="font-weight: 400;">https://adoringgod.org/</span></a></p>
+<p>&nbsp;</p>]]></description>
+   <author><![CDATA[George Grant]]></author>
+   <enclosure url="https://app.dropwave.io/episode/82255794-b99c-4cea-be39-27e6daa31de7/royal-society.mp3" length="497" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[82255794-b99c-4cea-be39-27e6daa31de7]]></guid>
+   <pubDate>Tue, 15 Aug 2023 16:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[George Grant]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>497</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Daily News Brief for Tuessday, August 14th, 2023 [Daily News Brief]]]></title>
    <link/>
@@ -553,7 +588,7 @@
    <pubDate>Thu, 10 Aug 2023 07:48:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
+   <itunes:image href="https://assets-cdn2.dropwave.io/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/twsSDPdYj7i3jNCMtA3RAyuxR6wfO3frLk6jWHJv.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3688</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
@@ -1492,7 +1527,7 @@
    <pubDate>Thu, 03 Aug 2023 08:48:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/aiNC1kS3NVFxfOfz2ZHCCrTnthpK8XAqpLYOu323.jpg"/>
+   <itunes:image href="https://assets-cdn2.dropwave.io/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/twsSDPdYj7i3jNCMtA3RAyuxR6wfO3frLk6jWHJv.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3903</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
@@ -1661,42 +1696,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/mUK8zsnHkCK3vep7E1W6UgYb9dTnLenASAMEFha3.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>564</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Ephesians 2:4a [Up and Ready]]]></title>
-   <link/>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[Mark Dewey]]></author>
-   <enclosure url="https://app.dropwave.io/episode/e5a6258b-4362-4d6d-bd2c-6f372af3a94c/ephesians-24a.mp3" length="283" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[e5a6258b-4362-4d6d-bd2c-6f372af3a94c]]></guid>
-   <pubDate>Wed, 02 Aug 2023 09:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/zZ8CYlYBUAUu8KNyZzjE092h2WlBblW8upM7tmFg.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>283</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Live Audience Q&A at Worldview Leadership Academy [The Ezra Institute Podcast for Cultural Reformation]]]></title>
-   <link/>
-   <description><![CDATA[<main class="main-content col-lg-9" role="main">
-<article>
-<p>In this episode, faculty answer questions from students at the Worldview Leadership Academy. We deal with the charge of Christianity&rsquo;s closed-mindedness, idolatry, apologetics and evangelism, lying to the Nazis, whether you can lose your salvation, and more. Audio quality improves around the 15-minute mark!</p>
-<p><a href="https://ezrapress.ca/products/a-time-to-search-discovering-the-meaning-and-purpose-of-life" target="_blank" rel="noreferrer noopener">Get Joe Boot&rsquo;s classic work of apologetics, A Time to Search, on sale all month at Ezra Press.</a></p>
-</article>
-</main>
-<aside class="sidebar col-lg-3" role="navigation"><nav id="local-nav" class="local-nav"></nav></aside>]]></description>
-   <author><![CDATA[Joe Boot, Ryan Eras, Nate Wright, Michael Thiessen]]></author>
-   <enclosure url="https://app.dropwave.io/episode/b8112095-6b4d-4ea1-a956-d74284e84a68/live-audience-qa-at-worldview-leadership-academy.mp3" length="3856" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[b8112095-6b4d-4ea1-a956-d74284e84a68]]></guid>
-   <pubDate>Wed, 02 Aug 2023 04:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Joe Boot, Ryan Eras, Nate Wright, Michael Thiessen]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/1c3a97bd-65b0-4aec-bb35-3a1b6eec5d2c/cover-art/4rDIhLUsGj1xuXpLJYNdtwtbungA78glNHA7dOd9.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3856</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
