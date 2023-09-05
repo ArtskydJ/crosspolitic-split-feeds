@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Tue, 05 Sep 2023 13:25:48 +0000</pubDate>
-  <lastBuildDate>Tue, 05 Sep 2023 13:25:48 +0000</lastBuildDate>
+  <pubDate>Tue, 05 Sep 2023 19:25:48 +0000</pubDate>
+  <lastBuildDate>Tue, 05 Sep 2023 19:25:48 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,26 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Scott [Resistance and Reformation]]]></title>
+   <link/>
+   <description><![CDATA[<p><span style="font-weight: 400;">More from Dr. George Grant</span></p>
+<p><a href="https://georgegrant.net/"><span style="font-weight: 400;">https://georgegrant.net/</span></a><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">Adoring God Foundation&nbsp;</span></p>
+<p><a href="https://adoringgod.org/"><span style="font-weight: 400;">https://adoringgod.org/</span></a></p>
+<p><br /><br /></p>]]></description>
+   <author><![CDATA[George Grant]]></author>
+   <enclosure url="https://app.dropwave.io/episode/3ed7bc6d-6b84-4478-9788-dc0562afe815/scott.mp3" length="602" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[3ed7bc6d-6b84-4478-9788-dc0562afe815]]></guid>
+   <pubDate>Tue, 05 Sep 2023 16:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[George Grant]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>602</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Working with Joy: An Interview with Drew Bailey [In the Bullpen]]]></title>
    <link/>
@@ -1511,26 +1531,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/69893365-4165-4498-b0ac-e9ddf57a000f/cover-art/E86eLfK3NgjrpuXtk9kW9Qv6KcfzQpkJpToltreR.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>5027</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Plutarch [Resistance and Reformation]]]></title>
-   <link/>
-   <description><![CDATA[<p><span style="font-weight: 400;">More from Dr. George Grant</span></p>
-<p><a href="https://georgegrant.net/"><span style="font-weight: 400;">https://georgegrant.net/</span></a><span style="font-weight: 400;">&nbsp;</span></p>
-<p><span style="font-weight: 400;">&nbsp;</span></p>
-<p><span style="font-weight: 400;">Adoring God Foundation&nbsp;</span></p>
-<p><span style="font-weight: 400;"><a href="https://adoringgod.org/">https://adoringgod.org/</a></span></p>
-<p>&nbsp;</p>]]></description>
-   <author><![CDATA[George Grant]]></author>
-   <enclosure url="https://app.dropwave.io/episode/f899877d-ff60-448e-aa65-21185fa026f5/plutarch.mp3" length="644" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[f899877d-ff60-448e-aa65-21185fa026f5]]></guid>
-   <pubDate>Tue, 22 Aug 2023 16:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[George Grant]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>644</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
