@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Fri, 15 Sep 2023 13:26:02 +0000</pubDate>
-  <lastBuildDate>Fri, 15 Sep 2023 13:26:02 +0000</lastBuildDate>
+  <pubDate>Fri, 15 Sep 2023 19:25:44 +0000</pubDate>
+  <lastBuildDate>Fri, 15 Sep 2023 19:25:44 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -26,11 +26,26 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[A Reasonable Latino's Helpful Final Word on Owen Strachan - Part 6 [AD on FLF Network]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/688113fe-61d0-47f1-a3f5-abdd5da13e35/a-reasonable-latinos-helpful-final-word-on-owen-strachan-part-6.mp3" length="2590" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[688113fe-61d0-47f1-a3f5-abdd5da13e35]]></guid>
+   <pubDate>Fri, 15 Sep 2023 18:58:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/e985f24f-d823-4e20-b87a-9e2fa86624f5/cover-art/me0OCTvDSY04mcI5sI97SZ3jsUtDXyHr5ExQtpr2.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2590</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[Owen Strachan and G3 Went Scorched Earth - Part 5 [AD on FLF Network]]]></title>
    <link/>
    <description><![CDATA[]]></description>
    <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://dts.podtrac.com/redirect.mp3/app.dropwave.io/episode/3a59758f-fc7c-4bb1-8153-3812ff855fd7/owen-strachan-and-g3-went-scorched-earth-part-5.mp3" length="1338" type="audio/mp3"/>
+   <enclosure url="https://app.dropwave.io/episode/3a59758f-fc7c-4bb1-8153-3812ff855fd7/owen-strachan-and-g3-went-scorched-earth-part-5.mp3" length="1338" type="audio/mp3"/>
    <guid isPermaLink="false"><![CDATA[3a59758f-fc7c-4bb1-8153-3812ff855fd7]]></guid>
    <pubDate>Thu, 14 Sep 2023 18:56:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
@@ -45,7 +60,7 @@
    <link/>
    <description><![CDATA[]]></description>
    <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://dts.podtrac.com/redirect.mp3/app.dropwave.io/episode/d1534e3e-ee0c-4586-ad63-3159584d29e9/even-the-pagans-love-what-owen-is-up-to-part-4.mp3" length="2088" type="audio/mp3"/>
+   <enclosure url="https://app.dropwave.io/episode/d1534e3e-ee0c-4586-ad63-3159584d29e9/even-the-pagans-love-what-owen-is-up-to-part-4.mp3" length="2088" type="audio/mp3"/>
    <guid isPermaLink="false"><![CDATA[d1534e3e-ee0c-4586-ad63-3159584d29e9]]></guid>
    <pubDate>Wed, 13 Sep 2023 18:55:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
@@ -60,7 +75,7 @@
    <link/>
    <description><![CDATA[]]></description>
    <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://dts.podtrac.com/redirect.mp3/app.dropwave.io/episode/36fdfe95-af85-4fba-bc70-c77055c537d0/according-to-himself-owen-strachan-is-woke-part-3.mp3" length="1726" type="audio/mp3"/>
+   <enclosure url="https://app.dropwave.io/episode/36fdfe95-af85-4fba-bc70-c77055c537d0/according-to-himself-owen-strachan-is-woke-part-3.mp3" length="1726" type="audio/mp3"/>
    <guid isPermaLink="false"><![CDATA[36fdfe95-af85-4fba-bc70-c77055c537d0]]></guid>
    <pubDate>Tue, 12 Sep 2023 18:53:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
@@ -75,7 +90,7 @@
    <link/>
    <description><![CDATA[]]></description>
    <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://dts.podtrac.com/redirect.mp3/app.dropwave.io/episode/193ce60e-4725-47bc-989b-927ff7423e9f/owen-strachans-little-tirade-continued-part-2.mp3" length="1848" type="audio/mp3"/>
+   <enclosure url="https://app.dropwave.io/episode/193ce60e-4725-47bc-989b-927ff7423e9f/owen-strachans-little-tirade-continued-part-2.mp3" length="1848" type="audio/mp3"/>
    <guid isPermaLink="false"><![CDATA[193ce60e-4725-47bc-989b-927ff7423e9f]]></guid>
    <pubDate>Mon, 11 Sep 2023 18:49:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
@@ -90,7 +105,7 @@
    <link/>
    <description><![CDATA[]]></description>
    <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://dts.podtrac.com/redirect.mp3/app.dropwave.io/episode/59a79849-a9f3-4834-b7c3-ef43ac4027ba/owen-strachan-is-still-woke-part-1.mp3" length="1895" type="audio/mp3"/>
+   <enclosure url="https://app.dropwave.io/episode/59a79849-a9f3-4834-b7c3-ef43ac4027ba/owen-strachan-is-still-woke-part-1.mp3" length="1895" type="audio/mp3"/>
    <guid isPermaLink="false"><![CDATA[59a79849-a9f3-4834-b7c3-ef43ac4027ba]]></guid>
    <pubDate>Fri, 08 Sep 2023 18:44:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
