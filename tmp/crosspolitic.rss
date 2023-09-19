@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Tue, 19 Sep 2023 07:25:54 +0000</pubDate>
-  <lastBuildDate>Tue, 19 Sep 2023 07:25:54 +0000</lastBuildDate>
+  <pubDate>Tue, 19 Sep 2023 13:25:48 +0000</pubDate>
+  <lastBuildDate>Tue, 19 Sep 2023 13:25:48 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[The Rebels Live At The Men Of Valour Conference [The Rebel Podcast]]]></title>
+   <link/>
+   <description><![CDATA[<p>The Rebels appear live at the Men of Valour Conference held at Crossroads Bible Church September 15/16, 2023. &nbsp;Real men at a real men's conference!</p>]]></description>
+   <author><![CDATA[Pastors Nate & Chris - The Rebels]]></author>
+   <enclosure url="https://app.dropwave.io/episode/c563d1ba-df58-4b6e-98cf-5ee8c3fe3fa9/the-rebels-live-at-the-men-of-valour-conference.mp3" length="2442" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[c563d1ba-df58-4b6e-98cf-5ee8c3fe3fa9]]></guid>
+   <pubDate>Tue, 19 Sep 2023 11:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Pastors Nate & Chris - The Rebels]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2442</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[LD SPECIAL: 1 MILLION MARCH 4 CHILDREN ft. Organizer, Kamel El-Cheikh [Liberty Dispatch]]]></title>
    <link/>
@@ -1663,27 +1678,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2009</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[TCND:   Falling in Lust Again (Pain in the Cone Palace) [The Comedian Next Door]]]></title>
-   <link/>
-   <description><![CDATA[<p>Hey, Neighbor!&nbsp; Welcome to the kitchen table of the Comedian Next Door, hosted by the Fight Laugh Feast Network.&nbsp;</p>
-<p>We need to solve the Cone Palace Problem.&nbsp; Since this is a community-wide issue with far-reaching consequences, you already know exactly what we're talking about: There's constantly gridlocked traffic at the corner of US31 and Center Road, caused by Kokomo's inexplicable craving for mediocre icecream from 4:00pm to 9:00pm DAILY... It's awful. Let's whine about it.</p>
-<p>Next, celebrate Luke's special accomplishment with us!</p>
-<p>Later... People have no idea how to stay married the "lust phase."&nbsp; Let's dissect a meme that often gets shared by Divorced People to justify their 3rd or 4th or 5th new relationship.&nbsp;</p>
-<p>Contact the Comedian Next Door by emailing <a href="mailto:nextdoor@johnbranyan.com">nextdoor@johnbranyan.com</a>. We'll see you at the Conference in October! (Details at flfnetwork.com)</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/a97bfcf8-3bdf-4734-a5d8-b2de6af162e9/tcnd-falling-in-lust-again-pain-in-the-cone-palace.mp3" length="3001" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[a97bfcf8-3bdf-4734-a5d8-b2de6af162e9]]></guid>
-   <pubDate>Mon, 04 Sep 2023 11:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3001</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
