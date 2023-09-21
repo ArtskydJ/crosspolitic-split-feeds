@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Wed, 20 Sep 2023 19:25:46 +0000</pubDate>
-  <lastBuildDate>Wed, 20 Sep 2023 19:25:46 +0000</lastBuildDate>
+  <pubDate>Thu, 21 Sep 2023 01:25:48 +0000</pubDate>
+  <lastBuildDate>Thu, 21 Sep 2023 01:25:48 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -26,6 +26,22 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Andrew Torba, Christian Nationalism, And Me | Toby Sumpter [Having Two Legs]]]></title>
+   <link/>
+   <description><![CDATA[<p>In this episode of Having Two Legs, Pastor Toby addresses concerns on Christian Nationalism&nbsp;</p>
+<p>Read the blog post here: <a href="https://tobyjsumpter.com/andrew-torba-christian-nationalism-and-me/">https://tobyjsumpter.com/andrew-torba-christian-nationalism-and-me/</a></p>]]></description>
+   <author><![CDATA[Pastor Toby Sumpter]]></author>
+   <enclosure url="https://app.dropwave.io/episode/2367187e-c8ce-43e8-a4d6-6bbe47283895/andrew-torba-christiannationalism-and-me-toby-sumpter.mp3" length="825" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[2367187e-c8ce-43e8-a4d6-6bbe47283895]]></guid>
+   <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Pastor Toby Sumpter]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/20dde981-157e-4504-b38f-dd9d7b0e4c50/cover-art/NBLpJ1iH37jx5cG1FQleZqvLJTmAYyZkUV45AXcu.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>825</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[Nice Men Vs. Good Men [Having Two Legs]]]></title>
    <link/>
    <description><![CDATA[<p>In this episode of Having Two Legs, Pastor Toby&nbsp;warns against the 'Nice Man' victim mentality</p>
@@ -57,7 +73,6 @@
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>199</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
-  
   </item>
  </channel>
 </rss>
