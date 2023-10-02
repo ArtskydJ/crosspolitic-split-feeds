@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 02 Oct 2023 07:25:45 +0000</pubDate>
-  <lastBuildDate>Mon, 02 Oct 2023 07:25:45 +0000</lastBuildDate>
+  <pubDate>Mon, 02 Oct 2023 13:25:43 +0000</pubDate>
+  <lastBuildDate>Mon, 02 Oct 2023 13:25:43 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,47 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[John 14:15-24 [Up and Ready]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/0264b613-18f8-4656-aa21-2bfbbc8e7b72/john-1415-24.mp3" length="347" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[0264b613-18f8-4656-aa21-2bfbbc8e7b72]]></guid>
+   <pubDate>Mon, 02 Oct 2023 09:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>347</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[The Cluster B Society [The Pugcast]]]></title>
+   <link/>
+   <description><![CDATA[<p class="p1">Cluster B is a recognized set of psychological disorders. In this episode, the Pugsters discuss an article by Christopher Rufo that argues that our culture, government, and educational system has promoted these as virtues, with the result that society is being driven by Cluster B personalities. Along with looking at the problem, the guys discuss ideas about what to do about it.</p>
+<p class="p2">&nbsp;</p>
+<p class="p3"><span class="s1">Twitter Video Referenced: <a href="https://twitter.com/realchrisrufo/status/1704521862888444022?fbclid=IwAR1rRSSAZW_CO5K2kVGk8aJanmmkxeQ1rfjEvGfBnjAStJosX6b2iAlbeS0"><span class="s2">https://twitter.com/realchrisrufo/status/1704521862888444022?fbclid=IwAR1rRSSAZW_CO5K2kVGk8aJanmmkxeQ1rfjEvGfBnjAStJosX6b2iAlbeS0</span></a></span></p>
+<p class="p2">&nbsp;</p>
+<p class="p1">Contact Private Family Banking at&nbsp;banking@privatefamilybanking.com</p>
+<p class="p1">For a free e-book entitled "How to Build Multi-Generational Wealth Outside of Wall Street and Avoid the Coming Banking Meltdown" go to&nbsp;<a href="https://protectyourmoneynow.net/"><span class="s3">https://protectyourmoneynow.net/</span></a></p>
+<p class="p1">To set up a FREE 30-Minute Consultation, use the link below:</p>
+<p class="p3"><a href="https://calendly.com/familybankingnow/30min">https://calendly.com/familybankingnow/30min</a></p>
+<p class="p2">&nbsp;</p>
+<p class="p1">Check out the Got a Minute? Podcast with Rich Lusk and Larson Hicks: <a href="https://open.spotify.com/show/4fswVZmNEfSXA1JLZzgPhj"><span class="s3">https://open.spotify.com/show/4fswVZmNEfSXA1JLZzgPhj</span></a></p>
+<p class="p2">&nbsp;</p>
+<p class="p3"><span class="s1">Support the Pugcast on Patreon: <a href="https://www.patreon.com/thetheologypugcast?fbclid=IwAR17UHhfzjphO52C_kkZfursA_C784t0ldFix0wyB4fd-YOJpmOQ3dyqGf8">https://www.patreon.com/thetheologypugcast?fbclid=IwAR17UHhfzjphO52C_kkZfursA_C784t0ldFix0wyB4fd-YOJpmOQ3dyqGf8</a></span></p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/122f6232-e31d-4f9f-ab62-3eac5628e5b4/the-cluster-b-society.mp3" length="3954" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[122f6232-e31d-4f9f-ab62-3eac5628e5b4]]></guid>
+   <pubDate>Mon, 02 Oct 2023 07:51:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/twsSDPdYj7i3jNCMtA3RAyuxR6wfO3frLk6jWHJv.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3954</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Men of Valour Conference Review [The Rebel Podcast]]]></title>
    <link/>
@@ -756,12 +797,12 @@
    <link/>
    <description><![CDATA[<p>Today, David reports on a meeting in Washington, DC featuring remarks by four Christian conservative members of Congress and one former member. God, Jesus, faith, and Bible verses were referenced easily during the evening, with one prominent leader saying he would continue to &ldquo;contend for the faith.&rdquo; But was he doing that? Find out why David ended the evening saying, &ldquo;I just can&rsquo;t do this kind of thing anymore.&rdquo;</p>]]></description>
    <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/9c18eddd-4f65-4607-abf2-5d5389542f18/does-your-favorite-politician-contend-for-the-faith.mp3" length="1847" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[9c18eddd-4f65-4607-abf2-5d5389542f18]]></guid>
+   <enclosure url="https://app.dropwave.io/episode/0e34602c-2ee7-479c-9004-2e048e46f9cd/does-your-favorite-politician-contend-for-the-faith-1.mp3" length="1847" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[0e34602c-2ee7-479c-9004-2e048e46f9cd]]></guid>
    <pubDate>Fri, 22 Sep 2023 13:59:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/467f99a9-2921-459a-b63d-9710f4355795/cover-art/H1peXQcnMl5y3L0lFWF1NDubprF1UXLwFlim1DsS.jpg"/>
+   <itunes:image href="https://assets-cdn2.dropwave.io/467f99a9-2921-459a-b63d-9710f4355795/cover-art/c8STE4raZjjggJ7XVwzlc38tosKs5gf6esTKMkbd.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1847</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
@@ -771,12 +812,12 @@
    <link/>
    <description><![CDATA[<p>Today, David reports on a meeting in Washington, DC featuring remarks by four Christian conservative members of Congress and one former member. God, Jesus, faith, and Bible verses were referenced easily during the evening, with one prominent leader saying he would continue to &ldquo;contend for the faith.&rdquo; But was he doing that? Find out why David ended the evening saying, &ldquo;I just can&rsquo;t do this kind of thing anymore.&rdquo;</p>]]></description>
    <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/0e34602c-2ee7-479c-9004-2e048e46f9cd/does-your-favorite-politician-contend-for-the-faith-1.mp3" length="1847" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[0e34602c-2ee7-479c-9004-2e048e46f9cd]]></guid>
+   <enclosure url="https://app.dropwave.io/episode/9c18eddd-4f65-4607-abf2-5d5389542f18/does-your-favorite-politician-contend-for-the-faith.mp3" length="1847" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[9c18eddd-4f65-4607-abf2-5d5389542f18]]></guid>
    <pubDate>Fri, 22 Sep 2023 13:59:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/467f99a9-2921-459a-b63d-9710f4355795/cover-art/c8STE4raZjjggJ7XVwzlc38tosKs5gf6esTKMkbd.jpg"/>
+   <itunes:image href="https://assets-cdn2.dropwave.io/467f99a9-2921-459a-b63d-9710f4355795/cover-art/H1peXQcnMl5y3L0lFWF1NDubprF1UXLwFlim1DsS.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1847</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
@@ -1624,46 +1665,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/wvkjcfd3tfj69XopdryYkSF8m1k4KHuikzJF1KzC.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2320</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[What Does Faith-Filled and Faith-less Politics Look Like [God, Law, and Liberty]]]></title>
-   <link/>
-   <description><![CDATA[<p>If Christians are to live &ldquo;by the law of faith&rdquo; what does that look like as a practical matter? Today, David uses two real-life examples to demonstrate the difference and then gives his thoughts, drawn from his own failure and from Luke 18, on the principle from which faith-filled politics should spring.</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/cf753ab5-f170-4949-96ac-94a301ff9b9c/what-does-faith-filled-and-faith-less-politics-look-like.mp3" length="1565" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[cf753ab5-f170-4949-96ac-94a301ff9b9c]]></guid>
-   <pubDate>Thu, 14 Sep 2023 23:44:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/467f99a9-2921-459a-b63d-9710f4355795/cover-art/gpsfdT5NoZAtpePtoZlMCED2mzDijIId6wfHpJcv.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1565</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[THEY ARE COMING FOR YOUR CHILDREN and the CONS Won't Stop Them ft. Josh Alexander [Liberty Dispatch]]]></title>
-   <link/>
-   <description><![CDATA[<p class="p1"><strong>Liberty Dispatch</strong> ~ September 14, 2023<br />In this episode, hosts Andrew and Matthew are joined by Josh Alexander to discuss his upcoming events and recent legal victory. They also give a post-mortem of the CPC convention, the impotence of feckless Christ-less conservatism, and the Canadian government's continued push to centre the COVID crisis.<br /><br /><strong><strong style="font-family: '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">[Segment 1] - Interview ft. Josh Alexander:<br /></strong></strong>Josh Alexander's Twitter: <a href="https://twitter.com/officialJosh_A" target="_new">https://twitter.com/officialJosh_A</a>;<br />Save Canada Linktree: <a href="https://linktr.ee/save_canada" target="_new">https://linktr.ee/save_canada</a>;<br />Court Document (Josh Alexander v. RCCDSB): <a href="https://libertycoalitioncanada.com/wp-content/uploads/2023/01/Josh-Alexander-v-RCCDSB-2023-ONSC-4962-August-31-2023.pdf" target="_new">https://libertycoalitioncanada.com/wp-content/uploads/2023/01/Josh-Alexander-v-RCCDSB-2023-ONSC-4962-August-31-2023.pdf</a>;<br /><br /><strong>[Segment 2] - CPC PUTS THE "CON" IN CONSERVATIVE:<br /></strong>"Conservatives Push Back Against Woke Ideology at Quebec Convention" | <em>TNC News</em>: <a href="https://tnc.news/2023/09/12/conservatives-push-back-against-woke-ideology-at-quebec-convention" target="_new">https://tnc.news/2023/09/12/conservatives-push-back-against-woke-ideology-at-quebec-convention</a>;<br />"Conservative Party of Canada Approves Slew of Pro-Family Policies at National Convention" | <em>LifeSiteNews</em>: <a href="https://www.lifesitenews.com/news/conservative-party-of-canada-approves-slew-of-pro-family-policies-at-national-convention" target="_new">https://www.lifesitenews.com/news/conservative-party-of-canada-approves-slew-of-pro-family-policies-at-national-convention</a>;<br />"Transgender Conservative Candidate Says Vote Against Gender-Affirming" | <em>The Globe and Mail</em>: <a href="https://www.theglobeandmail.com/canada/article-transgender-conservative-candidate-says-vote-against-gender-affirming" target="_new">https://www.theglobeandmail.com/canada/article-transgender-conservative-candidate-says-vote-against-gender-affirming</a>;<br />YouTube Video Embed: <a href="https://www.youtube.com/embed/o5VOp1RC1O8" target="_new">https://www.youtube.com/embed/o5VOp1RC1O8</a>;<br />"It's a Privilege, Not a Right, to Know Your Kid's Gender Identity" | <em>The Star (Opinion)</em>: <a href="https://www.thestar.com/opinion/contributors/it-s-a-privilege-not-a-right-to-know-your-kid-s-gender-identity/article_b35628fa-5761-5087-b7a2-3db9dc49e2f2.html" target="_new">https://www.thestar.com/opinion/contributors/it-s-a-privilege-not-a-right-to-know-your-kid-s-gender-identity/article_b35628fa-5761-5087-b7a2-3db9dc49e2f2.html</a>;<br /><br /><strong>[Segment 3] - MORE COVID CRAZINESS:<br /></strong>"Health Canada Approves Moderna COVID-19 Vaccine Targeting Omicron Subvariant" | <em>Western Standard</em>: <a href="https://www.westernstandard.news/news/updated-health-canada-approves-moderna-covid-19-vaccine-targeting-omicron-subvariant/article_28e66894-5194-11ee-9319-87a36267c6d3.html" target="_new">https://www.westernstandard.news/news/updated-health-canada-approves-moderna-covid-19-vaccine-targeting-omicron-subvariant/article_28e66894-5194-11ee-9319-87a36267c6d3.html</a>;<br />TheCounterSignal's Tweet: <a href="https://twitter.com/TheCounterSgnl/status/1701633206930534682" target="_new">https://twitter.com/TheCounterSgnl/status/1701633206930534682</a>;<br />TrueNorth Centre's Tweet: <a href="https://twitter.com/TrueNorthCentre/status/1701670160866705463" target="_new">https://twitter.com/TrueNorthCentre/status/1701670160866705463</a>;<br />Disclose.tv's Tweet: <a href="https://twitter.com/disclosetv/status/1701682459467788557" target="_new">https://twitter.com/disclosetv/status/1701682459467788557</a>.<br /><br /></p>
-<p class="p1"><span style="color: #061726; font-family: 'system-ui', sans-serif;"><strong><span style="text-decoration: underline;">UPCOMING EVENTS</span><br />JOIN US&nbsp; FOR:<br />LIBERTY PODCASTS LIVE - Oct.23 @ Trinity Bible Chapel, Waterloo, ON: </strong><a href="https://www.eventbrite.ca/e/liberty-dispatch-live-tickets-699808795947?aff=oddtdtcreator">https://www.eventbrite.ca/e/liberty-dispatch-live-tickets-699808795947?aff=oddtdtcreator;</a> <strong>&amp; Oct. 24 - </strong>https://www.eventbrite.ca/e/liberty-lounge-live-tickets-701294319187?aff=oddtdtcreator;<strong><br />and...<br />Spark Conference - Oct.31- Nov. 1: </strong><a href="https://www.sparkconferences.org/">https://www.sparkconferences.org/</a><strong>;</strong></span><br /><br /><strong>SUPPORT OUR LEGAL ADVOCACY - Help us defend Canadians' God-given rights and liberties: </strong><a href="https://libertycoalitioncanada.com/donate/">https://libertycoalitioncanada.com/donate/</a>; <a href="https://libertycoalitioncanada.com/liberty-defense-fund/our-legal-strategy/;">https://libertycoalitioncanada.com/liberty-defense-fund/our-legal-strategy/;</a><br /><strong><br /></strong><strong>SHOW SPONSORS:<br /></strong><strong>Join&nbsp;<em>Red Balloon&nbsp;</em>Today!:</strong> <a href="https://www.redballoon.work/lcc;">https://www.redballoon.work/lcc;</a>&nbsp;<br /><strong>Invest with Rocklinc:</strong> <a href="mailto:info@rocklinc.com">info@rocklinc.com</a>&nbsp;or call them at 905-631-546;&nbsp;<br /><strong>Diversify Your Money with Bull Bitcoin:&nbsp;</strong><a href="https://mission.bullbitcoin.com/lcc">https://mission.bullbitcoin.com/lcc</a>;<br /><strong>BarterPay: </strong><a href="https://barterpay.ca/">https://barterpay.ca/</a>;&nbsp; <strong>Barter It: </strong><a href="https://vip.barterit.ca/launch;">https://vip.barterit.ca/launch; </a><strong><br />Carpe Fide - "Seize the Faith": Store: </strong><a href="https://carpe-fide.myshopify.com/">https://carpe-fide.myshopify.com</a><a href="https://carpe-fide.myshopify.com/">/</a>, use Promo Code LCC10 for 10% off (US Store Only), or shop Canadian @ <a href="https://canadacarpefide.myshopify.com/">https://canadacarpefide.myshopify.com/</a> | <strong>Podcast: </strong><a href="https://www.carpefide.com/episodes">https://www.carpefide.com/episodes</a>;<br /><br /><strong>Sick of Mainstream Media Lies? Help Support Independent Media! DONATE TO LCC TODAY!:&nbsp;</strong><strong><a href="https://libertycoalitioncanada.com/donate/">https://libertycoalitioncanada.com/donate/</a>&nbsp;</strong><strong>&nbsp;<br /><br /></strong></p>
-<p class="p1">Please Support us in bringing you honest, truthful reporting and analysis from a Christian perspective.<br /><br /><strong>SUBSCRIBE TO OUR SHOWS/CHANNELS:<br /></strong>LIBERTY DISPATCH PODCAST: <a href="https://libertydispatch.podbean.com">https://libertydispatch.podbean.com</a>; <a href="https://rumble.com/c/c-1687093">https://rumble.com/LDshow</a>;&nbsp;<br />OPEN MIKE WITH MICHAEL THIESSEN: <a href="https://openmikewithmichaelthiessen.podbean.com">https://openmikewithmichaelthiessen.podbean.com</a>; <a href="https://rumble.com/c/c-1412501">https://rumble.com/openmike</a>;<br />THE OTHER CLUB: <a href="https://rumble.com/c/c-2541984">https://rumble.com/c/c-2541984</a>;&nbsp;<br />THE LIBERTY LOUNGE WITH TIM TYSOE: <a href="https://rumble.com/LLwTT">https://rumble.com/LLwTT</a>;<br /><br /><strong>CONTACT US:</strong><br />Questions/comments about podcasts/news/analysis: <a href="mailto:mailbag@libertycoalitioncanada.com">mailbag@libertycoalitioncanada.com</a>;<br />Questions/comments about donations: <a href="mailto:give@libertycoalitioncanada.com">give@libertycoalitioncanada.com</a>;<br />Questions/comments that are church-related: <a href="mailto:churches@libertycoalitioncanada.com">churches@libertycoalitioncanada.com</a>;<br />General Inquiries: <a href="mailto:info@libertycoalitioncanada.com">info@libertycoalitioncanada.com</a>.&nbsp;</p>
-<p class="p1"><strong>STAY UP-TO-DATE ON ALL THINGS LCC:<br /></strong>Gab: <a href="https://gab.com/libertycoalitioncanada">https://gab.com/libertycoalitioncanada</a>&nbsp;</p>
-<p class="p2">Telegram: <a href="https://t.me/libertycoalitioncanadanews">https://t.me/libertycoalitioncanadanews</a>&nbsp;</p>
-<p class="p2">Instagram: <a href="https://instagram.com/libertycoalitioncanada">https://instagram.com/libertycoalitioncanada</a>&nbsp;</p>
-<p class="p2">Facebook: <a href="https://facebook.com/LibertyCoalitionCanada">https://facebook.com/LibertyCoalitionCanada</a>&nbsp;</p>
-<p class="p2">Twitter: @LibertyCCanada - <a href="https://twitter.com/LibertyCCanada">https://twitter.com/LibertyCCanada</a>&nbsp;</p>
-<p class="p2">Rumble: <a href="https://rumble.com/user/LibertyCoalitionCanada">https://rumble.com/user/LibertyCoalitionCanada</a>&nbsp;</p>
-<p class="p2">YouTube: <a href="https://www.youtube.com/@liberty4canada">https://www.youtube.com/@liberty4canada</a> -&nbsp;<strong>WE GOT CANCELLED AGAIN!!!</strong></p>
-<p class="p1"><strong>Please LIKE, SUBSCRIBE, RATE &amp; REVIEW and SHARE it with others!</strong></p>]]></description>
-   <author><![CDATA[Andrew DeBartolo, Matthew Hallick, SDG Media]]></author>
-   <enclosure url="https://app.dropwave.io/episode/c51c156f-f743-46b0-b5e6-cc5e4a04e9a7/they-are-coming-for-your-children-and-the-cons-wont-stop-them-ft-josh-alexander.mp3" length="4500" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[c51c156f-f743-46b0-b5e6-cc5e4a04e9a7]]></guid>
-   <pubDate>Thu, 14 Sep 2023 23:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Andrew DeBartolo, Matthew Hallick, SDG Media]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/69893365-4165-4498-b0ac-e9ddf57a000f/cover-art/E86eLfK3NgjrpuXtk9kW9Qv6KcfzQpkJpToltreR.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>4500</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
