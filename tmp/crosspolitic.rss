@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Fri, 13 Oct 2023 07:25:47 +0000</pubDate>
-  <lastBuildDate>Fri, 13 Oct 2023 07:25:47 +0000</lastBuildDate>
+  <pubDate>Fri, 13 Oct 2023 13:25:47 +0000</pubDate>
+  <lastBuildDate>Fri, 13 Oct 2023 13:25:47 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Isaiah 25:1-5 [Up and Ready]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[MARK DEWEY]]></author>
+   <enclosure url="https://app.dropwave.io/episode/d46897cc-ece3-43fd-a321-72cb966a08e7/isaiah-251-5.mp3" length="322" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[d46897cc-ece3-43fd-a321-72cb966a08e7]]></guid>
+   <pubDate>Fri, 13 Oct 2023 09:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[MARK DEWEY]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>322</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[A WIKI'd ATTACK!!! [Liberty Dispatch]]]></title>
    <link/>
@@ -1510,24 +1525,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/wvkjcfd3tfj69XopdryYkSF8m1k4KHuikzJF1KzC.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1878</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[126: The Gospel Truth about "Truth and Reconciliation Day" [Leadership Now Podcast]]]></title>
-   <link/>
-   <description><![CDATA[<p>In this special Friday broadcast Aaron addresses a timely question regarding how Christians should think and respond to the annual observation of the "National Day for Truth and Reconciliation" in Canada.</p>
-<p><strong>More Resources:&nbsp;</strong></p>
-<p>We are excited to partner with the Fight Laugh Feast Network to reach more listeners. Download the app here:&nbsp;<a href="https://subsplash.com/fightlaughfeastnetwork/app">https://subsplash.com/</a><a href="https://subsplash.com/fightlaughfeastnetwork/app">fightlaughfeastnetwork/app</a></p>
-<p>More resources at Dr. Aaron Rock&rsquo;s blog: Pursuit of Glory <a href="https://pursuitofglory.org/">https://pursuitofglory.org/</a></p>]]></description>
-   <author><![CDATA[Aaron Rock, Chris Eelman]]></author>
-   <enclosure url="https://app.dropwave.io/episode/603fb7f9-fa2e-4b87-a612-33b926856458/the-gospel-truth-about-truth-and-reconciliation-day.mp3" length="2223" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[603fb7f9-fa2e-4b87-a612-33b926856458]]></guid>
-   <pubDate>Fri, 29 Sep 2023 19:53:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Aaron Rock, Chris Eelman]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/3312a6b0-2b88-4186-bfdd-e9c55d3d7e0f/cover-art/DJmJxOQEoRfGbs693sV6kEnKEGWstWUfdEXbQra8.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2223</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
