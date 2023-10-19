@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Thu, 19 Oct 2023 07:25:53 +0000</pubDate>
-  <lastBuildDate>Thu, 19 Oct 2023 07:25:53 +0000</lastBuildDate>
+  <pubDate>Thu, 19 Oct 2023 13:25:47 +0000</pubDate>
+  <lastBuildDate>Thu, 19 Oct 2023 13:25:47 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[1 Corinthians 16:13-14 [Up and Ready]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/a71cb1f9-18ea-4ce6-a9f6-9478f101105f/1-corinthians-1613-14.mp3" length="256" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[a71cb1f9-18ea-4ce6-a9f6-9478f101105f]]></guid>
+   <pubDate>Thu, 19 Oct 2023 09:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>256</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Wimpy, Weak and Woke w/ John Cooper [The Ezra Institute Podcast for Cultural Reformation]]]></title>
    <link/>
@@ -478,6 +493,22 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
+   <title><![CDATA[The Rebels Say It's Worth a Second Listen! [The Rebel Podcast]]]></title>
+   <link/>
+   <description><![CDATA[<p>Some things are too good to just listen to once. &nbsp;Six years ago the Rebels interviewed someone they had not yet personally met - Dr. Joe Boot. &nbsp;He skillfully explained some fundamental theological concepts. &nbsp;Their practical consequences are even more evident today. &nbsp;Have a listen to Dr. Joe Boot from November 2017.</p>
+<p>You can communicate with the Rebels via email; &nbsp;the address is &nbsp; rebelpodcastflf@gmail.com.</p>]]></description>
+   <author><![CDATA[Pastors Nate & Chris - The Rebels]]></author>
+   <enclosure url="https://app.dropwave.io/episode/ae8ed939-90e1-4393-9620-1e567c620d79/the-rebels-say-its-worth-a-second-listen.mp3" length="3007" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[ae8ed939-90e1-4393-9620-1e567c620d79]]></guid>
+   <pubDate>Tue, 10 Oct 2023 11:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Pastors Nate & Chris - The Rebels]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3007</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
    <title><![CDATA[Daily News Brief for Tuesday, October 10th, 2023 [Daily News Brief]]]></title>
    <link/>
    <description><![CDATA[<p><span style="font-weight: 400;">This is Garrison Hardie with your CrossPolitic Daily News Brief for Tuesday, October 10th, 2023.&nbsp;</span></p>
@@ -615,22 +646,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/mUK8zsnHkCK3vep7E1W6UgYb9dTnLenASAMEFha3.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>828</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[The Rebels Say It's Worth a Second Listen! [The Rebel Podcast]]]></title>
-   <link/>
-   <description><![CDATA[<p>Some things are too good to just listen to once. &nbsp;Six years ago the Rebels interviewed someone they had not yet personally met - Dr. Joe Boot. &nbsp;He skillfully explained some fundamental theological concepts. &nbsp;Their practical consequences are even more evident today. &nbsp;Have a listen to Dr. Joe Boot from November 2017.</p>
-<p>You can communicate with the Rebels via email; &nbsp;the address is &nbsp; rebelpodcastflf@gmail.com.</p>]]></description>
-   <author><![CDATA[Pastors Nate & Chris - The Rebels]]></author>
-   <enclosure url="https://app.dropwave.io/episode/ae8ed939-90e1-4393-9620-1e567c620d79/the-rebels-say-its-worth-a-second-listen.mp3" length="3007" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[ae8ed939-90e1-4393-9620-1e567c620d79]]></guid>
-   <pubDate>Tue, 10 Oct 2023 11:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Pastors Nate & Chris - The Rebels]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3007</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -1428,21 +1443,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/mUK8zsnHkCK3vep7E1W6UgYb9dTnLenASAMEFha3.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>673</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Proverbs 30:5-6 [Up and Ready]]]></title>
-   <link/>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[MARK DEWEY]]></author>
-   <enclosure url="https://app.dropwave.io/episode/a76ab5b2-f91f-4781-8458-381ab8fbfe4d/proverbs-305-6.mp3" length="266" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[a76ab5b2-f91f-4781-8458-381ab8fbfe4d]]></guid>
-   <pubDate>Wed, 04 Oct 2023 09:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[MARK DEWEY]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>266</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
