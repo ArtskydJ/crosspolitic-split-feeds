@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Sat, 21 Oct 2023 07:25:49 +0000</pubDate>
-  <lastBuildDate>Sat, 21 Oct 2023 07:25:49 +0000</lastBuildDate>
+  <pubDate>Sat, 21 Oct 2023 13:25:47 +0000</pubDate>
+  <lastBuildDate>Sat, 21 Oct 2023 13:25:47 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,36 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Knox Unleashed: Family Friday w/David Reece | Chocolate Knox [CrossPolitic Show]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/fdda3eb6-3585-44d4-bf8c-ec6c749a5041/knox-unleashed-family-friday-wdavid-reece-chocolate-knox.mp3" length="6742" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[fdda3eb6-3585-44d4-bf8c-ec6c749a5041]]></guid>
+   <pubDate>Sat, 21 Oct 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/wvkjcfd3tfj69XopdryYkSF8m1k4KHuikzJF1KzC.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>6742</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[Psalm 131 [Up and Ready]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[MARK DEWEY]]></author>
+   <enclosure url="https://app.dropwave.io/episode/0b6e8bd7-bb6e-49c0-b6ca-0a788dcf6274/psalm-131.mp3" length="315" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[0b6e8bd7-bb6e-49c0-b6ca-0a788dcf6274]]></guid>
+   <pubDate>Sat, 21 Oct 2023 09:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[MARK DEWEY]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>315</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Thread Inception Thursday | Chocolate Knox [CrossPolitic Show]]]></title>
    <link/>
@@ -800,22 +830,6 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[The Rebels Say It's Worth a Second Listen! [The Rebel Podcast]]]></title>
-   <link/>
-   <description><![CDATA[<p>Some things are too good to just listen to once. &nbsp;Six years ago the Rebels interviewed someone they had not yet personally met - Dr. Joe Boot. &nbsp;He skillfully explained some fundamental theological concepts. &nbsp;Their practical consequences are even more evident today. &nbsp;Have a listen to Dr. Joe Boot from November 2017.</p>
-<p>You can communicate with the Rebels via email; &nbsp;the address is &nbsp; rebelpodcastflf@gmail.com.</p>]]></description>
-   <author><![CDATA[Pastors Nate & Chris - The Rebels]]></author>
-   <enclosure url="https://app.dropwave.io/episode/ae8ed939-90e1-4393-9620-1e567c620d79/the-rebels-say-its-worth-a-second-listen.mp3" length="3007" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[ae8ed939-90e1-4393-9620-1e567c620d79]]></guid>
-   <pubDate>Tue, 10 Oct 2023 11:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Pastors Nate & Chris - The Rebels]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3007</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
    <title><![CDATA[Daily News Brief for Tuesday, October 10th, 2023 [Daily News Brief]]]></title>
    <link/>
    <description><![CDATA[<p><span style="font-weight: 400;">This is Garrison Hardie with your CrossPolitic Daily News Brief for Tuesday, October 10th, 2023.&nbsp;</span></p>
@@ -953,6 +967,22 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/mUK8zsnHkCK3vep7E1W6UgYb9dTnLenASAMEFha3.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>828</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[The Rebels Say It's Worth a Second Listen! [The Rebel Podcast]]]></title>
+   <link/>
+   <description><![CDATA[<p>Some things are too good to just listen to once. &nbsp;Six years ago the Rebels interviewed someone they had not yet personally met - Dr. Joe Boot. &nbsp;He skillfully explained some fundamental theological concepts. &nbsp;Their practical consequences are even more evident today. &nbsp;Have a listen to Dr. Joe Boot from November 2017.</p>
+<p>You can communicate with the Rebels via email; &nbsp;the address is &nbsp; rebelpodcastflf@gmail.com.</p>]]></description>
+   <author><![CDATA[Pastors Nate & Chris - The Rebels]]></author>
+   <enclosure url="https://app.dropwave.io/episode/ae8ed939-90e1-4393-9620-1e567c620d79/the-rebels-say-its-worth-a-second-listen.mp3" length="3007" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[ae8ed939-90e1-4393-9620-1e567c620d79]]></guid>
+   <pubDate>Tue, 10 Oct 2023 11:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Pastors Nate & Chris - The Rebels]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3007</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -1165,153 +1195,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/467f99a9-2921-459a-b63d-9710f4355795/cover-art/5mPdu5CCFnfd0ZuCKyEsJUj2jKGTZyglrM2XiTXP.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1717</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Thread Inception Thursday: What's In Your Social Media Feed? [CrossPolitic Show]]]></title>
-   <link/>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[Chocolate Knox]]></author>
-   <enclosure url="https://app.dropwave.io/episode/8bfbdfe6-2458-495f-adce-4cb5786d861d/thread-inception-thursday-whats-in-your-social-media-feed.mp3" length="5832" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[8bfbdfe6-2458-495f-adce-4cb5786d861d]]></guid>
-   <pubDate>Fri, 06 Oct 2023 12:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Chocolate Knox]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/wvkjcfd3tfj69XopdryYkSF8m1k4KHuikzJF1KzC.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>5832</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Daily News Brief for Friday, October 6th, 2023 [Daily News Brief]]]></title>
-   <link/>
-   <description><![CDATA[<p><span style="font-weight: 400;">This is Garrison Hardie with your CrossPolitic Daily News Brief for Friday, October 6th, 2023.&nbsp;</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Dropwave</span></p>
-<p><span style="font-weight: 400;">Do you have a podcast, or thinking about starting one? Does your church have a podcast feed for sermons? Then Dropwave.io is for you. Cancel culture is like walking on a thin glass bridge over the Grand Canyon. Every step you take could get you killed, I mean canceled. Since the beginning CrossPolitic has been working on being antifragile, so no matter what happens, our content can still be delivered to your tv and to your podcast. This past year, the Waterboy and his friend Jeremi, have been working on building a podcast hosting solution for rowdy platforms like CrossPolitic, so that you can be confident your podcast will never fall through that glass bridge. Dropwave offers seamless onboarding for shows that have been around for years to easy to use solutions for starting your own podcast. Dropwave will track all your show&rsquo;s downloads by city, state, and country, and it offers network and enterprise packages for solutions like the Fight Laugh Feast Network. Free to speak, Free to podcast, free to start your journey now at www.Dropwave.io.&nbsp;</span></p>
-<p>&nbsp;</p>
-<p><a href="https://www.theblaze.com/news/child-allegedly-shoots-two-teens-at-football-practice-over-bag-of-chips"><span style="font-weight: 400;">https://www.theblaze.com/news/child-allegedly-shoots-two-teens-at-football-practice-over-bag-of-chips</span></a></p>
-<p>&nbsp;</p>
-<p><strong>Child allegedly shoots two teens at football practice over 'bag of chips'</strong></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">An 11-year-old was arrested Monday after allegedly opening fire at a Pop Warner youth football practice in Apopka, Florida.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Police say that while only one shot was fired, two kids were ultimately struck &mdash; one in the back and the other in the arm.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">The suspect is presently facing one count of attempted second-degree murder, though Apopka Police Chief Michael McKinley indicated prosecutors may pursue additional charges.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">WOFL-TV reported that the APD received a report of a shooting around 8:20 p.m. near a football field at the Northwest Recreation Center on Jason Dwelley Parkway where a kids' soccer game was also taking place.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">In the 911 call obtained by WESH-TV, one victim's mother can be heard saying, "My son got shot, miss! ... In his back!"</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">The first officer arrived on the scene just four minutes later, finding one victim on the ground and another victim holding his grazed elbow.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">The two victims, both 13 years old, were taken to Arnold Palmer Hospital and are expected to make a full recovery.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Surveillance footage shows juveniles crewing at the edge of the parking lot around 8:17 p.m., some still wearing their football jerseys.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">The first victim, a heavy-set male with red shorts, can be seen chasing the alleged shooter toward his mother's vehicle around 8:18 p.m. Seconds later, the suspect opens the front passenger door and reaches into the vehicle, where his mother was reportedly in the driver's seat.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Inside and under the passenger seat was a purple handgun, according to the arrest report.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Brandishing the weapon, the suspect appears to turn the tables and chase the heavy-set victim, ultimately firing one shot into the victim's back. The same round proceeded to graze the second victim's elbow.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Following the shooting, WOFL indicated the alleged shooter was brought back to his mother's vehicle. He is now being held at a juvenile detention center.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">According to the arrest report, some witnesses claimed the victims had been "bullying" the alleged shooter. Others suggested the dispute was over "a bag of chips," reported the Orlando Sentinel.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Apopka Police Chief Michael McKinley told reporters, "It's unbelievable that young kids out here to play football and have a good time would get into an altercation."</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">McKinley indicated the APD would be pursuing second-degree misdemeanor charges against the mother for allegedly having her firearm in an unlocked box, reported WKMG-TV.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Orange-Osceola State Attorney Andrew Bain, who took over for Monique Worrell after her suspension by Gov. Ron DeSantis, said his office will ensure there will be a reckoning.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">"The level of violence unacceptable right now, especially from our youth," said Bain. "We&rsquo;re going to stand strong to deal with those cases and try to end or put a big slow-down to what&rsquo;s going on in the streets right now."</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Apopka Pop Warner canceled its Wednesday practice, noting in a statement, "One of our players was involved in a shooting incident that resulted in the injury of two players. We are deeply saddened by this event and our thoughts and prayers are with the families affected."</span></p>
-<p>&nbsp;</p>
-<p><a href="https://www.breitbart.com/europe/2023/10/04/uk-announced-new-zealand-style-plan-to-ban-smoking-altogether/"><span style="font-weight: 400;">https://www.breitbart.com/europe/2023/10/04/uk-announced-new-zealand-style-plan-to-ban-smoking-altogether/</span></a></p>
-<p>&nbsp;</p>
-<p><strong>UK Announces New Zealand Style Plan to Ban Smoking Altogether</strong></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">The United Kingdom is to phase out smoking altogether, the government says, by banning young people from buying cigarettes at all with a minimum age to buy rising from 18 every year until there isn&rsquo;t anyone left alive old enough to enjoy the habit.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Conservative Prime Minister Rishi Sunak announced his intention to steer the UK towards becoming tobacco-free by increasing the minimum age to buy products every year from here on, so the teenagers of today will never be old enough to legally take the habit up. Sunak acknowledged restricting personal freedoms was not always an easy choice for an instinctive Conservative but &mdash; underlining the way government decisions are driven by socialised healthcare &mdash; said it was important because smokers cost taxpayers through needing more hospital care.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">This is about &ldquo;preventative care&rdquo; to keep people out of hospitals, the Prime Minister said and told his governing party&rsquo;s annual conference that: &ldquo;I propose that in future, we raise the smoking age by one year every year. That means a 14-year-old today will never legally be sold a cigarette, and that they and their generation can grow up smoke-free&rdquo;.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">This would work, Sunak said, because the UK&rsquo;s previous experience with increasing the smoking age from 16 to 18 saw a drop in the number of people starting smoking. The Prime Minister said he would also look at cracking down on &lsquo;vapes&rsquo;, the electronic tobacco alternative.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">A report explaining the system as already implemented in New Zealand, which is becoming known for its draconian health interventions, stated in 2022:</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">The law states that tobacco can&rsquo;t ever be sold to anybody born on or after January 1, 2009 &ndash; and from now on, the minimum age for buying cigarettes will keep going up and up.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">In theory, somebody trying to buy a pack of cigarettes 50 years from now would need ID to show they were at least 63 years old. But health authorities hope smoking will fade away well before then. They have a stated goal of making New Zealand smoke-free by 2025.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">New Zealand also took other measures in its law shakeup, including making getting hold of cigarettes more difficult for those who could legally use them. They are no longer sold in regular stores, but can only be bought at specialist tobacconists, cutting the number of locations where smokes are sold nationwide from thousands of locations to hundreds.</span></p>
-<p>&nbsp;</p>
-<p><a href="https://www.washingtonexaminer.com/policy/defense-national-security/biden-faa-nominee-promises-end-work-from-home"><span style="font-weight: 400;">https://www.washingtonexaminer.com/policy/defense-national-security/biden-faa-nominee-promises-end-work-from-home</span></a></p>
-<p>&nbsp;</p>
-<p><strong>Biden pick to lead FAA promises hard push to end work-from-home policies</strong></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">President Joe Biden's nominee to lead the Federal Aviation Administration would prioritize ending pandemic telework policies for federal employees and bring the out-of-date agency into the 21st century.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Former FAA Deputy Administrator Michael Whitaker told Senate Commerce, Science, and Transportation Committee members during his confirmation hearing on Wednesday that, if approved, he would focus heavily on matters with agency employees.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">"I do believe that it's important to be in person for collaboration and working together," said Whitaker, a pilot and former aviation industry executive. "This has been a challenging issue for all organizations, private or public. And I think what needs to happen is after understanding the situation that we're in and the limitations that might be there, issuing very clear guidance, what the expectations are to get people in the office."</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">In July, the FAA announced that employees would have to return to the office no fewer than three days per week starting on Oct. 9. The union pushed back against a 100% return to office, complicating the agency's attempt to reinstate the policy.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Sen. Ted Cruz (R-TX) egged Whitaker on over the work-from-home policies and claimed the federal government was the only employer that had not returned to pre-pandemic policies.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">"When I talk to businesses in the private sector, virtually all of them, employees are going back to work, and they're physically present. And yet, throughout the Biden administration, we have a pattern in just about every agency where large portions of the workforce have apparently decided going into the office is optional," Cruz said. "That seriously limits the effectiveness of an agency and particularly an agency whose mission is protecting people's lives and the airspace."</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">When asked by Cruz if he would commit to "working diligently" to bring employees back into the office, Whitaker agreed.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Whitaker was second in command at the FAA from 2012 through 2015. The agency has had a gap in leadership over the past 18 months. Returning to the FAA at this point, Whitaker said, would warrant three actions he would take in his five-year term as administrator.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">"First, I will work not just to maintain the safety record we have collectively achieved but build upon it. The two Boeing MAX crashes remind us that we must be ever-vigilant," Whitaker said.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">The agency ought to ensure gaps in the FAA certification process are closed so that undisclosed changes manufacturers make to aircraft can still be caught before being put into use.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Second, the FAA should be more "agile and creative" and willing to "adapt quickly" and plan for the future rather than focus on the present.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">The FAA has but one academy that takes years to complete, and it can only accommodate 1,800 air traffic controllers at a time.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Whitaker's final point was that the government should make the FAA a place where people interested in aviation careers, particularly air traffic controllers, want to work.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">He was tasked with hiring 6,000 air traffic controllers during his previous stint at the FAA but came up far short.</span></p>
-<p>&nbsp;</p>
-<p><a href="https://dailycaller.com/2023/10/05/rnc-republican-presidential-primary-debates-donald-trump/"><span style="font-weight: 400;">https://dailycaller.com/2023/10/05/rnc-republican-presidential-primary-debates-donald-trump/</span></a></p>
-<p>&nbsp;</p>
-<p><strong>Even The RNC&rsquo;s Own Members Are Admitting Trump-less Debates May Be A Waste Of Time</strong></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Members of the Republican National Committee (RNC) are frustrated with the current direction of their GOP primary debates, admitting that without President Donald Trump the events may not be worth it, according to Politico.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">The frontrunner for the Republican nomination, Trump has skipped the first two presidential debates, a decision that has drawn criticism from rival candidates. After the first two debates were widely panned, some within the RNC think they need the President on the stage to make the forums worth it.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">&ldquo;I think the only way you salvage it is if you get the frontrunner there,&rdquo; Tyler Bowyer, a national committeeman from Arizona, told Politico. &ldquo;Plan a debate where you get the frontrunner to agree to it.&rdquo;</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">The first GOP presidential debate, sponsored by the conservative youth organization Young America&rsquo;s Foundation (YAF), was aired exclusively on Fox News, Fox Business and Rumble. The debate was moderated by Fox News&rsquo; Bret Baier and Martha MacCallum in Milwaukee, Wisconsin.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">The second debate was aired by the exact same networks, in addition to Spanish-language network Univision. The moderators included Univision anchor Ilia Calder&oacute;n, Fox Business host Stuart Varney and Fox News host Dana Perino.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">That debate fell flat, with many prominent conservative media figures criticizing the moderators for asking poor questions while candidates bickered and talked over one another. The RNC previously promised in 2022 to use debates to &ldquo;raise conservative media up&rdquo; and incorporate other outlets, but after the first two debates, conservative media companies outside of the mainstream media told the Daily Caller that they are feeling snubbed by the committee.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">&ldquo;You can&rsquo;t put your head in the sand and pretend these debates are going to result in someone other than Donald Trump getting the nomination,&rdquo; Patti Lyman, the RNC&rsquo;s national committeewoman from Virginia, told Politico, adding that the debates were &ldquo;embarrassing&rdquo; and &ldquo;reflected very poorly on our party.&rdquo;</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Despite some members pushing for Trump to take the debate stage, top officials are reportedly not attempting to get the front runner on the debate stage, a person with knowledge of the committee&rsquo;s operations told Politico. That reportedly includes RNC chairwoman Ronna McDaniel and chairman for the RNC&rsquo;s Temporary Committee on Presidential Debates David Bossie.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Trump himself doesn&rsquo;t think the debates should go on; the President told the Daily Caller that the RNC &ldquo;has to stop the debates&rdquo; because they are &ldquo;bad for the Republican party.&rdquo; Trump and his advisors have additionally urged the RNC to &ldquo;refocus its manpower and money&rdquo; on election integrity efforts rather than the debates, Politico reported.</span></p>]]></description>
-   <author><![CDATA[Garrison Hardie]]></author>
-   <enclosure url="https://app.dropwave.io/episode/209c7c1e-8ae8-4f94-8d42-c0a5726e5bd4/daily-news-brief-for-friday-october-6th-2023.mp3" length="745" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[209c7c1e-8ae8-4f94-8d42-c0a5726e5bd4]]></guid>
-   <pubDate>Fri, 06 Oct 2023 11:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Garrison Hardie]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/mUK8zsnHkCK3vep7E1W6UgYb9dTnLenASAMEFha3.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>745</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
