@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 23 Oct 2023 07:25:47 +0000</pubDate>
-  <lastBuildDate>Mon, 23 Oct 2023 07:25:47 +0000</lastBuildDate>
+  <pubDate>Mon, 23 Oct 2023 13:25:48 +0000</pubDate>
+  <lastBuildDate>Mon, 23 Oct 2023 13:25:48 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -26,6 +26,21 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[John 5:39-47 [Up and Ready]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/75d33d25-b258-4d5c-b2ca-56cc5495b814/john-539-47.mp3" length="268" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[75d33d25-b258-4d5c-b2ca-56cc5495b814]]></guid>
+   <pubDate>Mon, 23 Oct 2023 09:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>268</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[Psalm 131 [Up and Ready]]]></title>
    <link/>
    <description><![CDATA[]]></description>
@@ -203,21 +218,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>378</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  
-  </item><item>
-   <title><![CDATA[Hebrews 12:22-24 [Up and Ready]]]></title>
-   <link/>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[MARK DEWEY]]></author>
-   <enclosure url="https://app.dropwave.io/episode/20e5c5b5-3984-4dde-aa86-579e1626c9d7/hebrews-1222-24.mp3" length="281" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[20e5c5b5-3984-4dde-aa86-579e1626c9d7]]></guid>
-   <pubDate>Sat, 07 Oct 2023 09:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[MARK DEWEY]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>281</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   
   </item>
