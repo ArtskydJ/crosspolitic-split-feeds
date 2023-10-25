@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Tue, 24 Oct 2023 19:25:48 +0000</pubDate>
-  <lastBuildDate>Tue, 24 Oct 2023 19:25:48 +0000</lastBuildDate>
+  <pubDate>Wed, 25 Oct 2023 01:25:46 +0000</pubDate>
+  <lastBuildDate>Wed, 25 Oct 2023 01:25:46 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -56,20 +56,6 @@
    <itunes:duration>932</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   
-  </item><item>
-   <title><![CDATA[Owen Strachan Tries Many Excuses For His Cowardice [AD on FLF Network]]]></title>
-   <link/>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/90e95502-6e52-4862-a2e4-4f914063eb33/owen-strachan-tries-many-excuses-for-his-cowardice.mp3" length="2501" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[90e95502-6e52-4862-a2e4-4f914063eb33]]></guid>
-   <pubDate>Mon, 09 Oct 2023 21:05:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/e985f24f-d823-4e20-b87a-9e2fa86624f5/cover-art/me0OCTvDSY04mcI5sI97SZ3jsUtDXyHr5ExQtpr2.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2501</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
 </rss>
