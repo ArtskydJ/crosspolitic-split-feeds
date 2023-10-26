@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Thu, 26 Oct 2023 01:25:48 +0000</pubDate>
-  <lastBuildDate>Thu, 26 Oct 2023 01:25:48 +0000</lastBuildDate>
+  <pubDate>Thu, 26 Oct 2023 07:25:48 +0000</pubDate>
+  <lastBuildDate>Thu, 26 Oct 2023 07:25:48 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Work Wednesday: Nate Spearing Special Ops  Vet - Real Estate Investor [Knox Unleashed]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/ddf6a97a-08b7-44a4-93d3-5be5022518d0/work-wednesday-nate-spearing-special-ops-vet-real-estate-investor.mp3" length="5942" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[ddf6a97a-08b7-44a4-93d3-5be5022518d0]]></guid>
+   <pubDate>Thu, 26 Oct 2023 04:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/1b6cb499-27ea-45b0-9e57-5a50c0122207/cover-art/jy6cbkJDGajJ6KviBwzPs6tF04RJgX6KfKanfrIy.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>5942</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Freedom for Everyone in a Win Win Revolution? w/ Rick Raddatz [CrossPolitic Show]]]></title>
    <link/>
@@ -284,21 +299,6 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[Fight Laugh Feast Conference - Reflections From The Rebels [The Rebel Podcast]]]></title>
-   <link/>
-   <description><![CDATA[<p>Pastors Nate &amp; Chris, The Rebels, have returned from the Fight Laugh Feast conference held at the Ark Encounter. &nbsp;In this episode they give you their thoughts on not only the conference, but the Ark as well. &nbsp;Were they excited to be there? &nbsp;I think so.</p>]]></description>
-   <author><![CDATA[pastors Nate & Chris - The Rebels]]></author>
-   <enclosure url="https://app.dropwave.io/episode/94cce3b7-ba00-443c-bd6d-1d1af35edc96/fight-laugh-feast-conference-reflections-from-the-rebels.mp3" length="2237" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[94cce3b7-ba00-443c-bd6d-1d1af35edc96]]></guid>
-   <pubDate>Tue, 24 Oct 2023 11:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[pastors Nate & Chris - The Rebels]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2237</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
    <title><![CDATA[Daily News Brief for Tuesday, October 24th, 2023 [Daily News Brief]]]></title>
    <link/>
    <description><![CDATA[<p><span style="font-weight: 400;">This is Garrison Hardie with your CrossPolitic Daily News Brief for Tuesday, October 24th, 2023.&nbsp;</span></p>
@@ -492,6 +492,21 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/mUK8zsnHkCK3vep7E1W6UgYb9dTnLenASAMEFha3.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1020</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[Fight Laugh Feast Conference - Reflections From The Rebels [The Rebel Podcast]]]></title>
+   <link/>
+   <description><![CDATA[<p>Pastors Nate &amp; Chris, The Rebels, have returned from the Fight Laugh Feast conference held at the Ark Encounter. &nbsp;In this episode they give you their thoughts on not only the conference, but the Ark as well. &nbsp;Were they excited to be there? &nbsp;I think so.</p>]]></description>
+   <author><![CDATA[pastors Nate & Chris - The Rebels]]></author>
+   <enclosure url="https://app.dropwave.io/episode/94cce3b7-ba00-443c-bd6d-1d1af35edc96/fight-laugh-feast-conference-reflections-from-the-rebels.mp3" length="2237" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[94cce3b7-ba00-443c-bd6d-1d1af35edc96]]></guid>
+   <pubDate>Tue, 24 Oct 2023 11:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[pastors Nate & Chris - The Rebels]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2237</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -1339,24 +1354,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>335</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[128: Terror, Israel & Land Claims [Leadership Now Podcast]]]></title>
-   <link/>
-   <description><![CDATA[<p>In this week's episode, Dr. Aaron Rock covers the Israel/Hamas war, the history behind the the nation of Israel, and what we should be doing in response to these recent events.</p>
-<p><strong>More Resources:</strong></p>
-<p>We are excited to partner with the Fight Laugh Feast Network to reach more listeners. Download the app here:&nbsp;<a href="https://subsplash.com/fightlaughfeastnetwork/app">https://subsplash.com/</a><a href="https://subsplash.com/fightlaughfeastnetwork/app">fightlaughfeastnetwork/app</a></p>
-<p>More resources at Dr. Aaron Rock&rsquo;s blog: Pursuit of Glory <a href="https://pursuitofglory.org/">https://pursuitofglory.org/</a></p>]]></description>
-   <author><![CDATA[Dr. Aaron Rock, Chris Eelman]]></author>
-   <enclosure url="https://app.dropwave.io/episode/8770bff2-2e96-421e-9b5c-00e7227587c3/128-terror-israel-land-claims.mp3" length="3736" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[8770bff2-2e96-421e-9b5c-00e7227587c3]]></guid>
-   <pubDate>Wed, 11 Oct 2023 19:31:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Dr. Aaron Rock, Chris Eelman]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/3312a6b0-2b88-4186-bfdd-e9c55d3d7e0f/cover-art/DJmJxOQEoRfGbs693sV6kEnKEGWstWUfdEXbQra8.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3736</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>

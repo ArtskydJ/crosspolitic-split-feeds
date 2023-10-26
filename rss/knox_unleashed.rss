@@ -3,7 +3,7 @@
 
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
  <channel>
-  <title>FLF - Having Two Legs</title>
+  <title>FLF - Knox Unleashed</title>
   <link>https://dropwave.io</link>
   <description><![CDATA[FIGHT LAUGH FEAST PRESENTS SHOWS PROCLAIMING THE LORDSHIP OF CHRIST OVER ALL OF LIFE.
 ]]></description>
@@ -26,19 +26,18 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
-   <title><![CDATA[How to Start a Reformation (In Four Easy Steps) | Toby Sumpter [Having Two Legs]]]></title>
+   <title><![CDATA[Work Wednesday: Nate Spearing Special Ops  Vet - Real Estate Investor [Knox Unleashed]]]></title>
    <link/>
-   <description><![CDATA[<p>In this episode of Having Two Legs, Pastor Toby explains how to start a reformation&nbsp;</p>
-<p>Read the blog post here: https://tobyjsumpter.com/how-to-start-a-reformation-in-four-easy-steps/</p>]]></description>
+   <description><![CDATA[]]></description>
    <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/96861459-1b85-43a6-8a05-82dda92326cd/how-to-start-a-reformation-in-four-easy-steps-toby-sumpter.mp3" length="703" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[96861459-1b85-43a6-8a05-82dda92326cd]]></guid>
-   <pubDate>Thu, 19 Oct 2023 22:00:00 +0000</pubDate>
+   <enclosure url="https://app.dropwave.io/episode/ddf6a97a-08b7-44a4-93d3-5be5022518d0/work-wednesday-nate-spearing-special-ops-vet-real-estate-investor.mp3" length="5942" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[ddf6a97a-08b7-44a4-93d3-5be5022518d0]]></guid>
+   <pubDate>Thu, 26 Oct 2023 04:00:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/20dde981-157e-4504-b38f-dd9d7b0e4c50/cover-art/NBLpJ1iH37jx5cG1FQleZqvLJTmAYyZkUV45AXcu.png"/>
+   <itunes:image href="https://assets-cdn2.dropwave.io/1b6cb499-27ea-45b0-9e57-5a50c0122207/cover-art/jy6cbkJDGajJ6KviBwzPs6tF04RJgX6KfKanfrIy.jpg"/>
    <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>703</itunes:duration>
+   <itunes:duration>5942</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   
   </item>
