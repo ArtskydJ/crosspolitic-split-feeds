@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Tue, 31 Oct 2023 13:25:47 +0000</pubDate>
-  <lastBuildDate>Tue, 31 Oct 2023 13:25:47 +0000</lastBuildDate>
+  <pubDate>Tue, 31 Oct 2023 19:25:46 +0000</pubDate>
+  <lastBuildDate>Tue, 31 Oct 2023 19:25:46 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,26 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Chalmers Conversion [Resistance and Reformation]]]></title>
+   <link/>
+   <description><![CDATA[<p><span style="font-weight: 400;">More from Dr. George Grant</span></p>
+<p><a href="https://georgegrant.net/"><span style="font-weight: 400;">https://georgegrant.net/</span></a><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">Adoring God Foundation&nbsp;</span></p>
+<p><a href="https://adoringgod.org/"><span style="font-weight: 400;">https://adoringgod.org/</span></a></p>
+<p><br /><br /></p>]]></description>
+   <author><![CDATA[Dr. George Grant]]></author>
+   <enclosure url="https://app.dropwave.io/episode/c03e7ad7-0f50-47bc-bdd9-12ae97504f51/chalmers-conversion.mp3" length="596" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[c03e7ad7-0f50-47bc-bdd9-12ae97504f51]]></guid>
+   <pubDate>Tue, 31 Oct 2023 16:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Dr. George Grant]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>596</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Daily News Brief for Tuesday, October 31st, 2023 [Daily News Brief]]]></title>
    <link/>
@@ -1025,21 +1045,6 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[Fight Laugh Feast Conference - Reflections From The Rebels [The Rebel Podcast]]]></title>
-   <link/>
-   <description><![CDATA[<p>Pastors Nate &amp; Chris, The Rebels, have returned from the Fight Laugh Feast conference held at the Ark Encounter. &nbsp;In this episode they give you their thoughts on not only the conference, but the Ark as well. &nbsp;Were they excited to be there? &nbsp;I think so.</p>]]></description>
-   <author><![CDATA[pastors Nate & Chris - The Rebels]]></author>
-   <enclosure url="https://app.dropwave.io/episode/94cce3b7-ba00-443c-bd6d-1d1af35edc96/fight-laugh-feast-conference-reflections-from-the-rebels.mp3" length="2237" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[94cce3b7-ba00-443c-bd6d-1d1af35edc96]]></guid>
-   <pubDate>Tue, 24 Oct 2023 11:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[pastors Nate & Chris - The Rebels]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2237</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
    <title><![CDATA[Daily News Brief for Tuesday, October 24th, 2023 [Daily News Brief]]]></title>
    <link/>
    <description><![CDATA[<p><span style="font-weight: 400;">This is Garrison Hardie with your CrossPolitic Daily News Brief for Tuesday, October 24th, 2023.&nbsp;</span></p>
@@ -1233,6 +1238,21 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/mUK8zsnHkCK3vep7E1W6UgYb9dTnLenASAMEFha3.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1020</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[Fight Laugh Feast Conference - Reflections From The Rebels [The Rebel Podcast]]]></title>
+   <link/>
+   <description><![CDATA[<p>Pastors Nate &amp; Chris, The Rebels, have returned from the Fight Laugh Feast conference held at the Ark Encounter. &nbsp;In this episode they give you their thoughts on not only the conference, but the Ark as well. &nbsp;Were they excited to be there? &nbsp;I think so.</p>]]></description>
+   <author><![CDATA[pastors Nate & Chris - The Rebels]]></author>
+   <enclosure url="https://app.dropwave.io/episode/94cce3b7-ba00-443c-bd6d-1d1af35edc96/fight-laugh-feast-conference-reflections-from-the-rebels.mp3" length="2237" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[94cce3b7-ba00-443c-bd6d-1d1af35edc96]]></guid>
+   <pubDate>Tue, 24 Oct 2023 11:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[pastors Nate & Chris - The Rebels]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2237</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -1661,22 +1681,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/69893365-4165-4498-b0ac-e9ddf57a000f/cover-art/E86eLfK3NgjrpuXtk9kW9Qv6KcfzQpkJpToltreR.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3989</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[How to Start a Reformation (In Four Easy Steps) | Toby Sumpter [Having Two Legs]]]></title>
-   <link/>
-   <description><![CDATA[<p>In this episode of Having Two Legs, Pastor Toby explains how to start a reformation&nbsp;</p>
-<p>Read the blog post here: https://tobyjsumpter.com/how-to-start-a-reformation-in-four-easy-steps/</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/96861459-1b85-43a6-8a05-82dda92326cd/how-to-start-a-reformation-in-four-easy-steps-toby-sumpter.mp3" length="703" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[96861459-1b85-43a6-8a05-82dda92326cd]]></guid>
-   <pubDate>Thu, 19 Oct 2023 22:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/20dde981-157e-4504-b38f-dd9d7b0e4c50/cover-art/NBLpJ1iH37jx5cG1FQleZqvLJTmAYyZkUV45AXcu.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>703</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
