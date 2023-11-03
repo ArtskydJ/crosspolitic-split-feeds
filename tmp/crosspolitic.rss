@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Fri, 03 Nov 2023 01:25:46 +0000</pubDate>
-  <lastBuildDate>Fri, 03 Nov 2023 01:25:46 +0000</lastBuildDate>
+  <pubDate>Fri, 03 Nov 2023 07:25:47 +0000</pubDate>
+  <lastBuildDate>Fri, 03 Nov 2023 07:25:47 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Thread Inception Thursday: Full Send! Let's talk about it! [Knox Unleashed]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/728cf2f6-48f9-4dc6-9e54-e0030a9beb0d/thread-inception-thursday-full-send-lets-talk-about-it.mp3" length="2224" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[728cf2f6-48f9-4dc6-9e54-e0030a9beb0d]]></guid>
+   <pubDate>Fri, 03 Nov 2023 04:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/1b6cb499-27ea-45b0-9e57-5a50c0122207/cover-art/jy6cbkJDGajJ6KviBwzPs6tF04RJgX6KfKanfrIy.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2224</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Mark Dewey Returns to talk Baseball & the World Series!  [CrossPolitic Show]]]></title>
    <link/>
@@ -1793,21 +1808,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2897</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[John 5:39-47 [Up and Ready]]]></title>
-   <link/>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[Mark Dewey]]></author>
-   <enclosure url="https://app.dropwave.io/episode/75d33d25-b258-4d5c-b2ca-56cc5495b814/john-539-47.mp3" length="268" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[75d33d25-b258-4d5c-b2ca-56cc5495b814]]></guid>
-   <pubDate>Mon, 23 Oct 2023 09:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>268</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
