@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Sat, 04 Nov 2023 01:25:53 +0000</pubDate>
-  <lastBuildDate>Sat, 04 Nov 2023 01:25:53 +0000</lastBuildDate>
+  <pubDate>Sat, 04 Nov 2023 07:25:48 +0000</pubDate>
+  <lastBuildDate>Sat, 04 Nov 2023 07:25:48 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Family Friday w/Pr.David Reece. The Importance of officers in the church III [Knox Unleashed]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Chocolate Knox]]></author>
+   <enclosure url="https://app.dropwave.io/episode/683a885a-7b96-4d13-ad89-505b6b7a56f7/family-friday-wprdavid-reece-the-importance-of-officers-in-the-church-iii.mp3" length="5699" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[683a885a-7b96-4d13-ad89-505b6b7a56f7]]></guid>
+   <pubDate>Sat, 04 Nov 2023 04:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Chocolate Knox]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/1b6cb499-27ea-45b0-9e57-5a50c0122207/cover-art/jy6cbkJDGajJ6KviBwzPs6tF04RJgX6KfKanfrIy.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>5699</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Speaker Mike Johnson - Christian Nationalism & The Ark Encounter? Colbert weighs in… [CrossPolitic Show]]]></title>
    <link/>
@@ -866,21 +881,6 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[A Few More Questions To Answer [The Rebel Podcast]]]></title>
-   <link/>
-   <description><![CDATA[<p>There's always questions coming in from listeners, so the Rebels take some time today to give their answers. &nbsp;If you've heard the Rebels say something you have a question about, or maybe you don't agree with them, send them an email at <a href="mailto:rebelpodcastflf@gmail.com">rebelpodcastflf@gmail.com</a>. &nbsp;</p>]]></description>
-   <author><![CDATA[Pastors Nate & Chris - The Rebels]]></author>
-   <enclosure url="https://app.dropwave.io/episode/0ead7c14-dd43-4a9d-9a7b-d2f6824fc9de/a-few-more-questions-to-answer.mp3" length="2202" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[0ead7c14-dd43-4a9d-9a7b-d2f6824fc9de]]></guid>
-   <pubDate>Tue, 31 Oct 2023 10:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Pastors Nate & Chris - The Rebels]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2202</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
    <title><![CDATA[KDCP Ep. 5 Evangelism & Eschatology: Are We In the End Times? [Campus Preacher]]]></title>
    <link/>
    <description><![CDATA[<p>A brief over of some points in Biblical Eschatology to point in the direction that we are not in the "last days" or "end times."</p>]]></description>
@@ -893,6 +893,21 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/931fd9c4-1c60-4949-85db-e74a6e1f88fc/cover-art/W41Xalf47AwHAGKZ8NFWFwWZDf4p6s4D421ATQH6.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2480</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[A Few More Questions To Answer [The Rebel Podcast]]]></title>
+   <link/>
+   <description><![CDATA[<p>There's always questions coming in from listeners, so the Rebels take some time today to give their answers. &nbsp;If you've heard the Rebels say something you have a question about, or maybe you don't agree with them, send them an email at <a href="mailto:rebelpodcastflf@gmail.com">rebelpodcastflf@gmail.com</a>. &nbsp;</p>]]></description>
+   <author><![CDATA[Pastors Nate & Chris - The Rebels]]></author>
+   <enclosure url="https://app.dropwave.io/episode/0ead7c14-dd43-4a9d-9a7b-d2f6824fc9de/a-few-more-questions-to-answer.mp3" length="2202" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[0ead7c14-dd43-4a9d-9a7b-d2f6824fc9de]]></guid>
+   <pubDate>Tue, 31 Oct 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Pastors Nate & Chris - The Rebels]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2202</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -1929,21 +1944,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/mUK8zsnHkCK3vep7E1W6UgYb9dTnLenASAMEFha3.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1020</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[KDCP Ep. 4 Street Preaching: How Do You Close a Meeting? [Campus Preacher]]]></title>
-   <link/>
-   <description><![CDATA[<p>In this series, we've discussed starting a meeting, keeping a crowd, and the character of a preacher, but here we discuss how we close a meeting.&nbsp;</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/6b099a94-99c5-499a-bc51-07f55885a861/kdcp-ep-4-street-preaching-how-do-you-close-a-meeting.mp3" length="1231" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[6b099a94-99c5-499a-bc51-07f55885a861]]></guid>
-   <pubDate>Tue, 24 Oct 2023 10:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/931fd9c4-1c60-4949-85db-e74a6e1f88fc/cover-art/W41Xalf47AwHAGKZ8NFWFwWZDf4p6s4D421ATQH6.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1231</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
