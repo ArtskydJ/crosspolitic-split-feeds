@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Sat, 04 Nov 2023 07:25:48 +0000</pubDate>
-  <lastBuildDate>Sat, 04 Nov 2023 07:25:48 +0000</lastBuildDate>
+  <pubDate>Sat, 04 Nov 2023 13:25:52 +0000</pubDate>
+  <lastBuildDate>Sat, 04 Nov 2023 13:25:52 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Psalm 107:31-32 [Up and Ready]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/2f384e0b-8422-4983-9dcd-895a713b3c33/psalm-10731-32.mp3" length="276" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[2f384e0b-8422-4983-9dcd-895a713b3c33]]></guid>
+   <pubDate>Sat, 04 Nov 2023 09:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>276</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Family Friday w/Pr.David Reece. The Importance of officers in the church III [Knox Unleashed]]]></title>
    <link/>
@@ -881,21 +896,6 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[KDCP Ep. 5 Evangelism & Eschatology: Are We In the End Times? [Campus Preacher]]]></title>
-   <link/>
-   <description><![CDATA[<p>A brief over of some points in Biblical Eschatology to point in the direction that we are not in the "last days" or "end times."</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/b362bba6-a2c0-4716-9bec-f075be4f7374/kdcp-ep-5-evangelism-eschatology-are-we-in-the-end-times.mp3" length="2480" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[b362bba6-a2c0-4716-9bec-f075be4f7374]]></guid>
-   <pubDate>Tue, 31 Oct 2023 10:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/931fd9c4-1c60-4949-85db-e74a6e1f88fc/cover-art/W41Xalf47AwHAGKZ8NFWFwWZDf4p6s4D421ATQH6.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2480</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
    <title><![CDATA[A Few More Questions To Answer [The Rebel Podcast]]]></title>
    <link/>
    <description><![CDATA[<p>There's always questions coming in from listeners, so the Rebels take some time today to give their answers. &nbsp;If you've heard the Rebels say something you have a question about, or maybe you don't agree with them, send them an email at <a href="mailto:rebelpodcastflf@gmail.com">rebelpodcastflf@gmail.com</a>. &nbsp;</p>]]></description>
@@ -908,6 +908,21 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2202</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[KDCP Ep. 5 Evangelism & Eschatology: Are We In the End Times? [Campus Preacher]]]></title>
+   <link/>
+   <description><![CDATA[<p>A brief over of some points in Biblical Eschatology to point in the direction that we are not in the "last days" or "end times."</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/b362bba6-a2c0-4716-9bec-f075be4f7374/kdcp-ep-5-evangelism-eschatology-are-we-in-the-end-times.mp3" length="2480" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[b362bba6-a2c0-4716-9bec-f075be4f7374]]></guid>
+   <pubDate>Tue, 31 Oct 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/931fd9c4-1c60-4949-85db-e74a6e1f88fc/cover-art/W41Xalf47AwHAGKZ8NFWFwWZDf4p6s4D421ATQH6.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2480</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -1733,21 +1748,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>643</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Fight Laugh Feast Conference - Reflections From The Rebels [The Rebel Podcast]]]></title>
-   <link/>
-   <description><![CDATA[<p>Pastors Nate &amp; Chris, The Rebels, have returned from the Fight Laugh Feast conference held at the Ark Encounter. &nbsp;In this episode they give you their thoughts on not only the conference, but the Ark as well. &nbsp;Were they excited to be there? &nbsp;I think so.</p>]]></description>
-   <author><![CDATA[pastors Nate & Chris - The Rebels]]></author>
-   <enclosure url="https://app.dropwave.io/episode/94cce3b7-ba00-443c-bd6d-1d1af35edc96/fight-laugh-feast-conference-reflections-from-the-rebels.mp3" length="2237" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[94cce3b7-ba00-443c-bd6d-1d1af35edc96]]></guid>
-   <pubDate>Tue, 24 Oct 2023 11:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[pastors Nate & Chris - The Rebels]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2237</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
