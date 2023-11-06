@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 06 Nov 2023 07:25:46 +0000</pubDate>
-  <lastBuildDate>Mon, 06 Nov 2023 07:25:46 +0000</lastBuildDate>
+  <pubDate>Mon, 06 Nov 2023 13:25:47 +0000</pubDate>
+  <lastBuildDate>Mon, 06 Nov 2023 13:25:47 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -26,6 +26,21 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Matthew 25:1-13 [Up and Ready]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/111b6608-b5bb-4538-b3a9-9b240128b165/matthew-251-13.mp3" length="365" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[111b6608-b5bb-4538-b3a9-9b240128b165]]></guid>
+   <pubDate>Mon, 06 Nov 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>365</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[Psalm 107:31-32 [Up and Ready]]]></title>
    <link/>
    <description><![CDATA[]]></description>
@@ -158,21 +173,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>343</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  
-  </item><item>
-   <title><![CDATA[Proverbs 27:5 [Up and Ready]]]></title>
-   <link/>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[Mark Dewey]]></author>
-   <enclosure url="https://app.dropwave.io/episode/5e04f64e-8e69-4c92-9e93-3a5576bb6eb7/proverbs-275.mp3" length="267" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[5e04f64e-8e69-4c92-9e93-3a5576bb6eb7]]></guid>
-   <pubDate>Wed, 25 Oct 2023 09:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>267</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   
   </item>

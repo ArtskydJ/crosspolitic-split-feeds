@@ -3,7 +3,7 @@
 
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
  <channel>
-  <title>FLF - The Rebel Podcast</title>
+  <title>FLF - Business Makers</title>
   <link>https://dropwave.io</link>
   <description><![CDATA[FIGHT LAUGH FEAST PRESENTS SHOWS PROCLAIMING THE LORDSHIP OF CHRIST OVER ALL OF LIFE.
 ]]></description>
@@ -26,18 +26,18 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
-   <title><![CDATA[A Few More Questions To Answer [The Rebel Podcast]]]></title>
+   <title><![CDATA[Vetting Investment Opportunities with Vicinity [Business Makers]]]></title>
    <link/>
-   <description><![CDATA[<p>There's always questions coming in from listeners, so the Rebels take some time today to give their answers. &nbsp;If you've heard the Rebels say something you have a question about, or maybe you don't agree with them, send them an email at <a href="mailto:rebelpodcastflf@gmail.com">rebelpodcastflf@gmail.com</a>. &nbsp;</p>]]></description>
-   <author><![CDATA[Pastors Nate & Chris - The Rebels]]></author>
-   <enclosure url="https://app.dropwave.io/episode/0ead7c14-dd43-4a9d-9a7b-d2f6824fc9de/a-few-more-questions-to-answer.mp3" length="2202" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[0ead7c14-dd43-4a9d-9a7b-d2f6824fc9de]]></guid>
-   <pubDate>Tue, 31 Oct 2023 10:00:00 +0000</pubDate>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Gabriel Rench]]></author>
+   <enclosure url="https://app.dropwave.io/episode/b7c347fa-e5dc-4e90-ba32-5935a9ef38b6/vetting-investment-opportunities-with-vicinity.mp3" length="1632" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[b7c347fa-e5dc-4e90-ba32-5935a9ef38b6]]></guid>
+   <pubDate>Mon, 06 Nov 2023 12:00:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Pastors Nate & Chris - The Rebels]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
+   <itunes:author><![CDATA[Gabriel Rench]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/bee4a00c-4ce8-4a6d-9888-4203b7203a76/cover-art/WACeSnTCLzRxHdYHLObAnLY03Y0tzlD2DKB774i8.jpg"/>
    <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2202</itunes:duration>
+   <itunes:duration>1632</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   
   </item>
