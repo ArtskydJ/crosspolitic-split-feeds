@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Wed, 22 Nov 2023 19:25:45 +0000</pubDate>
-  <lastBuildDate>Wed, 22 Nov 2023 19:25:45 +0000</lastBuildDate>
+  <pubDate>Thu, 23 Nov 2023 01:25:44 +0000</pubDate>
+  <lastBuildDate>Thu, 23 Nov 2023 01:25:44 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,22 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Act Like Men | Toby Sumpter [Having Two Legs]]]></title>
+   <link/>
+   <description><![CDATA[<p>In this episode of Having Two Legs, Pastor Toby encourages the church to act like men: be strong and firm and alert as men and women.</p>
+<p>Read the blog post here: https://tobyjsumpter.com/act-like-men/</p>]]></description>
+   <author><![CDATA[Toby Sumpter]]></author>
+   <enclosure url="https://app.dropwave.io/episode/09e83bc5-386a-42ae-b17b-bd9efd075aff/act-like-men-toby-sumpter.mp3" length="218" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[09e83bc5-386a-42ae-b17b-bd9efd075aff]]></guid>
+   <pubDate>Wed, 22 Nov 2023 21:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Toby Sumpter]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/20dde981-157e-4504-b38f-dd9d7b0e4c50/cover-art/NBLpJ1iH37jx5cG1FQleZqvLJTmAYyZkUV45AXcu.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>218</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Conversations with a Conspiracy Theorist: Greg Moore, Keith Foskey, & John Burroughs [Dead Men Walking Podcast]]]></title>
    <link/>
@@ -913,21 +929,6 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[Time For A Change? [The Rebel Podcast]]]></title>
-   <link/>
-   <description><![CDATA[<p>A famous singer (sort of) once sang that the times they are a changin'. &nbsp;But another famous person (my father) always said that times don't change, people do. &nbsp;We've certainly seen a huge amount of change over the past several years. &nbsp;And at the Rebels podcast, another change is coming. &nbsp;Join Pastors Nate &amp; Chris as they discuss a great change that has happened and what it means for this podcast.</p>]]></description>
-   <author><![CDATA[Pastor Nate & Chris - The Rebels]]></author>
-   <enclosure url="https://app.dropwave.io/episode/e4584ec2-a845-439c-84ba-0458c11339eb/time-for-a-change.mp3" length="1971" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[e4584ec2-a845-439c-84ba-0458c11339eb]]></guid>
-   <pubDate>Thu, 16 Nov 2023 10:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Pastor Nate & Chris - The Rebels]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1971</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
    <title><![CDATA[1 Thessalonians 5:1-7 [Up and Ready]]]></title>
    <link/>
    <description><![CDATA[]]></description>
@@ -940,6 +941,21 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>305</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[Time For A Change? [The Rebel Podcast]]]></title>
+   <link/>
+   <description><![CDATA[<p>A famous singer (sort of) once sang that the times they are a changin'. &nbsp;But another famous person (my father) always said that times don't change, people do. &nbsp;We've certainly seen a huge amount of change over the past several years. &nbsp;And at the Rebels podcast, another change is coming. &nbsp;Join Pastors Nate &amp; Chris as they discuss a great change that has happened and what it means for this podcast.</p>]]></description>
+   <author><![CDATA[Pastor Nate & Chris - The Rebels]]></author>
+   <enclosure url="https://app.dropwave.io/episode/e4584ec2-a845-439c-84ba-0458c11339eb/time-for-a-change.mp3" length="1971" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[e4584ec2-a845-439c-84ba-0458c11339eb]]></guid>
+   <pubDate>Thu, 16 Nov 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Pastor Nate & Chris - The Rebels]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1971</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -1519,21 +1535,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/336e6745-00c3-4f9f-a8f5-78b7e05a5434/cover-art/7D81eUCMlsdAURtS25FvSOzUbrgGteFt4Z2Nj8F7.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2719</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Response to Darrell Harrison - Just Thinking (About Politics) [AD on FLF Network]]]></title>
-   <link/>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/a07cf1ad-0c03-4285-a704-bbea87ee6ee7/response-to-darrell-harrison-just-thinking-about-politics.mp3" length="1118" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[a07cf1ad-0c03-4285-a704-bbea87ee6ee7]]></guid>
-   <pubDate>Fri, 10 Nov 2023 13:08:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/e985f24f-d823-4e20-b87a-9e2fa86624f5/cover-art/me0OCTvDSY04mcI5sI97SZ3jsUtDXyHr5ExQtpr2.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1118</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
