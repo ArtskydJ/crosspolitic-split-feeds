@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Tue, 28 Nov 2023 13:25:50 +0000</pubDate>
-  <lastBuildDate>Tue, 28 Nov 2023 13:25:50 +0000</lastBuildDate>
+  <pubDate>Tue, 28 Nov 2023 19:25:51 +0000</pubDate>
+  <lastBuildDate>Tue, 28 Nov 2023 19:25:51 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Fundamental [Resistance and Reformation]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Dr. George Grant]]></author>
+   <enclosure url="https://app.dropwave.io/episode/0610b7a3-79b0-4580-b6bc-0f1f04305896/fundamental.mp3" length="565" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[0610b7a3-79b0-4580-b6bc-0f1f04305896]]></guid>
+   <pubDate>Tue, 28 Nov 2023 17:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Dr. George Grant]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>565</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Daily News Brief for Tuesday, November 28th, 2023 [Daily News Brief]]]></title>
    <link/>
@@ -1271,21 +1286,6 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[Time For A Change? [The Rebel Podcast]]]></title>
-   <link/>
-   <description><![CDATA[<p>A famous singer (sort of) once sang that the times they are a changin'. &nbsp;But another famous person (my father) always said that times don't change, people do. &nbsp;We've certainly seen a huge amount of change over the past several years. &nbsp;And at the Rebels podcast, another change is coming. &nbsp;Join Pastors Nate &amp; Chris as they discuss a great change that has happened and what it means for this podcast.</p>]]></description>
-   <author><![CDATA[Pastor Nate & Chris - The Rebels]]></author>
-   <enclosure url="https://app.dropwave.io/episode/e4584ec2-a845-439c-84ba-0458c11339eb/time-for-a-change.mp3" length="1971" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[e4584ec2-a845-439c-84ba-0458c11339eb]]></guid>
-   <pubDate>Thu, 16 Nov 2023 10:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Pastor Nate & Chris - The Rebels]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1971</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
    <title><![CDATA[1 Thessalonians 5:1-7 [Up and Ready]]]></title>
    <link/>
    <description><![CDATA[]]></description>
@@ -1298,6 +1298,21 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>305</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[Time For A Change? [The Rebel Podcast]]]></title>
+   <link/>
+   <description><![CDATA[<p>A famous singer (sort of) once sang that the times they are a changin'. &nbsp;But another famous person (my father) always said that times don't change, people do. &nbsp;We've certainly seen a huge amount of change over the past several years. &nbsp;And at the Rebels podcast, another change is coming. &nbsp;Join Pastors Nate &amp; Chris as they discuss a great change that has happened and what it means for this podcast.</p>]]></description>
+   <author><![CDATA[Pastor Nate & Chris - The Rebels]]></author>
+   <enclosure url="https://app.dropwave.io/episode/e4584ec2-a845-439c-84ba-0458c11339eb/time-for-a-change.mp3" length="1971" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[e4584ec2-a845-439c-84ba-0458c11339eb]]></guid>
+   <pubDate>Thu, 16 Nov 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Pastor Nate & Chris - The Rebels]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/w0UbRn2uM5yV9BWgVTAhrwlpOzSNrn99Jo5z83hu.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1971</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -1646,29 +1661,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>405</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Where Did Evangelicalism Go Wrong? Part 2—An Interview with Garrett Craw [The Pugcast]]]></title>
-   <link/>
-   <description><![CDATA[<p class="p1">Two themes swept through evangelicalism in the 1980s and 90s--they were "Church Growth" and "Contextualization." Both were the promoted by Fuller Theological Seminary. The Church Growth faculty at Fuller drew on social science, and research on what was successful in foreign mission fields. What they failed to incorporate into their theories is the intellectual tradition of the post Christian west. Church growth turned against ecclesiology in favor of marketing, confusing that with evangelism. But there have been successful church planters who have not betrayed sound theology in the name of reaching people. One of them is Garrett Craw.</p>
-<p class="p2">&nbsp;</p>
-<p class="p1">Unfortunately, we had a technical issue with the audio this time around, so forgive the poor quality there. Still worth a listen!</p>
-<p class="p2">&nbsp;</p>
-<p class="p1">Learn more about King&rsquo;s Cross in Buda, TX: <a href="https://www.kingscrossatx.org/"><span class="s1">https://www.kingscrossatx.org/</span></a></p>
-<p class="p2">&nbsp;</p>
-<p class="p3"><span class="s2">Support the Pugcast on Patreon: <a href="https://www.patreon.com/thetheologypugcast?fbclid=IwAR17UHhfzjphO52C_kkZfursA_C784t0ldFix0wyB4fd-YOJpmOQ3dyqGf8">https://www.patreon.com/thetheologypugcast?fbclid=IwAR17UHhfzjphO52C_kkZfursA_C784t0ldFix0wyB4fd-YOJpmOQ3dyqGf8</a></span></p>
-<p class="p2">&nbsp;</p>
-<p class="p1">Order The Making of Evangelical Spirituality by Jason Cherry: <a href="https://a.co/d/2SyDFwb"><span class="s3">https://a.co/d/2SyDFwb</span></a></p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/e702bd45-d386-4cb7-a60d-a52af1d421c0/where-did-evangelicalism-go-wrong-part-2-an-interview-with-garrett-craw.mp3" length="3704" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[e702bd45-d386-4cb7-a60d-a52af1d421c0]]></guid>
-   <pubDate>Mon, 13 Nov 2023 08:32:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/twsSDPdYj7i3jNCMtA3RAyuxR6wfO3frLk6jWHJv.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3704</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
