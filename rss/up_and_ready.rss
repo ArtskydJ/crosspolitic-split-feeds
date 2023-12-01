@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Fri, 01 Dec 2023 07:25:46 +0000</pubDate>
-  <lastBuildDate>Fri, 01 Dec 2023 07:25:46 +0000</lastBuildDate>
+  <pubDate>Fri, 01 Dec 2023 13:25:45 +0000</pubDate>
+  <lastBuildDate>Fri, 01 Dec 2023 13:25:45 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -26,6 +26,21 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Isaiah 64:1-7 [Up and Ready]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/49f61acc-5387-4acb-a83e-bd31c98274c0/isaiah-641-7.mp3" length="346" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[49f61acc-5387-4acb-a83e-bd31c98274c0]]></guid>
+   <pubDate>Fri, 01 Dec 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>346</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[Song of Solomon 5:10-6:1 [Up and Ready]]]></title>
    <link/>
    <description><![CDATA[]]></description>
@@ -205,20 +220,6 @@
    <itunes:duration>313</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   
-  </item><item>
-   <title><![CDATA[1 Thessalonians 5:1-7 [Up and Ready]]]></title>
-   <link/>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[Mark Dewey]]></author>
-   <enclosure url="https://app.dropwave.io/episode/578339fa-b574-41b1-873c-3fee3b8abe0b/1-thessalonians-51-7.mp3" length="305" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[578339fa-b574-41b1-873c-3fee3b8abe0b]]></guid>
-   <pubDate>Thu, 16 Nov 2023 10:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>305</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
 </rss>
