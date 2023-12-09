@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Sat, 09 Dec 2023 07:25:48 +0000</pubDate>
-  <lastBuildDate>Sat, 09 Dec 2023 07:25:48 +0000</lastBuildDate>
+  <pubDate>Sat, 09 Dec 2023 13:25:44 +0000</pubDate>
+  <lastBuildDate>Sat, 09 Dec 2023 13:25:44 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Luke 1:18-20 [Up and Ready]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/09d349f7-95bc-4ef9-a256-23794bb9103b/luke-118-20.mp3" length="298" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[09d349f7-95bc-4ef9-a256-23794bb9103b]]></guid>
+   <pubDate>Sat, 09 Dec 2023 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>298</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Political Parties Need the Gospel - Illegal Immigrants to Military?? [CrossPolitic Show]]]></title>
    <link/>
@@ -687,21 +702,6 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[Th Business of Pro Wrestling w/ Kyle Hessler [Business Makers]]]></title>
-   <link/>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/469b333b-29b2-4bda-84ec-b72cce47b06e/th-business-of-pro-wrestling-w-kyle-hessler.mp3" length="1738" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[469b333b-29b2-4bda-84ec-b72cce47b06e]]></guid>
-   <pubDate>Mon, 04 Dec 2023 12:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/bee4a00c-4ce8-4a6d-9888-4203b7203a76/cover-art/WACeSnTCLzRxHdYHLObAnLY03Y0tzlD2DKB774i8.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1738</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
    <title><![CDATA[TCND:  Seeds in the Thorns, feat. Juan DeVevo (Sisters in Lingerie) [The Comedian Next Door]]]></title>
    <link/>
    <description><![CDATA[<p>The Comedian (John Branyan) and the Musician (Juan DeVevo) are at it again.&nbsp; Do you ever hurt yourself while doing manly things?...</p>
@@ -719,6 +719,21 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2776</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[Th Business of Pro Wrestling w/ Kyle Hessler [Business Makers]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/469b333b-29b2-4bda-84ec-b72cce47b06e/th-business-of-pro-wrestling-w-kyle-hessler.mp3" length="1738" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[469b333b-29b2-4bda-84ec-b72cce47b06e]]></guid>
+   <pubDate>Mon, 04 Dec 2023 12:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/bee4a00c-4ce8-4a6d-9888-4203b7203a76/cover-art/WACeSnTCLzRxHdYHLObAnLY03Y0tzlD2DKB774i8.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1738</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -1557,25 +1572,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/69893365-4165-4498-b0ac-e9ddf57a000f/cover-art/E86eLfK3NgjrpuXtk9kW9Qv6KcfzQpkJpToltreR.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>4291</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Can a Christian Become a Non-Christian? [Leadership Now Podcast]]]></title>
-   <link/>
-   <description><![CDATA[<p>In this episode, Aaron discusses the doctrine of eternal assurance! Can a Christian lose their salvation, and what does the Bible have to say about this? All of this and more in this episode of Leadership Now with Dr. Aaron Rock.</p>
-<p>&nbsp;</p>
-<p><strong>More Resources:</strong></p>
-<p>&nbsp;</p>
-<p>More resources at Dr. Aaron Rock&rsquo;s blog: Pursuit of Glory <a href="https://pursuitofglory.org/">https://pursuitofglory.org/</a></p>]]></description>
-   <author><![CDATA[Dr. Aaron Rock, Chris Eelman]]></author>
-   <enclosure url="https://app.dropwave.io/episode/4dcdad50-0501-4024-890c-6d9747b2a62e/can-a-christian-become-a-non-christian.mp3" length="3212" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[4dcdad50-0501-4024-890c-6d9747b2a62e]]></guid>
-   <pubDate>Thu, 23 Nov 2023 20:25:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Dr. Aaron Rock, Chris Eelman]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/3312a6b0-2b88-4186-bfdd-e9c55d3d7e0f/cover-art/DJmJxOQEoRfGbs693sV6kEnKEGWstWUfdEXbQra8.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3212</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
