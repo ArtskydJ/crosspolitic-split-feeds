@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Fri, 15 Dec 2023 01:25:43 +0000</pubDate>
-  <lastBuildDate>Fri, 15 Dec 2023 01:25:43 +0000</lastBuildDate>
+  <pubDate>Fri, 15 Dec 2023 07:26:19 +0000</pubDate>
+  <lastBuildDate>Fri, 15 Dec 2023 07:26:19 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -205,20 +205,6 @@
    <itunes:duration>346</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   
-  </item><item>
-   <title><![CDATA[Song of Solomon 5:10-6:1 [Up and Ready]]]></title>
-   <link/>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[Mark Dewey]]></author>
-   <enclosure url="https://app.dropwave.io/episode/c531415d-cab1-4af5-8591-12fb2a16b212/song-of-solomon-510-61.mp3" length="279" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[c531415d-cab1-4af5-8591-12fb2a16b212]]></guid>
-   <pubDate>Thu, 30 Nov 2023 10:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>279</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
 </rss>
