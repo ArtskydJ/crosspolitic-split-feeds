@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Tue, 09 Jan 2024 01:25:44 +0000</pubDate>
-  <lastBuildDate>Tue, 09 Jan 2024 01:25:44 +0000</lastBuildDate>
+  <pubDate>Tue, 09 Jan 2024 07:25:46 +0000</pubDate>
+  <lastBuildDate>Tue, 09 Jan 2024 07:25:46 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[The Business of Ministry w/ TC Cook from PowerHouse [Business Makers]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/54e119af-49af-49e4-9a3a-11febbf1c0b2/the-business-of-ministry-w-tc-from-power-house.mp3" length="2656" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[54e119af-49af-49e4-9a3a-11febbf1c0b2]]></guid>
+   <pubDate>Tue, 09 Jan 2024 02:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/bee4a00c-4ce8-4a6d-9888-4203b7203a76/cover-art/WACeSnTCLzRxHdYHLObAnLY03Y0tzlD2DKB774i8.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2656</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[TCND: Let Your Yes be Yes (Cross My Heart) [The Comedian Next Door]]]></title>
    <link/>
@@ -1590,21 +1605,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>377</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[The Mistakes of Business Making w/ Andrew Crapuchettes [Business Makers]]]></title>
-   <link/>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[Gabriel Rench]]></author>
-   <enclosure url="https://app.dropwave.io/episode/143f3e0b-e835-415a-b627-bb0a244ca393/the-mistakes-of-business-making-w-andrew-crapuchettes.mp3" length="3328" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[143f3e0b-e835-415a-b627-bb0a244ca393]]></guid>
-   <pubDate>Tue, 19 Dec 2023 02:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Gabriel Rench]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/bee4a00c-4ce8-4a6d-9888-4203b7203a76/cover-art/WACeSnTCLzRxHdYHLObAnLY03Y0tzlD2DKB774i8.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3328</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
