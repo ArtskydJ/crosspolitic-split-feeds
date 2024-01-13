@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Sat, 13 Jan 2024 07:25:43 +0000</pubDate>
-  <lastBuildDate>Sat, 13 Jan 2024 07:25:43 +0000</lastBuildDate>
+  <pubDate>Sat, 13 Jan 2024 13:25:45 +0000</pubDate>
+  <lastBuildDate>Sat, 13 Jan 2024 13:25:45 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,37 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Psalm 139:1-18 [Up and Ready]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/412cd8bd-5785-472c-ae75-ba732e37f9b4/psalm-1391-18.mp3" length="361" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[412cd8bd-5785-472c-ae75-ba732e37f9b4]]></guid>
+   <pubDate>Sat, 13 Jan 2024 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>361</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[Coming Soon!! [The Outstanding Podcast]]]></title>
+   <link/>
+   <description><![CDATA[<p>Test</p>
+<p>Elevator Music Kevin MacLoed</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/af4f0dce-47ff-493a-b553-7035d0991f7a/coming-soon.mp3" length="200" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[af4f0dce-47ff-493a-b553-7035d0991f7a]]></guid>
+   <pubDate>Sat, 13 Jan 2024 08:30:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/03cb0a71-51fd-48b9-b2ef-b3104f5b133d/cover-art/38CYX60hTuMi0CVRwzaxNKLGpnGOhaR5BczKSfeT.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>200</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Heather Scott & Sage Dixon on CrossPolitic! Local Politics & The Idaho State Legislation Session [CrossPolitic Show]]]></title>
    <link/>
@@ -1517,39 +1548,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>302</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[TCND: VERY LATE Christmas Episode ( [The Comedian Next Door]]]></title>
-   <link/>
-   <description><![CDATA[<p>Hey, Neighbor!</p>
-<p>This episode was supposed to air on Christmas Day...&nbsp; &nbsp;but OOPS!</p>
-<p>Enjoy this late gift, from us.</p>
-<p>--The Comedian's Family</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/13023fa8-91b8-4f2b-9a73-d411b115f784/tcnd-very-late-christmas-episode.mp3" length="2899" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[13023fa8-91b8-4f2b-9a73-d411b115f784]]></guid>
-   <pubDate>Mon, 25 Dec 2023 12:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2899</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Luke 2:1-14 [Up and Ready]]]></title>
-   <link/>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[Mark Dewey]]></author>
-   <enclosure url="https://app.dropwave.io/episode/c2229488-1ce3-48aa-a9de-48c2911c2e84/luke-21-14.mp3" length="391" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[c2229488-1ce3-48aa-a9de-48c2911c2e84]]></guid>
-   <pubDate>Mon, 25 Dec 2023 10:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>391</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>

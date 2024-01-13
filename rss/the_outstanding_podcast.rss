@@ -3,7 +3,7 @@
 
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
  <channel>
-  <title>FLF - Knox Unleashed</title>
+  <title>FLF - The Outstanding Podcast</title>
   <link>https://dropwave.io</link>
   <description><![CDATA[FIGHT LAUGH FEAST PRESENTS SHOWS PROCLAIMING THE LORDSHIP OF CHRIST OVER ALL OF LIFE.
 ]]></description>
@@ -26,18 +26,19 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
-   <title><![CDATA[Good Governments for 2024 w/ Pr. David Reece [Knox Unleashed]]]></title>
+   <title><![CDATA[Coming Soon!! [The Outstanding Podcast]]]></title>
    <link/>
-   <description><![CDATA[]]></description>
+   <description><![CDATA[<p>Test</p>
+<p>Elevator Music Kevin MacLoed</p>]]></description>
    <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/5f117fbb-aade-4cc8-832b-8a87e37d7c4a/good-governments-for-2024-w-pr-david-reece.mp3" length="6110" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[5f117fbb-aade-4cc8-832b-8a87e37d7c4a]]></guid>
-   <pubDate>Sat, 06 Jan 2024 01:30:00 +0000</pubDate>
+   <enclosure url="https://app.dropwave.io/episode/af4f0dce-47ff-493a-b553-7035d0991f7a/coming-soon.mp3" length="200" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[af4f0dce-47ff-493a-b553-7035d0991f7a]]></guid>
+   <pubDate>Sat, 13 Jan 2024 08:30:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/1b6cb499-27ea-45b0-9e57-5a50c0122207/cover-art/jy6cbkJDGajJ6KviBwzPs6tF04RJgX6KfKanfrIy.jpg"/>
+   <itunes:image href="https://assets-cdn2.dropwave.io/03cb0a71-51fd-48b9-b2ef-b3104f5b133d/cover-art/38CYX60hTuMi0CVRwzaxNKLGpnGOhaR5BczKSfeT.png"/>
    <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>6110</itunes:duration>
+   <itunes:duration>200</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   
   </item>
