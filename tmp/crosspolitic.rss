@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 15 Jan 2024 19:25:45 +0000</pubDate>
-  <lastBuildDate>Mon, 15 Jan 2024 19:25:45 +0000</lastBuildDate>
+  <pubDate>Tue, 16 Jan 2024 01:25:48 +0000</pubDate>
+  <lastBuildDate>Tue, 16 Jan 2024 01:25:48 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,26 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[TCND: "Jesus Hung Out with Sinners" (Neutrality Sucks) [The Comedian Next Door]]]></title>
+   <link/>
+   <description><![CDATA[<p>Welcome to the table, Neighbor! The kids are playing in the background, and the PodNinja is feeling more talkative than usual... To kick things off, John shares why he hopes he gets invited to host the Golden Globes.&nbsp;</p>
+<p>Next:&nbsp; &nbsp;he Church love to retreat.&nbsp; Most Christians think they are leaving a "neutral ground" in the middle of the battle field, but that's not how it works!&nbsp; When we step back, it leaves a vacuum that "sucks" the anti-religious Nut Jobs into our old spot that we were too cowardly to stand in.&nbsp;</p>
+<p>Later:&nbsp; There's a campground near our home that is "rebranding."&nbsp; (Their words.) They are moving away from a family-style nature...and now, they will be "catering to the LGBT, Adults-Only crowd." (Their words again.)&nbsp; Yes, really!&nbsp; You must be 18 just to walk out on the disc golf course.</p>
+<p>Finally, the Pod Ninja (known for his powerful silence) actually brought a topic of discussion!&nbsp; There are some theologically-questionable things on Reddit.&nbsp; Did Jesus hang out with Sinners? Should we take stuff personally?&nbsp; &nbsp;Should we abandon our kids when we don't feel affection, like the animals do?&nbsp;<br /><br />Don't have fellowship with Sinners, neighbor!&nbsp;</p>
+<p>You can email the Comedian's family at <a href="mailto:nextdoor@johnbranyan.com">nextdoor@johnbranyan.com</a>.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/5b535bb4-08e9-4541-b550-e6a463b19b50/tcnd-jesus-hung-out-with-sinners-neutrality-sucks.mp3" length="2838" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[5b535bb4-08e9-4541-b550-e6a463b19b50]]></guid>
+   <pubDate>Mon, 15 Jan 2024 12:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2838</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Mark 1:14-20 [Up and Ready]]]></title>
    <link/>
@@ -1531,21 +1551,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/20dde981-157e-4504-b38f-dd9d7b0e4c50/cover-art/NBLpJ1iH37jx5cG1FQleZqvLJTmAYyZkUV45AXcu.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>190</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Proverbs 8:1-4 [Up and Ready]]]></title>
-   <link/>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[Mark Dewey]]></author>
-   <enclosure url="https://app.dropwave.io/episode/b5c1b25a-3866-4dec-a1a8-fed7a8d085b3/proverbs-81-4.mp3" length="307" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[b5c1b25a-3866-4dec-a1a8-fed7a8d085b3]]></guid>
-   <pubDate>Thu, 28 Dec 2023 10:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>307</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
