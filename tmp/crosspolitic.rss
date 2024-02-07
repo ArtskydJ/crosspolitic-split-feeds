@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Wed, 07 Feb 2024 07:25:45 +0000</pubDate>
-  <lastBuildDate>Wed, 07 Feb 2024 07:25:45 +0000</lastBuildDate>
+  <pubDate>Wed, 07 Feb 2024 13:25:50 +0000</pubDate>
+  <lastBuildDate>Wed, 07 Feb 2024 13:25:50 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[2 Kings 2:1-12 [Up and Ready]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/3aec214e-b2b6-4b2c-aa27-ae8ba12fbb50/2-kings-21-12.mp3" length="396" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[3aec214e-b2b6-4b2c-aa27-ae8ba12fbb50]]></guid>
+   <pubDate>Wed, 07 Feb 2024 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>396</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Part III: Responding to Attacks on the Family [The Ezra Institute Podcast for Cultural Reformation]]]></title>
    <link/>
@@ -1177,26 +1192,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/69893365-4165-4498-b0ac-e9ddf57a000f/cover-art/E86eLfK3NgjrpuXtk9kW9Qv6KcfzQpkJpToltreR.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>6041</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Live on Less [Leadership Now Podcast]]]></title>
-   <link/>
-   <description><![CDATA[<p>In this episode, Dr. Aaron Rock empathizes with many young people's economic plight in our current day and age: "How can I afford to buy a house and be self-sufficient in this market?" Listen in for practical advice and wisdom on getting ahead financially and building wealth for yourself.</p>
-<p>&nbsp;</p>
-<p><strong>More Resources:</strong></p>
-<p>More resources at Dr. Aaron Rock&rsquo;s blog: Pursuit of Glory <a href="https://pursuitofglory.org/">https://pursuitofglory.org/</a></p>
-<p>Beachhead Media YouTube: <a href="https://www.youtube.com/channel/UCTRwY4I8_rSQ7Z6I05k8lkA">https://www.youtube.com/channel/UCTRwY4I8_rSQ7Z6I05k8lkA</a></p>
-<p>&nbsp;</p>]]></description>
-   <author><![CDATA[Dr. Aaron Rock, Chris Eelman]]></author>
-   <enclosure url="https://app.dropwave.io/episode/283b21ce-a1cd-462f-bea5-b56fe8faf46f/live-on-less.mp3" length="4302" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[283b21ce-a1cd-462f-bea5-b56fe8faf46f]]></guid>
-   <pubDate>Thu, 25 Jan 2024 20:10:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Dr. Aaron Rock, Chris Eelman]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/3312a6b0-2b88-4186-bfdd-e9c55d3d7e0f/cover-art/DJmJxOQEoRfGbs693sV6kEnKEGWstWUfdEXbQra8.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>4302</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
