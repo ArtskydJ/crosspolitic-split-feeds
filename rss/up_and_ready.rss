@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Thu, 15 Feb 2024 01:25:43 +0000</pubDate>
-  <lastBuildDate>Thu, 15 Feb 2024 01:25:43 +0000</lastBuildDate>
+  <pubDate>Thu, 15 Feb 2024 07:25:44 +0000</pubDate>
+  <lastBuildDate>Thu, 15 Feb 2024 07:25:44 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -175,20 +175,6 @@
    <itunes:duration>332</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   
-  </item><item>
-   <title><![CDATA[1 Corinthians 9:16-23 [Up and Ready]]]></title>
-   <link/>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[Mark Dewey]]></author>
-   <enclosure url="https://app.dropwave.io/episode/3955dfc9-9551-46e6-8a3e-ce6016f74fcf/1-corinthians-916-23.mp3" length="357" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[3955dfc9-9551-46e6-8a3e-ce6016f74fcf]]></guid>
-   <pubDate>Fri, 02 Feb 2024 10:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>357</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
 </rss>
