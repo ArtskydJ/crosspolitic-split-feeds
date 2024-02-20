@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Tue, 20 Feb 2024 07:25:52 +0000</pubDate>
-  <lastBuildDate>Tue, 20 Feb 2024 07:25:52 +0000</lastBuildDate>
+  <pubDate>Tue, 20 Feb 2024 13:25:47 +0000</pubDate>
+  <lastBuildDate>Tue, 20 Feb 2024 13:25:47 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,36 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Ep. 73: Jennifer Lahl on the Detransitioner Movement and Influences [The Outstanding Podcast]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Joseph Backholm]]></author>
+   <enclosure url="https://app.dropwave.io/episode/5bfbe9e3-9a50-4f57-8706-ffc12aa00bab/ep-73-jennifer-lahl-on-the-detransitioner-movement-and-influences.mp3" length="2441" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[5bfbe9e3-9a50-4f57-8706-ffc12aa00bab]]></guid>
+   <pubDate>Tue, 20 Feb 2024 11:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Joseph Backholm]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/03cb0a71-51fd-48b9-b2ef-b3104f5b133d/cover-art/38CYX60hTuMi0CVRwzaxNKLGpnGOhaR5BczKSfeT.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2441</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[Ecclesiastes 3:16-22 [Up and Ready]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/efa79b43-fd51-4a7c-96ae-e9ed66b1b9e6/ecclesiastes-316-22.mp3" length="350" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[efa79b43-fd51-4a7c-96ae-e9ed66b1b9e6]]></guid>
+   <pubDate>Tue, 20 Feb 2024 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>350</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Having Faith in a Negative World [Choc Knox Unplugged]]]></title>
    <link/>
@@ -335,6 +365,21 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
+   <title><![CDATA[Living In Tumultuous Times| Toby Sumpter [Having Two Legs]]]></title>
+   <link/>
+   <description><![CDATA[<p>Read Pastor's full Blog post here:<span class="Apple-converted-space">&nbsp; </span><a href="https://tobyjsumpter.com/living-in-tumultuous-times/">https://tobyjsumpter.com/living-in-tumultuous-times/</a>&nbsp;</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/3764a9a1-603a-4139-ac6c-c5ac13331391/living-in-tumultuous-times-toby-sumpter.mp3" length="195" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[3764a9a1-603a-4139-ac6c-c5ac13331391]]></guid>
+   <pubDate>Thu, 15 Feb 2024 02:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/20dde981-157e-4504-b38f-dd9d7b0e4c50/cover-art/NBLpJ1iH37jx5cG1FQleZqvLJTmAYyZkUV45AXcu.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>195</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
    <title><![CDATA[Christians are the Minority | Life in the Negative World w/ Aaron Renn [CrossPolitic Show]]]></title>
    <link/>
    <description><![CDATA[<p>Aaron Renn is a writer and consultant in Indianapolis who is a co-founder and Senior Fellow at&nbsp;American Reformer.&nbsp;He compels insights on society, Christianity, family, cities, politics and economics.<span class="Apple-converted-space">&nbsp;</span></p>
@@ -356,21 +401,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/wvkjcfd3tfj69XopdryYkSF8m1k4KHuikzJF1KzC.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1789</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Living In Tumultuous Times| Toby Sumpter [Having Two Legs]]]></title>
-   <link/>
-   <description><![CDATA[<p>Read Pastor's full Blog post here:<span class="Apple-converted-space">&nbsp; </span><a href="https://tobyjsumpter.com/living-in-tumultuous-times/">https://tobyjsumpter.com/living-in-tumultuous-times/</a>&nbsp;</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/3764a9a1-603a-4139-ac6c-c5ac13331391/living-in-tumultuous-times-toby-sumpter.mp3" length="195" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[3764a9a1-603a-4139-ac6c-c5ac13331391]]></guid>
-   <pubDate>Thu, 15 Feb 2024 02:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/20dde981-157e-4504-b38f-dd9d7b0e4c50/cover-art/NBLpJ1iH37jx5cG1FQleZqvLJTmAYyZkUV45AXcu.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>195</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -931,36 +961,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/fa60ae5a-cc30-4d09-a355-177a1f38db7f/cover-art/SJO39Qr6B4iH9RwEjgGma927R9ZeuSi8UCuniLIq.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3972</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[2 Kings 2:1-12 [Up and Ready]]]></title>
-   <link/>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[Mark Dewey]]></author>
-   <enclosure url="https://app.dropwave.io/episode/3aec214e-b2b6-4b2c-aa27-ae8ba12fbb50/2-kings-21-12.mp3" length="396" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[3aec214e-b2b6-4b2c-aa27-ae8ba12fbb50]]></guid>
-   <pubDate>Wed, 07 Feb 2024 10:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>396</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Part III: Responding to Attacks on the Family [The Ezra Institute Podcast for Cultural Reformation]]]></title>
-   <link/>
-   <description><![CDATA[<p>In this episode, Joe, Michael, and Nate continue their discussion around Allistair Begg's recent controversial advice to a grandmother about attending a queer wedding and his recent sermon defending his advice.<br /><br /><strong>Episode Resources:</strong><br />Responding to Attacks on the Family - PART 1: <a href="https://www.ezrainstitute.com/resource-library/podcast/responding-to-attacks-on-the-family/">https://www.ezrainstitute.com/resource-library/podcast/responding-to-attacks-on-the-family/</a>;<br />Responding to Attacks on the Family - PART 2: <br /><br />Allistair Begg's Original Comments: <a href="https://youtu.be/rXDYYPLwgYE?si=B0XrmelFb6BH6VC9&amp;t=1726.">https://youtu.be/rXDYYPLwgYE?si=B0XrmelFb6BH6VC9&amp;t=1726.</a><br />Allistair Begg's Sermon, "Compassion vs. Condemnation": <a href="https://www.truthforlife.org/resources/sermon/compassion-vs-condemnation/">https://www.truthforlife.org/resources/sermon/compassion-vs-condemnation/</a>. <br /><br /><em>For all things Ezra Institute, visit</em>: <a href="https://ezrainstitute.com">https://ezrainstitute.com</a>. <br /><em>For Ezra's many print resources and to join our newsletter, visit</em>: <a href="https://ezrapress.com">https://ezrapress.com</a>.</p>]]></description>
-   <author><![CDATA[Dr. Joseph Boot, Dr. Michael Thiessen, Nate Wright, SDG Media]]></author>
-   <enclosure url="https://app.dropwave.io/episode/2c984d8e-746c-49ed-8786-f03c74a4e404/part-iii-responding-to-attacks-on-the-family.mp3" length="5309" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[2c984d8e-746c-49ed-8786-f03c74a4e404]]></guid>
-   <pubDate>Wed, 07 Feb 2024 06:06:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Dr. Joseph Boot, Dr. Michael Thiessen, Nate Wright, SDG Media]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/1c3a97bd-65b0-4aec-bb35-3a1b6eec5d2c/cover-art/4rDIhLUsGj1xuXpLJYNdtwtbungA78glNHA7dOd9.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>5309</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
