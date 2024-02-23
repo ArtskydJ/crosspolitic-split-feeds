@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Fri, 23 Feb 2024 13:25:49 +0000</pubDate>
-  <lastBuildDate>Fri, 23 Feb 2024 13:25:49 +0000</lastBuildDate>
+  <pubDate>Fri, 23 Feb 2024 19:26:21 +0000</pubDate>
+  <lastBuildDate>Fri, 23 Feb 2024 19:26:21 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Justice Alito Scorches Christian Policy Leaders and Pastors [God, Law, and Liberty]]]></title>
+   <link/>
+   <description><![CDATA[<p style="font-weight: 400;">This week Justice Alito released an opinion in a case in which Christians were presumed to be unfit to sit as jurors in a case involving a lesbian. David uses remarks from the Hale Institute&rsquo;s Jeff Shafer and from Rosaria Butterfield to explain why Christian legal and policy leaders and pastors should have known such a result was coming. In doing so you&nbsp;will&nbsp;also&nbsp;learn&nbsp;how Christian organizations are working to &ldquo;queer&rdquo; parental rights in the states.</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/8198cafc-7f86-4f61-8913-f75d5fe7f1b9/justice-alito-scorches-christian-policy-leaders-and-pastors.mp3" length="1648" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[8198cafc-7f86-4f61-8913-f75d5fe7f1b9]]></guid>
+   <pubDate>Fri, 23 Feb 2024 15:17:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/467f99a9-2921-459a-b63d-9710f4355795/cover-art/M4n1S3gctUlVm8MWzJ1hytV1ysP7ekoN5YoyfWnD.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1648</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Ep. 74: Michael Graham on The Great American Dechurching [The Outstanding Podcast]]]></title>
    <link/>
@@ -113,7 +128,7 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[Will Christianity be Outlawed? [Leadership Now Podcast]]]></title>
+   <title><![CDATA[144: Will Christianity be Outlawed? [Leadership Now Podcast]]]></title>
    <link/>
    <description><![CDATA[<p>In this episode, Aaron talks about the government's influence on Christianity , and gives subtle examples into how Christianity is already banned in the west. Tune in to see how this has happened and what you can do to respond!</p>
 <p>&nbsp;</p>
@@ -911,27 +926,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1626</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[TCND: Freedom from People Pleasing (Christians Bad, Non-Christians Good) [The Comedian Next Door]]]></title>
-   <link/>
-   <description><![CDATA[<p>Hey, Neighbor, we're recording on Superbowl Sunday...&nbsp; not to be confused with Tuesdays with Taylor...</p>
-<p>(By the way, are you the Master of your own Sea?)</p>
-<p>Then: Not only do Christians like to identify as "Sinners," but we like to sanitize the behavior of the Unbelievers. We want to give them the benefit of the doubt--even though they are Lost.</p>
-<p>Later: We tried to raise Luke's bloodpressure with the story of a grumpy patient complaining about her stay at the hospital.&nbsp; But he is pretty unflappable.&nbsp; &nbsp;</p>
-<p>Do you know what the medical community does with particularly uncooperative patients?</p>
-<p>Finally: Let's talk about the idol of People Pleasing.&nbsp; What IS the difference between having a "servant's heart" and being a people-pleaser?</p>
-<p>Contact the comedian's family: nextdoor@johnbranyan.com</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/51ee2cfe-cbc3-45ae-833c-6a10eb75c715/tcnd-freedom-from-people-pleasing-christians-bad-non-christians-good.mp3" length="2908" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[51ee2cfe-cbc3-45ae-833c-6a10eb75c715]]></guid>
-   <pubDate>Mon, 12 Feb 2024 12:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2908</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
