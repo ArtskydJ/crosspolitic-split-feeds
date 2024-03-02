@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Sat, 02 Mar 2024 13:25:53 +0000</pubDate>
-  <lastBuildDate>Sat, 02 Mar 2024 13:25:53 +0000</lastBuildDate>
+  <pubDate>Sat, 02 Mar 2024 19:25:46 +0000</pubDate>
+  <lastBuildDate>Sat, 02 Mar 2024 19:25:46 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,23 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Fitness for Normal People! Avoid Sabotage in your Health Journey!  [The Waterbreak]]]></title>
+   <link/>
+   <description><![CDATA[<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">Reach out with Questions &amp; Ideas at <a href="mailto:Renchmedia@gmail.com"><span class="s1">Renchmedia@gmail.com</span></a>!<span class="Apple-converted-space">&nbsp;</span></span></p>
+<p class="p2">&nbsp;</p>
+<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">Find Annie on Instagram @AnnieMRench</span></p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/cc079430-2b63-4603-acbe-39e777b4958d/fitness-for-normal-people-avoid-sabotage-in-your-health-journey.mp3" length="2364" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[cc079430-2b63-4603-acbe-39e777b4958d]]></guid>
+   <pubDate>Sat, 02 Mar 2024 17:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/0a3dee73-38ca-4cc7-b0dc-e72b0074106c/cover-art/JVKmUbWmpvy1I1dXtdnFmkLrwXwvOHXH1IvXeh1i.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2364</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[SPECIAL LEGAL UPDATE ft. James Kitchen: Updates on Josh Alexander & Rebecca Abdo [Open Mike with Michael Thiessen]]]></title>
    <link/>
@@ -915,28 +932,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2261</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[TCND: Anxious or Just EXCITED? (The Undead Horse!) [The Comedian Next Door]]]></title>
-   <link/>
-   <description><![CDATA[<p>It's snowy in Indiana--but the Peaches broke a power pole back when the roads were basically clear.&nbsp;</p>
-<p>Luke did a show with Dave Dugan, and John did a show in Wisconsin (Wa-Keh-Shaw). Were these "good" events or "bad" ones? It totally depends on your perspective!&nbsp; Any single event could be both good and bad, or both challenging and <em>successful </em>at the same time.</p>
-<p>John still gets rushes of adrenaline when he's going on stage. Luke and his brother-in-law struggle to sleep immediately after a performance.&nbsp; But is that the same thing as stage fright or "nervousness?"&nbsp;</p>
-<p>The difference between "Excitement" and "anxiety" is simply whether you're looking forward to it or not.&nbsp;</p>
-<p>Later: Most people in the audience do not want the speaker to fail. They're on your side!&nbsp; But even the pros get sweaty while managing their adrenaline.&nbsp; It's normal!&nbsp; Can we learn to thank God regardless of whether we are feeling wide awake or ready to curl up and rest?</p>
-<p>Finally:&nbsp; Let's beat a dead horse...that is still trotting around... We know a pastor whose daughter found a questionable book in her school library.&nbsp; What should he do now?</p>
-<p>Contact the Comedian's family by emailing nextdoor@johnbranyan.com</p>
-<p>&nbsp;</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/7c8752c2-c145-4cde-8a39-792f4523329e/tcnd-anxious-or-just-excited-the-undead-horse.mp3" length="3169" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[7c8752c2-c145-4cde-8a39-792f4523329e]]></guid>
-   <pubDate>Mon, 19 Feb 2024 12:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3169</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
