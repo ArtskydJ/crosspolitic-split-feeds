@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Tue, 05 Mar 2024 19:25:45 +0000</pubDate>
-  <lastBuildDate>Tue, 05 Mar 2024 19:25:45 +0000</lastBuildDate>
+  <pubDate>Wed, 06 Mar 2024 01:25:44 +0000</pubDate>
+  <lastBuildDate>Wed, 06 Mar 2024 01:25:44 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Talking Through The Headlines [The Rebel Podcast]]]></title>
+   <link/>
+   <description><![CDATA[<p>As P Nate and Pootie prepare for their trip south they take the time to quickly record a new episode talking through the headlines of the day. The Rebel podcast is meant to help equip you to engage culture with a biblical worldview, so thinking Christianly about what&rsquo;s going on is a necessary first step.</p>]]></description>
+   <author><![CDATA[Pastors Nate & Chris - The Rebels]]></author>
+   <enclosure url="https://app.dropwave.io/episode/5ce20432-7a7f-4d8e-aa99-b29c99aa1baa/talking-through-the-headlines.mp3" length="2479" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[5ce20432-7a7f-4d8e-aa99-b29c99aa1baa]]></guid>
+   <pubDate>Tue, 05 Mar 2024 20:30:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Pastors Nate & Chris - The Rebels]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/4qQP3AzUycIePlYhdxEnkyrW7XlwFF0WS4p1zKWr.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2479</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Repent [Resistance and Reformation]]]></title>
    <link/>
@@ -910,23 +925,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/336e6745-00c3-4f9f-a8f5-78b7e05a5434/cover-art/IDqj5oWNYxHmYumMolbSC0Eir2SzspMxpyEKy0MW.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2044</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Racism, Tyranny and University Culture: CrossPolitic Live from University of Idaho [CrossPolitic Show]]]></title>
-   <link/>
-   <description><![CDATA[<p>The guys are hosted by CRF on the University of Idaho campus to talk about the modern university culture, and the tyranny pressed upon Christians who seek for truth.</p>
-<p>Sign up for The FLF Conference 2024 (Prodigal America) <a href="https://flfnetwork.com/prodigal-america/">https://flfnetwork.com/prodigal-america/ </a></p>
-<p>Missions Conference 2024 at Christ Church <a href="https://www.christkirk.com/missions-2024/">https://www.christkirk.com/missions-2024/</a>&nbsp;</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/bdc313e6-547a-4e0e-bebd-36b55d49ef7b/cp20240220.mp3" length="4612" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[bdc313e6-547a-4e0e-bebd-36b55d49ef7b]]></guid>
-   <pubDate>Wed, 21 Feb 2024 02:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/wvkjcfd3tfj69XopdryYkSF8m1k4KHuikzJF1KzC.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>4612</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
