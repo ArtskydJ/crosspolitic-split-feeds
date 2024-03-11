@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 11 Mar 2024 07:25:53 +0000</pubDate>
-  <lastBuildDate>Mon, 11 Mar 2024 07:25:53 +0000</lastBuildDate>
+  <pubDate>Mon, 11 Mar 2024 13:25:45 +0000</pubDate>
+  <lastBuildDate>Mon, 11 Mar 2024 13:25:45 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[John 12:27-33 [Up and Ready]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/f59e7c1d-b303-423a-9274-61c96dd2e202/john-1227-33.mp3" length="323" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[f59e7c1d-b303-423a-9274-61c96dd2e202]]></guid>
+   <pubDate>Mon, 11 Mar 2024 09:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>323</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[The ‘C. S. Lewis Option’ for Renewing Christendom [The Pugcast]]]></title>
    <link/>
@@ -923,27 +938,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>327</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[The Diseased Defects and Effects of Popular Culture [The Pugcast]]]></title>
-   <link/>
-   <description><![CDATA[<p class="p1">Culture, especially its charged symbolism. After unpacking insights from church fathers like Tertullian and Augustine, in their Christian critiques of Public Spectacle Events, the gang enters into important discussion about the impact, function, and role of current Celebrity, Popular Culture, and Spectacles like the Super Bowl, and ponder Christian ways of reading, relating to, going to war with the spiritual character in which these are cloaked.</p>
-<p class="p2">&nbsp;</p>
-<p class="p3"><span class="s1">Article about &lsquo;Adult AI&rsquo; mentioned by CR: <a href="https://www.digitalliturgies.net/p/christians-are-not-ready-for-the">https://www.digitalliturgies.net/p/christians-are-not-ready-for-the</a></span></p>
-<p class="p2">&nbsp;</p>
-<p class="p3"><span class="s1">Support the Pugcast on Patreon: <a href="https://www.patreon.com/thetheologypugcast?fbclid=IwAR17UHhfzjphO52C_kkZfursA_C784t0ldFix0wyB4fd-YOJpmOQ3dyqGf8"><span class="s2">https://www.patreon.com/thetheologypugcast?fbclid=IwAR17UHhfzjphO52C_kkZfursA_C784t0ldFix0wyB4fd-YOJpmOQ3dyqGf8</span></a></span></p>
-<p class="p2">&nbsp;</p>
-<p class="p1">The Theology Pugcast is a ministry of Trinity Reformed Church in Huntsville Alabama. To view more media from TRC, visit their website: <a href="https://trinityreformedkirk.com/trc-media/"><span class="s3">https://trinityreformedkirk.com/trc-media/</span></a></p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/efff5e42-13b9-4828-91c4-9cb45010a411/the-diseased-defects-and-effects-of-popular-culture.mp3" length="3748" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[efff5e42-13b9-4828-91c4-9cb45010a411]]></guid>
-   <pubDate>Mon, 26 Feb 2024 09:38:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/twsSDPdYj7i3jNCMtA3RAyuxR6wfO3frLk6jWHJv.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3748</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
