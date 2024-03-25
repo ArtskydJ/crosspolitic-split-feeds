@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 25 Mar 2024 13:25:46 +0000</pubDate>
-  <lastBuildDate>Mon, 25 Mar 2024 13:25:46 +0000</lastBuildDate>
+  <pubDate>Mon, 25 Mar 2024 19:25:42 +0000</pubDate>
+  <lastBuildDate>Mon, 25 Mar 2024 19:25:42 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -26,6 +26,25 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[TCND: Talk it Out, Use Your Words (March Madness) [The Comedian Next Door]]]></title>
+   <link/>
+   <description><![CDATA[<p>It's basketball season, Neighbor, and our NCAA bracket is looking sad!&nbsp; But legend has it, the Branyan kids once predicted all four of the Final Four teams and won enough money for John to retire for about two hours.&nbsp;</p>
+<p>Also, there is DRAMA among the McKinney/West/Farkas cousins.&nbsp; (No, nothing scandalous.) A group of actors, aged 13 and under, are producing their own musical theater show. It's the most adorable thing we've seen in a while.</p>
+<p>Next: If a person can't explain WHY the believe something, do they really even believe it?</p>
+<p>Use your words, Pkarlgh!&nbsp; &nbsp;Pictures aren't really worth 1000 words, and you CAN'T preach the Gospel silently...</p>
+<p>Contact the Comedian's family by emailing <a href="mailto:nextdoor@johnbranyan.com">nextdoor@johnbranyan.com</a>&nbsp;</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/e98fac5f-ea88-40ca-b585-44ab94336b31/tcnd-talk-it-out-use-your-words-march-madness.mp3" length="2964" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[e98fac5f-ea88-40ca-b585-44ab94336b31]]></guid>
+   <pubDate>Mon, 25 Mar 2024 11:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2964</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[TCND: The Ninja's Outgoing Era (Serious Adults) [The Comedian Next Door]]]></title>
    <link/>
    <description><![CDATA[<p>If you're tuning in for this episode, you will be among the first to sample The Podcast Ninja's new Outgoing Personality! (Tell us if you think he's not being "serious" enough.)</p>
@@ -63,7 +82,6 @@
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3124</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
-  
   </item>
  </channel>
 </rss>
