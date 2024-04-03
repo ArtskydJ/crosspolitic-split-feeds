@@ -3,7 +3,7 @@
 
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
  <channel>
-  <title>FLF - Choc Knox Unplugged</title>
+  <title>FLF - Let's Talk Eschatology</title>
   <link>https://dropwave.io</link>
   <description><![CDATA[FIGHT LAUGH FEAST PRESENTS SHOWS PROCLAIMING THE LORDSHIP OF CHRIST OVER ALL OF LIFE.
 ]]></description>
@@ -26,18 +26,21 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
-   <title><![CDATA[The Deep Magic of Reality Part II [Choc Knox Unplugged]]]></title>
+   <title><![CDATA[Scott Aniol: Can A Nation Be Christian? [Let's Talk Eschatology]]]></title>
    <link/>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/bbfe3690-56ce-4de0-bc0b-87114f8bc1e8/the-deep-magic-of-reality-part-ii.mp3" length="6468" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[bbfe3690-56ce-4de0-bc0b-87114f8bc1e8]]></guid>
-   <pubDate>Tue, 26 Mar 2024 15:50:00 +0000</pubDate>
+   <description><![CDATA[<p>Scott Aniol, Executive Vice President of G3 Ministries, and Dr Josh Howard discuss the biblical concept of a nation. They explore questions like, "Can a nation be Christian?" and "Can a Nation Repent or be Blessed?"&nbsp;</p>
+<p>They also explore the Kingdom of God through the Historic Premil and Postmillennial views respectively.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>]]></description>
+   <author><![CDATA[Dr Josh Howard]]></author>
+   <enclosure url="https://app.dropwave.io/episode/ecc79e8a-09b1-42be-bdee-0aab7a4b54b1/scott-aniol-can-a-nation-be-christian.mp3" length="4729" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[ecc79e8a-09b1-42be-bdee-0aab7a4b54b1]]></guid>
+   <pubDate>Tue, 02 Apr 2024 22:00:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/6123b54f-ab49-406c-9cba-a39f6730fc76/cover-art/ARuuU8PixHGkhNvgtHIHIGGJjBUPNwgZEkuaGqzL.png"/>
+   <itunes:author><![CDATA[Dr Josh Howard]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/c7ae6c2c-d626-4766-abf5-1e3852af0706/cover-art/xqM3C6oG7UKsP2mh7P3UkB7WW16nD75wR9DrwhPd.jpg"/>
    <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>6468</itunes:duration>
+   <itunes:duration>4729</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   
   </item>
