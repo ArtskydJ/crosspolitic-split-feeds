@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Thu, 25 Apr 2024 19:25:46 +0000</pubDate>
-  <lastBuildDate>Thu, 25 Apr 2024 19:25:46 +0000</lastBuildDate>
+  <pubDate>Fri, 26 Apr 2024 01:25:53 +0000</pubDate>
+  <lastBuildDate>Fri, 26 Apr 2024 01:25:53 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,25 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Raising Healthy Kids Without Going Crazy [The Waterbreak]]]></title>
+   <link/>
+   <description><![CDATA[<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">The Waterbreak LIVE w/ Gabe &amp; Annie the topic this time around - &ldquo;Raising Healthy Kids Without Going Crazy&rdquo;</span></p>
+<p class="p2">&nbsp;</p>
+<p class="p3"><span class="s1" style="font-family: 'book antiqua', palatino, serif;">Reach out at <a href="mailto:RenchMedia@gmail.com">RenchMedia@gmail.com</a><span class="Apple-converted-space">&nbsp;</span></span></p>
+<p class="p2">&nbsp;</p>
+<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">Find Annie on Instagram @AnnieMRench</span></p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/b7ee92c8-d75b-4008-84b5-8df8aaafde61/raising-healthy-kids-without-going-crazy.mp3" length="3269" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[b7ee92c8-d75b-4008-84b5-8df8aaafde61]]></guid>
+   <pubDate>Fri, 26 Apr 2024 01:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/0a3dee73-38ca-4cc7-b0dc-e72b0074106c/cover-art/9eAbieEowe0YqcJWtwjZRRpiHcAMAamLsPf0v5yh.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3269</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[152: Relationships: Pastors & Congregants [Leadership Now Podcast]]]></title>
    <link/>
@@ -910,21 +929,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/a313a937-1864-4720-a5eb-4fe53c91d48d/cover-art/uUheeW63MRtlJ15cfD2JSiW4qu9YifPAUxqcvBE5.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>4163</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Psalm 4 [Up and Ready]]]></title>
-   <link/>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[Mark Dewey]]></author>
-   <enclosure url="https://app.dropwave.io/episode/4bf45f33-5b2c-4a79-912c-02d67af01f4c/psalm-4.mp3" length="351" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[4bf45f33-5b2c-4a79-912c-02d67af01f4c]]></guid>
-   <pubDate>Sat, 13 Apr 2024 09:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>351</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
