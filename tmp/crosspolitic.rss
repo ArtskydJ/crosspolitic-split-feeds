@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Fri, 26 Apr 2024 07:25:48 +0000</pubDate>
-  <lastBuildDate>Fri, 26 Apr 2024 07:25:48 +0000</lastBuildDate>
+  <pubDate>Fri, 26 Apr 2024 13:25:46 +0000</pubDate>
+  <lastBuildDate>Fri, 26 Apr 2024 13:25:46 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,36 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Ep. 92: Samuel Sey on Assisted Suicide [The Outstanding Podcast]]]></title>
+   <link/>
+   <description><![CDATA[<p>What makes life worth living? This age-old question has been at the center of conversation as more countries legalize and support assisted suicide. Host Joseph Backholm is joined by Samuel Sey, founder of Slow to Write, to dissect the morality of assisted suicide. Originally from Ghana, Samuel weighs in on how the West views suicide compared to other parts of the world, what has contributed to this different mindset, and the definition of Western privilege. It all comes down to when we do not value the one who created us, we will not value the life He has created.</p>]]></description>
+   <author><![CDATA[Joseph Backholm]]></author>
+   <enclosure url="https://app.dropwave.io/episode/51af8c53-4c36-4b45-81fd-a3192aa4d1ce/ep-92-samuel-sey-on-assisted-suicide.mp3" length="2943" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[51af8c53-4c36-4b45-81fd-a3192aa4d1ce]]></guid>
+   <pubDate>Fri, 26 Apr 2024 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Joseph Backholm]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/03cb0a71-51fd-48b9-b2ef-b3104f5b133d/cover-art/38CYX60hTuMi0CVRwzaxNKLGpnGOhaR5BczKSfeT.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2943</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[Acts 8:26-40 [Up and Ready]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/d4b7217f-da2a-42e3-a217-bc7ce8b1d7c4/acts-826-40.mp3" length="405" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[d4b7217f-da2a-42e3-a217-bc7ce8b1d7c4]]></guid>
+   <pubDate>Fri, 26 Apr 2024 09:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>405</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Raising Healthy Kids Without Going Crazy [The Waterbreak]]]></title>
    <link/>
@@ -621,12 +651,12 @@
 <p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
 <p>Wherever you find our content, please like, subscribe, rate, or review it; it truly does help.</p>
 <p><!-- /wp:paragraph --></p>]]></description>
-   <author><![CDATA[Dr. Joseph Boot, Dr. Michael Thiessen, SDG Media]]></author>
-   <enclosure url="https://app.dropwave.io/episode/ae4b32f0-15f4-42c8-91d5-35c609543f16/does-the-bible-condone-slavery-part-ii-choose-ye-this-day-slavery-or-liberty-in-christ.mp3" length="4726" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[ae4b32f0-15f4-42c8-91d5-35c609543f16]]></guid>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/a5bf69e1-9321-48ff-9d6a-96e4c09864e6/does-the-bible-condone-slavery-part-ii-choose-ye-this-day-slavery-or-liberty-in-christ-1.mp3" length="4726" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[a5bf69e1-9321-48ff-9d6a-96e4c09864e6]]></guid>
    <pubDate>Wed, 17 Apr 2024 13:56:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Dr. Joseph Boot, Dr. Michael Thiessen, SDG Media]]></itunes:author>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
    <itunes:image href="https://assets-cdn2.dropwave.io/1c3a97bd-65b0-4aec-bb35-3a1b6eec5d2c/cover-art/4rDIhLUsGj1xuXpLJYNdtwtbungA78glNHA7dOd9.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>4726</itunes:duration>
@@ -646,12 +676,12 @@
 <p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
 <p>Wherever you find our content, please like, subscribe, rate, or review it; it truly does help.</p>
 <p><!-- /wp:paragraph --></p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/a5bf69e1-9321-48ff-9d6a-96e4c09864e6/does-the-bible-condone-slavery-part-ii-choose-ye-this-day-slavery-or-liberty-in-christ-1.mp3" length="4726" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[a5bf69e1-9321-48ff-9d6a-96e4c09864e6]]></guid>
+   <author><![CDATA[Dr. Joseph Boot, Dr. Michael Thiessen, SDG Media]]></author>
+   <enclosure url="https://app.dropwave.io/episode/ae4b32f0-15f4-42c8-91d5-35c609543f16/does-the-bible-condone-slavery-part-ii-choose-ye-this-day-slavery-or-liberty-in-christ.mp3" length="4726" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[ae4b32f0-15f4-42c8-91d5-35c609543f16]]></guid>
    <pubDate>Wed, 17 Apr 2024 13:56:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:author><![CDATA[Dr. Joseph Boot, Dr. Michael Thiessen, SDG Media]]></itunes:author>
    <itunes:image href="https://assets-cdn2.dropwave.io/1c3a97bd-65b0-4aec-bb35-3a1b6eec5d2c/cover-art/4rDIhLUsGj1xuXpLJYNdtwtbungA78glNHA7dOd9.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>4726</itunes:duration>
@@ -885,50 +915,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/twsSDPdYj7i3jNCMtA3RAyuxR6wfO3frLk6jWHJv.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3643</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[You Should Lift Weights! (No, you don’t need to be a bodybuilder) [The Waterbreak]]]></title>
-   <link/>
-   <description><![CDATA[<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">Some solid insights by Annie to challenge our fitness assumptions. We should encourage health and strength, not simply losing weight and looking good (That definitely happens, but some people actually should be eating MORE!) Catch the show for more!<span class="Apple-converted-space">&nbsp;</span></span></p>
-<p class="p2">&nbsp;</p>
-<p class="p3"><span class="s1" style="font-family: 'book antiqua', palatino, serif;">Reach out at <a href="mailto:RenchMedia@gmail.com">RenchMedia@gmail.com</a><span class="Apple-converted-space">&nbsp;</span></span></p>
-<p class="p2">&nbsp;</p>
-<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">Find Annie on Instagram @AnnieMRench</span></p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/90fff0f9-11bf-481a-ac11-4418b24f2e5e/you-should-lift-weights-no-you-dont-need-to-be-a-bodybuilder.mp3" length="3122" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[90fff0f9-11bf-481a-ac11-4418b24f2e5e]]></guid>
-   <pubDate>Sat, 13 Apr 2024 16:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/0a3dee73-38ca-4cc7-b0dc-e72b0074106c/cover-art/9eAbieEowe0YqcJWtwjZRRpiHcAMAamLsPf0v5yh.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3122</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Say"NO" to SOGI!: How Public Schools are Indoctrinating Canadian Kids into an LGBTQ+ Sex Cult ft. Pastor Josh Claycamp [Open Mike with Michael Thiessen]]]></title>
-   <link/>
-   <description><![CDATA[<p><strong>OPEN MIKE w/Michael Thiessen ~ </strong>April 11, 2024<br /><span style="color: #061726; font-family: 'system-ui', sans-serif;">On this week's show, Mike is joined by Pastor Josh Claycamp to talk about how SOGI (Sexual Orientation and Gender Identity) Laws have turned Canada's public education system into a woke, sex cult indoctrination system. IT'S TIME TO WAKE UP CANADIAN PARENTS!<br /><br /><strong>Episode Resource: </strong><em>First Baptist Chu</em>rch | Kamloops BC: <a href="http://www.firstbaptistkamloops.org/"> http://www.firstbaptistkamloops.org/;</a> <em>Kamloops Christian Education</em>: <a href="https://www.kamcs.org/">https://www.kamcs.org/</a>;<br /><br /><strong>MUST READ:</strong> <em>The Queering of the American Child</em> by Logan Lancing and James Lindsay: &nbsp;<a href="https://queeringbook.com/">https://queeringbook.com/</a>&nbsp;<br /><br /></span><strong style="font-family: '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">SUPPORT OUR LEGAL ADVOCACY - Help us defend Canadians' God-given rights and liberties: </strong><a style="font-family: '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;" href="https://libertycoalitioncanada.com/donate/">https://libertycoalitioncanada.com/donate/</a><span style="font-family: '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">; </span><a style="font-family: '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;" href="https://libertycoalitioncanada.com/liberty-defense-fund/our-legal-strategy/;">https://libertycoalitioncanada.com/liberty-defense-fund/our-legal-strategy/;</a>&nbsp;<span style="color: #061726; font-family: 'system-ui', sans-serif;"><strong><br /></strong><br /></span></p>
-<p class="p1"><strong>SUPPORT OUR LEGAL ADVOCACY - Help us defend Canadians' God-given rights and liberties: </strong><a href="https://libertycoalitioncanada.com/donate/">https://libertycoalitioncanada.com/donate/</a>; <a href="https://libertycoalitioncanada.com/liberty-defense-fund/our-legal-strategy/;">https://libertycoalitioncanada.com/liberty-defense-fund/our-legal-strategy/;</a><br /><strong><br /></strong><strong>SHOW SPONSORS:<br /></strong><strong>Join&nbsp;<em>Red Balloon&nbsp;</em>Today!:</strong> <a href="https://www.redballoon.work/lcc;">https://www.redballoon.work/lcc;</a>&nbsp;<br /><strong>Invest with <em>Rocklinc</em>:</strong> <a href="mailto:info@rocklinc.com">info@rocklinc.com</a>&nbsp;or call them at 905-631-546;&nbsp;<br /><strong>Diversify Your Money with <em>Bull Bitcoin</em>:&nbsp;</strong><a href="https://mission.bullbitcoin.com/lcc">https://mission.bullbitcoin.com/lcc</a>;<br /><strong><em>BarterPay</em>: </strong><a href="https://barterpay.ca/">https://barterpay.ca/</a>;&nbsp; <strong><em>Barter It</em>: </strong><a href="https://vip.barterit.ca/launch;">https://vip.barterit.ca/launch; </a><strong><br /><em>Carpe Fide</em> - "Seize the Faith": Store: </strong><a href="https://carpe-fide.myshopify.com/">https://carpe-fide.myshopify.com</a><a href="https://carpe-fide.myshopify.com/">/</a>, use Promo Code LCC10 for 10% off (US Store Only), or shop Canadian @ <a href="https://canadacarpefide.myshopify.com/">https://canadacarpefide.myshopify.com/</a> | <strong>Podcast: </strong><a href="https://www.carpefide.com/episodes">https://www.carpefide.com/episodes</a>;<br /><strong>Get freedom from Censorious CRMs by singing up for&nbsp;<em>SalesNexus</em>:&nbsp;</strong><a href="https://www.salesnexus.com/">https://www.salesnexus.com/</a>;<br /><strong>Ready to own your own business? Join the <em>Pro Fleet Care </em>team today!:</strong> <a href="https://profleetcare.com/">https://profleetcare.com/</a>;<br /><br /><strong>Sick of Mainstream Media Lies? Help Support Independent Media! DONATE TO LCC TODAY!:&nbsp;</strong><strong><a href="https://libertycoalitioncanada.com/donate/">https://libertycoalitioncanada.com/donate/</a>&nbsp;</strong><strong>&nbsp;<br /><br /></strong></p>
-<p class="p1">Please Support us in bringing you honest, truthful reporting and analysis from a Christian perspective.<br /><br /><strong>SUBSCRIBE TO OUR SHOWS/CHANNELS:<br /></strong>LIBERTY DISPATCH PODCAST: <a href="https://libertydispatch.podbean.com">https://libertydispatch.podbean.com</a>; <a href="https://rumble.com/c/c-1687093">https://rumble.com/LDshow</a>;&nbsp;<br />OPEN MIKE WITH MICHAEL THIESSEN: <a href="https://openmikewithmichaelthiessen.podbean.com">https://openmikewithmichaelthiessen.podbean.com</a>; <a href="https://rumble.com/c/c-1412501">https://rumble.com/openmike</a>;<br />THE OTHER CLUB: <a href="https://rumble.com/c/c-2541984">https://rumble.com/c/c-2541984</a>;&nbsp;<br />THE LIBERTY LOUNGE WITH TIM TYSOE: <a href="https://rumble.com/LLwTT">https://rumble.com/LLwTT</a>;<br /><br /><strong>CONTACT US:</strong><br />Questions/comments about podcasts/news/analysis: <a href="mailto:mailbag@libertycoalitioncanada.com">mailbag@libertycoalitioncanada.com</a>;<br />Questions/comments about donations: <a href="mailto:give@libertycoalitioncanada.com">give@libertycoalitioncanada.com</a>;<br />Questions/comments that are church-related: <a href="mailto:churches@libertycoalitioncanada.com">churches@libertycoalitioncanada.com</a>;<br />General Inquiries: <a href="mailto:info@libertycoalitioncanada.com">info@libertycoalitioncanada.com</a>.&nbsp;</p>
-<p class="p1"><strong>STAY UP-TO-DATE ON ALL THINGS LCC:<br /></strong>Gab: <a href="https://gab.com/libertycoalitioncanada">https://gab.com/libertycoalitioncanada</a>&nbsp;</p>
-<p class="p2">Telegram: <a href="https://t.me/libertycoalitioncanadanews">https://t.me/libertycoalitioncanadanews</a>&nbsp;</p>
-<p class="p2">Instagram: <a href="https://instagram.com/libertycoalitioncanada">https://instagram.com/libertycoalitioncanada</a>&nbsp;</p>
-<p class="p2">Facebook: <a href="https://facebook.com/LibertyCoalitionCanada">https://facebook.com/LibertyCoalitionCanada</a>&nbsp;</p>
-<p class="p2">Twitter: @LibertyCCanada - <a href="https://twitter.com/LibertyCCanada">https://twitter.com/LibertyCCanada</a>&nbsp;</p>
-<p class="p2">Rumble: <a href="https://rumble.com/user/LibertyCoalitionCanada">https://rumble.com/user/LibertyCoalitionCanada</a>&nbsp;</p>
-<p class="p2">YouTube: <a href="https://www.youtube.com/@liberty4canada">https://www.youtube.com/@liberty4canada</a> -&nbsp;<strong>WE GOT CANCELLED AGAIN!!!</strong></p>
-<p class="p1"><strong>Please LIKE, SUBSCRIBE, RATE &amp; REVIEW and SHARE it with others!</strong></p>]]></description>
-   <author><![CDATA[Andrew DeBartolo, Matthew Hallick, SDG Media]]></author>
-   <enclosure url="https://app.dropwave.io/episode/455bc83b-498a-4f9e-94c8-304f389bdee7/sayno-to-sogi-how-public-schools-are-indoctrinating-canadian-kids-into-an-lgbtq-sex-cult-ft-pastor-josh-claycamp.mp3" length="4163" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[455bc83b-498a-4f9e-94c8-304f389bdee7]]></guid>
-   <pubDate>Sat, 13 Apr 2024 11:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Andrew DeBartolo, Matthew Hallick, SDG Media]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/a313a937-1864-4720-a5eb-4fe53c91d48d/cover-art/uUheeW63MRtlJ15cfD2JSiW4qu9YifPAUxqcvBE5.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>4163</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
