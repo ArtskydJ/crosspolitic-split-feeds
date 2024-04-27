@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Sat, 27 Apr 2024 07:25:46 +0000</pubDate>
-  <lastBuildDate>Sat, 27 Apr 2024 07:25:46 +0000</lastBuildDate>
+  <pubDate>Sat, 27 Apr 2024 13:25:43 +0000</pubDate>
+  <lastBuildDate>Sat, 27 Apr 2024 13:25:43 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Psalm 57:7-11 [Up and Ready]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/5c8fdd5c-c672-402c-926a-c7fce7d41c04/psalm-577-11.mp3" length="304" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[5c8fdd5c-c672-402c-926a-c7fce7d41c04]]></guid>
+   <pubDate>Sat, 27 Apr 2024 09:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>304</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[How do you disciple a nation in law and politics? [God, Law, and Liberty]]]></title>
    <link/>
@@ -666,12 +681,12 @@
 <p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
 <p>Wherever you find our content, please like, subscribe, rate, or review it; it truly does help.</p>
 <p><!-- /wp:paragraph --></p>]]></description>
-   <author><![CDATA[Dr. Joseph Boot, Dr. Michael Thiessen, SDG Media]]></author>
-   <enclosure url="https://app.dropwave.io/episode/ae4b32f0-15f4-42c8-91d5-35c609543f16/does-the-bible-condone-slavery-part-ii-choose-ye-this-day-slavery-or-liberty-in-christ.mp3" length="4726" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[ae4b32f0-15f4-42c8-91d5-35c609543f16]]></guid>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/a5bf69e1-9321-48ff-9d6a-96e4c09864e6/does-the-bible-condone-slavery-part-ii-choose-ye-this-day-slavery-or-liberty-in-christ-1.mp3" length="4726" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[a5bf69e1-9321-48ff-9d6a-96e4c09864e6]]></guid>
    <pubDate>Wed, 17 Apr 2024 13:56:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Dr. Joseph Boot, Dr. Michael Thiessen, SDG Media]]></itunes:author>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
    <itunes:image href="https://assets-cdn2.dropwave.io/1c3a97bd-65b0-4aec-bb35-3a1b6eec5d2c/cover-art/4rDIhLUsGj1xuXpLJYNdtwtbungA78glNHA7dOd9.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>4726</itunes:duration>
@@ -691,12 +706,12 @@
 <p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
 <p>Wherever you find our content, please like, subscribe, rate, or review it; it truly does help.</p>
 <p><!-- /wp:paragraph --></p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/a5bf69e1-9321-48ff-9d6a-96e4c09864e6/does-the-bible-condone-slavery-part-ii-choose-ye-this-day-slavery-or-liberty-in-christ-1.mp3" length="4726" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[a5bf69e1-9321-48ff-9d6a-96e4c09864e6]]></guid>
+   <author><![CDATA[Dr. Joseph Boot, Dr. Michael Thiessen, SDG Media]]></author>
+   <enclosure url="https://app.dropwave.io/episode/ae4b32f0-15f4-42c8-91d5-35c609543f16/does-the-bible-condone-slavery-part-ii-choose-ye-this-day-slavery-or-liberty-in-christ.mp3" length="4726" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[ae4b32f0-15f4-42c8-91d5-35c609543f16]]></guid>
    <pubDate>Wed, 17 Apr 2024 13:56:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:author><![CDATA[Dr. Joseph Boot, Dr. Michael Thiessen, SDG Media]]></itunes:author>
    <itunes:image href="https://assets-cdn2.dropwave.io/1c3a97bd-65b0-4aec-bb35-3a1b6eec5d2c/cover-art/4rDIhLUsGj1xuXpLJYNdtwtbungA78glNHA7dOd9.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>4726</itunes:duration>
@@ -893,21 +908,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2827</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[John 10:11-18 [Up and Ready]]]></title>
-   <link/>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[Mark Dewey]]></author>
-   <enclosure url="https://app.dropwave.io/episode/be0d5435-bfa9-486b-8d98-486e4d382556/john-1011-18.mp3" length="345" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[be0d5435-bfa9-486b-8d98-486e4d382556]]></guid>
-   <pubDate>Mon, 15 Apr 2024 09:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>345</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
