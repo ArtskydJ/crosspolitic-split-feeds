@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Fri, 17 May 2024 07:25:46 +0000</pubDate>
-  <lastBuildDate>Fri, 17 May 2024 07:25:46 +0000</lastBuildDate>
+  <pubDate>Fri, 17 May 2024 13:25:45 +0000</pubDate>
+  <lastBuildDate>Fri, 17 May 2024 13:25:45 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -26,6 +26,21 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Ezekiel 37:11-14 [Up and Ready]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/a4e81861-f73d-49e7-ae6b-74b5a611673e/ezekiel-3711-14.mp3" length="377" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[a4e81861-f73d-49e7-ae6b-74b5a611673e]]></guid>
+   <pubDate>Fri, 17 May 2024 09:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>377</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[Psalm 110:1 [Up and Ready]]]></title>
    <link/>
    <description><![CDATA[]]></description>
@@ -158,21 +173,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>365</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  
-  </item><item>
-   <title><![CDATA[John 17:6-19 [Up and Ready]]]></title>
-   <link/>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[Mark Dewey]]></author>
-   <enclosure url="https://app.dropwave.io/episode/c0370168-263f-4511-82b9-f90c49f4fbd9/john-176-19.mp3" length="362" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[c0370168-263f-4511-82b9-f90c49f4fbd9]]></guid>
-   <pubDate>Mon, 06 May 2024 09:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/60c9e557-5882-401d-abb8-06de47904be4/cover-art/spP4qJ4BLphVWgGcABH5tj7AcGci7nwMyQSwX1E6.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>362</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   
   </item>
