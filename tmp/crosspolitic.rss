@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 27 May 2024 13:25:45 +0000</pubDate>
-  <lastBuildDate>Mon, 27 May 2024 13:25:45 +0000</lastBuildDate>
+  <pubDate>Mon, 27 May 2024 19:25:59 +0000</pubDate>
+  <lastBuildDate>Mon, 27 May 2024 19:25:59 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,42 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Crushin' Balls [In the Bullpen]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/311eda1d-2802-4d7d-92d3-17bc98952144/crushin-balls.mp3" length="1900" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[311eda1d-2802-4d7d-92d3-17bc98952144]]></guid>
+   <pubDate>Mon, 27 May 2024 16:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1900</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[TCND: Racers Aren't Athletes! (...and Burn the Books!) [The Comedian Next Door]]]></title>
+   <link/>
+   <description><![CDATA[<p>Hey, Neighbor! The Comedian's family lives within 75 miles of the Indy 500 race track, so we settle a very important question:&nbsp; does racing count as a "sport?"&nbsp; And can we call the competitors "athletes" when they sit in a car all afternoon?</p>
+<p>Then:&nbsp; Just a little more Labor/Birth talk... (Spoilers: Tabby is still pregnant!) (Also, apparently nobody knew what the date was when we recorded.)&nbsp;</p>
+<p>Later:&nbsp; A former contestant on the Bachelor is struggling with "fertility issues." Just wait until you hear what kind!</p>
+<p>And: have you heard what's happening in El Salvador?&nbsp;</p>
+<p>Finally:&nbsp; John ignores a call from his wife. And The McKinneys conducted their annual Book Burning. Here are the details.</p>
+<p>&nbsp;</p>
+<p>You can contact the Comedian's Family by emailing nextdoor@johnbranyan.com&nbsp;</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/15f0ee73-93f6-48e0-95f7-c785598df4de/tcnd-racers-arent-athletes-and-burn-the-books.mp3" length="2860" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[15f0ee73-93f6-48e0-95f7-c785598df4de]]></guid>
+   <pubDate>Mon, 27 May 2024 11:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2860</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Mark 2:23-3:6 [Up and Ready]]]></title>
    <link/>
@@ -973,43 +1009,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/c7ae6c2c-d626-4766-abf5-1e3852af0706/cover-art/xqM3C6oG7UKsP2mh7P3UkB7WW16nD75wR9DrwhPd.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3975</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[CrossPolitic LIVE: Justice, Jail Time, and Revival [CrossPolitic Show]]]></title>
-   <link/>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/dfbb9249-e552-4074-bc25-b3feea7e2005/crosspolitic-live-justice-jail-time-and-revival.mp3" length="2821" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[dfbb9249-e552-4074-bc25-b3feea7e2005]]></guid>
-   <pubDate>Tue, 14 May 2024 17:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/wvkjcfd3tfj69XopdryYkSF8m1k4KHuikzJF1KzC.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2821</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Ji'had [Resistance and Reformation]]]></title>
-   <link/>
-   <description><![CDATA[<p><span style="font-weight: 400;">More from Dr. George Grant</span></p>
-<p><a href="https://georgegrant.net/"><span style="font-weight: 400;">https://georgegrant.net/</span></a><span style="font-weight: 400;">&nbsp;</span></p>
-<p><span style="font-weight: 400;">&nbsp;</span></p>
-<p><span style="font-weight: 400;">Adoring God Foundation&nbsp;</span></p>
-<p><a href="https://adoringgod.org/"><span style="font-weight: 400;">https://adoringgod.org/</span></a><span style="font-weight: 400;">&nbsp;</span></p>
-<p><br /><br /></p>
-<p><span style="font-weight: 400;"><br /><br /></span></p>
-<p><br /><br /></p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/14382fcf-cf14-4d0a-9e69-f176bf3ec255/jihad.mp3" length="626" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[14382fcf-cf14-4d0a-9e69-f176bf3ec255]]></guid>
-   <pubDate>Tue, 14 May 2024 16:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>626</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
