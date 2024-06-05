@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Tue, 04 Jun 2024 19:25:45 +0000</pubDate>
-  <lastBuildDate>Tue, 04 Jun 2024 19:25:45 +0000</lastBuildDate>
+  <pubDate>Wed, 05 Jun 2024 01:25:44 +0000</pubDate>
+  <lastBuildDate>Wed, 05 Jun 2024 01:25:44 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -26,6 +26,21 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[We're All incrementalists | Having Two Legs [Having Two Legs]]]></title>
+   <link/>
+   <description><![CDATA[<p>Read Pastor's full blog post here: <a href="https://tobyjsumpter.com/were-all-incrementalists/">https://tobyjsumpter.com/were-all-incrementalists/</a>&nbsp;</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/aab7d876-da27-47e2-928f-2ec3a7680a66/were-all-incrementalists-having-two-legs.mp3" length="968" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[aab7d876-da27-47e2-928f-2ec3a7680a66]]></guid>
+   <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/20dde981-157e-4504-b38f-dd9d7b0e4c50/cover-art/NBLpJ1iH37jx5cG1FQleZqvLJTmAYyZkUV45AXcu.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>968</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[Will The Real Nietzscheans Please Stand Up? | Having Two Legs [Having Two Legs]]]></title>
    <link/>
    <description><![CDATA[<p>Read the full blog post here: <a href="https://tobyjsumpter.com/will-the-real-nietzscheans-please-stand-up/">https://tobyjsumpter.com/will-the-real-nietzscheans-please-stand-up/</a>&nbsp;</p>]]></description>
