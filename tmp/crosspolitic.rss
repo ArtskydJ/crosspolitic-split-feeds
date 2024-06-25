@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Tue, 25 Jun 2024 13:25:50 +0000</pubDate>
-  <lastBuildDate>Tue, 25 Jun 2024 13:25:50 +0000</lastBuildDate>
+  <pubDate>Tue, 25 Jun 2024 19:25:51 +0000</pubDate>
+  <lastBuildDate>Tue, 25 Jun 2024 19:25:51 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Two Messages For LGBT - Both From God [AD on FLF Network]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/8395201c-c9af-496d-81ce-464ddbb7aa7d/two-messages-for-lgbt-both-from-god.mp3" length="2356" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[8395201c-c9af-496d-81ce-464ddbb7aa7d]]></guid>
+   <pubDate>Tue, 25 Jun 2024 13:42:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/e985f24f-d823-4e20-b87a-9e2fa86624f5/cover-art/me0OCTvDSY04mcI5sI97SZ3jsUtDXyHr5ExQtpr2.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2356</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Ep. 109: Corporate Pride with Stephen Soukup [The Outstanding Podcast]]]></title>
    <link/>
@@ -968,22 +983,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3155</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[How to Win the World, Episode 2: War with Worship with Doug Wilson [The Rebel Podcast]]]></title>
-   <link/>
-   <description><![CDATA[<div dir="ltr">The Ezra Institute brings you a new series with the Rebels when P Nate and Pootie are joined by a variety of guests talking about several key practical outworkings of theological concepts that will help Christians expand the Kingdom of God, see the dark pushed back and slowly (like leaven working through the loaf) win the world.</div>
-<p><span dir="ltr">This episode P Nate and Pootie invite Doug Wilson onto the show to discuss an unlikely place for world conquering to start... with corporate worship. Wilson lays out a vision of worship that extends for the corporate gathering of local churches to the private practices of every Christian behind closed doors. If we want to win the world we need to start with proper worship... because in the Christian worldview worship is warfare!</span></p>]]></description>
-   <author><![CDATA[Pastor Nate & Chris - The Rebels]]></author>
-   <enclosure url="https://app.dropwave.io/episode/83e05fc1-cc31-4187-b68d-2ecea4e71a16/how-to-win-the-world-episode-2-war-with-worship-with-doug-wilson.mp3" length="2587" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[83e05fc1-cc31-4187-b68d-2ecea4e71a16]]></guid>
-   <pubDate>Mon, 10 Jun 2024 10:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Pastor Nate & Chris - The Rebels]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/YseT9p2kI5hJ59Hs6uDUeuqKJwgtMwlZRZvHLjY1.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2587</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
