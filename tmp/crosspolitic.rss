@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Fri, 28 Jun 2024 13:25:53 +0000</pubDate>
-  <lastBuildDate>Fri, 28 Jun 2024 13:25:53 +0000</lastBuildDate>
+  <pubDate>Fri, 28 Jun 2024 19:25:49 +0000</pubDate>
+  <lastBuildDate>Fri, 28 Jun 2024 19:25:49 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Rethinking How Evil Rulers are Overcome [God, Law, and Liberty]]]></title>
+   <link/>
+   <description><![CDATA[<p class="cvGsUA direction-ltr align-start para-style-body"><span class="OYPEnA text-decoration-none text-strikethrough-none">As noted last week, the metaphysics of law and sin are first seen in the opening chapters of Genesis and more clearly revealed in Romans. But what are we to make of the exhortations by both Paul and Peter to overcome evil rulers by doing good? Are these exhortations the eternal word of God or mere artifacts of a different time in history? If the former, how can that overcome the power of corrupt civil governments over our lives?</span></p>]]></description>
+   <author><![CDATA[David Fowler]]></author>
+   <enclosure url="https://app.dropwave.io/episode/571904c6-4c02-4c27-ae3a-5bdeab7e9fb4/rethinking-how-evil-rulers-are-overcome.mp3" length="1353" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[571904c6-4c02-4c27-ae3a-5bdeab7e9fb4]]></guid>
+   <pubDate>Fri, 28 Jun 2024 14:16:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[David Fowler]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/467f99a9-2921-459a-b63d-9710f4355795/cover-art/8rwNX4MtrqP6FC2rb5bJYAxZhRRVb0X2Yu5h2cfA.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1353</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Defending Purity In A Pornographic World W/ Accountable2You [CrossPolitic Show]]]></title>
    <link/>
@@ -933,23 +948,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3075</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[How to Win the World, part 3: Cultivating Christian Community [The Rebel Podcast]]]></title>
-   <link/>
-   <description><![CDATA[<div dir="ltr">The third episode of The Ezra Institute's new special series with the Rebels. In "show to Win the World" P Nate and Pootie will be joined by a variety of guests talking about several key practical outworkings of theological concepts that will help Christians expand the Kingdom of God, fix what is broken and slowly, win the world.</div>
-<div dir="ltr">&nbsp;</div>
-<div dir="ltr">In this third episode the Rebels are joined by pastor and author Toby Sumpter to talk about the intentional cultivation of Christian Community. How can we build the kind of communities that will be necessary to win the world?</div>]]></description>
-   <author><![CDATA[Pastors Nate & Chris - The Rebels]]></author>
-   <enclosure url="https://app.dropwave.io/episode/fd6100f4-72d8-47cf-b6a1-62f008e05f7f/how-to-win-the-world-part-3-cultivating-christian-community.mp3" length="3313" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[fd6100f4-72d8-47cf-b6a1-62f008e05f7f]]></guid>
-   <pubDate>Mon, 17 Jun 2024 10:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Pastors Nate & Chris - The Rebels]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/TiXnVnedEMwvfVmWLxazW44Ml1x2zGaR0E9It3r2.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3313</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
