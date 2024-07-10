@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Wed, 10 Jul 2024 01:25:45 +0000</pubDate>
-  <lastBuildDate>Wed, 10 Jul 2024 01:25:45 +0000</lastBuildDate>
+  <pubDate>Wed, 10 Jul 2024 07:25:45 +0000</pubDate>
+  <lastBuildDate>Wed, 10 Jul 2024 07:25:45 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -40,6 +40,21 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/wvkjcfd3tfj69XopdryYkSF8m1k4KHuikzJF1KzC.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3127</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[Christendom [Resistance and Reformation]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/2c70862e-bdc6-4fef-a975-96b12afacef1/christendom-1.mp3" length="613" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[2c70862e-bdc6-4fef-a975-96b12afacef1]]></guid>
+   <pubDate>Tue, 09 Jul 2024 16:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>613</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -267,6 +282,22 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
+   <title><![CDATA[Riff Session Episode1 [The Comedian Next Door]]]></title>
+   <link/>
+   <description><![CDATA[<p>We're launching a new show that will hopefully ease a bit of the pain caused by the end of SCQS. This is our first episode and we're pretty sure the format and production is going to change. But we gotta start somewhere.<br /><br />The Riff sessions are comedy writing workshops. We're taking a premise and 'riffing' ideas with fellow comedians. Enjoy!</p>]]></description>
+   <author><![CDATA[John Branyan, Juan DeVevo, Brian Apprille, Luke McKinney]]></author>
+   <enclosure url="https://app.dropwave.io/episode/21271017-6443-4821-87cb-30933e3b091e/riff-session-episode1.mp3" length="1976" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[21271017-6443-4821-87cb-30933e3b091e]]></guid>
+   <pubDate>Thu, 04 Jul 2024 11:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[John Branyan, Juan DeVevo, Brian Apprille, Luke McKinney]]></itunes:author>
+   <itunes:summary><![CDATA[Dawn of A New Podcast]]></itunes:summary>
+   <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1976</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
    <title><![CDATA[God's Role for the State - Pastor Nate Wright [Politics in the Pulpit Conference - Lecture 1] [Liberty Dispatch]]]></title>
    <link/>
    <description><![CDATA[<p><strong>Liberty Dispatch</strong> ~ July 04, 2024<br />This video is a recording of Pastor Nate Wright,&nbsp; taken from the <em>Politics in the Pulpit&nbsp;</em>in Ingersoll, Ontario, on May 04, 2024, God's role for the State.&nbsp;<br /><span style="font-family: '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;"><br /></span></p>
@@ -339,22 +370,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/69893365-4165-4498-b0ac-e9ddf57a000f/cover-art/E86eLfK3NgjrpuXtk9kW9Qv6KcfzQpkJpToltreR.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3577</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Riff Session Episode1 [The Comedian Next Door]]]></title>
-   <link/>
-   <description><![CDATA[<p>We're launching a new show that will hopefully ease a bit of the pain caused by the end of SCQS. This is our first episode and we're pretty sure the format and production is going to change. But we gotta start somewhere.<br /><br />The Riff sessions are comedy writing workshops. We're taking a premise and 'riffing' ideas with fellow comedians. Enjoy!</p>]]></description>
-   <author><![CDATA[John Branyan, Juan DeVevo, Brian Apprille, Luke McKinney]]></author>
-   <enclosure url="https://app.dropwave.io/episode/21271017-6443-4821-87cb-30933e3b091e/riff-session-episode1.mp3" length="1976" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[21271017-6443-4821-87cb-30933e3b091e]]></guid>
-   <pubDate>Thu, 04 Jul 2024 11:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[John Branyan, Juan DeVevo, Brian Apprille, Luke McKinney]]></itunes:author>
-   <itunes:summary><![CDATA[Dawn of A New Podcast]]></itunes:summary>
-   <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1976</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -952,24 +967,6 @@
    <itunes:author><![CDATA[Edgar Nazario / Carlos Maysonet]]></itunes:author>
    <itunes:summary><![CDATA["Nutriendo el alma, creciendo en gracia".]]></itunes:summary>
    <itunes:image href="https://assets-cdn2.dropwave.io/6d9ead85-0274-4464-8c1c-aac836e1c6d9/cover-art/ijzDRNw1mBlFZg1KkaHvXdW959IaSEnEScG8TSlh.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1560</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[S1E9 - ¿Por qué necesitas sanidad interior? [Madurando en Cristo]]]></title>
-   <link/>
-   <description><![CDATA[<p>Descubre c&oacute;mo integrar tu fe y la terapia para alcanzar un bienestar integral. En este video, exploraremos la importancia de la sanidad interior, el poder de la comunidad y el apoyo mutuo, y c&oacute;mo renovar tu mente a trav&eacute;s de la Palabra de Dios. Aprende a construir puentes entre tu vida espiritual y tu salud mental, y encuentra esperanza y transformaci&oacute;n en el proceso.</p>
-<p><a href="http://www.MadurandoEnCristo.org">www.MadurandoEnCristo.org</a></p>
-<p>&nbsp;</p>]]></description>
-   <author><![CDATA[Edgar Nazario / Carlos Maysonet]]></author>
-   <enclosure url="https://app.dropwave.io/episode/7afd5e03-fb08-4ad0-913e-269bdcb6db3f/s1e9-por-que-necesitas-sanidad-interior.mp3" length="1560" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[7afd5e03-fb08-4ad0-913e-269bdcb6db3f]]></guid>
-   <pubDate>Tue, 25 Jun 2024 23:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Edgar Nazario / Carlos Maysonet]]></itunes:author>
-   <itunes:summary><![CDATA["Nutriendo el alma, creciendo en gracia".]]></itunes:summary>
-   <itunes:image href="https://assets-cdn2.dropwave.io/6d9ead85-0274-4464-8c1c-aac836e1c6d9/cover-art/smCu3brzNXnUHzC1LGTdIilvn6v1Ah3Oyf4jI4Ou.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1560</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
