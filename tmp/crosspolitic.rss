@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Thu, 11 Jul 2024 07:25:45 +0000</pubDate>
-  <lastBuildDate>Thu, 11 Jul 2024 07:25:45 +0000</lastBuildDate>
+  <pubDate>Thu, 11 Jul 2024 13:25:42 +0000</pubDate>
+  <lastBuildDate>Thu, 11 Jul 2024 13:25:42 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Riff Session 2 [The Comedian Next Door]]]></title>
+   <link/>
+   <description><![CDATA[<p>Join us for another comedy riff session. We'll talk about slow motion, Paul Bunyan's actual size, antiquated messaging systems and some other stuff. We had fun. Maybe you will too!</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/87ade490-4beb-4c54-bd3f-58b82af7ca9a/riff-session-2.mp3" length="1931" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[87ade490-4beb-4c54-bd3f-58b82af7ca9a]]></guid>
+   <pubDate>Thu, 11 Jul 2024 11:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1931</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Queer Politics = The New Age Religion of America?? W/ Joy Pullman [CrossPolitic Show]]]></title>
    <link/>
@@ -954,23 +969,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/28652366-7376-4009-af11-df4975b58341/cover-art/vg0QsnYPbg4uDnUgkc4IYUdJSTqBlrycyvf6S2Kx.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>4727</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Jeth Ott: Lutheran, Sober, and Bar Owner? [Dead Men Walking Podcast]]]></title>
-   <link/>
-   <description><![CDATA[<p>This week Greg sat down with Jeth Ott in studio. Jeff is the owner of <a href="https://www.littlebrownjugmaybee.com/optin24975415">The Little Brown</a> Jug, and iconic destination bar and restaurant in the small farming village of Maybee, Michigan. They discussed his sobriety, his testimony, and what nit means to be a believer that owns a business in that space. Jeth's passion and excitement for his craft comes through the mic on this episode. Enjoy!&nbsp;</p>
-<p><a href="https://jacobssupply.com/">Jacob's Supply</a>&nbsp;<br />QUALITY BUILDING PRODUCTS AT WHOLESALE PRICING!</p>
-<p>Facebook Page: Dead Men Walking Podcast<br />Instagram: @deadmenwalkingpodcast<br />Threads: @deadmenwalkingpodcast<br />Twitter: @RealDMWPodcast<br />Check out our snarky merch&nbsp;<a href="http://www.dmwpodcast.com/">HERE</a></p>]]></description>
-   <author><![CDATA[Greg Moore Jr.]]></author>
-   <enclosure url="https://app.dropwave.io/episode/dd0463f7-1792-48ca-ab1d-5ae876834227/jeff-ott-lutheran-sober-and-bar-owner.mp3" length="3963" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[dd0463f7-1792-48ca-ab1d-5ae876834227]]></guid>
-   <pubDate>Wed, 26 Jun 2024 04:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Greg Moore Jr.]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/336e6745-00c3-4f9f-a8f5-78b7e05a5434/cover-art/q6YIpCjOO0e1pcpXDdKnFw6VquJxksBdj2r6XWeD.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3963</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
