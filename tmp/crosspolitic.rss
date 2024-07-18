@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Thu, 18 Jul 2024 13:25:48 +0000</pubDate>
-  <lastBuildDate>Thu, 18 Jul 2024 13:25:48 +0000</lastBuildDate>
+  <pubDate>Thu, 18 Jul 2024 19:25:44 +0000</pubDate>
+  <lastBuildDate>Thu, 18 Jul 2024 19:25:44 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,22 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Riff Session 3 [The Comedian Next Door]]]></title>
+   <link/>
+   <description><![CDATA[<p>We're riffing on the destructive force of children, pro wrestling, and the back of IKEA stores. Plus some other random thoughts. Join us for another comedy writing session.</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/616bcfc9-4870-4d48-b2fb-179bc0ed512b/riff-session-3.mp3" length="2275" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[616bcfc9-4870-4d48-b2fb-179bc0ed512b]]></guid>
+   <pubDate>Thu, 18 Jul 2024 16:20:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:summary><![CDATA[Comedy Workshop]]></itunes:summary>
+   <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2275</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Liberal Democracies = Modern Tyrannies w/ Auron Macintyre [CrossPolitic Show]]]></title>
    <link/>
@@ -64,21 +80,6 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[Polk [Resistance and Reformation]]]></title>
-   <link/>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/24529091-1656-4b91-8a5d-740679e2fa51/polk.mp3" length="476" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[24529091-1656-4b91-8a5d-740679e2fa51]]></guid>
-   <pubDate>Wed, 17 Jul 2024 04:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>476</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
    <title><![CDATA[Steven Whitlow: Clear Truth Media [Dead Men Walking Podcast]]]></title>
    <link/>
    <description><![CDATA[<p>This week Greg sat down with Steven Whitlow in studio. Steven Whitlow is the Lead Pastor at&nbsp;<a href="https://www.experienceredemption.com/team">Redemption Church</a>, and the CEO of&nbsp;<a href="https://cleartruthmedia.com/">Clear Truth Media</a>. They discussed the new launch of Clear Truth Media, how this media venture came to be, the vision of "post denomination" contributors, and the content that the site will be releasing in the future. Steven also stuck around for a "Fresh 10" segment, and answered some fun questions. Enjoy!&nbsp;</p>
@@ -94,6 +95,36 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/336e6745-00c3-4f9f-a8f5-78b7e05a5434/cover-art/fwQItdYNhP27d1vEeqW7sz51pq4nmz7DmByzup9m.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2924</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[Polk [Resistance and Reformation]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/24529091-1656-4b91-8a5d-740679e2fa51/polk.mp3" length="476" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[24529091-1656-4b91-8a5d-740679e2fa51]]></guid>
+   <pubDate>Wed, 17 Jul 2024 04:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>476</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[How to Win the World: Part 7: Seek the Lost [The Rebel Podcast]]]></title>
+   <link/>
+   <description><![CDATA[<p>As the Rebels continue the summer series on how to win the world we turn our attention to evangelism. How can we win the world if we do not seek the lost with the transforming power of the gospel? Chris invites on returning guest and friend of the show Cory McKenna, who is an equipping evangelist with the Cross Current, to discuss how real, biblical evangelism is the heart of cultural reformation.</p>]]></description>
+   <author><![CDATA[Pastors Nate & Chris - The Rebels]]></author>
+   <enclosure url="https://app.dropwave.io/episode/6f7978a5-396e-4347-8f0d-457b9d84e8d6/how-to-win-the-world-part-7-seek-the-lost.mp3" length="2897" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[6f7978a5-396e-4347-8f0d-457b9d84e8d6]]></guid>
+   <pubDate>Wed, 17 Jul 2024 01:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Pastors Nate & Chris - The Rebels]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/UdspuF6qzq8GiWBQLzsJwpQLYbGjDSvGohYERKL7.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2897</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -113,21 +144,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/wvkjcfd3tfj69XopdryYkSF8m1k4KHuikzJF1KzC.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3707</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[How to Win the World: Part 7: Seek the Lost [The Rebel Podcast]]]></title>
-   <link/>
-   <description><![CDATA[<p>As the Rebels continue the summer series on how to win the world we turn our attention to evangelism. How can we win the world if we do not seek the lost with the transforming power of the gospel? Chris invites on returning guest and friend of the show Cory McKenna, who is an equipping evangelist with the Cross Current, to discuss how real, biblical evangelism is the heart of cultural reformation.</p>]]></description>
-   <author><![CDATA[Pastors Nate & Chris - The Rebels]]></author>
-   <enclosure url="https://app.dropwave.io/episode/6f7978a5-396e-4347-8f0d-457b9d84e8d6/how-to-win-the-world-part-7-seek-the-lost.mp3" length="2897" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[6f7978a5-396e-4347-8f0d-457b9d84e8d6]]></guid>
-   <pubDate>Wed, 17 Jul 2024 01:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Pastors Nate & Chris - The Rebels]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/UdspuF6qzq8GiWBQLzsJwpQLYbGjDSvGohYERKL7.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2897</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -247,7 +263,7 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[CND - Toldja The Baby Would Interfere with The Podcast! (Family Poops on You) [The Comedian Next Door]]]></title>
+   <title><![CDATA[TCND - Toldja The Baby Would Interfere with The Podcast! (Family Poops on You) [The Comedian Next Door]]]></title>
    <link/>
    <description><![CDATA[<p>&nbsp;It&rsquo;s just you and me. No other podcast pals, just us. So, if you&rsquo;ve been with us before, you know there was a baby on the way. Well, that baby has now made his grand entrance, and as predicted, it&rsquo;s shaken up the podcast schedule. I feared the podcast might be canceled, but The Peaches assured me, "No worries, Dad, I'll pop out the baby, and we&rsquo;ll be back on track, no big deal." Fast forward a couple of weeks, and here I am, solo at the mic because my usual crew is at the hospital with the newborn boy.</p>
 <p>My kids have been griping about our intro music, calling it not just mediocre, but downright bad. So, I decided to skip it this week. Maybe it&rsquo;s time for a new format: no music, just straight into the chatter. Let me know what you think.</p>
@@ -844,6 +860,22 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
+   <title><![CDATA[Riff Session Episode1 [The Comedian Next Door]]]></title>
+   <link/>
+   <description><![CDATA[<p>We're launching a new show that will hopefully ease a bit of the pain caused by the end of SCQS. This is our first episode and we're pretty sure the format and production is going to change. But we gotta start somewhere.<br /><br />The Riff sessions are comedy writing workshops. We're taking a premise and 'riffing' ideas with fellow comedians. Enjoy!</p>]]></description>
+   <author><![CDATA[John Branyan, Juan DeVevo, Brian Apprille, Luke McKinney]]></author>
+   <enclosure url="https://app.dropwave.io/episode/21271017-6443-4821-87cb-30933e3b091e/riff-session-episode1.mp3" length="1976" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[21271017-6443-4821-87cb-30933e3b091e]]></guid>
+   <pubDate>Thu, 04 Jul 2024 11:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[John Branyan, Juan DeVevo, Brian Apprille, Luke McKinney]]></itunes:author>
+   <itunes:summary><![CDATA[Dawn of A New Podcast]]></itunes:summary>
+   <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1976</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
    <title><![CDATA[God's Role for the State - Pastor Nate Wright [Politics in the Pulpit Conference - Lecture 1] [Liberty Dispatch]]]></title>
    <link/>
    <description><![CDATA[<p><strong>Liberty Dispatch</strong> ~ July 04, 2024<br />This video is a recording of Pastor Nate Wright,&nbsp; taken from the <em>Politics in the Pulpit&nbsp;</em>in Ingersoll, Ontario, on May 04, 2024, God's role for the State.&nbsp;<br /><span style="font-family: '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;"><br /></span></p>
@@ -894,22 +926,6 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[Riff Session Episode1 [The Comedian Next Door]]]></title>
-   <link/>
-   <description><![CDATA[<p>We're launching a new show that will hopefully ease a bit of the pain caused by the end of SCQS. This is our first episode and we're pretty sure the format and production is going to change. But we gotta start somewhere.<br /><br />The Riff sessions are comedy writing workshops. We're taking a premise and 'riffing' ideas with fellow comedians. Enjoy!</p>]]></description>
-   <author><![CDATA[John Branyan, Juan DeVevo, Brian Apprille, Luke McKinney]]></author>
-   <enclosure url="https://app.dropwave.io/episode/21271017-6443-4821-87cb-30933e3b091e/riff-session-episode1.mp3" length="1976" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[21271017-6443-4821-87cb-30933e3b091e]]></guid>
-   <pubDate>Thu, 04 Jul 2024 11:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[John Branyan, Juan DeVevo, Brian Apprille, Luke McKinney]]></itunes:author>
-   <itunes:summary><![CDATA[Dawn of A New Podcast]]></itunes:summary>
-   <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1976</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
    <title><![CDATA[The Practical Side of Political Activism - Dr. David M. Haskell [Politics in the Pulpit Conference - Lecture 3] [Liberty Dispatch]]]></title>
    <link/>
    <description><![CDATA[<p><strong>Liberty Dispatch</strong> ~ July 04, 2024<br />This video is a recording of Dr. David Haskell,&nbsp; taken from the <em>Politics in the Pulpit&nbsp;</em>in Ingersoll, Ontario, on May 04. 2024 on the practical side of political activism.&nbsp;<br /><span style="font-family: '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;"><br /></span></p>
@@ -949,26 +965,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/wvkjcfd3tfj69XopdryYkSF8m1k4KHuikzJF1KzC.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1993</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[From Where Do Our Rights Come?: An Independence Day Special ft. Dan Ogden [The Ezra Institute Podcast for Cultural Reformation]]]></title>
-   <link/>
-   <description><![CDATA[<p>In celebration of Canada Day (better known as Dominion Day) and the upcoming UK election, which happens to fall on July 4th, American Independence Day, Dr. Joe Boot is joined by Professor Daniel Ogden, Ezra Fellow for International Law, Comparative Politics, and International Relations, to discuss principles of political freedom, rights and responsibilities, good governance, and the rule of higher law.<br /><br /><strong>Episode Resources: <br /></strong>Did America Have a Christian Founding?:&nbsp;<a href="https://amzn.to/4cNrZf7" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://amzn.to/4cNrZf7&amp;source=gmail&amp;ust=1720148086446000&amp;usg=AOvVaw0GTx9LmDJwjWL6uk7iUXcn">https://amzn.to/4cNrZf7</a>;<br />The Founders Key:&nbsp;<a href="https://amzn.to/3zuqFzu" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://amzn.to/3zuqFzu&amp;source=gmail&amp;ust=1720148086446000&amp;usg=AOvVaw28HNLvnky4vqCNKg53nsuQ">https://amzn.to/3zuqFzu</a>;<br />America on Trial:&nbsp;<a href="https://amzn.to/45PkPos" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://amzn.to/45PkPos&amp;source=gmail&amp;ust=1720148086446000&amp;usg=AOvVaw0VP5CsVJh8Y01y3A-vyQzF">https://amzn.to/45PkPos</a>;<br />Law without Nations?:&nbsp;<a href="https://amzn.to/4cqea6p" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://amzn.to/4cqea6p&amp;source=gmail&amp;ust=1720148086446000&amp;usg=AOvVaw1Xp-yHGXqjSajW8Vx-hop5">https://amzn.to/4cqea6p</a>;</p>
-<p><strong>Think biblically about politics with the help of Dr. Boot's latest book&nbsp; "Ruler of Kings":</strong> <a href="https://ezrapress.ca/products/ruler-of-kings-toward-a-christian-vision-of-government">https://ezrapress.ca/products/ruler-of-kings-toward-a-christian-vision-of-government</a>;</p>
-<p><strong>Got Questions? Would you like to hear Dr. Boot answer your questions? Let us know in the comments or reach out to us at</strong> <a href="https://www.ezrainstitute.com/connect/contact/">https://www.ezrainstitute.com/connect/contact/</a>;</p>
-<p><strong>For Ezra's many print resources and to join our newsletter, visit:</strong> <a href="https://ezrapress.com">https://ezrapress.com</a>.</p>
-<p><strong>Stay up-to-date with all things Ezra Institute:</strong> <a href="https://www.ezrainstitute.com">https://www.ezrainstitute.com</a>;<br />Subscribe to Ezra's YouTube Channel: <a href="https://www.youtube.com/channel/UCPVvQDHHrOOjziyqUaN9VoA?sub_confirmation=1">https://www.youtube.com/channel/UCPVvQDHHrOOjziyqUaN9VoA?sub_confirmation=1</a>;<br />Fight Laugh Feast Network: <a href="https://pubtv.flfnetwork.com/tabs/audio/podcasts/8297;">https://pubtv.flfnetwork.com/tabs/audio/podcasts/8297;</a><br />Apple Podcasts: <a href="https://podcasts.apple.com/ca/podcast/ezra-institute-podcast-for-cultural-reformation/id1336078503">https://podcasts.apple.com/ca/podcast/ezra-institute-podcast-for-cultural-reformation/id1336078503</a>;<br />Spotify Podcast: <a href="https://open.spotify.com/show/0dW1gDarpzdrDMLPjKYZW2?si=bee3e91ed9a54885">https://open.spotify.com/show/0dW1gDarpzdrDMLPjKYZW2?si=bee3e91ed9a54885</a>.</p>
-<p>Wherever you find our content, please like, subscribe, rate, or review it; it truly does help.</p>]]></description>
-   <author><![CDATA[Dr. Joseph Boot, Dr. Dan Ogden, SDG Media]]></author>
-   <enclosure url="https://app.dropwave.io/episode/96dad4a5-1da0-4de3-a934-67b56e4ec538/from-where-do-our-rights-come-an-independence-day-special-ft-dan-ogden.mp3" length="3594" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[96dad4a5-1da0-4de3-a934-67b56e4ec538]]></guid>
-   <pubDate>Wed, 03 Jul 2024 16:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Dr. Joseph Boot, Dr. Dan Ogden, SDG Media]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/1c3a97bd-65b0-4aec-bb35-3a1b6eec5d2c/cover-art/DfToO6mMFqX9bYGKJE1oW5JVc45Di8HPkxUCB71k.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3594</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
