@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 22 Jul 2024 13:25:47 +0000</pubDate>
-  <lastBuildDate>Mon, 22 Jul 2024 13:25:47 +0000</lastBuildDate>
+  <pubDate>Mon, 22 Jul 2024 19:25:46 +0000</pubDate>
+  <lastBuildDate>Mon, 22 Jul 2024 19:25:46 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[What Does Jerusalem Have to Do with Cooperstown? [In the Bullpen]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/268840e2-dac4-4ab5-bff6-8ef74a503b2a/what-does-jerusalem-have-to-do-with-cooperstown.mp3" length="1226" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[268840e2-dac4-4ab5-bff6-8ef74a503b2a]]></guid>
+   <pubDate>Mon, 22 Jul 2024 16:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1226</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[TCND: Unite with Me and the Other Burning Bush (Not Moses) [The Comedian Next Door]]]></title>
    <link/>
@@ -261,21 +276,6 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[Polk [Resistance and Reformation]]]></title>
-   <link/>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/24529091-1656-4b91-8a5d-740679e2fa51/polk.mp3" length="476" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[24529091-1656-4b91-8a5d-740679e2fa51]]></guid>
-   <pubDate>Wed, 17 Jul 2024 04:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>476</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
    <title><![CDATA[Steven Whitlow: Clear Truth Media [Dead Men Walking Podcast]]]></title>
    <link/>
    <description><![CDATA[<p>This week Greg sat down with Steven Whitlow in studio. Steven Whitlow is the Lead Pastor at&nbsp;<a href="https://www.experienceredemption.com/team">Redemption Church</a>, and the CEO of&nbsp;<a href="https://cleartruthmedia.com/">Clear Truth Media</a>. They discussed the new launch of Clear Truth Media, how this media venture came to be, the vision of "post denomination" contributors, and the content that the site will be releasing in the future. Steven also stuck around for a "Fresh 10" segment, and answered some fun questions. Enjoy!&nbsp;</p>
@@ -291,6 +291,36 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/336e6745-00c3-4f9f-a8f5-78b7e05a5434/cover-art/fwQItdYNhP27d1vEeqW7sz51pq4nmz7DmByzup9m.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2924</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[Polk [Resistance and Reformation]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/24529091-1656-4b91-8a5d-740679e2fa51/polk.mp3" length="476" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[24529091-1656-4b91-8a5d-740679e2fa51]]></guid>
+   <pubDate>Wed, 17 Jul 2024 04:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>476</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[How to Win the World: Part 7: Seek the Lost [The Rebel Podcast]]]></title>
+   <link/>
+   <description><![CDATA[<p>As the Rebels continue the summer series on how to win the world we turn our attention to evangelism. How can we win the world if we do not seek the lost with the transforming power of the gospel? Chris invites on returning guest and friend of the show Cory McKenna, who is an equipping evangelist with the Cross Current, to discuss how real, biblical evangelism is the heart of cultural reformation.</p>]]></description>
+   <author><![CDATA[Pastors Nate & Chris - The Rebels]]></author>
+   <enclosure url="https://app.dropwave.io/episode/6f7978a5-396e-4347-8f0d-457b9d84e8d6/how-to-win-the-world-part-7-seek-the-lost.mp3" length="2897" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[6f7978a5-396e-4347-8f0d-457b9d84e8d6]]></guid>
+   <pubDate>Wed, 17 Jul 2024 01:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Pastors Nate & Chris - The Rebels]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/UdspuF6qzq8GiWBQLzsJwpQLYbGjDSvGohYERKL7.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2897</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -310,21 +340,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/wvkjcfd3tfj69XopdryYkSF8m1k4KHuikzJF1KzC.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3707</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[How to Win the World: Part 7: Seek the Lost [The Rebel Podcast]]]></title>
-   <link/>
-   <description><![CDATA[<p>As the Rebels continue the summer series on how to win the world we turn our attention to evangelism. How can we win the world if we do not seek the lost with the transforming power of the gospel? Chris invites on returning guest and friend of the show Cory McKenna, who is an equipping evangelist with the Cross Current, to discuss how real, biblical evangelism is the heart of cultural reformation.</p>]]></description>
-   <author><![CDATA[Pastors Nate & Chris - The Rebels]]></author>
-   <enclosure url="https://app.dropwave.io/episode/6f7978a5-396e-4347-8f0d-457b9d84e8d6/how-to-win-the-world-part-7-seek-the-lost.mp3" length="2897" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[6f7978a5-396e-4347-8f0d-457b9d84e8d6]]></guid>
-   <pubDate>Wed, 17 Jul 2024 01:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Pastors Nate & Chris - The Rebels]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/UdspuF6qzq8GiWBQLzsJwpQLYbGjDSvGohYERKL7.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2897</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -942,23 +957,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/twsSDPdYj7i3jNCMtA3RAyuxR6wfO3frLk6jWHJv.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3707</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Overturning of Roe v. Wade Gave Christians A Backbone?? (FlashBack Friday) [CrossPolitic Show]]]></title>
-   <link/>
-   <description><![CDATA[<p><span style="font-family: 'book antiqua', palatino, serif;">FlashBack Friday comes again, and with it another excellent throwback show. Originally aired on May 3rd 2022 shortley after Roe v. Wade was leaked. The guys were joined by Dr. Grant, Jeff Durbin, David Fowler and Bradley Pierce to discuss the fallout of Roe being overturned. And, whether or not Christians would grow a backbone as a result.</span></p>
-<p><span style="font-family: 'book antiqua', palatino, serif;">Don&rsquo;t forget to Sign up for The FLF Conference 2024 (Prodigal America)</span></p>
-<p><span style="font-family: 'book antiqua', palatino, serif;"><a href="https://flfnetwork.com/prodigal-america/">https://flfnetwork.com/prodigal-america/</a><span class="Apple-converted-space">&nbsp;</span></span></p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/81bc8e2a-6e48-44d1-8131-7f3ae2a24e40/overturning-of-roe-v-wade-gave-christians-a-backbone-flashback-friday.mp3" length="4575" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[81bc8e2a-6e48-44d1-8131-7f3ae2a24e40]]></guid>
-   <pubDate>Sat, 06 Jul 2024 01:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/wvkjcfd3tfj69XopdryYkSF8m1k4KHuikzJF1KzC.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>4575</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
