@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Thu, 25 Jul 2024 19:25:42 +0000</pubDate>
-  <lastBuildDate>Thu, 25 Jul 2024 19:25:42 +0000</lastBuildDate>
+  <pubDate>Fri, 26 Jul 2024 01:25:45 +0000</pubDate>
+  <lastBuildDate>Fri, 26 Jul 2024 01:25:45 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -26,6 +26,21 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Annie's Workout Routine: What I Do In a Week [The Waterbreak]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/7ba738d2-aedd-4bfa-b8f9-a102b7b61278/annies-workout-routine-what-i-do-in-a-week.mp3" length="4389" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[7ba738d2-aedd-4bfa-b8f9-a102b7b61278]]></guid>
+   <pubDate>Fri, 26 Jul 2024 00:26:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/0a3dee73-38ca-4cc7-b0dc-e72b0074106c/cover-art/9eAbieEowe0YqcJWtwjZRRpiHcAMAamLsPf0v5yh.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>4389</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[Has feminism destroyed the Secret Service? (100% Yes) [The Waterbreak]]]></title>
    <link/>
    <description><![CDATA[<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">Let&rsquo;s look into the Fitness standards of the Secret Service and talk about it a little bit&hellip;.</span></p>
@@ -42,25 +57,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/0a3dee73-38ca-4cc7-b0dc-e72b0074106c/cover-art/9eAbieEowe0YqcJWtwjZRRpiHcAMAamLsPf0v5yh.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3165</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  
-  </item><item>
-   <title><![CDATA[The Waterbreak Returns! Ask Us Anything!  [The Waterbreak]]]></title>
-   <link/>
-   <description><![CDATA[<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">Join Annie &amp; Gabe Live to ask anything your heart desires!<span class="Apple-converted-space">&nbsp;</span></span></p>
-<p class="p2">&nbsp;</p>
-<p class="p3"><span class="s1" style="font-family: 'book antiqua', palatino, serif;">Reach out at <a href="mailto:RenchMedia@gmail.com">RenchMedia@gmail.com</a><span class="Apple-converted-space">&nbsp;</span></span></p>
-<p class="p4">&nbsp;</p>
-<p class="p1"><span style="font-family: 'book antiqua', palatino, serif;">Find Annie on Instagram @AnnieMRench</span></p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/a45fb6c4-935f-475f-bcee-e7beb3d483be/the-waterbreak-returns-ask-us-anything.mp3" length="3645" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[a45fb6c4-935f-475f-bcee-e7beb3d483be]]></guid>
-   <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/0a3dee73-38ca-4cc7-b0dc-e72b0074106c/cover-art/9eAbieEowe0YqcJWtwjZRRpiHcAMAamLsPf0v5yh.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3645</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   
   </item>
