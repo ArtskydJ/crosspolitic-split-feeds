@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Fri, 02 Aug 2024 19:25:44 +0000</pubDate>
-  <lastBuildDate>Fri, 02 Aug 2024 19:25:44 +0000</lastBuildDate>
+  <pubDate>Sat, 03 Aug 2024 01:25:44 +0000</pubDate>
+  <lastBuildDate>Sat, 03 Aug 2024 01:25:44 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -96,21 +96,6 @@
    <itunes:duration>3278</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   
-  </item><item>
-   <title><![CDATA[Riff Session 3 [The Comedian Next Door]]]></title>
-   <link/>
-   <description><![CDATA[<p>We're riffing on the destructive force of children, pro wrestling, and the back of IKEA stores. Plus some other random thoughts. Join us for another comedy writing session.</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/616bcfc9-4870-4d48-b2fb-179bc0ed512b/riff-session-3.mp3" length="2275" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[616bcfc9-4870-4d48-b2fb-179bc0ed512b]]></guid>
-   <pubDate>Thu, 18 Jul 2024 16:20:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:summary><![CDATA[Comedy Workshop]]></itunes:summary>
-   <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2275</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
 </rss>
