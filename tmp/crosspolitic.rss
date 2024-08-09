@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Fri, 09 Aug 2024 13:25:48 +0000</pubDate>
-  <lastBuildDate>Fri, 09 Aug 2024 13:25:48 +0000</lastBuildDate>
+  <pubDate>Fri, 09 Aug 2024 19:25:52 +0000</pubDate>
+  <lastBuildDate>Fri, 09 Aug 2024 19:25:52 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[What Do Concerns About Electoral and Legislative Outcomes Say About Us? [God, Law, and Liberty]]]></title>
+   <link/>
+   <description><![CDATA[<p>At a recent gathering of political and legal advocates from around the nation, most of whom were Christians, these questions were asked: &ldquo;What keeps you up at night?&rdquo; and &ldquo;What is most urgent to you?&rdquo; David uses an excerpt from C.S. Lewis&rsquo;s <em>The Weight of Glory</em>, an excerpt from John Owen&rsquo;s <em>Christologia</em>, and Hebrews Chapter 4, to provide insight into what the questions and the way they were framed says about our understanding of the Gospel.</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/b34db754-33dd-40a1-afb0-8af013b25382/what-do-concerns-about-electoral-and-legislative-outcomes-say-about-us.mp3" length="2225" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[b34db754-33dd-40a1-afb0-8af013b25382]]></guid>
+   <pubDate>Fri, 09 Aug 2024 17:09:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/467f99a9-2921-459a-b63d-9710f4355795/cover-art/N8jiTte0b8RDcNFe7lYsVoabz0oFHbx5Duhv7Dn4.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2225</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Ep. 122: Making a Difference with Bunni Pounds [The Outstanding Podcast]]]></title>
    <link/>
@@ -982,22 +997,6 @@
    <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/69893365-4165-4498-b0ac-e9ddf57a000f/cover-art/E86eLfK3NgjrpuXtk9kW9Qv6KcfzQpkJpToltreR.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>4679</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Riff Session 4 [The Comedian Next Door]]]></title>
-   <link/>
-   <description><![CDATA[<p>Join us as we workshop some ideas for comedy. It's possible you'll have a laugh, but we can't promise that.</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/23bc7f32-92dc-4805-88f2-979d25cef396/riff-session-4.mp3" length="1858" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[23bc7f32-92dc-4805-88f2-979d25cef396]]></guid>
-   <pubDate>Thu, 25 Jul 2024 15:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:summary><![CDATA[Riff Session Comedy Workshop]]></itunes:summary>
-   <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1858</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
