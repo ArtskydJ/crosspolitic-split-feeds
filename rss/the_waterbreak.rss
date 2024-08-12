@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 12 Aug 2024 07:25:46 +0000</pubDate>
-  <lastBuildDate>Mon, 12 Aug 2024 07:25:46 +0000</lastBuildDate>
+  <pubDate>Mon, 12 Aug 2024 13:25:51 +0000</pubDate>
+  <lastBuildDate>Mon, 12 Aug 2024 13:25:51 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -47,20 +47,6 @@
    <itunes:duration>3365</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   
-  </item><item>
-   <title><![CDATA[Annie's Workout Routine: What I Do In a Week [The Waterbreak]]]></title>
-   <link/>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/7ba738d2-aedd-4bfa-b8f9-a102b7b61278/annies-workout-routine-what-i-do-in-a-week.mp3" length="4389" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[7ba738d2-aedd-4bfa-b8f9-a102b7b61278]]></guid>
-   <pubDate>Fri, 26 Jul 2024 00:26:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/0a3dee73-38ca-4cc7-b0dc-e72b0074106c/cover-art/9eAbieEowe0YqcJWtwjZRRpiHcAMAamLsPf0v5yh.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>4389</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
 </rss>
