@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Thu, 22 Aug 2024 07:26:32 +0000</pubDate>
-  <lastBuildDate>Thu, 22 Aug 2024 07:26:32 +0000</lastBuildDate>
+  <pubDate>Thu, 22 Aug 2024 13:25:45 +0000</pubDate>
+  <lastBuildDate>Thu, 22 Aug 2024 13:25:45 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,22 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Riff 8 Comedy Conversation [The Comedian Next Door]]]></title>
+   <link/>
+   <description><![CDATA[<p>Juan kicks things off with a wild tale about his dad&rsquo;s mysterious age and a hilarious take on Tom Brady&rsquo;s Hertz commercials. Things get deep with a chat about gratitude&mdash;like how hard it is to find new stuff to be thankful for without rolling your eyes. Then, they dive into the evolution of pants and why wearing them low is a fashion fail. They also touch on credit scores, organic food, and the odd value of a perfect score. And if you think that's random, wait till they introduce the Humpty Dumpty scale for fall risk and debate World War I interest rates! It&rsquo;s a whirlwind of laughs and life&rsquo;s quirks.</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/384c3670-26e9-4439-ba2f-6c6fdafdc902/riff-8-comedy-conversation.mp3" length="2402" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[384c3670-26e9-4439-ba2f-6c6fdafdc902]]></guid>
+   <pubDate>Thu, 22 Aug 2024 13:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:summary><![CDATA[Your pants are wrong]]></itunes:summary>
+   <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2402</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Doug Wilson | The Moscow Mood, Prodigal America, & Trump [CrossPolitic Show]]]></title>
    <link/>
@@ -989,21 +1005,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/6d9ead85-0274-4464-8c1c-aac836e1c6d9/cover-art/R6eXZYmBbvDK6OYRFRN8mhDhi76pYrXq5MVoS9eA.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1500</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Statesmen [Resistance and Reformation]]]></title>
-   <link/>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/9484ac0a-f403-4a2d-a8e7-8ef85821ea3b/statesmen.mp3" length="551" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[9484ac0a-f403-4a2d-a8e7-8ef85821ea3b]]></guid>
-   <pubDate>Tue, 06 Aug 2024 16:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>551</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
