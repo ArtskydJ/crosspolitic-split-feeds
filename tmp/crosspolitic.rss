@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Thu, 05 Sep 2024 07:25:45 +0000</pubDate>
-  <lastBuildDate>Thu, 05 Sep 2024 07:25:45 +0000</lastBuildDate>
+  <pubDate>Thu, 05 Sep 2024 13:25:45 +0000</pubDate>
+  <lastBuildDate>Thu, 05 Sep 2024 13:25:45 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,30 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Riff 10 Comedy Conversation [The Comedian Next Door]]]></title>
+   <link/>
+   <description><![CDATA[<div class="flex max-w-full flex-col flex-grow">
+<div class="min-h-[20px] text-message flex w-full flex-col items-end gap-2 whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto" dir="auto" data-message-author-role="assistant" data-message-id="ac28d5f3-567d-49bd-8394-fc1e24eb15a2">
+<div class="flex w-full flex-col gap-1 empty:hidden first:pt-[3px]">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+<p>The gang, with special guest Curtis Crow, dives into the hilarious transition from young to old&mdash;think reading glasses, sensible shoes, and pharmacy apps. We also chat about the wacky world of Guinness World Records and the absurdity of some titles. Then, we tackle the ultimate culture clash: marriage. Cue the awkward gift-giving scenarios with white elephants and secret Santas, and brace yourself for the laugh-out-loud idea of the "Joelympics"&mdash;where regular folks compete in everyday tasks like grocery bag hauling and car packing. We wrap it up with some honest family talk, exploring the quirks of communication and the art of not offending Aunt Mildred.</p>
+</div>
+</div>
+</div>
+</div>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/3a8dafb9-8bc5-499c-8a37-bb32382ffb0d/riff-10-comedy-conversation.mp3" length="2730" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[3a8dafb9-8bc5-499c-8a37-bb32382ffb0d]]></guid>
+   <pubDate>Thu, 05 Sep 2024 13:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:summary><![CDATA[The Between Phases Phase]]></itunes:summary>
+   <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2730</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[The Health Crisis & Christian Duty w/ Annie Rench [CrossPolitic Show]]]></title>
    <link/>
@@ -950,22 +974,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/c7ae6c2c-d626-4766-abf5-1e3852af0706/cover-art/xqM3C6oG7UKsP2mh7P3UkB7WW16nD75wR9DrwhPd.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1833</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Kendall Lankford: Postmillennialism, Covenant and Household, Eschatological Universalism [Let's Talk Eschatology]]]></title>
-   <link/>
-   <description><![CDATA[<p>Pastor and podcaster Kendall Lankford discusses postmillenialism, eschatological universalism, covenant households and more...</p>]]></description>
-   <author><![CDATA[Jacob Tanner]]></author>
-   <enclosure url="https://app.dropwave.io/episode/439e2c8b-cc7b-497b-8dde-d17ea792b601/kendall-lankford-postmillennialism-covenant-and-household-eschatological-universalism.mp3" length="3812" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[439e2c8b-cc7b-497b-8dde-d17ea792b601]]></guid>
-   <pubDate>Wed, 21 Aug 2024 16:48:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Jacob Tanner]]></itunes:author>
-   <itunes:summary><![CDATA[Kendall Lankford: Postmillennialism, Covenant and Household, Eschatological Universalism]]></itunes:summary>
-   <itunes:image href="https://assets-cdn2.dropwave.io/c7ae6c2c-d626-4766-abf5-1e3852af0706/cover-art/xqM3C6oG7UKsP2mh7P3UkB7WW16nD75wR9DrwhPd.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3812</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
