@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Fri, 06 Sep 2024 07:25:44 +0000</pubDate>
-  <lastBuildDate>Fri, 06 Sep 2024 07:25:44 +0000</lastBuildDate>
+  <pubDate>Fri, 06 Sep 2024 13:26:11 +0000</pubDate>
+  <lastBuildDate>Fri, 06 Sep 2024 13:26:11 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Ep. 130: Minnesota Educators, PELSB, and Freedom of Religion [The Outstanding Podcast]]]></title>
+   <link/>
+   <description><![CDATA[<p>What is going on for teachers in the land of 10,000 lakes? Host Joseph Backholm is joined by senior attorney at the Upper Midwest Law Center, James Dickey, for a conversation unpacking what teachers are going through in Minnesota. Recently, the Professional Educator Licensing Standards Board in Minnesota declared that teachers must affirm the gender of their students - and if they don't, they "can teach at a private school" (direct quote from the state). James and his law firm are standing in the gap for teachers as the state takes a very controversial position requiring all public school teachers to conform to their standards or not be licensed to teach in Minnesota. Give this episode a listen to learn more about how Minnesota and Governor Walz are infringing upon Minnesotans' personal freedoms.</p>]]></description>
+   <author><![CDATA[Joseph Backholm]]></author>
+   <enclosure url="https://app.dropwave.io/episode/3f137c8d-2d0b-4cb1-ae14-55372d77d0ba/ep-130-minnesota-educators-pelsb-and-freedom-of-religion.mp3" length="2276" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[3f137c8d-2d0b-4cb1-ae14-55372d77d0ba]]></guid>
+   <pubDate>Fri, 06 Sep 2024 10:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Joseph Backholm]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/03cb0a71-51fd-48b9-b2ef-b3104f5b133d/cover-art/38CYX60hTuMi0CVRwzaxNKLGpnGOhaR5BczKSfeT.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2276</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[School Shootings & Gang Run Towns | A Christian Perspective [CrossPolitic Show]]]></title>
    <link/>
@@ -961,22 +976,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/3312a6b0-2b88-4186-bfdd-e9c55d3d7e0f/cover-art/DJmJxOQEoRfGbs693sV6kEnKEGWstWUfdEXbQra8.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>4481</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Riff 8 Comedy Conversation [The Comedian Next Door]]]></title>
-   <link/>
-   <description><![CDATA[<p>Juan kicks things off with a wild tale about his dad&rsquo;s mysterious age and a hilarious take on Tom Brady&rsquo;s Hertz commercials. Things get deep with a chat about gratitude&mdash;like how hard it is to find new stuff to be thankful for without rolling your eyes. Then, they dive into the evolution of pants and why wearing them low is a fashion fail. They also touch on credit scores, organic food, and the odd value of a perfect score. And if you think that's random, wait till they introduce the Humpty Dumpty scale for fall risk and debate World War I interest rates! It&rsquo;s a whirlwind of laughs and life&rsquo;s quirks.</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/384c3670-26e9-4439-ba2f-6c6fdafdc902/riff-8-comedy-conversation.mp3" length="2402" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[384c3670-26e9-4439-ba2f-6c6fdafdc902]]></guid>
-   <pubDate>Thu, 22 Aug 2024 13:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:summary><![CDATA[Your pants are wrong]]></itunes:summary>
-   <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2402</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
