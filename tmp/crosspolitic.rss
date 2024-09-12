@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Thu, 12 Sep 2024 07:25:58 +0000</pubDate>
-  <lastBuildDate>Thu, 12 Sep 2024 07:25:58 +0000</lastBuildDate>
+  <pubDate>Thu, 12 Sep 2024 13:25:46 +0000</pubDate>
+  <lastBuildDate>Thu, 12 Sep 2024 13:25:46 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,22 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Riff 11 Comedy Conversation [The Comedian Next Door]]]></title>
+   <link/>
+   <description><![CDATA[<p>The gang gets nostalgic about cars, laughing over how we remember them more than people&rsquo;s names. We joke about using cars as nicknames&mdash;hilarious or creepy? You decide. We also dive into the quirks of self-checkout machines and their fake gratitude, wishing they&rsquo;d just give us a sarcastic &ldquo;thanks.&rdquo; Then, it&rsquo;s all about weird food combos, like ice cream on hot stuff (why?), fried ice cream, and the genius idea of a cookie dough caulking gun. We wrap things up with a silly take on the phonetic alphabet and Morse code.</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/70a16660-64c4-4582-83b8-1ad20a7fe89d/riff-11-comedy-conversation.mp3" length="3004" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[70a16660-64c4-4582-83b8-1ad20a7fe89d]]></guid>
+   <pubDate>Thu, 12 Sep 2024 12:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:summary><![CDATA[Theme songs and chronic pain]]></itunes:summary>
+   <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3004</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Cultural Clash: Trump Vs. Kamala Face Off And Beer & Psalms [CrossPolitic Show]]]></title>
    <link/>
@@ -958,22 +974,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/wvkjcfd3tfj69XopdryYkSF8m1k4KHuikzJF1KzC.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3287</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Michael Foster/CREC Split, John MacArthur's Health and Legacy [Let's Talk Eschatology]]]></title>
-   <link/>
-   <description><![CDATA[<p>on this episode of the Reformed Reckoner, Jon Wright and Keith Foskey discuss Michael Foster and the CREC split, Pastor John MAcArthur's contreversies and legacy, and free vasectomies at the DNC</p>]]></description>
-   <author><![CDATA[Jon Wright]]></author>
-   <enclosure url="https://app.dropwave.io/episode/c8cf8a39-b1f4-42e7-b678-0f7d7e4fd165/michael-fostercrec-split-john-macarthurs-health-and-legacy.mp3" length="1524" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[c8cf8a39-b1f4-42e7-b678-0f7d7e4fd165]]></guid>
-   <pubDate>Wed, 28 Aug 2024 21:39:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Jon Wright]]></itunes:author>
-   <itunes:summary><![CDATA[Friends or Enemies? Michael Foster and the CREC Split, John MacArthur's Legacy]]></itunes:summary>
-   <itunes:image href="https://assets-cdn2.dropwave.io/c7ae6c2c-d626-4766-abf5-1e3852af0706/cover-art/xqM3C6oG7UKsP2mh7P3UkB7WW16nD75wR9DrwhPd.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1524</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
