@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Thu, 19 Sep 2024 07:25:46 +0000</pubDate>
-  <lastBuildDate>Thu, 19 Sep 2024 07:25:46 +0000</lastBuildDate>
+  <pubDate>Thu, 19 Sep 2024 13:25:47 +0000</pubDate>
+  <lastBuildDate>Thu, 19 Sep 2024 13:25:47 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Riff 12 Comedy Conversation [The Comedian Next Door]]]></title>
+   <link/>
+   <description><![CDATA[<p>The gang dives into theme songs, chronic pain, and the mysterious allure of pickup trucks. We swap hilarious stories about cigarette lighters, Fourth of July shenanigans, and the quirks of patriotism. Things get wild with tales of fireworks, vending machine ammo, and our lack of culinary snobbery&mdash;let&rsquo;s just say we&rsquo;re not foodies! We wrap up with a light chat about edible bowls and a missing host. You're welcome to tag along!</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/0aa43db2-11cb-40e4-aa68-a505949838b2/riff-12-comedy-conversation.mp3" length="3004" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[0aa43db2-11cb-40e4-aa68-a505949838b2]]></guid>
+   <pubDate>Thu, 19 Sep 2024 12:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3004</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Christianity & Politics: A Christian View of the State [The Ezra Institute Podcast for Cultural Reformation]]]></title>
    <link/>
@@ -972,28 +987,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/wvkjcfd3tfj69XopdryYkSF8m1k4KHuikzJF1KzC.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2895</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[S1E22 - ¿Cómo interpretar la Biblia correctamente? [Madurando en Cristo]]]></title>
-   <link/>
-   <description><![CDATA[<p>&iquest;Abrumado al leer la Biblia?<br /><br />&iexcl;No est&aacute;s solo! 🙏 Descubre 3 CLAVES poderosas para interpretar las Escrituras:</p>
-<ol>
-<li>🔎 CONTEXTO: Excava en el trasfondo hist&oacute;rico y literario</li>
-<li>🧩 COHERENCIA: Deja que la Escritura interprete la Escritura</li>
-<li>🕊️ ESP&Iacute;RITU SANTO: Busca Su gu&iacute;a en cada p&aacute;gina</li>
-</ol>
-<p>Aprende a desentra&ntilde;ar los tesoros escondidos de la Palabra de Dios y hazla RELEVANTE para tu vida.<br /><br />Para leer el art&iacute;culo de este programa: <a href="https://bit.ly/4doFP86">MadurandoEnCristo.org</a></p>]]></description>
-   <author><![CDATA[Edgar Nazario / Carlos Maysonet]]></author>
-   <enclosure url="https://app.dropwave.io/episode/08acc76d-50cf-41c8-abf8-7f5023780f64/s1e22-como-interpretar-la-biblia-correctamente.mp3" length="1500" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[08acc76d-50cf-41c8-abf8-7f5023780f64]]></guid>
-   <pubDate>Tue, 03 Sep 2024 18:35:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Edgar Nazario / Carlos Maysonet]]></itunes:author>
-   <itunes:summary><![CDATA["Nutriendo el alma, creciendo en gracia".]]></itunes:summary>
-   <itunes:image href="https://assets-cdn2.dropwave.io/6d9ead85-0274-4464-8c1c-aac836e1c6d9/cover-art/SJwGTrU7M95hwVphLns61y3rkoPyBH0k7DuTXy7C.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1500</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
