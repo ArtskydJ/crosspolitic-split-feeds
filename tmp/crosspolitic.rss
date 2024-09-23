@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 23 Sep 2024 13:25:45 +0000</pubDate>
-  <lastBuildDate>Mon, 23 Sep 2024 13:25:45 +0000</lastBuildDate>
+  <pubDate>Mon, 23 Sep 2024 19:25:45 +0000</pubDate>
+  <lastBuildDate>Mon, 23 Sep 2024 19:25:45 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[The Sounds of September [In the Bullpen]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/43dd9ac1-23c6-411d-a183-e97cb63576e6/the-sounds-of-september.mp3" length="1045" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[43dd9ac1-23c6-411d-a183-e97cb63576e6]]></guid>
+   <pubDate>Mon, 23 Sep 2024 16:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1045</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[TCND: Probiotics and Fecal Transplants (Steve Lawson WHO?) [The Comedian Next Door]]]></title>
    <link/>
@@ -984,21 +999,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/28652366-7376-4009-af11-df4975b58341/cover-art/vg0QsnYPbg4uDnUgkc4IYUdJSTqBlrycyvf6S2Kx.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2284</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[We Are Sacrificing Our Children for Our Future w/ Voddie Baucham (FlashBack Friday) [CrossPolitic Show]]]></title>
-   <link/>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/35b10ec7-01c7-4710-b513-1691c6ca619d/we-are-sacrificing-our-children-for-our-future-w-voddie-baucham-flashback-friday.mp3" length="2893" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[35b10ec7-01c7-4710-b513-1691c6ca619d]]></guid>
-   <pubDate>Sat, 07 Sep 2024 01:02:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/wvkjcfd3tfj69XopdryYkSF8m1k4KHuikzJF1KzC.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2893</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
