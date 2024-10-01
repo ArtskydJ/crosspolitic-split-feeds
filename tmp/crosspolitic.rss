@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Tue, 01 Oct 2024 13:25:45 +0000</pubDate>
-  <lastBuildDate>Tue, 01 Oct 2024 13:25:45 +0000</lastBuildDate>
+  <pubDate>Tue, 01 Oct 2024 19:25:58 +0000</pubDate>
+  <lastBuildDate>Tue, 01 Oct 2024 19:25:58 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Bonar [Resistance and Reformation]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/cbbb3ddb-5471-4eca-9fe7-319eaffbe73b/bonar.mp3" length="609" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[cbbb3ddb-5471-4eca-9fe7-319eaffbe73b]]></guid>
+   <pubDate>Tue, 01 Oct 2024 16:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>609</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[CCP on Crosspolitic, Wang Yi’s Prison Pulpit, and the Legacy of Pastor Lucky [China Compass]]]></title>
    <link/>
@@ -360,21 +375,6 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[Chapter 5: Fear Masquerading as Reason [Don't Be Precious (Book)]]]></title>
-   <link/>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[Darren Doane]]></author>
-   <enclosure url="https://app.dropwave.io/episode/d36eade7-ca44-47d6-bc7b-dfe8e6bec4ac/chapter-5-fear-masquerading-as-reason.mp3" length="250" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[d36eade7-ca44-47d6-bc7b-dfe8e6bec4ac]]></guid>
-   <pubDate>Fri, 27 Sep 2024 08:34:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Darren Doane]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/1ed71b63-b8b8-4f2c-862f-5d25cf4ac9bf/cover-art/q1dMYv9gEihmv8QRZCgg2xgZED1MVVwJs7lUP4kz.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>250</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
    <title><![CDATA[Chapter 6: Make It or Break It: The 30-Day Challenge [Don't Be Precious (Book)]]]></title>
    <link/>
    <description><![CDATA[]]></description>
@@ -387,6 +387,21 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/1ed71b63-b8b8-4f2c-862f-5d25cf4ac9bf/cover-art/q1dMYv9gEihmv8QRZCgg2xgZED1MVVwJs7lUP4kz.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>158</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[Chapter 5: Fear Masquerading as Reason [Don't Be Precious (Book)]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Darren Doane]]></author>
+   <enclosure url="https://app.dropwave.io/episode/d36eade7-ca44-47d6-bc7b-dfe8e6bec4ac/chapter-5-fear-masquerading-as-reason.mp3" length="250" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[d36eade7-ca44-47d6-bc7b-dfe8e6bec4ac]]></guid>
+   <pubDate>Fri, 27 Sep 2024 08:34:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Darren Doane]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/1ed71b63-b8b8-4f2c-862f-5d25cf4ac9bf/cover-art/q1dMYv9gEihmv8QRZCgg2xgZED1MVVwJs7lUP4kz.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>250</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -405,21 +420,6 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[Chapter 8: The Validation Trap [Don't Be Precious (Book)]]]></title>
-   <link/>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[Darren Doane]]></author>
-   <enclosure url="https://app.dropwave.io/episode/648d4a6d-0fd0-4c98-9886-62b0df77d64e/chapter-8-the-validation-trap.mp3" length="243" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[648d4a6d-0fd0-4c98-9886-62b0df77d64e]]></guid>
-   <pubDate>Fri, 27 Sep 2024 08:32:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Darren Doane]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/1ed71b63-b8b8-4f2c-862f-5d25cf4ac9bf/cover-art/q1dMYv9gEihmv8QRZCgg2xgZED1MVVwJs7lUP4kz.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>243</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
    <title><![CDATA[Chapter 9: High School Never Ends [Don't Be Precious (Book)]]]></title>
    <link/>
    <description><![CDATA[]]></description>
@@ -432,6 +432,21 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/1ed71b63-b8b8-4f2c-862f-5d25cf4ac9bf/cover-art/q1dMYv9gEihmv8QRZCgg2xgZED1MVVwJs7lUP4kz.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>423</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[Chapter 8: The Validation Trap [Don't Be Precious (Book)]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Darren Doane]]></author>
+   <enclosure url="https://app.dropwave.io/episode/648d4a6d-0fd0-4c98-9886-62b0df77d64e/chapter-8-the-validation-trap.mp3" length="243" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[648d4a6d-0fd0-4c98-9886-62b0df77d64e]]></guid>
+   <pubDate>Fri, 27 Sep 2024 08:32:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Darren Doane]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/1ed71b63-b8b8-4f2c-862f-5d25cf4ac9bf/cover-art/q1dMYv9gEihmv8QRZCgg2xgZED1MVVwJs7lUP4kz.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>243</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -872,25 +887,6 @@ The post Ep. 122 – Business Is Not Morally Neutral first appeared on Business 
    <itunes:image href="https://assets-cdn2.dropwave.io/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1045</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[TCND: Probiotics and Fecal Transplants (Steve Lawson WHO?) [The Comedian Next Door]]]></title>
-   <link/>
-   <description><![CDATA[<p>Hey, Neighbor. If this is your first episode--please don't assume we ALWAYS talk about bodily functions...&nbsp; But, we're talking about them today.&nbsp; Two-month-old Bridger's life has improved significantly since probiotics turned his poo yellow. (That's the color a breastfed baby's poo is SUPPOSED to be.)&nbsp;</p>
-<p>From there, the conversation about ways to heal your gut biome just gets weirder and weirder...</p>
-<p>Joe stops in temporarily, to offer his expert opinion about fecal transplants.&nbsp;</p>
-<p>Later:&nbsp; John wants to talk about the Steve Lawson Scandal, even though nobody at his church knows who Steve Lawson is...</p>
-<p>Contact the Comedian's family by emailing nextdoor@johnbranyan.com</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/a78dd5c9-61b9-4a96-acac-f99d26366362/tcnd-probiotics-and-fecal-transplants-steve-lawson-who.mp3" length="2849" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[a78dd5c9-61b9-4a96-acac-f99d26366362]]></guid>
-   <pubDate>Mon, 23 Sep 2024 11:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2849</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
