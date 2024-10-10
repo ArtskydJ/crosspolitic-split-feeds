@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="/storage/feed-stylesheet.xsl" type="text/xsl"?>
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+ <channel>
+  <title>FLF - Business300</title>
+  <link>https://dropwave.io</link>
+  <description><![CDATA[FIGHT LAUGH FEAST PRESENTS SHOWS PROCLAIMING THE LORDSHIP OF CHRIST OVER ALL OF LIFE.
+]]></description>
+  <language>en</language>
+  <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
+  <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
+  <pubDate>Thu, 10 Oct 2024 01:25:43 +0000</pubDate>
+  <lastBuildDate>Thu, 10 Oct 2024 01:25:43 +0000</lastBuildDate>
+  <image>
+   <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
+   <link>https://dropwave.io</link>
+   <title><![CDATA[FLF, LLC]]></title>
+  </image>
+  <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+  <itunes:image href="https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg"/>
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:owner>
+   <itunes:name><![CDATA[FLF, LLC]]></itunes:name>
+   <itunes:email>fightlaughfeast@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Ep. 124 - Value-Growth Mindset [Business300]]]></title>
+   <link/>
+   <description><![CDATA[The fundamental framework – the mindset – that ought to drive all of our actions as we work in and on the business is the Value-Growth Mindset. The Value-Growth Mindset is caring to make people’s lives better. Progress and innovation moves forward because people do good for other people. A business is the tool we use to deliver not just value, but growing value, to our customers.]]></description>
+   <author><![CDATA[Philip Kulishov]]></author>
+   <enclosure url="https://app.dropwave.io/episode/80b7e26b-fca6-4c06-85c7-56d53924de00/ep-124-value-growth-mindset.mp3" length="62639" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[80b7e26b-fca6-4c06-85c7-56d53924de00]]></guid>
+   <pubDate>Wed, 02 Oct 2024 07:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
+   <itunes:summary><![CDATA[The fundamental framework – the mindset – that ought to drive all of our actions as we work in and on the business is the Value-Growth Mindset. The Value-Growth Mindset is caring to make people’s lives better. Progress and innovation moves forward because people do good for other people. A business is the tool we use to deliver not just value, but growing value, to our customers.]]></itunes:summary>
+   <itunes:image href="https://assets-cdn2.dropwave.io/bee4a00c-4ce8-4a6d-9888-4203b7203a76/cover-art/ooRWRBti2P36FgCQ1nIcBXz6FxicFpNyVrWfdPwO.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>62639</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
+   <title><![CDATA[Ep. 123 - Value Is The Goal [Business300]]]></title>
+   <link/>
+   <description><![CDATA[A business exists to deliver value to a customer. Anything else is a distraction from that goal, and will lead to your business’ demise. If something else takes the place of the customer, the customer eventually leaves. And without a customer, you don’t have a business. That’s because the business is not the goal of the business. Value is the goal.]]></description>
+   <author><![CDATA[Philip Kulishov]]></author>
+   <enclosure url="https://app.dropwave.io/episode/c2758583-ecfc-400f-9c08-f322986926bf/ep-123-value-is-the-goal.mp3" length="61914" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[c2758583-ecfc-400f-9c08-f322986926bf]]></guid>
+   <pubDate>Mon, 30 Sep 2024 07:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
+   <itunes:summary><![CDATA[A business exists to deliver value to a customer. Anything else is a distraction from that goal, and will lead to your business’ demise. If something else takes the place of the customer, the customer eventually leaves. And without a customer, you don’t have a business. That’s because the business is not the goal of the business. Value is the goal.]]></itunes:summary>
+   <itunes:image href="https://assets-cdn2.dropwave.io/bee4a00c-4ce8-4a6d-9888-4203b7203a76/cover-art/INperLzVXXznYajSrJ8Vp2B6DvcosqnqPsrwyNAl.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>61914</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item>
+ </channel>
+</rss>
