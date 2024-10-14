@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 14 Oct 2024 07:25:45 +0000</pubDate>
-  <lastBuildDate>Mon, 14 Oct 2024 07:25:45 +0000</lastBuildDate>
+  <pubDate>Mon, 14 Oct 2024 13:25:46 +0000</pubDate>
+  <lastBuildDate>Mon, 14 Oct 2024 13:25:46 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -26,6 +26,29 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Dark Enchantment [The Pugcast]]]></title>
+   <link/>
+   <description><![CDATA[<p class="p1">On today's show Chris leads the Pugs in a reflection on the story of Jonah--not the Biblical prophet, but the seminary student Rod Dreher interviewed for his book, Living in Wonder. Jonah was raised in an evangelical home, and was even homeschooled, yet fell into a spell of dark enchantment that included visions of demons and the use of psychedelic drugs. Eventually he was delivered through exorcism. What happened, and why does Jonah now say his evangelical upbringing did almost nothing to prepare him for any of this? Tune in and learn what the Pugs think.</p>
+<p class="p2">&nbsp;</p>
+<p class="p1">Living in Wonder: Finding Mystery and Meaning in a Secular Age, by Rod Dreher: <a href="https://a.co/d/1EIlSua">https://a.co/d/1EIlSua</a></p>
+<p class="p2">&nbsp;</p>
+<p class="p1">Knowledge is Power (Icon Science): How Magic, the Government and an Apocalyptic Vision Helped Francis Bacon to Create Modern Science, by John Henry: <a href="https://a.co/d/3RNoQym">https://a.co/d/3RNoQym</a></p>
+<p class="p2">&nbsp;</p>
+<p class="p1">Support the Pugcast on Patreon: <a href="https://www.patreon.com/thetheologypugcast?fbclid=IwAR17UHhfzjphO52C_kkZfursA_C784t0ldFix0wyB4fd-YOJpmOQ3dyqGf8">https://www.patreon.com/thetheologypugcast?fbclid=IwAR17UHhfzjphO52C_kkZfursA_C784t0ldFix0wyB4fd-YOJpmOQ3dyqGf8</a></p>
+<p class="p2">&nbsp;</p>
+<p class="p1">The Theology Pugcast is a ministry of Trinity Reformed Church in Huntsville Alabama. To view more media from TRC, visit their website: <a href="https://trinityreformedkirk.com/trc-media/">https://trinityreformedkirk.com/trc-media/</a></p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/cea68dd1-643e-45f1-aa4d-cb96f7002d72/dark-enchantment.mp3" length="3836" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[cea68dd1-643e-45f1-aa4d-cb96f7002d72]]></guid>
+   <pubDate>Mon, 14 Oct 2024 09:01:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/twsSDPdYj7i3jNCMtA3RAyuxR6wfO3frLk6jWHJv.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3836</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[Are We Really Becoming Pagans Again? [The Pugcast]]]></title>
    <link/>
    <description><![CDATA[<p class="p1">On today's show Tom brings along Paul Kingsnorth&rsquo;s article, The Illusion of a Pagan West, for the Pugs to engage. Topics delved into range from why we still talk about Roman Civilization to the theatrics of subversive woke culture. Most interesting is Kingsnorth&rsquo;s claim that we are not returning to paganism but are locked into to a shallow culture which subverts Christianity all the while being indebted to its ethical legacy, ending with nothing really worth living or dying for.</p>
@@ -65,7 +88,6 @@
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3882</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
-  
   </item>
  </channel>
 </rss>
