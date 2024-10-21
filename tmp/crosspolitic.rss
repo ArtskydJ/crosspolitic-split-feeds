@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 21 Oct 2024 13:25:49 +0000</pubDate>
-  <lastBuildDate>Mon, 21 Oct 2024 13:25:49 +0000</lastBuildDate>
+  <pubDate>Mon, 21 Oct 2024 19:25:46 +0000</pubDate>
+  <lastBuildDate>Mon, 21 Oct 2024 19:25:46 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,55 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Ep. 128 - Leading People (Even If You Can't Pay Them) - Part 2 [Business 300]]]></title>
+   <link/>
+   <description><![CDATA[<p>The ability to lead others boils down to 3 things: the person, the focus, and the skill. The leader is someone who knows where he's going, knows how he wants to get there, and is making progress in that direction, whether or not he has others helping him. The leader is obsessed with the vision. He is building his future reality.</p>]]></description>
+   <author><![CDATA[Philip Kulishov]]></author>
+   <enclosure url="https://app.dropwave.io/episode/78d6fac1-daca-4607-bc01-365451cb1a91/ep128-leading-people-even-if-you-cant-pay-them-part-2.mp3" length="243" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[78d6fac1-daca-4607-bc01-365451cb1a91]]></guid>
+   <pubDate>Mon, 21 Oct 2024 18:05:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/edqCLZPQEgdQexzIPRAAnwkeaSZweOQXsshPmm2x.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>243</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[Pottersville [In the Bullpen]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/0bbfca60-816f-4dfb-a33d-e626e5f37b8c/pottersville.mp3" length="1521" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[0bbfca60-816f-4dfb-a33d-e626e5f37b8c]]></guid>
+   <pubDate>Mon, 21 Oct 2024 16:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1521</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[TCND: Men's Retreat and Bad Sermon Illustration (Tiny Conference Center) [The Comedian Next Door]]]></title>
+   <link/>
+   <description><![CDATA[<p>We have an important question for you today:&nbsp; when you travel, do you unpack your suitcase and put things in the hotel dresser???</p>
+<p>And speaking of traveling, the Peaches has a HOT TIP for packing clothes for lots of kids!&nbsp;&nbsp;</p>
+<p>Then: here's a sermon illustration you probably should NOT use... and an example of the world's worst Humor Sermon.&nbsp;</p>
+<p>Later: Put on your serious pants, because we have another important question. Can you be a homeschool parent if you think Elon Musk is smart?&nbsp; The internet sounds off.</p>
+<p>Finally, contact the Comedian's family to tell us how many days a retreat or conference needs to last...&nbsp; <a href="mailto:nextdoor@johnbranyan.com">nextdoor@johnbranyan.com</a>&nbsp;</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/b226bc7e-e815-4fd8-9dff-fd94cd7cf771/tcnd-mens-retreat-and-bad-sermon-illustration-tiny-conference-center.mp3" length="3086" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[b226bc7e-e815-4fd8-9dff-fd94cd7cf771]]></guid>
+   <pubDate>Mon, 21 Oct 2024 11:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3086</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[What Do We Do with the Body? [The Pugcast]]]></title>
    <link/>
@@ -939,80 +988,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3244</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Ep. 125 - Protect Your Brand From Your Customers [Business 300]]]></title>
-   <link/>
-   <description><![CDATA[A business’s brand is not what the owner says it is, nor is it what the social media image portrays. A business’s brand is what the outside world says it is.Good or bad, a reputation is unavoidable. There are times when you must protect your brand from your customer.]]></description>
-   <author><![CDATA[Philip Kulishov]]></author>
-   <enclosure url="https://app.dropwave.io/episode/030be61e-81ef-4ecf-b4d2-a4a157b146ed/ep-125-protect-your-brand-from-your-customers.mp3" length="66934" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[030be61e-81ef-4ecf-b4d2-a4a157b146ed]]></guid>
-   <pubDate>Mon, 07 Oct 2024 07:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
-   <itunes:summary><![CDATA[A business’s brand is not what the owner says it is, nor is it what the social media image portrays. A business’s brand is what the outside world says it is.Good or bad, a reputation is unavoidable. There are times when you must protect your brand from your customer.]]></itunes:summary>
-   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/XCGeIk5Y93nztCnWnke1Lo5RUIbAu7evfG66biid.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>66934</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[The 7 “Speak-Nots” of Modern China, Gladys Aylward: The Great Little Missionary, and the "Ghastly Summer of 1900" [China Compass]]]></title>
-   <link/>
-   <description><![CDATA[<p><span style="font-weight: 400;">Welcome to China Compass! I'm your China travel guide, Missionary Ben. You can follow me on X (</span><a href="http://x.com/chinaadventures"><span style="font-weight: 400;">@chinaadventures</span></a><span style="font-weight: 400;">) where I post daily reminders to pray for China (</span><a href="http://prayforchina.us"><span style="font-weight: 400;">PrayforChina.us</span></a><span style="font-weight: 400;">). You can also email me any questions or comments @ bfwesten at gmail dot com. And if you want to learn more about everything we are doing, visit</span><a href="http://praygivego.us"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">PrayGiveGo.us</span></a></p>
-<p><span style="font-weight: 400;">I've been back from my trip to Malaysia, Thailand, Macau, and Hong Kong for a few days now&hellip;</span></p>
-<p><strong><em>The Memoirs of William Milne </em>(Kindle and print versions) is now live on Amazon:</strong></p>
-<p><a href="https://www.amazon.com/Memoirs-William-Milne-Missionary-1785-1822-ebook/dp/B0DJ1Q4HNR/"><span style="font-weight: 400;">https://www.amazon.com/Memoirs-William-Milne-Missionary-1785-1822-ebook/dp/B0DJ1Q4HNR/</span></a></p>
-<p><strong>From Mao to modern superpower: The 75-year rise and rise of the People's Republic of China</strong><strong>:</strong></p>
-<p><a href="https://news.sky.com/story/from-mao-to-modern-superpower-the-75-year-rise-and-rise-of-the-peoples-republic-of-china-13225622"><span style="font-weight: 400;">https://news.sky.com/story/from-mao-to-modern-superpower-the-75-year-rise-and-rise-of-the-peoples-republic-of-china-13225622</span></a></p>
-<p><strong>Macau&rsquo;s Casino-Driven Economy Fueled By China</strong></p>
-<p><a href="https://www.abc.net.au/news/2024-09-21/casino-capital-macau-diversifies-economy/104375020"><span style="font-weight: 400;">https://www.abc.net.au/news/2024-09-21/casino-capital-macau-diversifies-economy/104375020</span></a></p>
-<p><strong>Tim Walz taught at China&rsquo;s state-run Macau Polytechnic University until at least 2007</strong></p>
-<p><a href="https://nypost.com/2024/08/14/us-news/walzs-china-ties-under-scrutiny/"><span style="font-weight: 400;">https://nypost.com/2024/08/14/us-news/walzs-china-ties-under-scrutiny/</span></a></p>
-<p><strong>Sinicization of Religion: China&rsquo;s Coercive Religious Policy</strong></p>
-<p><a href="https://www.uscirf.gov/publications/sinicization-religion-chinas-coercive-religious-policy"><span style="font-weight: 400;">https://www.uscirf.gov/publications/sinicization-religion-chinas-coercive-religious-policy</span></a></p>
-<p><strong>7 Things You Can&rsquo;t Talk About in China</strong></p>
-<p><a href="https://theworld.org/stories/2016/07/30/7-things-you-cant-talk-about-china"><span style="font-weight: 400;">https://theworld.org/stories/2016/07/30/7-things-you-cant-talk-about-china</span></a></p>
-<p><strong>Taiwan Deports Two Chinese Nationals for Disrupting Pro-HK Rally</strong></p>
-<p><a href="https://www.taiwannews.com.tw/news/5946222"><span style="font-weight: 400;">https://www.taiwannews.com.tw/news/5946222</span></a></p>
-<p><em><span style="font-weight: 400;">Shanxi is our Pray for China province of the week, and is matched up with Nebraska&hellip;</span></em></p>
-<p><strong>Shanxi Overview</strong></p>
-<p><a href="https://en.wikipedia.org/wiki/Shanxi"><span style="font-weight: 400;">https://en.wikipedia.org/wiki/Shanxi</span></a></p>
-<p><a href="https://www.asiaharvest.org/china-resources/shanxi"><span style="font-weight: 400;">https://www.asiaharvest.org/china-resources/shanxi</span></a></p>
-<p><strong>Shanxi Missionaries (Gladys Aylward)</strong></p>
-<p><a href="https://www.ligonier.org/learn/articles/missionary-gladys-aylward"><span style="font-weight: 400;">https://www.ligonier.org/learn/articles/missionary-gladys-aylward</span></a></p>
-<p><a href="https://en.wikipedia.org/wiki/Gladys_Aylward"><span style="font-weight: 400;">https://en.wikipedia.org/wiki/Gladys_Aylward</span></a></p>
-<p><a href="http://justus.anglican.org/resources/bio/73.html"><span style="font-weight: 400;">http://justus.anglican.org/resources/bio/73.html</span></a></p>
-<p><a href="https://www.cjvlang.com/Photos/yangcheng/smallwoman.html"><span style="font-weight: 400;">https://www.cjvlang.com/Photos/yangcheng/smallwoman.html</span></a></p>
-<p><strong>Shanxi Martyrs</strong></p>
-<p><a href="https://www.asiaharvest.org/china-resources/shanxi"><span style="font-weight: 400;">https://www.asiaharvest.org/china-resources/shanxi</span></a></p>
-<p><a href="https://www.asiaharvest.org/china-resources/shanxi/1900-protestant-martyrs-in-shanxi"><span style="font-weight: 400;">https://www.asiaharvest.org/china-resources/shanxi/1900-protestant-martyrs-in-shanxi</span></a></p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/92d6a83f-faca-4324-bdf6-306d4a9e7481/the-7-speak-nots-of-modern-china-gladys-aylward-the-great-little-missionary-and-the-ghastly-summer-of-1900.mp3" length="3656" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[92d6a83f-faca-4324-bdf6-306d4a9e7481]]></guid>
-   <pubDate>Sat, 05 Oct 2024 11:50:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:summary><![CDATA[The 7 “Speak-Nots” of Modern China, Gladys Aylward: The Great Little Missionary, and the "Ghastly Summer of 1900"]]></itunes:summary>
-   <itunes:image href="https://assets-cdn2.dropwave.io/28652366-7376-4009-af11-df4975b58341/cover-art/vg0QsnYPbg4uDnUgkc4IYUdJSTqBlrycyvf6S2Kx.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3656</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Moving Beyond a Neo-Covenanter and Neo-Baptist Blame Game [God, Law, and Liberty]]]></title>
-   <link/>
-   <description><![CDATA[<p>Today David offers a Biblical touchstone for improving on the church-state problems that contributed to our law no longer having a Christian foundation. Demonstrative of those problems are two historical situations that may explain why the Danbury Baptists may have sided with the Enlightenment-influenced, Gospel-averse Thomas Jefferson for President. There is &ldquo;blame&rdquo; enough for every stripe of Protestant to share in and now it&rsquo;s time to move forward.</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/172f85c4-ae3b-4322-bda6-5f1cc8020fab/moving-beyond-a-neo-covenanter-and-neo-baptist-blame-game.mp3" length="2024" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[172f85c4-ae3b-4322-bda6-5f1cc8020fab]]></guid>
-   <pubDate>Fri, 04 Oct 2024 18:29:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/467f99a9-2921-459a-b63d-9710f4355795/cover-art/0EEs4iMTkAu3OgHvGIUt9o7kutcJoDMkyP2z8O95.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2024</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
