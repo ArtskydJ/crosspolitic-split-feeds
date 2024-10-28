@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 28 Oct 2024 01:25:49 +0000</pubDate>
-  <lastBuildDate>Mon, 28 Oct 2024 01:25:49 +0000</lastBuildDate>
+  <pubDate>Mon, 28 Oct 2024 07:25:47 +0000</pubDate>
+  <lastBuildDate>Mon, 28 Oct 2024 07:25:47 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Ep. 130 - Why To Uncover Your Mission [Business 300]]]></title>
+   <link/>
+   <description><![CDATA[<p>All business consultants will tell you that you need to uncover the mission of your business. You need to know "the why." You need to know what your business exists for. But, what for? Why do you need to know "the why?" Why uncover the Mission? Find out in this Episode.</p>]]></description>
+   <author><![CDATA[Philip Kulishov]]></author>
+   <enclosure url="https://app.dropwave.io/episode/07d5be79-1410-4dd9-a255-2e851d895cbb/ep-130-why-to-uncover-your-mission.mp3" length="244" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[07d5be79-1410-4dd9-a255-2e851d895cbb]]></guid>
+   <pubDate>Mon, 28 Oct 2024 07:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/cTGh8MHDXqaIujdcYHZ6l2wJZQXWsKiMJLpOp0F9.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>244</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Beheaded by Communists in Anhui, the Millionaire Missionary Admonishes America, and Watchmen Nee's Final Journey [China Compass]]]></title>
    <link/>
@@ -1004,21 +1019,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/336e6745-00c3-4f9f-a8f5-78b7e05a5434/cover-art/XgDLTVaWj1Gj2Dvl223TBHTtQyXElrbRpckjFyDA.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3219</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Is the Bible All We Need for Political Engagement? [God, Law, and Liberty]]]></title>
-   <link/>
-   <description><![CDATA[<p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Today David begins to look at a third group he now sees involved in politics, those he calls neo-Theonomists. The prophet Isaiah as well as the person who prepared the soil for Abraham Kuyper&rsquo;s political engagement, Guillaume Groen van Prinsterer, speak wisely to those who with a Benthamite view of the Bible run to the Capitol to press for enactment of certain laws of God.</span></p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/c9439a1f-60f2-4cbd-b089-d0a0bb8223bb/is-the-bible-all-we-need-for-political-engagement.mp3" length="1465" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[c9439a1f-60f2-4cbd-b089-d0a0bb8223bb]]></guid>
-   <pubDate>Fri, 11 Oct 2024 17:22:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/467f99a9-2921-459a-b63d-9710f4355795/cover-art/mqGMlbHhdGfzjc4MNGD6cekMEMQTdYE0ia2FrDeI.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1465</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
