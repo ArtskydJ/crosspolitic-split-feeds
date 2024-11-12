@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Tue, 12 Nov 2024 07:25:57 +0000</pubDate>
-  <lastBuildDate>Tue, 12 Nov 2024 07:25:57 +0000</lastBuildDate>
+  <pubDate>Tue, 12 Nov 2024 13:25:45 +0000</pubDate>
+  <lastBuildDate>Tue, 12 Nov 2024 13:25:45 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Ep. 149: The American Military with Lt. Gen. (Ret.) William Boykin [The Outstanding Podcast]]]></title>
+   <link/>
+   <description><![CDATA[<p>Freedom is not free. In the wake of Veterans Day, host Joseph Backholm is joined by Family Research Council&rsquo;s Lt. Gen. (Ret.) William Boykin, as he reflects on his 36 years in the military, what he has learned, and where he sees the institution heading. General Boykin shares his story of service, how the military exceeded his expectations, and the changes he believes would be necessary to return the American military to its former glory.</p>]]></description>
+   <author><![CDATA[Joseph Backholm]]></author>
+   <enclosure url="https://app.dropwave.io/episode/eda574a6-092e-42c3-9815-cb71a11b9d5b/ep-149-the-american-military-with-lt-gen-ret-william-boykin.mp3" length="2206" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[eda574a6-092e-42c3-9815-cb71a11b9d5b]]></guid>
+   <pubDate>Tue, 12 Nov 2024 11:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Joseph Backholm]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/03cb0a71-51fd-48b9-b2ef-b3104f5b133d/cover-art/38CYX60hTuMi0CVRwzaxNKLGpnGOhaR5BczKSfeT.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2206</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[30 Days of Writing [Choc Knox Unplugged]]]></title>
    <link/>
@@ -980,21 +995,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/twsSDPdYj7i3jNCMtA3RAyuxR6wfO3frLk6jWHJv.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3750</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Ep. 130 - Why To Uncover Your Mission [Business 300]]]></title>
-   <link/>
-   <description><![CDATA[<p>All business consultants will tell you that you need to uncover the mission of your business. You need to know "the why." You need to know what your business exists for. But, what for? Why do you need to know "the why?" Why uncover the Mission? Find out in this Episode.</p>]]></description>
-   <author><![CDATA[Philip Kulishov]]></author>
-   <enclosure url="https://app.dropwave.io/episode/07d5be79-1410-4dd9-a255-2e851d895cbb/ep-130-why-to-uncover-your-mission.mp3" length="244" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[07d5be79-1410-4dd9-a255-2e851d895cbb]]></guid>
-   <pubDate>Mon, 28 Oct 2024 07:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/cTGh8MHDXqaIujdcYHZ6l2wJZQXWsKiMJLpOp0F9.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>244</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
