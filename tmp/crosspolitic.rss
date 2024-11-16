@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Sat, 16 Nov 2024 01:25:56 +0000</pubDate>
-  <lastBuildDate>Sat, 16 Nov 2024 01:25:56 +0000</lastBuildDate>
+  <pubDate>Sat, 16 Nov 2024 07:25:56 +0000</pubDate>
+  <lastBuildDate>Sat, 16 Nov 2024 07:25:56 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Mordor, Isengard, and the Church: Fighting Malevolence with Truth w/ Steve Deace (FlashBack-Friday) [CrossPolitic Show]]]></title>
+   <link/>
+   <description><![CDATA[<p>In this episode of <em>CrossPolitic</em>, we dive deep into the battle lines of our time, examining the malevolent influence of figures like Anthony Fauci and Francis Collins. Are they the "Two Towers"&mdash;Mordor&rsquo;s open malevolence and Isengard&rsquo;s compromised, co-opted church? We explore how the modern church mirrors the failures of Christendom in Germany during the Third Reich, abandoning its call to confront evil with truth. Join us as we discuss the cultural collapse, the need for a faithful remnant, and how God&rsquo;s sovereignty fuels the fight to reclaim relevance and stand against tyranny. Fight, laugh, feast&mdash;and resist Mordor!</p>]]></description>
+   <author><![CDATA[Gabe Rench, Chocolate Knox Toby Sumpter]]></author>
+   <enclosure url="https://app.dropwave.io/episode/86697291-633e-4678-b18a-914f1d732e73/mordor-isengard-and-the-church-fighting-malevolence-with-truth.mp3" length="2077" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[86697291-633e-4678-b18a-914f1d732e73]]></guid>
+   <pubDate>Sat, 16 Nov 2024 03:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Gabe Rench, Chocolate Knox Toby Sumpter]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/wvkjcfd3tfj69XopdryYkSF8m1k4KHuikzJF1KzC.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2077</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Do Christian Legal Arguments on Transgender Laws Violate the First Three Commandments? [God, Law, and Liberty]]]></title>
    <link/>
@@ -976,24 +991,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/28652366-7376-4009-af11-df4975b58341/cover-art/vg0QsnYPbg4uDnUgkc4IYUdJSTqBlrycyvf6S2Kx.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>666</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[S1E29 - ¿Deben los cristianos involucrarse en la política? [Madurando en Cristo]]]></title>
-   <link/>
-   <description><![CDATA[<p>&iquest;Deben los cristianos participar en pol&iacute;tica?</p>
-<p>Explora la relaci&oacute;n entre fe cristiana y participaci&oacute;n pol&iacute;tica desde una perspectiva b&iacute;blica equilibrada. Descubre c&oacute;mo los cristianos pueden promover el bien com&uacute;n, ser testimonio de valores eternos y cumplir con su responsabilidad c&iacute;vica. Una gu&iacute;a pr&aacute;ctica que te ayudar&aacute; a navegar el complejo mundo de la pol&iacute;tica sin comprometer tu fe.</p>
-<p>Para leer el art&iacute;culo de este programa: <a href="https://bit.ly/4doFP86">MadurandoEnCristo.org</a></p>]]></description>
-   <author><![CDATA[Edgar nazario / Carlos Maysonet]]></author>
-   <enclosure url="https://app.dropwave.io/episode/ad6652f4-bd84-49bc-886a-cd49a27aaa06/deben-los-cristianos-involucrarse-en-la-politica.mp3" length="1500" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[ad6652f4-bd84-49bc-886a-cd49a27aaa06]]></guid>
-   <pubDate>Wed, 30 Oct 2024 17:33:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Edgar nazario / Carlos Maysonet]]></itunes:author>
-   <itunes:summary><![CDATA[Nutriendo el alma, creciendo en gracia.]]></itunes:summary>
-   <itunes:image href="https://assets-cdn2.dropwave.io/6d9ead85-0274-4464-8c1c-aac836e1c6d9/cover-art/PJzQdCnnj0KhsIGN5k7TsihXtFcDQyBjo4ENaJd0.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1500</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
