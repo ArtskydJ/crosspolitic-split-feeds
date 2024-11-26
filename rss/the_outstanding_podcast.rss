@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Tue, 26 Nov 2024 13:25:51 +0000</pubDate>
-  <lastBuildDate>Tue, 26 Nov 2024 13:25:51 +0000</lastBuildDate>
+  <pubDate>Tue, 26 Nov 2024 19:25:51 +0000</pubDate>
+  <lastBuildDate>Tue, 26 Nov 2024 19:25:51 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -26,6 +26,21 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Ep. 153: The History of Thanksgiving [The Outstanding Podcast]]]></title>
+   <link/>
+   <description><![CDATA[<p>Do you know the truth about Thanksgiving? Host Joseph Backholm is joined by Tim Barton, president of Wall Builders, to shed light on what the first Thanksgiving was actually like. Who were the pilgrims? They were not land-stealing English men like many history books make them out to be. They were hardworking individuals, who, with the help of local Indians were able to learn how to survive, farm, and build community in the new land they called home.</p>]]></description>
+   <author><![CDATA[Joseph Backholm]]></author>
+   <enclosure url="https://app.dropwave.io/episode/4387c9a6-8ed2-4235-b97d-fb7fc8ba2aec/ep-153-the-history-of-thanksgiving.mp3" length="1664" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[4387c9a6-8ed2-4235-b97d-fb7fc8ba2aec]]></guid>
+   <pubDate>Tue, 26 Nov 2024 11:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Joseph Backholm]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/03cb0a71-51fd-48b9-b2ef-b3104f5b133d/cover-art/38CYX60hTuMi0CVRwzaxNKLGpnGOhaR5BczKSfeT.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1664</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[Ep. 152: Raising Christian Children in a Secular Culture [The Outstanding Podcast]]]></title>
    <link/>
    <description><![CDATA[<p>Host Joseph Backholm is joined by Andrew Walker, professor at Southern Baptist Theological Seminary and co-author of &ldquo;What Do I Say When&hellip;?&rdquo; for a guiding conversation on how Christian parents can navigate raising children in this changing secular culture. Written alongside his wife, Andrew&rsquo;s new book weighs in on the specific challenges Christian parents face, what does a successful Christian parent look like, and how to be in the world, but not of it. As the culture shifts into a different moral era, Christians need to learn to navigate it by drawing confidence and truth from Scripture.</p>
@@ -72,21 +87,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/03cb0a71-51fd-48b9-b2ef-b3104f5b133d/cover-art/38CYX60hTuMi0CVRwzaxNKLGpnGOhaR5BczKSfeT.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2461</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  
-  </item><item>
-   <title><![CDATA[Ep. 149: The American Military with Lt. Gen. (Ret.) William Boykin [The Outstanding Podcast]]]></title>
-   <link/>
-   <description><![CDATA[<p>Freedom is not free. In the wake of Veterans Day, host Joseph Backholm is joined by Family Research Council&rsquo;s Lt. Gen. (Ret.) William Boykin, as he reflects on his 36 years in the military, what he has learned, and where he sees the institution heading. General Boykin shares his story of service, how the military exceeded his expectations, and the changes he believes would be necessary to return the American military to its former glory.</p>]]></description>
-   <author><![CDATA[Joseph Backholm]]></author>
-   <enclosure url="https://app.dropwave.io/episode/eda574a6-092e-42c3-9815-cb71a11b9d5b/ep-149-the-american-military-with-lt-gen-ret-william-boykin.mp3" length="2206" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[eda574a6-092e-42c3-9815-cb71a11b9d5b]]></guid>
-   <pubDate>Tue, 12 Nov 2024 11:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Joseph Backholm]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/03cb0a71-51fd-48b9-b2ef-b3104f5b133d/cover-art/38CYX60hTuMi0CVRwzaxNKLGpnGOhaR5BczKSfeT.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2206</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   
   </item>
