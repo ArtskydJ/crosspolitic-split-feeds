@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Wed, 04 Dec 2024 01:25:47 +0000</pubDate>
-  <lastBuildDate>Wed, 04 Dec 2024 01:25:47 +0000</lastBuildDate>
+  <pubDate>Wed, 04 Dec 2024 07:26:11 +0000</pubDate>
+  <lastBuildDate>Wed, 04 Dec 2024 07:26:11 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Should Canada Become the 51st State w/ Jacob Reaume [CrossPolitic Show]]]></title>
+   <link/>
+   <description><![CDATA[<p>In this episode of CrossPolitic, guest Jacob Reaume joins the discussion on the provocative question: Should Canada become the 51st state? Together, they explore the potential benefits and challenges of Canada merging with the U.S., examining political, economic, and cultural implications. Tune in for a lively conversation on the future of Canada and its relationship with its southern neighbor.</p>]]></description>
+   <author><![CDATA[Gabe Rench, Chocolate Knox, Toby Sumpter]]></author>
+   <enclosure url="https://app.dropwave.io/episode/87a6a596-3308-4709-a728-a0178abe165a/should-canada-become-the-51st-state-w-jacob-reaume.mp3" length="3346" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[87a6a596-3308-4709-a728-a0178abe165a]]></guid>
+   <pubDate>Wed, 04 Dec 2024 02:22:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Gabe Rench, Chocolate Knox, Toby Sumpter]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/wvkjcfd3tfj69XopdryYkSF8m1k4KHuikzJF1KzC.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3346</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Revoice for Nazis | Having Two Legs [Having Two Legs]]]></title>
    <link/>
@@ -732,21 +747,6 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[Ep. 137 - Growth or Cash, Choose One - Part 4 [Business 300]]]></title>
-   <link/>
-   <description><![CDATA[<p>What if you choose not to grow? What if you look at your context and decide that you're content with the current size of your business? If growing it requires cash, what should you do if you want to cash in and stop growing? Listen to find out!</p>]]></description>
-   <author><![CDATA[Philip Kulishov]]></author>
-   <enclosure url="https://app.dropwave.io/episode/1b039c96-78e9-4d82-b9b8-f345f00ff472/ep-137-growth-or-cash-choose-one-part-4.mp3" length="241" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[1b039c96-78e9-4d82-b9b8-f345f00ff472]]></guid>
-   <pubDate>Wed, 20 Nov 2024 08:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/IvDl0chwQsq3pCKAaWI0xRb16ZvFby0DqqwK940M.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>241</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
    <title><![CDATA[Fight Laugh Feast Prodigal America LIVE! (Part 2) [Dead Men Walking Podcast]]]></title>
    <link/>
    <description><![CDATA[<p><a href="https://www.buzzsprout.com/twilio/text_messages/958282/open_sms" target="_blank" rel="noopener">Send us a text</a></p>
@@ -763,6 +763,21 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/336e6745-00c3-4f9f-a8f5-78b7e05a5434/cover-art/ZeRV9YO5h87kIQUAhrk1yGWsrw6Ir2Mlt5At7rik.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>9931</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[Ep. 137 - Growth or Cash, Choose One - Part 4 [Business 300]]]></title>
+   <link/>
+   <description><![CDATA[<p>What if you choose not to grow? What if you look at your context and decide that you're content with the current size of your business? If growing it requires cash, what should you do if you want to cash in and stop growing? Listen to find out!</p>]]></description>
+   <author><![CDATA[Philip Kulishov]]></author>
+   <enclosure url="https://app.dropwave.io/episode/1b039c96-78e9-4d82-b9b8-f345f00ff472/ep-137-growth-or-cash-choose-one-part-4.mp3" length="241" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[1b039c96-78e9-4d82-b9b8-f345f00ff472]]></guid>
+   <pubDate>Wed, 20 Nov 2024 08:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/IvDl0chwQsq3pCKAaWI0xRb16ZvFby0DqqwK940M.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>241</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -962,40 +977,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/qJmirukvj3zvmywwVuy1AfYT04MI237i9gRtrAJG.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>265</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[China’s South American Concubines & Wannabe Polygamy in Paradise (w/ Denny in "House Arrest") [China Compass]]]></title>
-   <link/>
-   <description><![CDATA[<p><span style="font-weight: 400;">Welcome to China Compass! I'm your China travel guide, Missionary Ben. You can follow me on X (</span><a href="http://x.com/chinaadventures"><span style="font-weight: 400;">@chinaadventures</span></a><span style="font-weight: 400;">) where I post daily reminders to pray for China (</span><a href="http://prayforchina.us"><span style="font-weight: 400;">PrayforChina.us</span></a><span style="font-weight: 400;">). You can also email me with any questions or comments @ bfwesten at gmail dot com. B.F. Westen is my pen name, for security reasons. If you want to see the missionary books I&rsquo;ve published and learn more about our work, you can find easy links to everything @ </span><a href="http://praygivego.us"><span style="font-weight: 400;">PrayGiveGo.us</span></a><span style="font-weight: 400;">!</span></p>
-<p>&nbsp;</p>
-<p>Today I join my good friend and China ministry partner, Denny, as he continues in house arrest after his conviction for saving babies in Nashville. Among other things, we talk about the used Christian bookstore (<a href="https://www.remnantbooks.org/">www.RemnantBooks.org</a>) that helps support his family and ministry, and the now <strong>polygamous missionary</strong> to China&rsquo;s tropical paradise, Hainan Island, a former friend who we both once knew and respected.&nbsp;</p>
-<p><strong>Remnant (Used Christian) Books: </strong><a href="https://www.remnantbooks.org/"><strong>www.RemnantBooks.org</strong></a></p>
-<p>&nbsp;</p>
-<p><strong>But first, I want to talk briefly about China&rsquo;s South American Concubines&hellip;</strong></p>
-<p>Biden and Xi Meet in Peru, Chinese Megaport Inaugurated</p>
-<p><a href="https://apnews.com/article/china-peru-port-poverty-latin-america-1e06904f76cca1d7aaf19bca8bd24d93"><span style="font-weight: 400;">https://apnews.com/article/china-peru-port-poverty-latin-america-1e06904f76cca1d7aaf19bca8bd24d93</span></a></p>
-<p><span style="font-weight: 400;">I also&nbsp; refer to another opinion piece, supposedly written by Dictator Xi himself, but I don&rsquo;t have a link to that article. The Chinese government website that hosted the English version of the article did not seem too secure, so I copied the text into a Google doc, which is what I refer to in the podcast.&nbsp;</span></p>
-<p>&nbsp;</p>
-<p><strong>Pray for China Province of the Week: Hainan Island</strong></p>
-<p><span style="font-weight: 400;">Hainan Island (Province) in China is matched up with the state of Hawaii for prayer. By the way, Hainan means &ldquo;South of the Sea&rdquo; and refers to the island&rsquo;s location in the South China Sea.&nbsp;</span></p>
-<p><a href="https://en.wikipedia.org/wiki/Hainan"><span style="font-weight: 400;">https://en.wikipedia.org/wiki/Hainan</span></a></p>
-<p><span style="font-weight: 400;"><a href="https://www.asiaharvest.org/china-resources/hainan">https://www.asiaharvest.org/china-resources/hainan</a></span></p>
-<p><strong>The Martyrs of Hainan</strong></p>
-<p><a href="https://www.asiaharvest.org/china-resources/hainan/1924-george-byers"><span style="font-weight: 400;">https://www.asiaharvest.org/china-resources/hainan/1924-george-byers</span></a></p>
-<p><span style="font-weight: 400;"><a href="https://www.asiaharvest.org/china-resources/hainan/1918-frank-gilman">https://www.asiaharvest.org/china-resources/hainan/1918-frank-gilman</a></span></p>
-<p>&nbsp;</p>
-<p><strong>See which Chinese province <em>your state</em> is praying for @ <a href="http://prayforchina.us">PrayforChina.us</a>!</strong></p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/229102a1-2a47-4304-ba73-e6e9b4005e4a/chinas-south-american-concubines-wannabe-polygamy-in-paradise-w-denny-in-house-arrest.mp3" length="3553" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[229102a1-2a47-4304-ba73-e6e9b4005e4a]]></guid>
-   <pubDate>Sat, 16 Nov 2024 19:10:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:summary><![CDATA[China’s South American Concubines & Wannabe Polygamy in Paradise (w/ Denny in "House Arrest")]]></itunes:summary>
-   <itunes:image href="https://assets-cdn2.dropwave.io/28652366-7376-4009-af11-df4975b58341/cover-art/vg0QsnYPbg4uDnUgkc4IYUdJSTqBlrycyvf6S2Kx.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3553</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
