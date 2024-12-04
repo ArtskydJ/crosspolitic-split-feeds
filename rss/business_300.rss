@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Wed, 04 Dec 2024 07:26:11 +0000</pubDate>
-  <lastBuildDate>Wed, 04 Dec 2024 07:26:11 +0000</lastBuildDate>
+  <pubDate>Wed, 04 Dec 2024 13:26:11 +0000</pubDate>
+  <lastBuildDate>Wed, 04 Dec 2024 13:26:11 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -26,6 +26,21 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Ep. 141 - Poka-Yoke It Up! [Business 300]]]></title>
+   <link/>
+   <description><![CDATA[<p>Too many business people tolerate mistakes and defects, instead of addressing the root cause and building a quality solution into the system itself. Following the Jidoka concept - actually both in our business and our personal lives - helps us to eliminate defects and mistakes; eliminate the waste that gets in the way of our margins. Once you understand the cause of the issue, implement a preventative measure. This is called Poka-Yoke. Poka-yoke is a Japanese term which means "mistake-proofing." Insert a relevant poka-yoke into your system that will make it impossible to make the mistake again.</p>]]></description>
+   <author><![CDATA[Philip Kulishov]]></author>
+   <enclosure url="https://app.dropwave.io/episode/9a46a4fb-55c6-4b4a-af45-4cac402f70ec/ep-141-poka-yoke-it-up.mp3" length="296" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[9a46a4fb-55c6-4b4a-af45-4cac402f70ec]]></guid>
+   <pubDate>Wed, 04 Dec 2024 08:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/YJM7f9wf3KtXwYJITfZuGbSKg6a5QkX7vm6Or8QN.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>296</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[Ep. 140 - The Frontline Manager Is The Linchpin - Part 2 [Business 300]]]></title>
    <link/>
    <description><![CDATA[<p>The first factor was covered on the last episode, that being ownership for the plan. It matters that the frontline manager is bought into the vision and strategy, and embodies it for the people. The second factor is clear, but also often overlooked. Competence. In order for the frontline manager to be a linchpin for the success of your business, he must have the adequate competence required of this role.</p>]]></description>
@@ -85,20 +100,6 @@
    <itunes:duration>241</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   
-  </item><item>
-   <title><![CDATA[Ep. 136 - Growth or Cash, Choose One - Part 3 [Business 300]]]></title>
-   <link/>
-   <description><![CDATA[<p>Growth requires cash. Because Working Capital is a thing. So, you need to get that cash somewhere. You don't want to outgrow your cash, which is possible. So, you must watch both. You must know what's in your wallet, and how to put more in there.</p>]]></description>
-   <author><![CDATA[Philip Kulishov]]></author>
-   <enclosure url="https://app.dropwave.io/episode/43b8db36-4c4f-480d-9ad5-9a523a230c6f/ep-136-growth-or-cash-choose-one-part-3.mp3" length="265" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[43b8db36-4c4f-480d-9ad5-9a523a230c6f]]></guid>
-   <pubDate>Mon, 18 Nov 2024 08:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/qJmirukvj3zvmywwVuy1AfYT04MI237i9gRtrAJG.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>265</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
 </rss>
