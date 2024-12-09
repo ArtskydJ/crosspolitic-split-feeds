@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 09 Dec 2024 13:25:48 +0000</pubDate>
-  <lastBuildDate>Mon, 09 Dec 2024 13:25:48 +0000</lastBuildDate>
+  <pubDate>Mon, 09 Dec 2024 19:26:50 +0000</pubDate>
+  <lastBuildDate>Mon, 09 Dec 2024 19:26:50 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,23 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[TCND:  Charity Tree and Fathers Don't Matter (Positive Peaches) [The Comedian Next Door]]]></title>
+   <link/>
+   <description><![CDATA[<p>We played disc golf today. But we aren't going to talk about that! The Comedian got an email from a random phone number...asking whether it's appropriate for Christians to buy a violent video game for a disadvantaged kid as a Christmas gift.&nbsp; &nbsp;So... let's talk about Church Giving Trees! (You know what those are, right, Neighbor? Those trees where you pick an ornament and buy a gift for a needy stranger?...)</p>
+<p>Later: Sheila Gregoire is man-hating again. Why does it bother some women to hear ANYTHING positive about men/dads/husbands?</p>
+<p>Contact the Comedian's family at <a href="mailto:nextdoor@johnbranyan.com">nextdoor@johnbranyan.com</a> .</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/f948e014-8903-4dd2-991a-092cebe64b17/tcnd-charity-tree-and-fathers-dont-matter-positive-peaches.mp3" length="3052" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[f948e014-8903-4dd2-991a-092cebe64b17]]></guid>
+   <pubDate>Mon, 09 Dec 2024 12:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3052</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[How to Build a Family Economy: An Interview with Rory Groves [The Pugcast]]]></title>
    <link/>
@@ -171,6 +188,25 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/467f99a9-2921-459a-b63d-9710f4355795/cover-art/3RAIr311nRjCxMjlH6oJVa3lm2QXw983ptK4ChA4.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1906</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[Ep. 156: What To Expect - Trump Admin First 100 Days [The Outstanding Podcast]]]></title>
+   <link/>
+   <description><![CDATA[<p>Host Joseph Backholm is joined by FRC Action&rsquo;s Matt Carpenter as they discuss what we can expect to see from the Trump administration&rsquo;s first 100 days in office. Everyone knows that Trump is a man with a plan, but what does that plan entail? Joseph and Matt discuss Trump&rsquo;s priorities, his recent admin and cabinet picks, and the role Congress will play throughout his presidency. Make America Great Again and give this episode a listen!</p>
+<p>Resources</p>
+<ul>
+<li><a href="https://frcaction.org/accomplishments">Trump Administration Accomplishments</a></li>
+</ul>]]></description>
+   <author><![CDATA[Joseph Backholm]]></author>
+   <enclosure url="https://app.dropwave.io/episode/ee19fd8c-4e2f-4fd2-87b3-1f8a434457b4/ep-156-what-to-expect-trump-admin-first-100-days.mp3" length="2830" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[ee19fd8c-4e2f-4fd2-87b3-1f8a434457b4]]></guid>
+   <pubDate>Fri, 06 Dec 2024 11:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Joseph Backholm]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/03cb0a71-51fd-48b9-b2ef-b3104f5b133d/cover-art/38CYX60hTuMi0CVRwzaxNKLGpnGOhaR5BczKSfeT.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2830</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -345,21 +381,6 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[Ep. 141 - Poka-Yoke It Up! [Business 300]]]></title>
-   <link/>
-   <description><![CDATA[<p>Too many business people tolerate mistakes and defects, instead of addressing the root cause and building a quality solution into the system itself. Following the Jidoka concept - actually both in our business and our personal lives - helps us to eliminate defects and mistakes; eliminate the waste that gets in the way of our margins. Once you understand the cause of the issue, implement a preventative measure. This is called Poka-Yoke. Poka-yoke is a Japanese term which means "mistake-proofing." Insert a relevant poka-yoke into your system that will make it impossible to make the mistake again.</p>]]></description>
-   <author><![CDATA[Philip Kulishov]]></author>
-   <enclosure url="https://app.dropwave.io/episode/9a46a4fb-55c6-4b4a-af45-4cac402f70ec/ep-141-poka-yoke-it-up.mp3" length="296" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[9a46a4fb-55c6-4b4a-af45-4cac402f70ec]]></guid>
-   <pubDate>Wed, 04 Dec 2024 08:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/YJM7f9wf3KtXwYJITfZuGbSKg6a5QkX7vm6Or8QN.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>296</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
    <title><![CDATA[Chuck DeLadurantey: Creating Wealth with the Dominion Mandate [Dead Men Walking Podcast]]]></title>
    <link/>
    <description><![CDATA[<p><a href="https://www.buzzsprout.com/twilio/text_messages/958282/open_sms" target="_blank" rel="noopener">Send us a text</a></p>
@@ -376,6 +397,21 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/336e6745-00c3-4f9f-a8f5-78b7e05a5434/cover-art/cerxcA5T8ZEbtv44RsdDPYDwmb3u5TmhgdnxduX9.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2923</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[Ep. 141 - Poka-Yoke It Up! [Business 300]]]></title>
+   <link/>
+   <description><![CDATA[<p>Too many business people tolerate mistakes and defects, instead of addressing the root cause and building a quality solution into the system itself. Following the Jidoka concept - actually both in our business and our personal lives - helps us to eliminate defects and mistakes; eliminate the waste that gets in the way of our margins. Once you understand the cause of the issue, implement a preventative measure. This is called Poka-Yoke. Poka-yoke is a Japanese term which means "mistake-proofing." Insert a relevant poka-yoke into your system that will make it impossible to make the mistake again.</p>]]></description>
+   <author><![CDATA[Philip Kulishov]]></author>
+   <enclosure url="https://app.dropwave.io/episode/9a46a4fb-55c6-4b4a-af45-4cac402f70ec/ep-141-poka-yoke-it-up.mp3" length="296" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[9a46a4fb-55c6-4b4a-af45-4cac402f70ec]]></guid>
+   <pubDate>Wed, 04 Dec 2024 08:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/YJM7f9wf3KtXwYJITfZuGbSKg6a5QkX7vm6Or8QN.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>296</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -422,6 +458,21 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>412</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[Ep. 155: A Shifting in Politics with Bob Good [The Outstanding Podcast]]]></title>
+   <link/>
+   <description><![CDATA[<p>When is adapting a sign of compromise, and when is it simply wisdom? Host Joseph Backholm is joined by Congressman Bob Good for a discussion on how Christians can navigate this ever present changing political landscape. As the 119<sup>th</sup>&nbsp;Congress gears up to take their seats in January, Congressman Good weighs in on where he sees this Congress going and what we can expect to see from a government with a &ldquo;Republican trifecta&rdquo;.</p>]]></description>
+   <author><![CDATA[Joseph Backholm]]></author>
+   <enclosure url="https://app.dropwave.io/episode/87a93a70-df82-4159-9d66-9c3a75f096cc/ep-155-a-shifting-in-politics-with-bob-good.mp3" length="2422" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[87a93a70-df82-4159-9d66-9c3a75f096cc]]></guid>
+   <pubDate>Tue, 03 Dec 2024 11:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Joseph Backholm]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/03cb0a71-51fd-48b9-b2ef-b3104f5b133d/cover-art/38CYX60hTuMi0CVRwzaxNKLGpnGOhaR5BczKSfeT.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2422</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -654,21 +705,6 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[Ep. 139 - The Frontline Manager Is The Linchpin - Part 1 [Business 300]]]></title>
-   <link/>
-   <description><![CDATA[<p>One of the critical roles in your business is the frontline manager. This is the role of execution. The top leader has the vision, the strategy, the plans. Those are crucial aspects to ensure your organization is moving in the right direction. Is the frontline manager bought into the mission? Does he own it? This is the first factor to consider in making sure you have the right person for the job. The second factor is equally important. But it'll have to wait until next time, when we talk more about how the frontline manager is the linchpin.</p>]]></description>
-   <author><![CDATA[philip Kulishov]]></author>
-   <enclosure url="https://app.dropwave.io/episode/9471cd77-6abb-4cfb-a59b-6963f039755c/the-frontline-manager-is-the-linchpin-part-1-1.mp3" length="297" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[9471cd77-6abb-4cfb-a59b-6963f039755c]]></guid>
-   <pubDate>Wed, 27 Nov 2024 08:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[philip Kulishov]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/OhXFuUdByej8fLN1z6yQKCV8p6oB4bGbE3V8c55s.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>297</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
    <title><![CDATA[Jim Hunter: Why Christians should buy Gold! (And how Trump can help!) [Dead Men Walking Podcast]]]></title>
    <link/>
    <description><![CDATA[<p><a href="https://www.buzzsprout.com/twilio/text_messages/958282/open_sms" target="_blank" rel="noopener">Send us a text</a></p>
@@ -685,6 +721,21 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/336e6745-00c3-4f9f-a8f5-78b7e05a5434/cover-art/gVi6yxI1BiR6oEInM2zMCuDc8yCTZrvrPGKwcH0V.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3216</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[Ep. 139 - The Frontline Manager Is The Linchpin - Part 1 [Business 300]]]></title>
+   <link/>
+   <description><![CDATA[<p>One of the critical roles in your business is the frontline manager. This is the role of execution. The top leader has the vision, the strategy, the plans. Those are crucial aspects to ensure your organization is moving in the right direction. Is the frontline manager bought into the mission? Does he own it? This is the first factor to consider in making sure you have the right person for the job. The second factor is equally important. But it'll have to wait until next time, when we talk more about how the frontline manager is the linchpin.</p>]]></description>
+   <author><![CDATA[philip Kulishov]]></author>
+   <enclosure url="https://app.dropwave.io/episode/9471cd77-6abb-4cfb-a59b-6963f039755c/the-frontline-manager-is-the-linchpin-part-1-1.mp3" length="297" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[9471cd77-6abb-4cfb-a59b-6963f039755c]]></guid>
+   <pubDate>Wed, 27 Nov 2024 08:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[philip Kulishov]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/OhXFuUdByej8fLN1z6yQKCV8p6oB4bGbE3V8c55s.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>297</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -951,68 +1002,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/03cb0a71-51fd-48b9-b2ef-b3104f5b133d/cover-art/38CYX60hTuMi0CVRwzaxNKLGpnGOhaR5BczKSfeT.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1979</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Justifying Revolution w/ Gary Steward [CrossPolitic Show]]]></title>
-   <link/>
-   <description><![CDATA[<p>When does rebellion become righteous? While pagans scream 'resist!' and conservatives mutter 'Romans 13,' we're sitting down with Dr. Gary Steward to crack open 'Justifying Revolution' and find out what the Bible actually says about resisting tyranny. From the American Revolution to today's chaos, we're diving into when Christians should stand up to governmental overreach. Grab your drink - this episode is going to ruffle some feathers!</p>]]></description>
-   <author><![CDATA[Gabe Rench, Chocolate Knox, Toby Sumpter]]></author>
-   <enclosure url="https://app.dropwave.io/episode/b3e8cb34-ee66-48fe-ba57-1ec3efcd73db/justifying-revolution-w-gary-steward.mp3" length="3639" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[b3e8cb34-ee66-48fe-ba57-1ec3efcd73db]]></guid>
-   <pubDate>Fri, 22 Nov 2024 01:52:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Gabe Rench, Chocolate Knox, Toby Sumpter]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/wvkjcfd3tfj69XopdryYkSF8m1k4KHuikzJF1KzC.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3639</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[The Mercies of the WICKED are CRUEL! [Liberty Dispatch]]]></title>
-   <link/>
-   <description><![CDATA[<p><strong>Liberty Dispatch</strong> ~ November 21, 2024<br />In this episode of Liberty Dispatch, hosts Andrew DeBartolo and Matthew Hallick break down recent Canadian news from a Christian perspective.</p>
-<p><strong><strong style="font-family: '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Segment 1 - News Brief:<br /></strong></strong>&ldquo;Study Reveals Why COVID-19 Vaccine Antibodies Wane Rapidly&rdquo; | <em>Zero Hedge</em>: <a href="https://www.zerohedge.com/medical/study-reveals-why-covid-19-vaccine-antibodies-wane-rapidly">https://www.zerohedge.com/medical/study-reveals-why-covid-19-vaccine-antibodies-wane-rapidly</a>;<br />&ldquo;World Economic Forum Finally Tells the Truth About COVID&rdquo; | <em>The Gateway Pundit</em>: <a href="https://www.thegatewaypundit.com/2024/09/world-economic-forum-finally-tells-truth-about-covid">https://www.thegatewaypundit.com/2024/09/world-economic-forum-finally-tells-truth-about-covid</a>;<br />&ldquo;Video: World Economic Forum&rsquo;s Perspective on the COVID Narrative&rdquo; | <em>Wide Awake Media</em> via <em>X</em>: <a href="https://x.com/wideawake_media/status/1853416983670489573">https://x.com/wideawake_media/status/1853416983670489573</a>;<br />&ldquo;Donald Trump&rsquo;s Cabinet of Circus Freaks and Bond Villains&rdquo; | <em>National Post</em>: <a href="https://nationalpost.com/opinion/donald-trumps-cabinet-of-circus-freaks-and-bond-villains?taid=6738b39921ecf800012a0821">https://nationalpost.com/opinion/donald-trumps-cabinet-of-circus-freaks-and-bond-villains?taid=6738b39921ecf800012a0821</a>;<br />&ldquo;Ontario: Sex Offenders Will Not Be Permitted to Change Their Names After Conviction&rdquo; | <em>The Post Millennial</em>: <a href="https://thepostmillennial.com/ontario-sex-offenders-will-not-be-permitted-to-change-their-names-after-conviction?utm_content=">https://thepostmillennial.com/ontario-sex-offenders-will-not-be-permitted-to-change-their-names-after-conviction?utm_content=</a>;&nbsp;</p>
-<p>&nbsp;<strong><strong style="font-family: '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Segment 2 - Wokism is Destroying Lives and Ruining Canada:<br /></strong></strong>&ldquo;New Brunswick Revises Gender Identity Policy Amid Public Debate&rdquo; | <em>CBC News</em>: <a href="https://www.cbc.ca/news/canada/new-brunswick/new-brunswick-gender-identity-policy-1.7359786">https://www.cbc.ca/news/canada/new-brunswick/new-brunswick-gender-identity-policy-1.7359786</a>;<br />&ldquo;Far-Left New Democrats Win British Columbia Election After Week of Recounts&rdquo; | <em>LifeSiteNews</em>: <a href="https://www.lifesitenews.com/news/far-left-new-democrats-win-british-columbia-election-after-week-of-recounts">https://www.lifesitenews.com/news/far-left-new-democrats-win-british-columbia-election-after-week-of-recounts</a>;<br />&ldquo;Communist China Interfered in BC Election That Saw Far-Left NDP Re-Elected by Slim Margin: Report&rdquo; | <em>LifeSiteNews</em>: <a href="https://www.lifesitenews.com/news/communist-china-interfered-in-bc-election-that-saw-far-left-ndp-re-elected-by-slim-margin-report">https://www.lifesitenews.com/news/communist-china-interfered-in-bc-election-that-saw-far-left-ndp-re-elected-by-slim-margin-report</a>;<br />&ldquo;Liberals Backtrack on Taxing Carbon Tax Rebate for Small Businesses&rdquo; | <em>True North</em>: <a href="https://tnc.news/2024/11/13/liberals-backtrack-on-taxing-carbon-tax-rebate-for-small-businesses/?s=09">https://tnc.news/2024/11/13/liberals-backtrack-on-taxing-carbon-tax-rebate-for-small-businesses/?s=09</a>;<br />&ldquo;Yukon Conservative Party Withdraws Candidate Jonas Smith Amid Controversy&rdquo; | <em>CBC News</em>: <a href="https://www.cbc.ca/news/canada/north/yukon-conservative-party-jonas-smith-1.6139543">https://www.cbc.ca/news/canada/north/yukon-conservative-party-jonas-smith-1.6139543</a>;&nbsp;</p>
-<p class="p1"><strong><strong style="font-family: '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Segment 3 - Canada Still Has Trudeau:<br /></strong></strong>&ldquo;CMA Strongly Opposes Government Efforts to Restrict Access to Care&rdquo; | <em>Canadian Medical Association</em>: <a href="https://www.cma.ca/about-us/what-we-do/press-room/cma-strongly-opposes-government-efforts-restrict-access-care">https://www.cma.ca/about-us/what-we-do/press-room/cma-strongly-opposes-government-efforts-restrict-access-care</a>;<br />&ldquo;Terry Glavin: Residential School Report a 1,000-Page Dissertation in Settler Colonialism&rdquo; | <em>National Post</em>: <a href="https://nationalpost.com/opinion/terry-glavin-residential-school-report-a-1000-page-dissertation-in-settler-colonialism">https://nationalpost.com/opinion/terry-glavin-residential-school-report-a-1000-page-dissertation-in-settler-colonialism</a>;<br />&ldquo;Ontario School Protests Gaza War on Remembrance Day by Playing Palestinian Arabic Anthem&rdquo; | <em>The Post Millennial</em>: <a href="https://thepostmillennial.com/ontario-school-protests-gaza-war-on-remembrance-day-by-playing-palestinian-arabic-anthem">https://thepostmillennial.com/ontario-school-protests-gaza-war-on-remembrance-day-by-playing-palestinian-arabic-anthem</a>;<br />&ldquo;Trudeau Government&rsquo;s Assisted Suicide Program Increasingly Requested by Canada&rsquo;s Poorest Citizens&rdquo; | <em>The Post Millennial</em>: <a href="https://thepostmillennial.com/trudeau-governments-assisted-suicide-program-increasingly-requested-by-canadas-poorest-citizens">https://thepostmillennial.com/trudeau-governments-assisted-suicide-program-increasingly-requested-by-canadas-poorest-citizens</a>;<br />&ldquo;Canadian Surrogate Mothers Refuse to Carry Israeli Babies to Protest Genocide&rdquo; | <em>The Post Millennial</em>: <a href="https://thepostmillennial.com/canadian-surrogate-mothers-refuse-to-carry-israeli-babies-to-protest-genocide">https://thepostmillennial.com/canadian-surrogate-mothers-refuse-to-carry-israeli-babies-to-protest-genocide</a>;&nbsp;</p>
-<p class="p1"><strong>SUPPORT OUR LEGAL ADVOCACY - Help us defend Canadians' God-given rights and liberties: </strong><a href="https://libertycoalitioncanada.com/donate/">https://libertycoalitioncanada.com/donate/</a>; <a href="https://libertycoalitioncanada.com/liberty-defense-fund/our-legal-strategy/;">https://libertycoalitioncanada.com/liberty-defense-fund/our-legal-strategy/;</a><br /><strong><br /></strong><strong>SHOW SPONSORS:<br /></strong><strong>Join&nbsp;<em>Red Balloon&nbsp;</em>Today!:</strong> <a href="https://www.redballoon.work/lcc;">https://www.redballoon.work/lcc;</a>&nbsp;<br /><strong>Invest with <em>Rocklinc</em>:</strong> <a href="mailto:info@rocklinc.com">info@rocklinc.com</a>&nbsp;or call them at 905-631-546;&nbsp;<br /><strong>Diversify Your Money with <em>Bull Bitcoin</em>:&nbsp;</strong><a href="https://mission.bullbitcoin.com/lcc">https://mission.bullbitcoin.com/lcc</a>;<br /><strong><em>BarterPay</em>: </strong><a href="https://barterpay.ca/">https://barterpay.ca/</a>;&nbsp; <strong><em>Barter It</em>: </strong><a href="https://vip.barterit.ca/launch;">https://vip.barterit.ca/launch; </a><strong><br /><em>Carpe Fide</em> - "Seize the Faith": Store: </strong><a href="https://carpe-fide.myshopify.com/">https://carpe-fide.myshopify.com</a><a href="https://carpe-fide.myshopify.com/">/</a>, use Promo Code LCC10 for 10% off (US Store Only), or shop Canadian @ <a href="https://canadacarpefide.myshopify.com/">https://canadacarpefide.myshopify.com/</a> | <strong>Podcast: </strong><a href="https://www.carpefide.com/episodes">https://www.carpefide.com/episodes</a>;<br /><strong>Get freedom from Censorious CRMs by singing up for&nbsp;<em>SalesNexus</em>:&nbsp;</strong><a href="https://www.salesnexus.com/">https://www.salesnexus.com/</a>;<br /><strong>Ready to own your own business? Join the <em>Pro Fleet Care </em>team today!:</strong> <a href="https://profleetcare.com/">https://profleetcare.com/</a>;<br /><br /><strong>Sick of Mainstream Media Lies? Help Support Independent Media! DONATE TO LCC TODAY!:&nbsp;</strong><strong><a href="https://libertycoalitioncanada.com/donate/">https://libertycoalitioncanada.com/donate/</a>&nbsp;</strong><strong>&nbsp;<br /><br /></strong></p>
-<p class="p1">Please Support us in bringing you honest, truthful reporting and analysis from a Christian perspective.<br /><br /><strong>SUBSCRIBE TO OUR SHOWS/CHANNELS:<br /></strong>LIBERTY DISPATCH PODCAST: <a href="https://libertydispatch.podbean.com">https://libertydispatch.podbean.com</a>; <a href="https://rumble.com/c/c-1687093">https://rumble.com/LDshow</a>;&nbsp;<br />OPEN MIKE WITH MICHAEL THIESSEN: <a href="https://openmikewithmichaelthiessen.podbean.com">https://openmikewithmichaelthiessen.podbean.com</a>; <a href="https://rumble.com/c/c-1412501">https://rumble.com/openmike</a>;<br />THE OTHER CLUB: <a href="https://rumble.com/c/c-2541984">https://rumble.com/c/c-2541984</a>;&nbsp;<br />THE LIBERTY LOUNGE WITH TIM TYSOE: <a href="https://rumble.com/LLwTT">https://rumble.com/LLwTT</a>;<br /><br /><strong>CONTACT US:</strong><br />Questions/comments about podcasts/news/analysis: <a href="mailto:mailbag@libertycoalitioncanada.com">mailbag@libertycoalitioncanada.com</a>;<br />Questions/comments about donations: <a href="mailto:give@libertycoalitioncanada.com">give@libertycoalitioncanada.com</a>;<br />Questions/comments that are church-related: <a href="mailto:churches@libertycoalitioncanada.com">churches@libertycoalitioncanada.com</a>;<br />General Inquiries: <a href="mailto:info@libertycoalitioncanada.com">info@libertycoalitioncanada.com</a>.&nbsp;</p>
-<p class="p1"><strong>STAY UP-TO-DATE ON ALL THINGS LCC:<br /></strong>Gab: <a href="https://gab.com/libertycoalitioncanada">https://gab.com/libertycoalitioncanada</a>&nbsp;</p>
-<p class="p2">Telegram: <a href="https://t.me/libertycoalitioncanadanews">https://t.me/libertycoalitioncanadanews</a>&nbsp;</p>
-<p class="p2">Instagram: <a href="https://instagram.com/libertycoalitioncanada">https://instagram.com/libertycoalitioncanada</a>&nbsp;</p>
-<p class="p2">Facebook: <a href="https://facebook.com/LibertyCoalitionCanada">https://facebook.com/LibertyCoalitionCanada</a>&nbsp;</p>
-<p class="p2">Twitter: @LibertyCCanada - <a href="https://twitter.com/LibertyCCanada">https://twitter.com/LibertyCCanada</a>&nbsp;</p>
-<p class="p2">Rumble: <a href="https://rumble.com/user/LibertyCoalitionCanada">https://rumble.com/user/LibertyCoalitionCanada</a>&nbsp;</p>
-<p class="p2">YouTube: <a href="https://www.youtube.com/@liberty4canada">https://www.youtube.com/@liberty4canada</a> -&nbsp;<strong>WE GOT CANCELLED AGAIN!!!</strong></p>
-<p class="p1"><strong>Please LIKE, SUBSCRIBE, RATE, &amp; REVIEW, and SHARE it with others!</strong></p>]]></description>
-   <author><![CDATA[Andrew DeBartolo, Matthew Hallick, SDG Media]]></author>
-   <enclosure url="https://app.dropwave.io/episode/f09efc84-759a-4715-a5ba-71bbdb28c4b1/the-mercies-of-the-wicked-are-cruel.mp3" length="5576" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[f09efc84-759a-4715-a5ba-71bbdb28c4b1]]></guid>
-   <pubDate>Thu, 21 Nov 2024 20:32:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Andrew DeBartolo, Matthew Hallick, SDG Media]]></itunes:author>
-   <itunes:image href="https://prod-assets-spc1.nyc3.digitaloceanspaces.com/69893365-4165-4498-b0ac-e9ddf57a000f/cover-art/E86eLfK3NgjrpuXtk9kW9Qv6KcfzQpkJpToltreR.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>5576</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[176. Sex 101: Good News for Victims of Sexual Trauma [Leadership Now Podcast]]]></title>
-   <link/>
-   <description><![CDATA[<p>Catch this episode of Leadership Now with Dr. Aaron Rock as Aaron offers hope straight from the Bible for those who have be affected by sexual trauma, coercion or abuse.</p>
-<p>&nbsp;</p>
-<p><strong>More Resources:</strong></p>
-<p>More resources at <a href="https://beachheadmedia.ca/">beachheadmedia.ca</a></p>
-<p>Beachhead Media <a href="https://www.youtube.com/channel/UCTRwY4I8_rSQ7Z6I05k8lkA">YouTube</a></p>]]></description>
-   <author><![CDATA[Dr. Aaron Rock, Eric Oltrop]]></author>
-   <enclosure url="https://app.dropwave.io/episode/96a77527-e259-4da9-bc4f-4f6426aeccce/176-sex-101-good-news-for-victims-of-sexual-trauma.mp3" length="2737" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[96a77527-e259-4da9-bc4f-4f6426aeccce]]></guid>
-   <pubDate>Thu, 21 Nov 2024 20:23:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Dr. Aaron Rock, Eric Oltrop]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/3312a6b0-2b88-4186-bfdd-e9c55d3d7e0f/cover-art/qpsFSkkrNiYAlRsnHtZYetr1m067qIj7wrqLzC1h.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2737</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
