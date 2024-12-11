@@ -3,7 +3,7 @@
 
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
  <channel>
-  <title>FLF - Resistance and Reformation</title>
+  <title>FLF - Rebel - Podcast for Cultural Engagement</title>
   <link>https://dropwave.io</link>
   <description><![CDATA[FIGHT LAUGH FEAST PRESENTS SHOWS PROCLAIMING THE LORDSHIP OF CHRIST OVER ALL OF LIFE.
 ]]></description>
@@ -26,33 +26,18 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
-   <title><![CDATA[Yuletide [Resistance and Reformation]]]></title>
+   <title><![CDATA[We Are So Back! [Rebel - Podcast for Cultural Engagement]]]></title>
    <link/>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/bb142abc-8c65-4e07-959b-61ba30be35c6/yuletide.mp3" length="559" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[bb142abc-8c65-4e07-959b-61ba30be35c6]]></guid>
-   <pubDate>Tue, 10 Dec 2024 20:16:00 +0000</pubDate>
+   <description><![CDATA[<p>After our last big series &ldquo;How to Win the World&rdquo; the Rebels, in the middle of moving to a new church building, took some much needed down time&hellip; but now we are so back and a lot has happened in the downtime: Donald Trump has been elected so we take the time to discuss what that means for all faithful Christians working to build Christendom 2.0. Reformed Brothers continue to squabble online. The wokeys keep fighting a losing battle&hellip; in this episode P Nate and Pootie weigh in on all that&rsquo;s going on.</p>]]></description>
+   <author><![CDATA[Pastors Nate & Chris - The Rebels]]></author>
+   <enclosure url="https://app.dropwave.io/episode/3c5d3aad-e362-421b-8716-3723f4cd7a08/we-are-so-back.mp3" length="2496" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[3c5d3aad-e362-421b-8716-3723f4cd7a08]]></guid>
+   <pubDate>Tue, 10 Dec 2024 11:00:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
+   <itunes:author><![CDATA[Pastors Nate & Chris - The Rebels]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/2f5403ee-3fd5-417e-8372-cb8279ee1f07/cover-art/S2dSa4MQITIxMPfycXUvwRQYaaDmIMucS8KboQHl.jpg"/>
    <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>559</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  
-  </item><item>
-   <title><![CDATA[Luther's Carol [Resistance and Reformation]]]></title>
-   <link/>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/75a7038f-09c5-405a-9803-83f265ff17ca/luthers-carol.mp3" length="412" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[75a7038f-09c5-405a-9803-83f265ff17ca]]></guid>
-   <pubDate>Tue, 03 Dec 2024 17:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>412</itunes:duration>
+   <itunes:duration>2496</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   
   </item>
