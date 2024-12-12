@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Thu, 12 Dec 2024 01:25:47 +0000</pubDate>
-  <lastBuildDate>Thu, 12 Dec 2024 01:25:47 +0000</lastBuildDate>
+  <pubDate>Thu, 12 Dec 2024 07:25:47 +0000</pubDate>
+  <lastBuildDate>Thu, 12 Dec 2024 07:25:47 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[War and Peace: In the Heart of Syria w/ James Rayment [CrossPolitic Show]]]></title>
+   <link/>
+   <description><![CDATA[<p>As rebels take key territories in Syria, the Assad regime faces collapse, and the country reaches a critical turning point. What does this mean for Christians caught in the crossfire? Will a rebel victory bring peace, or plunge Syria into deeper chaos? Join us as we unpack the conflict&rsquo;s complexities, the role of international powers, and what&rsquo;s next for a fractured nation.</p>]]></description>
+   <author><![CDATA[Gabe Rench, Chocolate Knox, Toby Sumpter]]></author>
+   <enclosure url="https://app.dropwave.io/episode/d4108d41-14c2-470d-b385-c8aaf1543bda/war-and-peace-in-the-heart-of-syria-w-james-rayment.mp3" length="4863" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[d4108d41-14c2-470d-b385-c8aaf1543bda]]></guid>
+   <pubDate>Thu, 12 Dec 2024 02:51:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Gabe Rench, Chocolate Knox, Toby Sumpter]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/wvkjcfd3tfj69XopdryYkSF8m1k4KHuikzJF1KzC.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>4863</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Christmas Myths BUSTED! [The Ezra Institute Podcast for Cultural Reformation]]]></title>
    <link/>
@@ -599,6 +614,21 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
+   <title><![CDATA[Ep. 141 - Poka-Yoke It Up! [Business 300]]]></title>
+   <link/>
+   <description><![CDATA[<p>Too many business people tolerate mistakes and defects, instead of addressing the root cause and building a quality solution into the system itself. Following the Jidoka concept - actually both in our business and our personal lives - helps us to eliminate defects and mistakes; eliminate the waste that gets in the way of our margins. Once you understand the cause of the issue, implement a preventative measure. This is called Poka-Yoke. Poka-yoke is a Japanese term which means "mistake-proofing." Insert a relevant poka-yoke into your system that will make it impossible to make the mistake again.</p>]]></description>
+   <author><![CDATA[Philip Kulishov]]></author>
+   <enclosure url="https://app.dropwave.io/episode/9a46a4fb-55c6-4b4a-af45-4cac402f70ec/ep-141-poka-yoke-it-up.mp3" length="296" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[9a46a4fb-55c6-4b4a-af45-4cac402f70ec]]></guid>
+   <pubDate>Wed, 04 Dec 2024 08:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/YJM7f9wf3KtXwYJITfZuGbSKg6a5QkX7vm6Or8QN.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>296</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
    <title><![CDATA[Chuck DeLadurantey: Creating Wealth with the Dominion Mandate [Dead Men Walking Podcast]]]></title>
    <link/>
    <description><![CDATA[<p><a href="https://www.buzzsprout.com/twilio/text_messages/958282/open_sms" target="_blank" rel="noopener">Send us a text</a></p>
@@ -615,21 +645,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/336e6745-00c3-4f9f-a8f5-78b7e05a5434/cover-art/cerxcA5T8ZEbtv44RsdDPYDwmb3u5TmhgdnxduX9.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2923</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Ep. 141 - Poka-Yoke It Up! [Business 300]]]></title>
-   <link/>
-   <description><![CDATA[<p>Too many business people tolerate mistakes and defects, instead of addressing the root cause and building a quality solution into the system itself. Following the Jidoka concept - actually both in our business and our personal lives - helps us to eliminate defects and mistakes; eliminate the waste that gets in the way of our margins. Once you understand the cause of the issue, implement a preventative measure. This is called Poka-Yoke. Poka-yoke is a Japanese term which means "mistake-proofing." Insert a relevant poka-yoke into your system that will make it impossible to make the mistake again.</p>]]></description>
-   <author><![CDATA[Philip Kulishov]]></author>
-   <enclosure url="https://app.dropwave.io/episode/9a46a4fb-55c6-4b4a-af45-4cac402f70ec/ep-141-poka-yoke-it-up.mp3" length="296" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[9a46a4fb-55c6-4b4a-af45-4cac402f70ec]]></guid>
-   <pubDate>Wed, 04 Dec 2024 08:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/YJM7f9wf3KtXwYJITfZuGbSKg6a5QkX7vm6Or8QN.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>296</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -923,21 +938,6 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[Ep. 139 - The Frontline Manager Is The Linchpin - Part 1 [Business 300]]]></title>
-   <link/>
-   <description><![CDATA[<p>One of the critical roles in your business is the frontline manager. This is the role of execution. The top leader has the vision, the strategy, the plans. Those are crucial aspects to ensure your organization is moving in the right direction. Is the frontline manager bought into the mission? Does he own it? This is the first factor to consider in making sure you have the right person for the job. The second factor is equally important. But it'll have to wait until next time, when we talk more about how the frontline manager is the linchpin.</p>]]></description>
-   <author><![CDATA[philip Kulishov]]></author>
-   <enclosure url="https://app.dropwave.io/episode/9471cd77-6abb-4cfb-a59b-6963f039755c/the-frontline-manager-is-the-linchpin-part-1-1.mp3" length="297" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[9471cd77-6abb-4cfb-a59b-6963f039755c]]></guid>
-   <pubDate>Wed, 27 Nov 2024 08:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[philip Kulishov]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/OhXFuUdByej8fLN1z6yQKCV8p6oB4bGbE3V8c55s.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>297</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
    <title><![CDATA[Jim Hunter: Why Christians should buy Gold! (And how Trump can help!) [Dead Men Walking Podcast]]]></title>
    <link/>
    <description><![CDATA[<p><a href="https://www.buzzsprout.com/twilio/text_messages/958282/open_sms" target="_blank" rel="noopener">Send us a text</a></p>
@@ -957,28 +957,18 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[The Antioch Declaration - WHY!?: Joe & Doug Speak for Themselves | Podcast for Cultural Reformation [The Ezra Institute Podcast for Cultural Reformation]]]></title>
+   <title><![CDATA[Ep. 139 - The Frontline Manager Is The Linchpin - Part 1 [Business 300]]]></title>
    <link/>
-   <description><![CDATA[<p>n this episode of the&nbsp;<em>Podcast for Cultural Reformation</em>, Dr. Joe Boot and Dr. Michael Thiessen are joined by the pastor and author, Doug Wilson (<a href="http://dougwils.com">www.dougwils.com</a>), to discuss the recent <em>Antioch Declaration</em> and its various issues and controversies.</p>
-<p><strong>Think Christianly about politics with the help of Dr. Boot&rsquo;s latest book&nbsp; &ldquo;Ruler of Kings:&rdquo;</strong>&nbsp;<a href="https://ezrapress.ca/products/ruler-of-kings-toward-a-christian-vision-of-government">https://ezrapress.ca/products/ruler-of-kings-toward-a-christian-vision-of-government</a>;</p>
-<p><strong>Episode Resources:&nbsp;</strong><em>The Antioch Declaration</em>: <a href="https://antiochdeclaration.com/">https://antiochdeclaration.com/</a>; Tobias' Controversial Appearance&nbsp; on <em>Iron Sharpens Iron</em>: https://ironsharpensironradio.com/2024/09/16/september-13-2024-show-with-tobias-riemenschneider-on-the-rise-of-anti-semitism-admiration-of-adolf-hitler-in-the-21st-century/; Joe Boot on <em>The Antioch Declaration</em> on <em>Iron Sharpens Iron</em>: <a href="https://ironsharpensironradio.com/2024/11/25/november-25-2024-show-with-dr-joe-boot-jacob-tanner-on-the-antioch-declaration/">https://ironsharpensironradio.com/2024/11/25/november-25-2024-show-with-dr-joe-boot-jacob-tanner-on-the-antioch-declaration/;</a> "When a Member of Our Church Shared a Holocaust Meme" | <em>Right Response Ministries</em>: <a href="https://youtube.com/watch?v=pj7L7b66xLY&amp;t=520s">https://youtube.com/watch?v=pj7L7b66xLY&amp;t=520s</a>.</p>
-<p><strong>CHAPTERS:<br /></strong>00:00 Mission of God AD<br />00:25 Opening<br />00:44 Intro<br />01:04&nbsp; Welcome<br />01:38 Mission of God: 10th Anniversary Edition<br />02:55&nbsp; (Issue 1) Tobias Reimenschnieder vs. Joel Webbon Feud<br />03:47 &nbsp;(1.1) Who Knew What, When?<br />04:04 (1.1.1) Doug's Response<br />05:08 (1.1.2) Joe's Response<br />06:19 (1.2.1) Would You Recommend Arbitration Towards Reconciliation?<br />06:48 (1.2.1) Doug's Response<br />08:56 (1.2.2) Joe's Response<br />11:36 &nbsp;(1.3) Tobias: When Will He Respond &amp; Why He was Included?<br />12:42 (1. 3.1) Joe's Response<br />14:52 (1. 3.2) Doug's Comment: A Necessary Distinction: 2 Issues, 1 Group<br />18:11 (2) The Antioch Declaration<br />18:16 (2.1) The Goal of the Declaration?<br />18:18 (2.1.1) Drawing a Line in the Sand: Doug's Response<br />20:07 (2.1.1) NTTR not for the BETTER<br />21:12 (2.1.2) Doug's Comment on the Unhinged Response<br />22:17 (2.1.3)Why the Name - Antioch?<br />24:08 (2.1.4 ) "An <em>[Necessary] </em>Instituting Consideration:" Joe's Response<br />25:52 (2.1.5) Joe's Comment on the Unhinged Response<br />26:26 (2.1.6) The Necessity of Contextual Ministry &amp; Theological Application to Life<br />30:16 (2.2) Fighting the Temptation to Black-pill<br />32:31 (2.3) What's with the Style?<br />33:12 (2.2.1) A Rejoinder on Black-pilling<br />35:48 (2.3.1) What's with the Style?<br />40:50 (2.4) Aristotle &amp; Pagan Philosophy&nbsp;<em>is not Biblical</em><br />42:41 (2.4.1) A Reformed, Presuppositional Critique<br />46:00 (2.4.2) Rejecting the Pagan Synthesis<br />48:40 (2.4.3) The Insanely Unbiblical Nature of Aristotelian Natural Law<br />49:59 (2.4.4)The Danger of Pagan Primordial Aristotelian Nationalism<br />51:40 (2.4.5)The Christ NOT the Philosopher<br />53:22 (2.4.6)The Greek Philosophers Penchant for Statism<br />54:38 (2.4.7) Natural Affections &amp; the Kingdom of God as "the Totalizing Bond"<br />01:02:17 (2.4.8)The Law of Love<br />01:05:27 Conclusion<br />01:08:45 Outro</p>
-<p><strong><span style="text-decoration: underline;">UPCOMING CONFERENCES:</span><br /></strong><strong><em>The Mission of God Conferences</em>:<br /></strong><strong>Canada &ndash; Ontario | Saturday, Nov. 30, 2024, 9:00 EST @ <a href="https://www.google.com/maps/search/2001+Spring+Garden+Road%2c+Windsor%2c+Ontario+N9E+3P6+Canada/@42.26778849999999,-83.053496,17z"><em>Harvest Bible Church</em>&nbsp;Windsor</a>:&nbsp;</strong><a href="https://brushfire.com/ezrainstitute/missionofgod2024-ontario/587020/details">https://brushfire.com/ezrainstitute/missionofgod2024-ontario/587020/details</a>;<strong><br />Denver | Saturday, Jan. 25, 2025 @ 8:00 - 16:00 MST@ <em>Faith Church | Arvada, Colorado</em>: </strong><a href="https://www.ezrainstitute.com/mission-of-god-denver/">https://www.ezrainstitute.com/mission-of-god-denver/</a></p>
-<p><strong>REFORMCON '25 | "Out of the Ashes" | April 24-26, 2025 @ Tucson, AZ: </strong><a href="https://reformcon.org/">https://reformcon.org/</a></p>
-<p><strong>The WAIT is OVER!!! Pre-order your copy of the NEW updated and expanded&nbsp;version of Dr. Boot&rsquo;s<em>&nbsp;Mission of God</em>&nbsp;with a brand-new study guide! Get it here:&nbsp;</strong><a href="https://ezrapress.ca/products/mission-of-god-10th-anniversary-edition">https://ezrapress.ca/products/mission-of-god-10th-anniversary-edition</a>;</p>
-<p><strong>Got Questions? Would you like to hear Dr. Boot answer your questions? Let us know in the comments or reach out to us at&nbsp;</strong><a href="https://www.ezrainstitute.com/connect/contact/">https://www.ezrainstitute.com/connect/contact/</a>;</p>
-<p><strong>For Ezra&rsquo;s many print resources and to join our newsletter, visit:</strong>&nbsp;<a href="https://ezrapress.com/">https://ezrapress.com</a>.</p>
-<p><strong>Stay up-to-date with all things Ezra Institute:</strong>&nbsp;<a href="https://www.ezrainstitute.com/">https://www.ezrainstitute.com</a>;<br />Subscribe to Ezra&rsquo;s YouTube Channel:&nbsp;<a href="https://www.youtube.com/channel/UCPVvQDHHrOOjziyqUaN9VoA?sub_confirmation=1">https://www.youtube.com/channel/UCPVvQDHHrOOjziyqUaN9VoA?sub_confirmation=1</a>;<br />Fight Laugh Feast Network:&nbsp;<a href="https://pubtv.flfnetwork.com/tabs/audio/podcasts/8297;">https://pubtv.flfnetwork.com/tabs/audio/podcasts/8297;</a><br />Apple Podcasts:&nbsp;<a href="https://podcasts.apple.com/ca/podcast/ezra-institute-podcast-for-cultural-reformation/id1336078503">https://podcasts.apple.com/ca/podcast/ezra-institute-podcast-for-cultural-reformation/id1336078503</a>;<br />Spotify Podcast:&nbsp;<a href="https://open.spotify.com/show/0dW1gDarpzdrDMLPjKYZW2?si=bee3e91ed9a54885">https://open.spotify.com/show/0dW1gDarpzdrDMLPjKYZW2?si=bee3e91ed9a54885</a>.</p>
-<p>Wherever you find our content, please like, subscribe, rate, or review it; it truly does help.</p>]]></description>
-   <author><![CDATA[Dr. Joseph Boot, Dr. Michael Thiessen, Doug Wilson, SDG Media]]></author>
-   <enclosure url="https://app.dropwave.io/episode/45b81c0d-8d79-4250-bf86-2b3bcc57d0cd/the-antioch-declaration-why-joe-doug-speak-for-themselves-podcast-for-cultural-reformation.mp3" length="4165" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[45b81c0d-8d79-4250-bf86-2b3bcc57d0cd]]></guid>
-   <pubDate>Wed, 27 Nov 2024 04:31:00 +0000</pubDate>
+   <description><![CDATA[<p>One of the critical roles in your business is the frontline manager. This is the role of execution. The top leader has the vision, the strategy, the plans. Those are crucial aspects to ensure your organization is moving in the right direction. Is the frontline manager bought into the mission? Does he own it? This is the first factor to consider in making sure you have the right person for the job. The second factor is equally important. But it'll have to wait until next time, when we talk more about how the frontline manager is the linchpin.</p>]]></description>
+   <author><![CDATA[philip Kulishov]]></author>
+   <enclosure url="https://app.dropwave.io/episode/9471cd77-6abb-4cfb-a59b-6963f039755c/the-frontline-manager-is-the-linchpin-part-1-1.mp3" length="297" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[9471cd77-6abb-4cfb-a59b-6963f039755c]]></guid>
+   <pubDate>Wed, 27 Nov 2024 08:00:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Dr. Joseph Boot, Dr. Michael Thiessen, Doug Wilson, SDG Media]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/1c3a97bd-65b0-4aec-bb35-3a1b6eec5d2c/cover-art/1aHwDWeIeJN7YV2tcpMTq1QaVFLDhsbGp1roFUQ8.jpg"/>
+   <itunes:author><![CDATA[philip Kulishov]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/OhXFuUdByej8fLN1z6yQKCV8p6oB4bGbE3V8c55s.png"/>
    <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>4165</itunes:duration>
+   <itunes:duration>297</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
