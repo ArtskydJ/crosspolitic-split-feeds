@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 16 Dec 2024 19:25:46 +0000</pubDate>
-  <lastBuildDate>Mon, 16 Dec 2024 19:25:46 +0000</lastBuildDate>
+  <pubDate>Tue, 17 Dec 2024 01:25:59 +0000</pubDate>
+  <lastBuildDate>Tue, 17 Dec 2024 01:25:59 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Unmasking the Narrative: A Conversation w/ Dr. Ryan Cole [CrossPolitic Show]]]></title>
+   <link/>
+   <description><![CDATA[<p>In this eye-opening episode of CrossPolitic, we sit down with Dr. Ryan Cole, a leading pathologist and vocal critic of mainstream medical narratives. Dr. Cole shares his insights on the COVID-19 pandemic, health policy, and the challenges of navigating truth in a polarized world. This conversation cuts through the noise to explore the science, data, and broader implications for health freedom. Don't miss this compelling discussion.</p>]]></description>
+   <author><![CDATA[Gabe Rench, Chocolate Knox, Toby Sumpter]]></author>
+   <enclosure url="https://app.dropwave.io/episode/27389236-47c8-408b-890a-bed32d171553/unmasking-the-narrative-a-conversation-w-dr-ryan-cole.mp3" length="3335" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[27389236-47c8-408b-890a-bed32d171553]]></guid>
+   <pubDate>Mon, 16 Dec 2024 21:51:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Gabe Rench, Chocolate Knox, Toby Sumpter]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/wvkjcfd3tfj69XopdryYkSF8m1k4KHuikzJF1KzC.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3335</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[TCND: Christmas Lies and Silent Crowds (Cat's Meat Man) [The Comedian Next Door]]]></title>
    <link/>
@@ -832,6 +847,21 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
+   <title><![CDATA[Ep. 141 - Poka-Yoke It Up! [Business 300]]]></title>
+   <link/>
+   <description><![CDATA[<p>Too many business people tolerate mistakes and defects, instead of addressing the root cause and building a quality solution into the system itself. Following the Jidoka concept - actually both in our business and our personal lives - helps us to eliminate defects and mistakes; eliminate the waste that gets in the way of our margins. Once you understand the cause of the issue, implement a preventative measure. This is called Poka-Yoke. Poka-yoke is a Japanese term which means "mistake-proofing." Insert a relevant poka-yoke into your system that will make it impossible to make the mistake again.</p>]]></description>
+   <author><![CDATA[Philip Kulishov]]></author>
+   <enclosure url="https://app.dropwave.io/episode/9a46a4fb-55c6-4b4a-af45-4cac402f70ec/ep-141-poka-yoke-it-up.mp3" length="296" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[9a46a4fb-55c6-4b4a-af45-4cac402f70ec]]></guid>
+   <pubDate>Wed, 04 Dec 2024 08:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/YJM7f9wf3KtXwYJITfZuGbSKg6a5QkX7vm6Or8QN.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>296</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
    <title><![CDATA[Chuck DeLadurantey: Creating Wealth with the Dominion Mandate [Dead Men Walking Podcast]]]></title>
    <link/>
    <description><![CDATA[<p><a href="https://www.buzzsprout.com/twilio/text_messages/958282/open_sms" target="_blank" rel="noopener">Send us a text</a></p>
@@ -848,21 +878,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/336e6745-00c3-4f9f-a8f5-78b7e05a5434/cover-art/cerxcA5T8ZEbtv44RsdDPYDwmb3u5TmhgdnxduX9.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2923</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Ep. 141 - Poka-Yoke It Up! [Business 300]]]></title>
-   <link/>
-   <description><![CDATA[<p>Too many business people tolerate mistakes and defects, instead of addressing the root cause and building a quality solution into the system itself. Following the Jidoka concept - actually both in our business and our personal lives - helps us to eliminate defects and mistakes; eliminate the waste that gets in the way of our margins. Once you understand the cause of the issue, implement a preventative measure. This is called Poka-Yoke. Poka-yoke is a Japanese term which means "mistake-proofing." Insert a relevant poka-yoke into your system that will make it impossible to make the mistake again.</p>]]></description>
-   <author><![CDATA[Philip Kulishov]]></author>
-   <enclosure url="https://app.dropwave.io/episode/9a46a4fb-55c6-4b4a-af45-4cac402f70ec/ep-141-poka-yoke-it-up.mp3" length="296" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[9a46a4fb-55c6-4b4a-af45-4cac402f70ec]]></guid>
-   <pubDate>Wed, 04 Dec 2024 08:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/YJM7f9wf3KtXwYJITfZuGbSKg6a5QkX7vm6Or8QN.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>296</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -954,27 +969,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/zumal5ZFxjU7nRMJf3LkF95sDrX7ivpkW55OCLno.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>265</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[TCND: Grandparenting is "Meh" (Can YOU be Kidless?) [The Comedian Next Door]]]></title>
-   <link/>
-   <description><![CDATA[<p>Hey, Neighbor!</p>
-<p>This begins the busy season...&nbsp; We had two thanksgivings, Christmas Decorating, and a baby shower packed into the same weekend.&nbsp;</p>
-<p>Then, John got the best Christmas newsletter ever.&nbsp; (Yes, really!)&nbsp; If you must send Christmas newsletters to everybody you know, make sure they contain HILARIOUS KID QUOTES.</p>
-<p>Later: One of John's friends just became a grandparent for the first time, and....well....&nbsp; (shrug)</p>
-<p>Will it be the best day of your life, when you grandkids are born??? We discuss why the most well-adjusted people seem to be unimpressed with newborns...</p>
-<p>&nbsp;</p>
-<p>Contact the Comedian's family:&nbsp; nextdoor@johnbranyan.com&nbsp;&nbsp;</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/851a0a1f-4740-4ea6-9341-3870051b54ac/tcnd-grandparenting-is-meh-can-you-be-kidless.mp3" length="2914" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[851a0a1f-4740-4ea6-9341-3870051b54ac]]></guid>
-   <pubDate>Mon, 02 Dec 2024 12:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2914</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
