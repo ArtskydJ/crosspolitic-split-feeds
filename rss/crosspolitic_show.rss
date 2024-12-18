@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Wed, 18 Dec 2024 01:25:46 +0000</pubDate>
-  <lastBuildDate>Wed, 18 Dec 2024 01:25:46 +0000</lastBuildDate>
+  <pubDate>Wed, 18 Dec 2024 07:25:47 +0000</pubDate>
+  <lastBuildDate>Wed, 18 Dec 2024 07:25:47 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -26,6 +26,21 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[The Wives Show Returns! CrossPolitic Christmas Special [CrossPolitic Show]]]></title>
+   <link/>
+   <description><![CDATA[<p>The CP Wives are back in the studio for some Christmas fun!</p>]]></description>
+   <author><![CDATA[Gabe Rench, Chocolate Knox, Toby Sumpter]]></author>
+   <enclosure url="https://app.dropwave.io/episode/d54162b4-01ad-4e13-bd60-677d1c8bb81d/the-wives-show-returns-crosspolitic-christmas-special.mp3" length="3995" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[d54162b4-01ad-4e13-bd60-677d1c8bb81d]]></guid>
+   <pubDate>Wed, 18 Dec 2024 04:56:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Gabe Rench, Chocolate Knox, Toby Sumpter]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/wvkjcfd3tfj69XopdryYkSF8m1k4KHuikzJF1KzC.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3995</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[Unmasking the Narrative: A Conversation w/ Dr. Ryan Cole [CrossPolitic Show]]]></title>
    <link/>
    <description><![CDATA[<p>In this eye-opening episode of CrossPolitic, we sit down with Dr. Ryan Cole, a leading pathologist and vocal critic of mainstream medical narratives. Dr. Cole shares his insights on the COVID-19 pandemic, health policy, and the challenges of navigating truth in a polarized world. This conversation cuts through the noise to explore the science, data, and broader implications for health freedom. Don't miss this compelling discussion.</p>]]></description>
@@ -145,21 +160,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/wvkjcfd3tfj69XopdryYkSF8m1k4KHuikzJF1KzC.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3413</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  
-  </item><item>
-   <title><![CDATA[Should Canada Become the 51st State w/ Jacob Reaume [CrossPolitic Show]]]></title>
-   <link/>
-   <description><![CDATA[<p>In this episode of CrossPolitic, guest Jacob Reaume joins the discussion on the provocative question: Should Canada become the 51st state? Together, they explore the potential benefits and challenges of Canada merging with the U.S., examining political, economic, and cultural implications. Tune in for a lively conversation on the future of Canada and its relationship with its southern neighbor.</p>]]></description>
-   <author><![CDATA[Gabe Rench, Chocolate Knox, Toby Sumpter]]></author>
-   <enclosure url="https://app.dropwave.io/episode/87a6a596-3308-4709-a728-a0178abe165a/should-canada-become-the-51st-state-w-jacob-reaume.mp3" length="3346" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[87a6a596-3308-4709-a728-a0178abe165a]]></guid>
-   <pubDate>Wed, 04 Dec 2024 02:22:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Gabe Rench, Chocolate Knox, Toby Sumpter]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/wvkjcfd3tfj69XopdryYkSF8m1k4KHuikzJF1KzC.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3346</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   
   </item>
