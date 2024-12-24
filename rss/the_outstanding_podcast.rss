@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Tue, 24 Dec 2024 07:25:48 +0000</pubDate>
-  <lastBuildDate>Tue, 24 Dec 2024 07:25:48 +0000</lastBuildDate>
+  <pubDate>Tue, 24 Dec 2024 13:25:46 +0000</pubDate>
+  <lastBuildDate>Tue, 24 Dec 2024 13:25:46 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -26,6 +26,21 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Ep. 161: A Historical Look at the First Christmas with Dr. Craig Evans [The Outstanding Podcast]]]></title>
+   <link/>
+   <description><![CDATA[<p>While the Christmas story has been told for centuries, it is more intricate than often assumed and includes many details that the modern Christian may be unfamiliar with. Dr. Craig Evans, professor at Houston Christian University, joins Joseph Backholm to highlight the cultural and historical backdrop of Herod&rsquo;s rule, the fulfillment of prophecies, and the Magi&rsquo;s search for a new King. He examines who Joseph and Mary were and Joseph&rsquo;s dilemma over Mary&rsquo;s pregnancy, emphasizing the significance of a virgin birth. With insights into the shepherds&rsquo; role and ancient symbols like long-tailed stars, Dr. Evans provides ample proof of why the greatest story ever told is true.</p>]]></description>
+   <author><![CDATA[Joseph Backholm]]></author>
+   <enclosure url="https://app.dropwave.io/episode/1b8d80a8-db6b-4bdd-b699-b8d3aa98d3c1/ep-161-a-historical-look-at-the-first-christmas-with-dr-craig-evans.mp3" length="3420" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[1b8d80a8-db6b-4bdd-b699-b8d3aa98d3c1]]></guid>
+   <pubDate>Tue, 24 Dec 2024 11:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Joseph Backholm]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/03cb0a71-51fd-48b9-b2ef-b3104f5b133d/cover-art/38CYX60hTuMi0CVRwzaxNKLGpnGOhaR5BczKSfeT.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3420</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[Ep. 160: The Call to Wonder: Seeking God in Beauty and Mystery with Rod Dreher [The Outstanding Podcast]]]></title>
    <link/>
    <description><![CDATA[<p>In an age of reason and rationality are we blinded from seeing the mystical? Rod Dreher author of&nbsp;<em>Living in Wonder: Finding Mystery and Meaning in a Secular Age</em>&nbsp;joins Joseph Backholm for a conversation about how awe and wonder caused him to search for God. He shares personal experiences of mystical encounters, cautions against the occult, and calls on the church to address spiritual warfare and God&rsquo;s presence. Dreher emphasizes wisdom over emotion, advocating for a grounded faith where spiritual experiences point back to God, not away from him.</p>
@@ -89,24 +104,6 @@
    <itunes:duration>3149</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   
-  </item><item>
-   <title><![CDATA[Ep. 156: What To Expect - Trump Admin First 100 Days [The Outstanding Podcast]]]></title>
-   <link/>
-   <description><![CDATA[<p>Host Joseph Backholm is joined by FRC Action&rsquo;s Matt Carpenter as they discuss what we can expect to see from the Trump administration&rsquo;s first 100 days in office. Everyone knows that Trump is a man with a plan, but what does that plan entail? Joseph and Matt discuss Trump&rsquo;s priorities, his recent admin and cabinet picks, and the role Congress will play throughout his presidency. Make America Great Again and give this episode a listen!</p>
-<p>Resources</p>
-<ul>
-<li><a href="https://frcaction.org/accomplishments">Trump Administration Accomplishments</a></li>
-</ul>]]></description>
-   <author><![CDATA[Joseph Backholm]]></author>
-   <enclosure url="https://app.dropwave.io/episode/ee19fd8c-4e2f-4fd2-87b3-1f8a434457b4/ep-156-what-to-expect-trump-admin-first-100-days.mp3" length="2830" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[ee19fd8c-4e2f-4fd2-87b3-1f8a434457b4]]></guid>
-   <pubDate>Fri, 06 Dec 2024 11:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Joseph Backholm]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/03cb0a71-51fd-48b9-b2ef-b3104f5b133d/cover-art/38CYX60hTuMi0CVRwzaxNKLGpnGOhaR5BczKSfeT.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2830</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
 </rss>
