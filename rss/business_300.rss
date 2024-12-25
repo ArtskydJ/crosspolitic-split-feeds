@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Wed, 25 Dec 2024 07:25:45 +0000</pubDate>
-  <lastBuildDate>Wed, 25 Dec 2024 07:25:45 +0000</lastBuildDate>
+  <pubDate>Wed, 25 Dec 2024 13:26:01 +0000</pubDate>
+  <lastBuildDate>Wed, 25 Dec 2024 13:26:01 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -26,6 +26,24 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Ep. 147 - A Company Christmas Party [Business 300]]]></title>
+   <link/>
+   <description><![CDATA[<p>Most businesses host some sort of a Christmas party. Whether extravagant or simple, businesses have a Company Christmas Party. But that seems a bit strange, does it not? Why have a Company Christmas party?&nbsp;<br /><br /></p>
+<p>On this holiday, when we remember God&rsquo;s gift to mankind and give gifts to one another, how great it is that we can celebrate together with the people that we work with, the ones with whom every day we give of ourselves to others.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Happy Working. Merry Giving.<br />And Merry Christmas!</p>]]></description>
+   <author><![CDATA[Philip Kulishov]]></author>
+   <enclosure url="https://app.dropwave.io/episode/7b4f5647-6666-4349-a704-6daf6a82c304/ep-147-a-company-christmas-party.mp3" length="294" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[7b4f5647-6666-4349-a704-6daf6a82c304]]></guid>
+   <pubDate>Wed, 25 Dec 2024 08:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/tVPyGmUBBTPxlFCxH6b38wb9IQe0pYeQPTideoor.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>294</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[Ep. 146 - Manage Customer Expectations [Business 300]]]></title>
    <link/>
    <description><![CDATA[<p>Delivering on expectations is a good summary of what every business owner does. We make promises and then deliver on them. This happens with all parties and transactions. Customers, employees, financiers, vendors. Business owners deliver on expectations. If you want to deliver on customer expectations reliably and consistently, you must take the responsibility to set and manage them. You must manage customer expectations.</p>]]></description>
@@ -85,20 +103,6 @@
    <itunes:duration>300</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   
-  </item><item>
-   <title><![CDATA[Ep. 142 - Playing the Long Game in Your Sales Strategy [Business 300]]]></title>
-   <link/>
-   <description><![CDATA[<p>Playing the short game in your sales strategy is reactionary and frantic. It's pushing the product onto the customer. Playing the long game is proactive and free. It's pulling the customer into the product. You either have to spend time and energy pressuring leads to become customers as you squeeze droplets of juice by hand out of the single orange, or you spend time and energy building and maintaining trust, as you plant and water an orchard of orange trees, harvesting an abundance in due time. The mindset is what I'm talking about. Winning is playing the long game in your sales strategy.</p>]]></description>
-   <author><![CDATA[Philip Kulishov]]></author>
-   <enclosure url="https://app.dropwave.io/episode/c1c59725-8bc5-4ae3-9ec4-c7df4cac5631/ep-142-playing-the-long-game-in-your-sales-strategy.mp3" length="230" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[c1c59725-8bc5-4ae3-9ec4-c7df4cac5631]]></guid>
-   <pubDate>Mon, 09 Dec 2024 08:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/eVYt15OdGyt7Ac5pM0KpCRkZWhr0kMGh0poOSpZn.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>230</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
 </rss>
