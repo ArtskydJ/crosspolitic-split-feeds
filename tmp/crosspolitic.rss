@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 30 Dec 2024 19:25:47 +0000</pubDate>
-  <lastBuildDate>Mon, 30 Dec 2024 19:25:47 +0000</lastBuildDate>
+  <pubDate>Tue, 31 Dec 2024 01:26:17 +0000</pubDate>
+  <lastBuildDate>Tue, 31 Dec 2024 01:26:17 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,25 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[TCND:  We Love Musical Theater (EVERYONE Has ADHD) [The Comedian Next Door]]]></title>
+   <link/>
+   <description><![CDATA[<p>Hey, Neighbor! Please send your messages of shame for Luke to: <a href="mailto:nextdoor@johnbranyan.com">nextdoor@johnbranyan.com</a> . There are many things we can abide, but removing the cream cheese frosting from the middle of a pumkin roll is NOT one of them...</p>
+<p>Next: Grandpa John and Grandma Lori bought the annoying gifts this year. But there was PLENTY of music at Christmas! We love singing, and most of us can hear when we're doing it badly. So that's something!</p>
+<p>Then: What is it about musical theater that is so captivating! (Spoilers, it's EVERYTHING.)&nbsp; With LIVE theater, you never see the same show twice! It's sooooo cool! &nbsp;Don't forget the subtitles...and sing like you don't realize someone is listening.</p>
+<p>Later: It's annoying when people with "ADHD" describe what goes on in their heads, as if it's not totally normal. The difference between someone with ADHD and someone who gets to church on time is discipline.&nbsp; That's it!&nbsp; &nbsp;Be on the lookout for John's new children's book.&nbsp; He was able to write it because he has learned to override his ADHD.&nbsp;</p>
+<p>Thanks for supporting The Comedian Next Door on the Fight Laugh Feast network!&nbsp;</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/c0fb51ab-392c-46ec-9c4b-b1fe000141bc/tcnd-we-love-musical-theater-everyone-has-adhd.mp3" length="2925" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[c0fb51ab-392c-46ec-9c4b-b1fe000141bc]]></guid>
+   <pubDate>Mon, 30 Dec 2024 12:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2925</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Magic [Systems?] in Fantasy Literature [The Pugcast]]]></title>
    <link/>
@@ -1009,21 +1028,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/6d9ead85-0274-4464-8c1c-aac836e1c6d9/cover-art/XtVmNCdtNscJOx3aValHW1xpBm29wO13tj7np2NF.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>1500</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Yuletide [Resistance and Reformation]]]></title>
-   <link/>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/bb142abc-8c65-4e07-959b-61ba30be35c6/yuletide.mp3" length="559" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[bb142abc-8c65-4e07-959b-61ba30be35c6]]></guid>
-   <pubDate>Tue, 10 Dec 2024 20:16:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>559</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
