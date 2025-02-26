@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Wed, 26 Feb 2025 07:25:47 +0000</pubDate>
-  <lastBuildDate>Wed, 26 Feb 2025 07:25:47 +0000</lastBuildDate>
+  <pubDate>Wed, 26 Feb 2025 13:25:50 +0000</pubDate>
+  <lastBuildDate>Wed, 26 Feb 2025 13:25:50 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -26,6 +26,22 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Ep. 164 - When Administration  Doesn't Serve the Customer [Business 300]]]></title>
+   <link/>
+   <description><![CDATA[<p>If the purpose of a business - of any business - is to deliver value to a customer, each function revolves around that purpose. Strategy is to create the value, Sales is to promote it, Operations is to deliver it. And Administration is to manage it.</p>
+<p>Administration should be serving to help the overall customer experience, not bog it down. Order and control are good, and very much needed, as long as they serve the greater purpose of delivering value to the customer. But order and control exasperate everybody when Administration doesn't serve the customer.</p>]]></description>
+   <author><![CDATA[Philip Kulishov]]></author>
+   <enclosure url="https://app.dropwave.io/episode/1ce4ae2d-fbda-4571-965a-78adf6132339/ep-164-when-administration-doesnt-serve-the-customer.mp3" length="293" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[1ce4ae2d-fbda-4571-965a-78adf6132339]]></guid>
+   <pubDate>Wed, 26 Feb 2025 08:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/CIFxY1VPuQVnAC8zwCLOLqPd4zIafm8DWJwgltI2.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>293</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[Ep. 163 - When Operations Doesn't Serve the Customer [Business 300]]]></title>
    <link/>
    <description><![CDATA[<p>In delivering value, Operations must hold the customer as the definer of what is right - right quantity, right quality, right timing - and then structure the systems accordingly. The customer, the business, and the operations function itself loses when Operations doesn't serve the customer.</p>]]></description>
