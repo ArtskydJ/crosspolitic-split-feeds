@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Sun, 02 Mar 2025 19:26:11 +0000</pubDate>
-  <lastBuildDate>Sun, 02 Mar 2025 19:26:11 +0000</lastBuildDate>
+  <pubDate>Mon, 03 Mar 2025 01:25:47 +0000</pubDate>
+  <lastBuildDate>Mon, 03 Mar 2025 01:25:47 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,22 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[SBC Fraud and Abuse: w/Tom Ascol, Tom Buck, William Wolfe and More [Let's Talk Eschatology]]]></title>
+   <link/>
+   <description><![CDATA[<p>Tom Ascol, Tom Buck, William Wolfe and Jeff Wright join host Cory Wing to discuss financial fraud and abuse and the future and importance of the Southern Baptist Convention</p>]]></description>
+   <author><![CDATA[Cory Wing]]></author>
+   <enclosure url="https://app.dropwave.io/episode/297fe22f-bdc4-4d57-8e98-c00ae21e91d5/sbc-fraud-and-abuse-wtom-ascol-tom-buck-william-wolfe-and-more.mp3" length="4181" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[297fe22f-bdc4-4d57-8e98-c00ae21e91d5]]></guid>
+   <pubDate>Sun, 02 Mar 2025 23:54:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Cory Wing]]></itunes:author>
+   <itunes:summary><![CDATA[SBC Fraud and Abuse: Tom Ascol, Tom Buck, William Wolfe and More]]></itunes:summary>
+   <itunes:image href="https://assets-cdn2.dropwave.io/c7ae6c2c-d626-4766-abf5-1e3852af0706/cover-art/xqM3C6oG7UKsP2mh7P3UkB7WW16nD75wR9DrwhPd.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>4181</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[The ‘Real’ China? │China: U.S. ‘Greatest’ Human Rights Violator │Two Insane Weeks [China Compass]]]></title>
    <link/>
@@ -259,22 +275,6 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[Ep. 164 - When Administration  Doesn't Serve the Customer [Business 300]]]></title>
-   <link/>
-   <description><![CDATA[<p>If the purpose of a business - of any business - is to deliver value to a customer, each function revolves around that purpose. Strategy is to create the value, Sales is to promote it, Operations is to deliver it. And Administration is to manage it.</p>
-<p>Administration should be serving to help the overall customer experience, not bog it down. Order and control are good, and very much needed, as long as they serve the greater purpose of delivering value to the customer. But order and control exasperate everybody when Administration doesn't serve the customer.</p>]]></description>
-   <author><![CDATA[Philip Kulishov]]></author>
-   <enclosure url="https://app.dropwave.io/episode/1ce4ae2d-fbda-4571-965a-78adf6132339/ep-164-when-administration-doesnt-serve-the-customer.mp3" length="293" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[1ce4ae2d-fbda-4571-965a-78adf6132339]]></guid>
-   <pubDate>Wed, 26 Feb 2025 08:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/CIFxY1VPuQVnAC8zwCLOLqPd4zIafm8DWJwgltI2.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>293</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
    <title><![CDATA[Andy Coleman: Persecution at Home and Abroad [Dead Men Walking Podcast]]]></title>
    <link/>
    <description><![CDATA[<p><a href="https://www.buzzsprout.com/twilio/text_messages/958282/open_sms" target="_blank" rel="noopener">Send us a text</a></p>
@@ -292,6 +292,22 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/336e6745-00c3-4f9f-a8f5-78b7e05a5434/cover-art/7A5xkYJRSXe91ZLygkQ8NdVWqnqTonXB98yk3pCZ.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3082</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[Ep. 164 - When Administration  Doesn't Serve the Customer [Business 300]]]></title>
+   <link/>
+   <description><![CDATA[<p>If the purpose of a business - of any business - is to deliver value to a customer, each function revolves around that purpose. Strategy is to create the value, Sales is to promote it, Operations is to deliver it. And Administration is to manage it.</p>
+<p>Administration should be serving to help the overall customer experience, not bog it down. Order and control are good, and very much needed, as long as they serve the greater purpose of delivering value to the customer. But order and control exasperate everybody when Administration doesn't serve the customer.</p>]]></description>
+   <author><![CDATA[Philip Kulishov]]></author>
+   <enclosure url="https://app.dropwave.io/episode/1ce4ae2d-fbda-4571-965a-78adf6132339/ep-164-when-administration-doesnt-serve-the-customer.mp3" length="293" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[1ce4ae2d-fbda-4571-965a-78adf6132339]]></guid>
+   <pubDate>Wed, 26 Feb 2025 08:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/CIFxY1VPuQVnAC8zwCLOLqPd4zIafm8DWJwgltI2.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>293</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -723,22 +739,6 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[Ep. 162 - When Sales Doesn't Serve the Customer [Business 300]]]></title>
-   <link/>
-   <description><![CDATA[<p>In episode 161, I talked about what a self-serving strategy looks like. This time we're going to talk about sales. What does self-serving sales look like?&nbsp;</p>
-<p>When the customer believes that your value-offering is relevant and reliable, revenue growth follows. But when you chase revenue-growth, you win neither the customer nor the sale.</p>]]></description>
-   <author><![CDATA[Philip Kulishov]]></author>
-   <enclosure url="https://app.dropwave.io/episode/6a58b3f9-a3f0-4e8b-b16e-2dcf2cf9c2d4/ep-162-when-sales-doesnt-serve-the-customer.mp3" length="285" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[6a58b3f9-a3f0-4e8b-b16e-2dcf2cf9c2d4]]></guid>
-   <pubDate>Wed, 19 Feb 2025 08:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/8o1OyPJ9nYKMktyJMfwvyFDqeYHUJ4p5AK3p38DC.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>285</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
    <title><![CDATA[Kristan Hawkins is being a Pro-Life Karen with Ben Ziesloft [Dead Men Walking Podcast]]]></title>
    <link/>
    <description><![CDATA[<p><a href="https://www.buzzsprout.com/twilio/text_messages/958282/open_sms" target="_blank" rel="noopener">Send us a text</a></p>
@@ -756,6 +756,22 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/336e6745-00c3-4f9f-a8f5-78b7e05a5434/cover-art/x68yBjhqvCjPrEH4ZeFj6ksmMFAXg5FOv0nTGxgH.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2398</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[Ep. 162 - When Sales Doesn't Serve the Customer [Business 300]]]></title>
+   <link/>
+   <description><![CDATA[<p>In episode 161, I talked about what a self-serving strategy looks like. This time we're going to talk about sales. What does self-serving sales look like?&nbsp;</p>
+<p>When the customer believes that your value-offering is relevant and reliable, revenue growth follows. But when you chase revenue-growth, you win neither the customer nor the sale.</p>]]></description>
+   <author><![CDATA[Philip Kulishov]]></author>
+   <enclosure url="https://app.dropwave.io/episode/6a58b3f9-a3f0-4e8b-b16e-2dcf2cf9c2d4/ep-162-when-sales-doesnt-serve-the-customer.mp3" length="285" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[6a58b3f9-a3f0-4e8b-b16e-2dcf2cf9c2d4]]></guid>
+   <pubDate>Wed, 19 Feb 2025 08:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/8o1OyPJ9nYKMktyJMfwvyFDqeYHUJ4p5AK3p38DC.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>285</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -1016,21 +1032,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3411</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Ep. 176: Love, Marriage & Culture Wars: A Conversation with Dr.Jim Garlow [The Outstanding Podcast]]]></title>
-   <link/>
-   <description><![CDATA[<p>Dr. Jim Garlow, founder and CEO of Well Versed, joins Joseph Backholm to explore the biblical foundation of marriage. They unpack Genesis 1 and 2 and address the cultural decline in marriage and birth rates. He examines the spiritual and societal war on marriage, the church&rsquo;s shift away from its importance, and the disconnect between wanting marriage and being married. Tune in for insights on covenant marriage and how to pray for your spouse.</p>]]></description>
-   <author><![CDATA[Joseph Backholm]]></author>
-   <enclosure url="https://app.dropwave.io/episode/fd7bc651-2da0-4934-b5d0-e89e2417e430/ep-176-love-marriage-culture-wars-a-conversation-with-drjim-garlow.mp3" length="3368" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[fd7bc651-2da0-4934-b5d0-e89e2417e430]]></guid>
-   <pubDate>Fri, 14 Feb 2025 11:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Joseph Backholm]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/03cb0a71-51fd-48b9-b2ef-b3104f5b133d/cover-art/38CYX60hTuMi0CVRwzaxNKLGpnGOhaR5BczKSfeT.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3368</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
