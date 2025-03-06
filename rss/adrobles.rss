@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 24 Feb 2025 07:25:48 +0000</pubDate>
-  <lastBuildDate>Mon, 24 Feb 2025 07:25:48 +0000</lastBuildDate>
+  <pubDate>Thu, 06 Mar 2025 01:25:47 +0000</pubDate>
+  <lastBuildDate>Thu, 06 Mar 2025 01:25:47 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -26,19 +26,20 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
-   <title><![CDATA[Liberal Tactics in the PCA - EXPOSED! [AD on FLF Network]]]></title>
+   <title><![CDATA[Gavin Ortlund: Updated Version of Big Eva -Part 1 [AD on FLF Network]]]></title>
    <link/>
    <description><![CDATA[]]></description>
    <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/4b1ca6ad-9650-4e90-84ba-fc01342eebec/liberal-tactics-in-the-pca-exposed.mp3" length="1258" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[4b1ca6ad-9650-4e90-84ba-fc01342eebec]]></guid>
-   <pubDate>Fri, 07 Feb 2025 14:42:00 +0000</pubDate>
+   <enclosure url="https://app.dropwave.io/episode/64252757-7229-4c78-8319-580e991afd20/gavin-ortlund-updated-version-of-big-eva-part-1.mp3" length="1449" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[64252757-7229-4c78-8319-580e991afd20]]></guid>
+   <pubDate>Wed, 05 Mar 2025 22:12:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
    <itunes:image href="https://assets-cdn2.dropwave.io/e985f24f-d823-4e20-b87a-9e2fa86624f5/cover-art/me0OCTvDSY04mcI5sI97SZ3jsUtDXyHr5ExQtpr2.jpg"/>
    <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1258</itunes:duration>
+   <itunes:duration>1449</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
+  
   </item>
  </channel>
 </rss>
