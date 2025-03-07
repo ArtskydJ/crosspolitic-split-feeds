@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Fri, 07 Mar 2025 13:25:48 +0000</pubDate>
-  <lastBuildDate>Fri, 07 Mar 2025 13:25:48 +0000</lastBuildDate>
+  <pubDate>Fri, 07 Mar 2025 19:25:48 +0000</pubDate>
+  <lastBuildDate>Fri, 07 Mar 2025 19:25:48 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -26,6 +26,22 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Riff Session 33 - The Most Ever Paid For A Cheeto [The Comedian Next Door]]]></title>
+   <link/>
+   <description><![CDATA[<p>In this engaging podcast episode, the hosts explore various themes ranging from March celebrations and Shakespearean references to personal anecdotes from high school, the evolution of technology and AI, discussions about comic books and superheroes, and reflections on pop culture and movies. The conversation flows naturally, allowing for a rich exploration of each topic. In this engaging conversation, the hosts delve into various aspects of pop culture, from the significance of recent musicals like 'Wicked' to the latest trends in media consumption and communication. They explore how the Oscars reflect current cinematic trends, the evolution of how we consume media, and the impact of GIFs on modern communication. The discussion highlights the challenges of staying relevant in a fast-paced cultural landscape and the humorous nuances of digital interactions. In this engaging conversation, the hosts explore the evolution of communication, particularly in the context of texting and the impact of AI on social interactions. They humorously navigate the nuances of texting etiquette among friends, discuss the future of leisure in a world increasingly dominated by technology, and delve into the bizarre phenomenon of collectible food items, specifically a Cheeto that resembles a popular Pok&eacute;mon character.</p>
+<p>&nbsp;</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/4c44f3f7-d847-4b50-aecf-d7b6e3ce656e/riff-session-33-the-most-ever-paid-for-a-cheeto.mp3" length="2890" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[4c44f3f7-d847-4b50-aecf-d7b6e3ce656e]]></guid>
+   <pubDate>Fri, 07 Mar 2025 14:23:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2890</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[TCND: Frumpy Paint Pants and List of Stuff Conservatives Like [The Comedian Next Door]]]></title>
    <link/>
    <description><![CDATA[<p>This family has hundreds of conversations every week, and here's one of them!&nbsp; Poor Tabby regularly gets teased and criticized when she's not here... So how much should we let it bother us when someone doesn't like what we're wearing? How much should we listen when people criticize?</p>
@@ -92,7 +108,6 @@
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3288</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
-  
   </item>
  </channel>
 </rss>
