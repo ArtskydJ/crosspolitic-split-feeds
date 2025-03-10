@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 10 Mar 2025 13:25:44 +0000</pubDate>
-  <lastBuildDate>Mon, 10 Mar 2025 13:25:44 +0000</lastBuildDate>
+  <pubDate>Mon, 10 Mar 2025 19:25:44 +0000</pubDate>
+  <lastBuildDate>Mon, 10 Mar 2025 19:25:44 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -26,20 +26,18 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
-   <title><![CDATA[TCND:  Plodding Success Stories and a Scandal (Thigh-High Horror) [The Comedian Next Door]]]></title>
+   <title><![CDATA[Joining the Debate [In the Bullpen]]]></title>
    <link/>
-   <description><![CDATA[<p>Welcome to MARCH, Neighbor!&nbsp; We've put in so much work to pull off another Art in Bloom fundraiser, but it is a testimony to how PLODDING WORKS.</p>
-<p>There's no more hot chocolate, so pour yourself a mug of Poverty and tuck in for some good stories. We've got TWO examples of shocking/embarassing things that we managed to survive. And then we chat about how to eat an elephant...</p>
-<p>Contact the comedian's family at Nextdoor@johnbranyan.com</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/22160c11-ba24-4c57-a6b8-dcad6c6f86ce/tcnd-plodding-success-stories-and-a-scandal-thigh-high-horror.mp3" length="2958" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[22160c11-ba24-4c57-a6b8-dcad6c6f86ce]]></guid>
-   <pubDate>Mon, 10 Mar 2025 11:00:00 +0000</pubDate>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/880c7ebe-38d2-4ded-9335-28e14f332a90/joining-the-debate.mp3" length="1505" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[880c7ebe-38d2-4ded-9335-28e14f332a90]]></guid>
+   <pubDate>Mon, 10 Mar 2025 16:00:00 +0000</pubDate>
    <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
    <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2958</itunes:duration>
+   <itunes:duration>1505</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -55,6 +53,23 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/2ab40ac0-e99d-4f25-a6d2-541d2c9b290a/cover-art/mUK8zsnHkCK3vep7E1W6UgYb9dTnLenASAMEFha3.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>328</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[TCND:  Plodding Success Stories and a Scandal (Thigh-High Horror) [The Comedian Next Door]]]></title>
+   <link/>
+   <description><![CDATA[<p>Welcome to MARCH, Neighbor!&nbsp; We've put in so much work to pull off another Art in Bloom fundraiser, but it is a testimony to how PLODDING WORKS.</p>
+<p>There's no more hot chocolate, so pour yourself a mug of Poverty and tuck in for some good stories. We've got TWO examples of shocking/embarassing things that we managed to survive. And then we chat about how to eat an elephant...</p>
+<p>Contact the comedian's family at Nextdoor@johnbranyan.com</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/22160c11-ba24-4c57-a6b8-dcad6c6f86ce/tcnd-plodding-success-stories-and-a-scandal-thigh-high-horror.mp3" length="2958" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[22160c11-ba24-4c57-a6b8-dcad6c6f86ce]]></guid>
+   <pubDate>Mon, 10 Mar 2025 11:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>2958</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -88,22 +103,6 @@
    <source url=""><![CDATA[FLF, LLC]]></source>
    <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
    <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/ECODZYhgO2oNNqTbjtbTFuvt1LGjIrXr607jQjpl.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>275</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Ep. 167 - A Business Owner Delivers Value. [Business 300]]]></title>
-   <link/>
-   <description><![CDATA[<p>The wonder of business and free enterprise enables this vision and is a necessity without which human flourishing is impossible. The recipient of value is a customer. And the giver of value is a business, or more personally, a business owner.</p>
-<p>It's a feedback loop of value upon value, or blessing upon blessing, and it all starts with the business owner's agency. Owning a business is good. That can be, and is to be taken both ways. It's good for the business owner. But, more importantly, it's good for others - for those whom the business owner is serving. That's because a business owner delivers value.</p>]]></description>
-   <author><![CDATA[Philip Kulishov]]></author>
-   <enclosure url="https://app.dropwave.io/episode/d59bcd78-30df-4a11-b297-c07bbaa02a3a/ep-167-a-business-owner-delivers-value.mp3" length="275" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[d59bcd78-30df-4a11-b297-c07bbaa02a3a]]></guid>
-   <pubDate>Mon, 10 Mar 2025 07:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/b2QCjpnSB9T4rRhjkwX7x2X1I4qhZMhUTQ0KYhKl.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>275</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
@@ -511,21 +510,6 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[KDCP - Stories From Campus w Tom Short [Campus Preacher]]]></title>
-   <link/>
-   <description><![CDATA[<p>In this episode, Tom Short and I share storeis from our week preaching on campus together.</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/dc28be27-5baf-4833-b46b-4c5be27b340d/kdcp-stories-from-campus-w-tom-short.mp3" length="1779" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[dc28be27-5baf-4833-b46b-4c5be27b340d]]></guid>
-   <pubDate>Mon, 03 Mar 2025 12:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/931fd9c4-1c60-4949-85db-e74a6e1f88fc/cover-art/W41Xalf47AwHAGKZ8NFWFwWZDf4p6s4D421ATQH6.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1779</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
    <title><![CDATA[TCND: Frumpy Paint Pants and List of Stuff Conservatives Like [The Comedian Next Door]]]></title>
    <link/>
    <description><![CDATA[<p>This family has hundreds of conversations every week, and here's one of them!&nbsp; Poor Tabby regularly gets teased and criticized when she's not here... So how much should we let it bother us when someone doesn't like what we're wearing? How much should we listen when people criticize?</p>
@@ -540,6 +524,21 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2805</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[KDCP - Stories From Campus w Tom Short [Campus Preacher]]]></title>
+   <link/>
+   <description><![CDATA[<p>In this episode, Tom Short and I share storeis from our week preaching on campus together.</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/dc28be27-5baf-4833-b46b-4c5be27b340d/kdcp-stories-from-campus-w-tom-short.mp3" length="1779" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[dc28be27-5baf-4833-b46b-4c5be27b340d]]></guid>
+   <pubDate>Mon, 03 Mar 2025 12:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/931fd9c4-1c60-4949-85db-e74a6e1f88fc/cover-art/W41Xalf47AwHAGKZ8NFWFwWZDf4p6s4D421ATQH6.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1779</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -827,6 +826,22 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
+   <title><![CDATA[Ep. 164 - When Administration  Doesn't Serve the Customer [Business 300]]]></title>
+   <link/>
+   <description><![CDATA[<p>If the purpose of a business - of any business - is to deliver value to a customer, each function revolves around that purpose. Strategy is to create the value, Sales is to promote it, Operations is to deliver it. And Administration is to manage it.</p>
+<p>Administration should be serving to help the overall customer experience, not bog it down. Order and control are good, and very much needed, as long as they serve the greater purpose of delivering value to the customer. But order and control exasperate everybody when Administration doesn't serve the customer.</p>]]></description>
+   <author><![CDATA[Philip Kulishov]]></author>
+   <enclosure url="https://app.dropwave.io/episode/1ce4ae2d-fbda-4571-965a-78adf6132339/ep-164-when-administration-doesnt-serve-the-customer.mp3" length="293" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[1ce4ae2d-fbda-4571-965a-78adf6132339]]></guid>
+   <pubDate>Wed, 26 Feb 2025 08:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/CIFxY1VPuQVnAC8zwCLOLqPd4zIafm8DWJwgltI2.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>293</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
    <title><![CDATA[Andy Coleman: Persecution at Home and Abroad [Dead Men Walking Podcast]]]></title>
    <link/>
    <description><![CDATA[<p><a href="https://www.buzzsprout.com/twilio/text_messages/958282/open_sms" target="_blank" rel="noopener">Send us a text</a></p>
@@ -844,22 +859,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/336e6745-00c3-4f9f-a8f5-78b7e05a5434/cover-art/7A5xkYJRSXe91ZLygkQ8NdVWqnqTonXB98yk3pCZ.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3082</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Ep. 164 - When Administration  Doesn't Serve the Customer [Business 300]]]></title>
-   <link/>
-   <description><![CDATA[<p>If the purpose of a business - of any business - is to deliver value to a customer, each function revolves around that purpose. Strategy is to create the value, Sales is to promote it, Operations is to deliver it. And Administration is to manage it.</p>
-<p>Administration should be serving to help the overall customer experience, not bog it down. Order and control are good, and very much needed, as long as they serve the greater purpose of delivering value to the customer. But order and control exasperate everybody when Administration doesn't serve the customer.</p>]]></description>
-   <author><![CDATA[Philip Kulishov]]></author>
-   <enclosure url="https://app.dropwave.io/episode/1ce4ae2d-fbda-4571-965a-78adf6132339/ep-164-when-administration-doesnt-serve-the-customer.mp3" length="293" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[1ce4ae2d-fbda-4571-965a-78adf6132339]]></guid>
-   <pubDate>Wed, 26 Feb 2025 08:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/CIFxY1VPuQVnAC8zwCLOLqPd4zIafm8DWJwgltI2.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>293</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
