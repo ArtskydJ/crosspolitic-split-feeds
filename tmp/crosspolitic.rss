@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Tue, 11 Mar 2025 13:25:48 +0000</pubDate>
-  <lastBuildDate>Tue, 11 Mar 2025 13:25:48 +0000</lastBuildDate>
+  <pubDate>Tue, 11 Mar 2025 19:25:48 +0000</pubDate>
+  <lastBuildDate>Tue, 11 Mar 2025 19:25:48 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Legislating [Resistance and Reformation]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/390e8e7c-ba49-49b7-9138-a1a6882a97de/legislating.mp3" length="626" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[390e8e7c-ba49-49b7-9138-a1a6882a97de]]></guid>
+   <pubDate>Tue, 11 Mar 2025 16:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/261ebdbb-5a5a-4650-ba2c-8c138886911b/cover-art/fEPh0pqkjOi1hWn2VDTvgRSsw3nOsdOFIBOfEGEP.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>626</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[The Rebels Live From The 2025 Men Of Valour Conference [Rebel - Podcast for Cultural Engagement]]]></title>
    <link/>
@@ -540,21 +555,6 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[KDCP - Stories From Campus w Tom Short [Campus Preacher]]]></title>
-   <link/>
-   <description><![CDATA[<p>In this episode, Tom Short and I share storeis from our week preaching on campus together.</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/dc28be27-5baf-4833-b46b-4c5be27b340d/kdcp-stories-from-campus-w-tom-short.mp3" length="1779" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[dc28be27-5baf-4833-b46b-4c5be27b340d]]></guid>
-   <pubDate>Mon, 03 Mar 2025 12:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/931fd9c4-1c60-4949-85db-e74a6e1f88fc/cover-art/W41Xalf47AwHAGKZ8NFWFwWZDf4p6s4D421ATQH6.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1779</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
    <title><![CDATA[TCND: Frumpy Paint Pants and List of Stuff Conservatives Like [The Comedian Next Door]]]></title>
    <link/>
    <description><![CDATA[<p>This family has hundreds of conversations every week, and here's one of them!&nbsp; Poor Tabby regularly gets teased and criticized when she's not here... So how much should we let it bother us when someone doesn't like what we're wearing? How much should we listen when people criticize?</p>
@@ -569,6 +569,21 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2805</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[KDCP - Stories From Campus w Tom Short [Campus Preacher]]]></title>
+   <link/>
+   <description><![CDATA[<p>In this episode, Tom Short and I share storeis from our week preaching on campus together.</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/dc28be27-5baf-4833-b46b-4c5be27b340d/kdcp-stories-from-campus-w-tom-short.mp3" length="1779" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[dc28be27-5baf-4833-b46b-4c5be27b340d]]></guid>
+   <pubDate>Mon, 03 Mar 2025 12:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/931fd9c4-1c60-4949-85db-e74a6e1f88fc/cover-art/W41Xalf47AwHAGKZ8NFWFwWZDf4p6s4D421ATQH6.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1779</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -985,21 +1000,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/28652366-7376-4009-af11-df4975b58341/cover-art/vg0QsnYPbg4uDnUgkc4IYUdJSTqBlrycyvf6S2Kx.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3561</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[The Competition of Spring Training [In the Bullpen]]]></title>
-   <link/>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[Mark Dewey]]></author>
-   <enclosure url="https://app.dropwave.io/episode/910546fc-aed5-46f9-950b-8331fa69cb53/the-competition-of-spring-training.mp3" length="1082" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[910546fc-aed5-46f9-950b-8331fa69cb53]]></guid>
-   <pubDate>Mon, 24 Feb 2025 17:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1082</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
