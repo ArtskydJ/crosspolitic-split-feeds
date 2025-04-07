@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 07 Apr 2025 01:25:57 +0000</pubDate>
-  <lastBuildDate>Mon, 07 Apr 2025 01:25:57 +0000</lastBuildDate>
+  <pubDate>Mon, 07 Apr 2025 07:25:47 +0000</pubDate>
+  <lastBuildDate>Mon, 07 Apr 2025 07:25:47 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -26,6 +26,26 @@
   </itunes:owner>
   <itunes:category text="News"/>
   <item>
+   <title><![CDATA[Ep. 175 - Making Things Happen - Part 4 [Business 300]]]></title>
+   <link/>
+   <description><![CDATA[<p>We are responsible to make things happen. To find a way, and get it done.</p>
+<p>We are to approach it with Competent Care - getting good at what we do because we care enough about it.</p>
+<p>We are to have Strategic Shrewdness - getting creative and finding a strategic path forward.</p>
+<p>We are to assume Reasoned Risk - assuming the risk and committing the resources.</p>
+<p>And we are to employ Draining Diligence - exhausting our effort as we tirelessly keep our butt in the seat.</p>
+<p>We aren't to work aimlessly, punching the air. We are to run to win, as we get after making things happen.</p>]]></description>
+   <author><![CDATA[Philip Kulishov]]></author>
+   <enclosure url="https://app.dropwave.io/episode/35ae1963-7b79-4899-8292-7381f1b37324/ep-175-making-things-happen-part-4.mp3" length="266" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[35ae1963-7b79-4899-8292-7381f1b37324]]></guid>
+   <pubDate>Mon, 07 Apr 2025 07:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/tmDnWKmGOAotyj7FRJCQNoZm7Rhpixrt5f1n1zVY.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>266</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  
+  </item><item>
    <title><![CDATA[Ep. 174 - Making Things Happen - Part 3 [Business 300]]]></title>
    <link/>
    <description><![CDATA[<p>Some people keep collecting data, asking questions, and not acting because they're never sure. Here's the secret. There's no way to be sure. Risk is always there. If we're after results, at some point, we're going to have to make decisions and commit resources, without being fully sure if our decision is right. Results have more to do with committing to a decision and seeing it through to completion, then they do with endless data analytics.</p>
@@ -94,7 +114,6 @@
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>300</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
-  
   </item>
  </channel>
 </rss>
