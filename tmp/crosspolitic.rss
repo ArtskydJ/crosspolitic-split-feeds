@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Thu, 17 Apr 2025 13:25:43 +0000</pubDate>
-  <lastBuildDate>Thu, 17 Apr 2025 13:25:43 +0000</lastBuildDate>
+  <pubDate>Thu, 17 Apr 2025 19:26:19 +0000</pubDate>
+  <lastBuildDate>Thu, 17 Apr 2025 19:26:19 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Riff Session 38 - Sea Turtles Are Delicious [The Comedian Next Door]]]></title>
+   <link/>
+   <description><![CDATA[<p>The hosts explore a variety of topics ranging from nostalgic references to the classic show Dragnet, to discussions about fishing laws, the struggles of sea turtles, the behavior of killer whales, and the unique migration patterns of crabs. They also delve into culinary curiosities, debating the edibility of various unusual foods and the experiences of trying new things. The conversation is light-hearted and filled with humor, making it an enjoyable listen for anyone interested in nature and food. In this lively conversation, the hosts explore a variety of topics ranging from the taste of raw and sweetened coconut to the unique Japanese method of wood preservation known as Shoshugiban. They discuss the practicality of flooding a restaurant with clean water as a protective measure and share humorous anecdotes about dining experiences. The conversation also touches on MIT's booby trap tradition and the complexities of sharing music preferences among friends, highlighting the intersection of personal privacy and social connections. In this conversation, the hosts explore various themes surrounding music, church culture, and societal norms. They discuss the evolution of romantic music, the changing landscape of church music, and the cultural references that shape modern church services. The conversation takes a humorous turn as they analyze a controversial church advertisement that coincides with 420, leading to deeper theological discussions about God and suffering. The hosts also reflect on the irony and humor found in religious contexts, particularly in relation to societal expectations and norms.</p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/e4f64718-e326-4cd0-a05b-6b747f2eef6c/riff-session-38.mp3" length="3241" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[e4f64718-e326-4cd0-a05b-6b747f2eef6c]]></guid>
+   <pubDate>Thu, 17 Apr 2025 15:30:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3241</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Harvard to the Homeroom: Same Chains, Same Master w/ Special Guest Robert Bortins [CrossPolitic Show]]]></title>
    <link/>
@@ -112,23 +127,6 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[Ep. 178 - Facets of Organizational Structure - Part 3 [Business 300]]]></title>
-   <link/>
-   <description><![CDATA[<p>The fifth facet is the Framework.&nbsp;</p>
-<p>You have to consider today, tomorrow, and the future.<br />You have to consider the task, the person, and the people.<br />You have to consider execution, equipping, and planning.</p>
-<p>You need a framework that can ensure your business' effectiveness and efficiency.</p>]]></description>
-   <author><![CDATA[Philip Kulishov]]></author>
-   <enclosure url="https://app.dropwave.io/episode/c742cc21-1d26-4777-a08c-ebaf2abb1ad1/ep-178-facets-of-organizational-structure-part-3.mp3" length="248" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[c742cc21-1d26-4777-a08c-ebaf2abb1ad1]]></guid>
-   <pubDate>Wed, 16 Apr 2025 07:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/TiihqL5MesfQ0P0CLDs9FNgREBbANwx1YQMTaUSO.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>248</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
    <title><![CDATA[The Debate of the Millennium: Keith Foskey vs Matthew Everhard: The Mode of Baptism! [Dead Men Walking Podcast]]]></title>
    <link/>
    <description><![CDATA[<p><a href="https://www.buzzsprout.com/twilio/text_messages/958282/open_sms" target="_blank" rel="noopener">Send us a text</a></p>
@@ -147,6 +145,23 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/336e6745-00c3-4f9f-a8f5-78b7e05a5434/cover-art/ry42mztOfcfcDPu9D5PmPXZYgJyU5Sv6254GE59h.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>7754</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[Ep. 178 - Facets of Organizational Structure - Part 3 [Business 300]]]></title>
+   <link/>
+   <description><![CDATA[<p>The fifth facet is the Framework.&nbsp;</p>
+<p>You have to consider today, tomorrow, and the future.<br />You have to consider the task, the person, and the people.<br />You have to consider execution, equipping, and planning.</p>
+<p>You need a framework that can ensure your business' effectiveness and efficiency.</p>]]></description>
+   <author><![CDATA[Philip Kulishov]]></author>
+   <enclosure url="https://app.dropwave.io/episode/c742cc21-1d26-4777-a08c-ebaf2abb1ad1/ep-178-facets-of-organizational-structure-part-3.mp3" length="248" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[c742cc21-1d26-4777-a08c-ebaf2abb1ad1]]></guid>
+   <pubDate>Wed, 16 Apr 2025 07:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/TiihqL5MesfQ0P0CLDs9FNgREBbANwx1YQMTaUSO.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>248</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -1003,27 +1018,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/1c3a97bd-65b0-4aec-bb35-3a1b6eec5d2c/cover-art/1aHwDWeIeJN7YV2tcpMTq1QaVFLDhsbGp1roFUQ8.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>5821</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Ep. 186: A Light on the Hill: Faith, Politics, and the Legacy of Capitol Hill Baptist [The Outstanding Podcast]]]></title>
-   <link/>
-   <description><![CDATA[<p class="e-9652-text encore-text-body-medium" data-encore-id="text" data-slate-node="element"><span data-slate-node="text"><span class="sc-iAJcmt kMXkFi" data-slate-leaf="true">Should faith and politics mix? Joseph Backholm sits down with Caleb Morrell, author of&nbsp;</span></span><span data-slate-node="text"><span class="sc-iAJcmt kMXkFi" data-slate-leaf="true"><em>A Light on the Hill</em></span></span><span data-slate-node="text"><span class="sc-iAJcmt kMXkFi" data-slate-leaf="true">, to explore the unique role of Capitol Hill Baptist Church in shaping evangelicalism in the nation&rsquo;s capital. Caleb shares his journey with the church, uncovering its rich 150-year history, from its founding to its enduring biblical foundation despite cultural shifts. They discuss the church&rsquo;s impact in political spaces, the significance of strong leadership, and how it has remained a guiding light through changing times.</span></span></p>
-<p class="e-9652-text encore-text-body-medium" data-encore-id="text" data-slate-node="element"><span data-slate-node="text"><span class="sc-iAJcmt kMXkFi" data-slate-leaf="true"><strong>Resources</strong></span></span></p>
-<ul class="sc-eeRdLU ftvGKx" data-slate-node="element" data-slate-fragment="JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMlNob3VsZCUyMGZhaXRoJTIwYW5kJTIwcG9saXRpY3MlMjBtaXglM0YlMjBKb3NlcGglMjBCYWNraG9sbSUyMHNpdHMlMjBkb3duJTIwd2l0aCUyMENhbGViJTIwTW9ycmVsbCUyQyUyMGF1dGhvciUyMG9mJUMyJUEwJTIyJTdEJTJDJTdCJTIydGV4dCUyMiUzQSUyMkElMjBMaWdodCUyMG9uJTIwdGhlJTIwSGlsbCUyMiUyQyUyMml0YWxpYyUyMiUzQXRydWUlN0QlMkMlN0IlMjJ0ZXh0JTIyJTNBJTIyJTJDJTIwdG8lMjBleHBsb3JlJTIwdGhlJTIwdW5pcXVlJTIwcm9sZSUyMG9mJTIwQ2FwaXRvbCUyMEhpbGwlMjBCYXB0aXN0JTIwQ2h1cmNoJTIwaW4lMjBzaGFwaW5nJTIwZXZhbmdlbGljYWxpc20lMjBpbiUyMHRoZSUyMG5hdGlvbiVFMiU4MCU5OXMlMjBjYXBpdGFsLiUyMENhbGViJTIwc2hhcmVzJTIwaGlzJTIwam91cm5leSUyMHdpdGglMjB0aGUlMjBjaHVyY2glMkMlMjB1bmNvdmVyaW5nJTIwaXRzJTIwcmljaCUyMDE1MC15ZWFyJTIwaGlzdG9yeSUyQyUyMGZyb20lMjBpdHMlMjBmb3VuZGluZyUyMHRvJTIwaXRzJTIwZW5kdXJpbmclMjBiaWJsaWNhbCUyMGZvdW5kYXRpb24lMjBkZXNwaXRlJTIwY3VsdHVyYWwlMjBzaGlmdHMuJTIwVGhleSUyMGRpc2N1c3MlMjB0aGUlMjBjaHVyY2glRTIlODAlOTlzJTIwaW1wYWN0JTIwaW4lMjBwb2xpdGljYWwlMjBzcGFjZXMlMkMlMjB0aGUlMjBzaWduaWZpY2FuY2UlMjBvZiUyMHN0cm9uZyUyMGxlYWRlcnNoaXAlMkMlMjBhbmQlMjBob3clMjBpdCUyMGhhcyUyMHJlbWFpbmVkJTIwYSUyMGd1aWRpbmclMjBsaWdodCUyMHRocm91Z2glMjBjaGFuZ2luZyUyMHRpbWVzLiUyMiU3RCU1RCU3RCUyQyU3QiUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJjaGlsZHJlbiUyMiUzQSU1QiU3QiUyMnRleHQlMjIlM0ElMjJSZXNvdXJjZXMlMjIlMkMlMjJib2xkJTIyJTNBdHJ1ZSU3RCU1RCU3RCUyQyU3QiUyMnR5cGUlMjIlM0ElMjJidWxsZXRlZC1saXN0JTIyJTJDJTIyY2hpbGRyZW4lMjIlM0ElNUIlN0IlMjJ0eXBlJTIyJTNBJTIybGlzdC1pdGVtJTIyJTJDJTIyY2hpbGRyZW4lMjIlM0ElNUIlN0IlMjJ0eXBlJTIyJTNBJTIycGFyYWdyYXBoJTIyJTJDJTIyY2hpbGRyZW4lMjIlM0ElNUIlN0IlMjJ0eXBlJTIyJTNBJTIybGluayUyMiUyQyUyMnVybCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGd3d3LmFtYXpvbi5jb20lMkZMaWdodC1IaWxsLVN1cnByaXNpbmctSW5mbHVlbmNlZC1FdmFuZ2VsaWNhbGlzbSUyRmRwJTJGMTQzMzU5Mjg5NCUyMiUyQyUyMnRhcmdldCUyMiUzQSUyMl9ibGFuayUyMiUyQyUyMnJlbCUyMiUzQSUyMnVnYyUyMG5vb3BlbmVyJTIwbm9yZWZlcnJlciUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMkElMjBMaWdodCUyMG9uJTIwdGhlJTIwSGlsbCUzQSUyMFRoZSUyMFN1cnByaXNpbmclMjBTdG9yeSUyMG9mJTIwSG93JTIwYSUyMExvY2FsJTIwQ2h1cmNoJTIwaW4lMjB0aGUlMjBOYXRpb24ncyUyMENhcGl0YWwlMjBJbmZsdWVuY2VkJTIyJTdEJTVEJTdEJTJDJTdCJTIydGV4dCUyMiUzQSUyMiVDMiVBMGJ5JTIwQ2FsZWIlMjBNb3JyZWxsJTIyJTdEJTVEJTdEJTVEJTdEJTVEJTdEJTVE">
-<li data-slate-node="element">
-<p class="e-9652-text encore-text-body-medium" data-encore-id="text" data-slate-node="element"><a class="Link-sc-k8gsk-0 feDGbw e-9652-text-link sc-jWfcXB gQGioO" href="https://www.amazon.com/Light-Hill-Surprising-Influenced-Evangelicalism/dp/1433592894" data-slate-node="element" data-slate-inline="true" data-encore-id="textLink"><span contenteditable="false">⁠</span><span data-slate-node="text"><span class="sc-iAJcmt kMXkFi" data-slate-leaf="true">A Light on the Hill: The Surprising Story of How a Local Church in the Nation's Capital Influenced</span></span><span contenteditable="false">⁠</span></a><span data-slate-node="text"><span class="sc-iAJcmt kMXkFi" data-slate-leaf="true">&nbsp;by Caleb Morrell</span></span></p>
-</li>
-</ul>]]></description>
-   <author><![CDATA[Joseph Backholm]]></author>
-   <enclosure url="https://app.dropwave.io/episode/428a3ecd-ea2a-42c8-8033-bad9393533af/ep-186-a-light-on-the-hill-faith-politics-and-the-legacy-of-capitol-hill-baptist.mp3" length="1925" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[428a3ecd-ea2a-42c8-8033-bad9393533af]]></guid>
-   <pubDate>Wed, 02 Apr 2025 11:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Joseph Backholm]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/03cb0a71-51fd-48b9-b2ef-b3104f5b133d/cover-art/38CYX60hTuMi0CVRwzaxNKLGpnGOhaR5BczKSfeT.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>1925</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
