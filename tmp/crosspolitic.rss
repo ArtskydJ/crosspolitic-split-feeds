@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 26 May 2025 07:25:52 +0000</pubDate>
-  <lastBuildDate>Mon, 26 May 2025 07:25:52 +0000</lastBuildDate>
+  <pubDate>Mon, 26 May 2025 13:25:47 +0000</pubDate>
+  <lastBuildDate>Mon, 26 May 2025 13:25:47 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,23 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[The Spiritual Side of Mental Health [The Pugcast]]]></title>
+   <link/>
+   <description><![CDATA[<p class="p1">On today's episode the Pugsters welcome clinical mental health counselor Dr. Natalie Atwell onto the show. Dr. Atwell noticed a tremendous increase in the unusual number of rare mental health cases in her practice, many of which were in people who were engaged in occult practices. This has led her to work discerning the boundaries between mental health and spiritual warfare. Dr. Atwell&rsquo;s ideas and experience generate conversation about the practical aspects of her work, the implications of Heiser&rsquo;s work for mental health, and a variety of other related topics.</p>
+<p class="p2">&nbsp;</p>
+<p class="p1">Support the Pugcast on Patreon: <a href="https://www.patreon.com/thetheologypugcast?fbclid=IwAR17UHhfzjphO52C_kkZfursA_C784t0ldFix0wyB4fd-YOJpmOQ3dyqGf8">https://www.patreon.com/thetheologypugcast?fbclid=IwAR17UHhfzjphO52C_kkZfursA_C784t0ldFix0wyB4fd-YOJpmOQ3dyqGf8</a></p>]]></description>
+   <author><![CDATA[FLF, LLC]]></author>
+   <enclosure url="https://app.dropwave.io/episode/7f20c0ab-5ae9-4a4a-b00a-08938d829945/the-spiritual-side-of-mental-health.mp3" length="3490" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[7f20c0ab-5ae9-4a4a-b00a-08938d829945]]></guid>
+   <pubDate>Mon, 26 May 2025 08:15:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/95888944-bdd8-4d76-b4ae-8875769ac332/cover-art/twsSDPdYj7i3jNCMtA3RAyuxR6wfO3frLk6jWHJv.jpg"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>3490</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Daily News Brief for Saturday, May 24, 2025 - Washington State School Battles | Does the Supreme Court Understand Basic Grammar? [Daily News Brief]]]></title>
    <link/>
@@ -997,25 +1014,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/0a3dee73-38ca-4cc7-b0dc-e72b0074106c/cover-art/9eAbieEowe0YqcJWtwjZRRpiHcAMAamLsPf0v5yh.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3233</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[195. Thirty Years of Marriage ft. Susie Rock [Leadership Now Podcast]]]></title>
-   <link/>
-   <description><![CDATA[<p>Tune into this special episode of Leadership Now where Aaron brings his wife Susie on the show to discuss 30 marriage lessons that they have learned in their 30 years of marriage together.&nbsp;</p>
-<p>&nbsp;</p>
-<p>More Resources:</p>
-<p>More resources at <a href="https://beachheadmedia.ca/" target="_blank" rel="noreferrer noopener">beachheadmedia.ca</a></p>
-<p>Beachhead Media <a href="https://www.youtube.com/channel/UCTRwY4I8_rSQ7Z6I05k8lkA" target="_blank" rel="noreferrer noopener">YouTube</a></p>]]></description>
-   <author><![CDATA[Dr. Aaron Rock, Jesse Laframboise, Susie Rock]]></author>
-   <enclosure url="https://app.dropwave.io/episode/a3dd5522-729d-4fda-b704-e34a742aa5ff/195-thirty-years-of-marriage-ft-susie-rock.mp3" length="2590" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[a3dd5522-729d-4fda-b704-e34a742aa5ff]]></guid>
-   <pubDate>Thu, 08 May 2025 18:13:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Dr. Aaron Rock, Jesse Laframboise, Susie Rock]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/3312a6b0-2b88-4186-bfdd-e9c55d3d7e0f/cover-art/15NKPoaHsztRxchwoshvCZOyO1QS25anqAGgx6hK.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>2590</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
