@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 16 Jun 2025 01:25:46 +0000</pubDate>
-  <lastBuildDate>Mon, 16 Jun 2025 01:25:46 +0000</lastBuildDate>
+  <pubDate>Mon, 16 Jun 2025 07:25:50 +0000</pubDate>
+  <lastBuildDate>Mon, 16 Jun 2025 07:25:50 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,23 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[Ep. 195 - Make Them Feel Good [Business 300]]]></title>
+   <link/>
+   <description><![CDATA[<p>What if you ran an ad for your business that started with: &ldquo;You&rsquo;ll feel good after giving us your money."</p>
+<p>That's catchy. You'd probably get people's attention. But could you say that to your customers with a straight face, and stand behind it?</p>
+<p>Maybe you think it sounds presumptuous. Or haughty. Or too on-the-nose. Maybe you wouldn't run that sort of ad because it makes you look self-seeking or money-loving. Maybe you think it misses the point of what you're trying to do with your business.</p>]]></description>
+   <author><![CDATA[Philip Kulishov]]></author>
+   <enclosure url="https://app.dropwave.io/episode/4777d081-82fa-4a18-83e7-a60a88469b02/ep-195-make-them-feel-good.mp3" length="227" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[4777d081-82fa-4a18-83e7-a60a88469b02]]></guid>
+   <pubDate>Mon, 16 Jun 2025 07:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/gGFohwm7EtDZIu86rRa5AcP9rt52YWSF0tEgAxs0.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>227</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Should We Want More (Or Less) Chinese Students in America? │Family Vacay in China? [China Compass]]]></title>
    <link/>
@@ -276,22 +293,6 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
-   <title><![CDATA[Ep. 194 - The Job of Business Finance - Part 3 [Business 300]]]></title>
-   <link/>
-   <description><![CDATA[<p>In the last episode, I mentioned the first 2: Data and Analysis.</p>
-<p>This brings us to the 3rd value-add: Insight. With the data collected and turned into information through analysis, now the job of finance is to delivery insight.</p>]]></description>
-   <author><![CDATA[Philip Kulishov]]></author>
-   <enclosure url="https://app.dropwave.io/episode/354c9723-0d09-44ff-b0b7-b8e4f4ed625f/ep-194-the-job-of-business-finance-part-3.mp3" length="245" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[354c9723-0d09-44ff-b0b7-b8e4f4ed625f]]></guid>
-   <pubDate>Wed, 11 Jun 2025 07:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/OA0d74OEUGI5NzikN6dgYL1uCW0usvkppRkBAWU5.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>245</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
    <title><![CDATA[J.T. Knox and the Christian Duty of Public Office [Dead Men Walking Podcast]]]></title>
    <link/>
    <description><![CDATA[<p><a href="https://www.buzzsprout.com/twilio/text_messages/958282/open_sms" target="_blank" rel="noopener">Send us a text</a></p>
@@ -311,6 +312,22 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/336e6745-00c3-4f9f-a8f5-78b7e05a5434/cover-art/OTAltrKOL6ViPRMCgg4MQ1usmvYtKDB5ctvwsuxD.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2581</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+   <title><![CDATA[Ep. 194 - The Job of Business Finance - Part 3 [Business 300]]]></title>
+   <link/>
+   <description><![CDATA[<p>In the last episode, I mentioned the first 2: Data and Analysis.</p>
+<p>This brings us to the 3rd value-add: Insight. With the data collected and turned into information through analysis, now the job of finance is to delivery insight.</p>]]></description>
+   <author><![CDATA[Philip Kulishov]]></author>
+   <enclosure url="https://app.dropwave.io/episode/354c9723-0d09-44ff-b0b7-b8e4f4ed625f/ep-194-the-job-of-business-finance-part-3.mp3" length="245" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[354c9723-0d09-44ff-b0b7-b8e4f4ed625f]]></guid>
+   <pubDate>Wed, 11 Jun 2025 07:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/OA0d74OEUGI5NzikN6dgYL1uCW0usvkppRkBAWU5.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>245</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -746,6 +763,22 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
+   <title><![CDATA[Ep. 192 - The Job of Business Finance - Part 1 [Business 300]]]></title>
+   <link/>
+   <description><![CDATA[<p>One of the areas where business people are tempted towards irrelevant fluff is in the area of Finance. There are so many metrics that could be tracked, so many numbers that could be calculated, so many ratios and statistics that could be presented. If it wanted to, the Finance Department could be the business BS department.&nbsp;</p>
+<p>The 4 things that the Finance Department should focus on in order to provide value to customers and owners are Data, Analysis, Insight, and Action.&nbsp;</p>]]></description>
+   <author><![CDATA[Philip Kulishov]]></author>
+   <enclosure url="https://app.dropwave.io/episode/00f8c878-a162-43e1-a07c-5399fb008ab1/ep-192-the-job-of-business-finance-part-1.mp3" length="250" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[00f8c878-a162-43e1-a07c-5399fb008ab1]]></guid>
+   <pubDate>Wed, 04 Jun 2025 07:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/yRVbkBAUoevMFsSvwI3SAiISKVFgYFUUip61HcDe.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>250</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
    <title><![CDATA[Kiefer Likens: Author, Graphic Artist & Church in a Field? [Dead Men Walking Podcast]]]></title>
    <link/>
    <description><![CDATA[<p><a href="https://www.buzzsprout.com/twilio/text_messages/958282/open_sms" target="_blank" rel="noopener">Send us a text</a></p>
@@ -765,22 +798,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/336e6745-00c3-4f9f-a8f5-78b7e05a5434/cover-art/qpagylVRT5AysSu7mg1uZ4j1quRao07MKj0VWb80.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2940</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Ep. 192 - The Job of Business Finance - Part 1 [Business 300]]]></title>
-   <link/>
-   <description><![CDATA[<p>One of the areas where business people are tempted towards irrelevant fluff is in the area of Finance. There are so many metrics that could be tracked, so many numbers that could be calculated, so many ratios and statistics that could be presented. If it wanted to, the Finance Department could be the business BS department.&nbsp;</p>
-<p>The 4 things that the Finance Department should focus on in order to provide value to customers and owners are Data, Analysis, Insight, and Action.&nbsp;</p>]]></description>
-   <author><![CDATA[Philip Kulishov]]></author>
-   <enclosure url="https://app.dropwave.io/episode/00f8c878-a162-43e1-a07c-5399fb008ab1/ep-192-the-job-of-business-finance-part-1.mp3" length="250" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[00f8c878-a162-43e1-a07c-5399fb008ab1]]></guid>
-   <pubDate>Wed, 04 Jun 2025 07:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/yRVbkBAUoevMFsSvwI3SAiISKVFgYFUUip61HcDe.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>250</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -996,21 +1013,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/28652366-7376-4009-af11-df4975b58341/cover-art/vg0QsnYPbg4uDnUgkc4IYUdJSTqBlrycyvf6S2Kx.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>3465</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Filmmaker Darren Doane on Straws, Documentaries, and Conversion (Behind the Scenes) [CrossPolitic Show]]]></title>
-   <link/>
-   <description><![CDATA[]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/cf791674-9257-4b14-a756-2ca3df2301bb/filmmaker-darren-doane-on-straws-documentaries-and-conversion-behind-the-scenes.mp3" length="4057" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[cf791674-9257-4b14-a756-2ca3df2301bb]]></guid>
-   <pubDate>Sat, 31 May 2025 01:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/11635dce-94e7-41b8-9261-5c1fc2cc5ebe/cover-art/wvkjcfd3tfj69XopdryYkSF8m1k4KHuikzJF1KzC.jpg"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>4057</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
