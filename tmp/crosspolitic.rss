@@ -10,8 +10,8 @@
   <language>en</language>
   <managingEditor><![CDATA[fightlaughfeast@gmail.com (FLF, LLC)]]></managingEditor>
   <webMaster><![CDATA[support@dropwave.io (DropWave Support)]]></webMaster>
-  <pubDate>Mon, 30 Jun 2025 13:25:46 +0000</pubDate>
-  <lastBuildDate>Mon, 30 Jun 2025 13:25:46 +0000</lastBuildDate>
+  <pubDate>Mon, 30 Jun 2025 19:25:47 +0000</pubDate>
+  <lastBuildDate>Mon, 30 Jun 2025 19:25:47 +0000</lastBuildDate>
   <image>
    <url>https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/58/56/52/5856525c-2973-cf29-3db9-21faa8595391/mza_1144696925612154085.png/1200x1200bb.jpg</url>
    <link>https://dropwave.io</link>
@@ -25,6 +25,21 @@
    <itunes:email>fightlaughfeast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="News"/>
+  <item>
+   <title><![CDATA[That's What I'm Talkin' About [In the Bullpen]]]></title>
+   <link/>
+   <description><![CDATA[]]></description>
+   <author><![CDATA[Mark Dewey]]></author>
+   <enclosure url="https://app.dropwave.io/episode/c601b766-c4c3-4710-be4f-e919a42ac40c/thats-what-im-talkin-about.mp3" length="1138" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[c601b766-c4c3-4710-be4f-e919a42ac40c]]></guid>
+   <pubDate>Mon, 30 Jun 2025 16:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Mark Dewey]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/48817573-c1d0-44c6-8204-930f4c2d3ce5/cover-art/9b92BsnWm2ufHgEHY2ttEsJ9SYr5RF0LGVrFbfmN.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>1138</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title><![CDATA[Aaron Renn and Evangelical Elites (or why there aren’t any) [The Pugcast]]]></title>
    <link/>
@@ -295,6 +310,21 @@
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
+   <title><![CDATA[Ep. 198 - Holding An Inflated Ball Underwater [Business 300]]]></title>
+   <link/>
+   <description><![CDATA[<p>Stewardship is an understanding that everything we have, we have been entrusted with in order to be productive. And what is productivity? It's definitely not squandering, nor is it preserving, or hoarding. Productivity is an output of effort that brings value to others. This is the work of a business owner. Taking everything you own and have, and making a profit on it by turning it into value for others. And we can do this when we have worked out the issue of authority.</p>]]></description>
+   <author><![CDATA[Philip Kulishov]]></author>
+   <enclosure url="https://app.dropwave.io/episode/4ba8b826-1e5a-4d0b-a404-0cc8a532b916/ep-198-holding-an-inflated-ball-underwater.mp3" length="284" type="audio/mp3"/>
+   <guid isPermaLink="false"><![CDATA[4ba8b826-1e5a-4d0b-a404-0cc8a532b916]]></guid>
+   <pubDate>Wed, 25 Jun 2025 07:00:00 +0000</pubDate>
+   <source url=""><![CDATA[FLF, LLC]]></source>
+   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
+   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/e6w63ppRPLZ51UMmYdsmMMdRnPSkgv6aX4HDkPjC.png"/>
+   <itunes:explicit>No</itunes:explicit>
+   <itunes:duration>284</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
    <title><![CDATA[Greg Moore: Practical biblical applications when your children start dating [Dead Men Walking Podcast]]]></title>
    <link/>
    <description><![CDATA[<p><a href="https://www.buzzsprout.com/twilio/text_messages/958282/open_sms" target="_blank" rel="noopener">Send us a text</a></p>
@@ -314,21 +344,6 @@
    <itunes:image href="https://assets-cdn2.dropwave.io/336e6745-00c3-4f9f-a8f5-78b7e05a5434/cover-art/JV78VwHkFD2mcr2jvaH7nI0m13FwywE9HMI3w6OD.png"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>2282</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Ep. 198 - Holding An Inflated Ball Underwater [Business 300]]]></title>
-   <link/>
-   <description><![CDATA[<p>Stewardship is an understanding that everything we have, we have been entrusted with in order to be productive. And what is productivity? It's definitely not squandering, nor is it preserving, or hoarding. Productivity is an output of effort that brings value to others. This is the work of a business owner. Taking everything you own and have, and making a profit on it by turning it into value for others. And we can do this when we have worked out the issue of authority.</p>]]></description>
-   <author><![CDATA[Philip Kulishov]]></author>
-   <enclosure url="https://app.dropwave.io/episode/4ba8b826-1e5a-4d0b-a404-0cc8a532b916/ep-198-holding-an-inflated-ball-underwater.mp3" length="284" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[4ba8b826-1e5a-4d0b-a404-0cc8a532b916]]></guid>
-   <pubDate>Wed, 25 Jun 2025 07:00:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[Philip Kulishov]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/bcc06aea-98a2-4b3c-b479-45a6735934ff/cover-art/e6w63ppRPLZ51UMmYdsmMMdRnPSkgv6aX4HDkPjC.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>284</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
@@ -988,23 +1003,6 @@ Toby, Gabe, Darren Doane, Doug Wilson, and Michael Dougherty break down why the 
    <itunes:image href="https://assets-cdn2.dropwave.io/467f99a9-2921-459a-b63d-9710f4355795/cover-art/y26og8sWsKrk1Vo9fXdkoPq657KpHxn5IIdruXmr.jpg"/>
    <itunes:explicit>No</itunes:explicit>
    <itunes:duration>780</itunes:duration>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title><![CDATA[Riff 46 - Perseverance, Out Of Order Plant Update and Weird Stuff To Eat In Your State [The Comedian Next Door]]]></title>
-   <link/>
-   <description><![CDATA[<p>In this engaging conversation, we explore themes of performance anxiety, the challenges of gardening, and the unexpected lessons we've learned from both. We share humorous anecdotes about our experiences with plants and dive into the unique foods we've encountered across different states, all while emphasizing the importance of perseverance and creativity.</p>
-<p>We also delve into the quirky and often bizarre world of regional dishes across the United States. We explore unique food names, the origins of strange culinary combinations, and engage in humorous debates about what qualifies as 'weird' food. From discussing the infamous cotton candy burrito to the peculiarities of southern cuisine, our dialogue is packed with laughter and insightful commentary on food culture.</p>
-<p>Later, we explore various culinary delights and local eateries in Indiana, including the oddities of gravy bread, the infamous Cone Palace, and the upscale Italian spot Posterific. We share funny stories from our childhood, reflecting on nostalgic experiences and the quirks of growing up. The discussion is full of laughter, reflections on local culture and food, and the memories that continue to shape our perspectives.</p>]]></description>
-   <author><![CDATA[FLF, LLC]]></author>
-   <enclosure url="https://app.dropwave.io/episode/8448d2a6-48ca-4e12-94cc-ac6c8cd22bea/riff-46-perseverance-out-of-order-plant-update-and-weird-stuff-to-eat-in-your-state.mp3" length="3231" type="audio/mp3"/>
-   <guid isPermaLink="false"><![CDATA[8448d2a6-48ca-4e12-94cc-ac6c8cd22bea]]></guid>
-   <pubDate>Thu, 12 Jun 2025 20:30:00 +0000</pubDate>
-   <source url=""><![CDATA[FLF, LLC]]></source>
-   <itunes:author><![CDATA[FLF, LLC]]></itunes:author>
-   <itunes:image href="https://assets-cdn2.dropwave.io/66903a54-b4b6-4a52-a303-eb0bd0b792e3/cover-art/obxsSs7zSTuWr3ZFLRWxryhYbCyvdrWYzXEN2soF.png"/>
-   <itunes:explicit>No</itunes:explicit>
-   <itunes:duration>3231</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
  </channel>
